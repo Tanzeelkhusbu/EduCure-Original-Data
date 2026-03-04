@@ -1,0 +1,307 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: How did the Mutiny of 1857 begin? Describe the pattern of the revolt.",
+      "hi": "प्रश्न 1: 1857 का विद्रोह कैसे शुरू हुआ? विद्रोह के पैटर्न का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Starting Point: The mutiny began on 10 May 1857, in the cantonment of Meerut.",
+        "2. Initial Action: Sepoys broke into the jail, released fellow sepoys, and seized the magazine (weapons store).",
+        "3. March to Delhi: The sepoys marched to Delhi and reached the Red Fort on 11 May, declaring Bahadur Shah Zafar as their leader.",
+        "4. Signal of Revolt: The revolt often began with a signal, like the firing of an evening gun or a bugle sound.",
+        "5. Targets: The primary targets were everything associated with the British—government buildings, bungalows, and records.",
+        "6. Coordination: There was evidence of planning, as sepoys from different stations communicated through messengers."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. शुरुआत: विद्रोह 10 मई 1857 को मेरठ की छावनी से शुरू हुआ।",
+        "2. शुरुआती कार्यवाही: सिपाहियों ने जेल तोड़ दी, अपने साथियों को छुड़ाया और शस्त्रागार (मैगजीन) पर कब्ज़ा कर लिया।",
+        "3. दिल्ली कूच: सिपाही दिल्ली की ओर बढ़े और 11 मई को लाल किले पहुँचे, जहाँ उन्होंने बहादुर शाह जफ़र को अपना नेता घोषित किया।",
+        "4. विद्रोह का संकेत: विद्रोह अक्सर एक संकेत के साथ शुरू होता था, जैसे शाम की तोप का चलना या बिगुल की आवाज़।",
+        "5. लक्ष्य: मुख्य लक्ष्य अंग्रेजों से जुड़ी हर चीज़ थी—सरकारी इमारतें, बंगले और रिकॉर्ड।",
+        "6. तालमेल: योजना के प्रमाण मिले हैं, क्योंकि विभिन्न स्टेशनों के सिपाही संदेशवाहकों के माध्यम से एक-दूसरे से संपर्क करते थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Visual Tip: In Educare, use a 'Timeline Chart' showing the events from May 10 (Meerut) to May 11 (Delhi).",
+      "hi": "विजुअल टिप: Educare में, 10 मई (मेरठ) से 11 मई (दिल्ली) तक की घटनाओं को दिखाने वाला एक 'Timeline Chart' इस्तेमाल करें।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: What were the main causes of the Revolt of 1857?",
+      "hi": "प्रश्न 2: 1857 के विद्रोह के मुख्य कारण क्या थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Immediate Cause: The introduction of the 'Enfield Rifle' with greased cartridges (rumoured to have cow and pig fat).",
+        "2. Political Cause: The 'Doctrine of Lapse' and the annexation of Awadh hurt the sentiments of local rulers.",
+        "3. Economic Cause: High land revenue demands and the destruction of traditional handicrafts by British goods.",
+        "4. Religious Cause: Fears of forced conversion to Christianity by missionaries and interference in social customs.",
+        "5. Racial Discrimination: British officers treated Indian sepoys with contempt and did not give them promotions.",
+        "6. Annexation of Awadh (1856): Awadh was the 'nursery of the Bengal Army', and its annexation deeply affected the sepoys."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. तात्कालिक कारण: 'एनफील्ड राइफल' की शुरुआत और उसके कारतूसों में गाय और सुअर की चर्बी होने की अफवाह।",
+        "2. राजनीतिक कारण: 'हड़प नीति' (Doctrine of Lapse) और अवध के विलय ने स्थानीय शासकों की भावनाओं को ठेस पहुँचाई।",
+        "3. आर्थिक कारण: भारी भू-राजस्व की मांग और ब्रिटिश सामानों द्वारा पारंपरिक हस्तशिल्प का विनाश।",
+        "4. धार्मिक कारण: मिशनरियों द्वारा जबरन ईसाई बनाने का डर और सामाजिक रीति-रिवाजों में हस्तक्षेप।",
+        "5. नस्लीय भेदभाव: ब्रिटिश अधिकारी भारतीय सिपाहियों के साथ अपमानजनक व्यवहार करते थे और उन्हें पदोन्नति नहीं देते थे।",
+        "6. अवध का विलय (1856): अवध 'बंगाल सेना की पौधशाला' था, और इसके विलय ने सिपाहियों को गहराई से प्रभावित किया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Key: 'Awadh's Annexation' is a very important point for 8-mark questions. Tag it as 'Must Read'.",
+      "hi": "एग्ज़ाम की: 8-नंबर के सवालों के लिए 'अवध का विलय' एक बहुत महत्वपूर्ण पॉइंट है। इसे 'Must Read' के रूप में टैग करें।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Discuss the role of Rumours and Prophecies in the spread of the revolt.",
+      "hi": "प्रश्न 3: विद्रोह के प्रसार में अफवाहों और भविष्यवाणियों की भूमिका की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Greased Cartridges: The most powerful rumour was about cartridges greased with cow and pig fat.",
+        "2. Bone Dust in Flour: A rumour spread that the British had mixed the bone dust of cows and pigs into the flour (atta) sold in markets.",
+        "3. Forced Conversion: People believed that the British intended to destroy their caste and religion to make them Christians.",
+        "4. The 100-year Prophecy: There was a prophecy that British rule would end on the centenary of the Battle of Plassey (23 June 1857).",
+        "5. Chapattis: The mysterious distribution of 'chapattis' from village to village acted as a secret signal for upcoming upheaval.",
+        "6. Psychological Impact: These rumours created a climate of fear and suspicion, making people ready for a fight."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. चर्बी वाले कारतूस: सबसे ताकतवर अफवाह गाय और सुअर की चर्बी वाले कारतूसों को लेकर थी।",
+        "2. आटे में हड्डियों का चूरा: यह अफवाह फैली कि अंग्रेजों ने बाज़ारों में बिकने वाले आटे में गाय और सुअर की हड्डियों का चूरा मिला दिया है।",
+        "3. जबरन धर्म परिवर्तन: लोगों का मानना था कि अंग्रेज उनकी जाति और धर्म को नष्ट कर उन्हें ईसाई बनाना चाहते हैं।",
+        "4. 100 साल की भविष्यवाणी: एक भविष्यवाणी थी कि प्लासी के युद्ध की शताब्दी (23 जून 1857) पर ब्रिटिश शासन समाप्त हो जाएगा।",
+        "5. चपातियाँ: एक गाँव से दूसरे गाँव 'चपातियों' का रहस्यमयी वितरण आने वाली उथल-पुथल के गुप्त संकेत के रूप में कार्य करता था।",
+        "6. मनोवैज्ञानिक प्रभाव: इन अफवाहों ने डर और संदेह का माहौल बनाया, जिससे लोग लड़ाई के लिए तैयार हो गए।"
+      ]
+    },
+    "app_tip": {
+      "en": "Vocabulary Tip: Add 'Prophecy' (भविष्यवाणी) to your app's glossary as it's a specific term used in the NCERT book.",
+      "hi": "शब्दावली टिप: अपने ऐप की शब्दावली में 'Prophecy' (भविष्यवाणी) जोड़ें क्योंकि यह NCERT किताब में इस्तेमाल किया गया एक विशिष्ट शब्द है।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: Who were the main leaders of the revolt and where did they lead from?",
+      "hi": "प्रश्न 4: विद्रोह के मुख्य नेता कौन थे और उन्होंने कहाँ से नेतृत्व किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Delhi: Bahadur Shah Zafar (The Mughal Emperor) was the symbolic leader.",
+        "2. Kanpur: Nana Sahib, the adopted son of Peshwa Baji Rao II.",
+        "3. Jhansi: Rani Lakshmibai, who fought against the annexation of her state.",
+        "4. Arrah (Bihar): Kunwar Singh, a local zamindar.",
+        "5. Lucknow: Begum Hazrat Mahal and Birjis Qadr.",
+        "6. Local Leaders: Commoners also led, like Shah Mal in Barout (UP) and Gonoo (a tribal leader) in Singhbhum."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. दिल्ली: बहादुर शाह जफ़र (मुगल सम्राट) प्रतीकात्मक नेता थे।",
+        "2. कानपुर: नाना साहिब, पेशवा बाजी राव II के दत्तक पुत्र।",
+        "3. झाँसी: रानी लक्ष्मीबाई, जिन्होंने अपने राज्य के विलय के खिलाफ लड़ाई लड़ी।",
+        "4. आरा (बिहार): कुँवर सिंह, एक स्थानीय ज़मींदार।",
+        "5. लखनऊ: बेगम हज़रत महल और बिरजिस कद्र।",
+        "6. स्थानीय नेता: आम लोगों ने भी नेतृत्व किया, जैसे बड़ौत (यूपी) में शाह मल और सिंहभूम में गोनू (एक आदिवासी नेता)।"
+      ]
+    },
+    "app_tip": {
+      "en": "Map Tip: In lylako, create a 'Clickable Map' where tapping a city shows the leader's name and image.",
+      "hi": "मैप टिप: lylako में, एक 'Clickable Map' बनाएँ जहाँ किसी शहर पर टैप करने से नेता का नाम और फोटो दिखाई दे।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Describe the annexation of Awadh and its impact on the revolt.",
+      "hi": "प्रश्न 5: अवध के विलय का वर्णन करें और विद्रोह पर इसके प्रभाव की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Annexation (1856): Lord Dalhousie annexed Awadh on grounds of 'misgovernment'.",
+        "2. Displacement: Nawab Wajid Ali Shah was exiled to Calcutta, leaving his subjects in grief.",
+        "3. Taluqdars' Loss: The 'Summary Settlement of 1856' removed many Taluqdars from their lands and forts.",
+        "4. Impact on Sepoys: Awadh provided the largest number of sepoys to the Bengal Army; their families were affected by high revenue.",
+        "5. Emotional Bond: The removal of the Nawab was seen as the 'life departing from the body' of Awadh.",
+        "6. Center of Revolt: This deep sense of injustice made Awadh the most intense center of the 1857 revolt."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. विलय (1856): लॉर्ड डलहौजी ने 'कुशासन' के आधार पर अवध का विलय कर लिया।",
+        "2. विस्थापन: नवाब वाजिद अली शाह को कलकत्ता निर्वासित कर दिया गया, जिससे उनकी प्रजा शोक में डूब गई।",
+        "3. तालुकदारों का नुकसान: '1856 के एकमुश्त बंदोबस्त' ने कई तालुकदारों को उनकी ज़मीनों और किलों से बेदखल कर दिया।",
+        "4. सिपाहियों पर प्रभाव: बंगाल सेना में सबसे अधिक सिपाही अवध के थे; उनके परिवार भारी लगान से प्रभावित थे।",
+        "5. भावनात्मक जुड़ाव: नवाब को हटाना अवध के 'शरीर से जान निकल जाने' जैसा माना गया।",
+        "6. विद्रोह का केंद्र: अन्याय की इस गहरी भावना ने अवध को 1857 के विद्रोह का सबसे तीव्र केंद्र बना दिया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Phrase: Remember the phrase 'Life was gone out of the body'. Using this in your answer will impress the examiner.",
+      "hi": "मुख्य वाक्यांश: 'शरीर से जान निकल चुकी थी' वाक्यांश को याद रखें। अपने उत्तर में इसका उपयोग करने से एग्जामिनर प्रभावित होगा।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: What did the rebels want? Describe the vision of unity in the revolt.",
+      "hi": "प्रश्न 6: विद्रोही क्या चाहते थे? विद्रोह में एकता के दृष्टिकोण का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Expelling the British: The primary goal was to drive out the 'Firangi' and restore the old order.",
+        "2. Proclamations: Many proclamations (Ishtahars) called upon all sections of society to join the fight.",
+        "3. Hindu-Muslim Unity: The revolt was characterized by a remarkable bond between Hindus and Muslims.",
+        "4. Appeals: Appeals were made in the name of both 'Deen' (Religion) and 'Dharma', showing mutual respect.",
+        "5. Collective Identity: The rebels ignored their differences to fight against a common enemy—the British.",
+        "6. Rejection of British Rule: They wanted to end the high taxes, racial insults, and interference in their culture."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. अंग्रेजों को बाहर निकालना: मुख्य लक्ष्य 'फिरंगियों' को भगाना और पुरानी व्यवस्था को बहाल करना था।",
+        "2. घोषणाएँ: कई घोषणाओं (इश्तहारों) में समाज के सभी वर्गों से लड़ाई में शामिल होने का आह्वान किया गया।",
+        "3. हिंदू-मुस्लिम एकता: इस विद्रोह की विशेषता हिंदू और मुसलमानों के बीच का अद्भुत तालमेल था।",
+        "4. अपीलें: आपसी सम्मान दिखाते हुए 'दीन' और 'धर्म' दोनों के नाम पर अपीलें की गईं।",
+        "5. सामूहिक पहचान: विद्रोहियों ने अपने मतभेदों को भुलाकर एक साझा दुश्मन—अंग्रेजों के खिलाफ लड़ाई लड़ी।",
+        "6. ब्रिटिश शासन का बहिष्कार: वे भारी करों, नस्लीय अपमान और अपनी संस्कृति में हस्तक्षेप को खत्म करना चाहते थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Historical Value: Highlight that the British tried to split Hindus and Muslims during the revolt but failed miserably.",
+      "hi": "ऐतिहासिक मूल्य: हाईलाइट करें कि अंग्रेजों ने विद्रोह के दौरान हिंदू और मुसलमानों को बांटने की कोशिश की लेकिन वे बुरी तरह विफल रहे।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: How did the British suppress the Revolt of 1857?",
+      "hi": "प्रश्न 7: अंग्रेजों ने 1857 के विद्रोह का दमन कैसे किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Reinforcements: Large numbers of troops were brought from Britain to India.",
+        "2. Martial Law: Martial law was declared in North India, giving officers the power to punish anyone without trial.",
+        "3. Two-pronged Attack on Delhi: One force moved from Calcutta and another from the Punjab to retake Delhi.",
+        "4. Brutal Punishments: Rebels were blown from cannons or hanged publicly to create terror.",
+        "5. Diplomatic Tactics: The British tried to win over loyal zamindars by promising to return their lands.",
+        "6. Superior Resources: Better communication (telegraph) and modern weapons helped the British regain control."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सैन्य कुमुद: ब्रिटेन से बड़ी संख्या में सैनिक भारत लाए गए।",
+        "2. मार्शल लॉ: उत्तर भारत में मार्शल लॉ घोषित कर दिया गया, जिससे अधिकारियों को बिना मुकदमे के किसी को भी सज़ा देने की शक्ति मिल गई।",
+        "3. दिल्ली पर दोहरा हमला: दिल्ली को वापस लेने के लिए एक सेना कलकत्ता से और दूसरी पंजाब से बढ़ी।",
+        "4. क्रूर दंड: आतंक पैदा करने के लिए विद्रोहियों को तोपों से उड़ा दिया गया या सरेआम फांसी दे दी गई।",
+        "5. कूटनीतिक चालें: अंग्रेजों ने वफादार ज़मींदारों को उनकी ज़मीनें वापस करने का वादा करके अपने पक्ष में करने की कोशिश की।",
+        "6. बेहतर संसाधन: बेहतर संचार (टेलीग्राफ) और आधुनिक हथियारों ने अंग्रेजों को नियंत्रण वापस पाने में मदद की।"
+      ]
+    },
+    "app_tip": {
+      "en": "Critical Note: Mention that Delhi was retaken in September 1857, which was a major blow to the rebels.",
+      "hi": "मुख्य नोट: उल्लेख करें कि सितंबर 1857 में दिल्ली पर फिर से कब्ज़ा कर लिया गया था, जो विद्रोहियों के लिए एक बड़ा झटका था।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Discuss the visual representation of the revolt through British and Indian images.",
+      "hi": "प्रश्न 8: ब्रिटिश और भारतीय चित्रों के माध्यम से विद्रोह के दृश्यात्मक चित्रण की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. British Perspective: Paintings like 'Relief of Lucknow' portrayed British officers as heroes and saviors.",
+        "2. Portrayal of Innocence: Images showed British women and children as helpless victims to stir up anger in Britain.",
+        "3. Vengeance: Cartoons in British magazines called for brutal revenge against the 'barbaric' rebels.",
+        "4. Indian Perspective: Nationalist imagery later portrayed rebels like Rani Jhansi as heroic figures fighting for freedom.",
+        "5. Folk Memories: Folk songs and poems (like Subhadra Kumari Chauhan's 'Khoob Ladi Mardani') kept the rebel spirit alive.",
+        "6. Power of Images: Images played a crucial role in shaping how the revolt was remembered in both countries."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. ब्रिटिश दृष्टिकोण: 'Relief of Lucknow' जैसे चित्रों में ब्रिटिश अधिकारियों को नायकों और रक्षकों के रूप में दिखाया गया।",
+        "2. निर्दोषता का चित्रण: ब्रिटेन में गुस्सा भड़काने के लिए ब्रिटिश महिलाओं और बच्चों को असहाय पीड़ितों के रूप में दिखाया गया।",
+        "3. प्रतिशोध: ब्रिटिश पत्रिकाओं के कार्टूनों में 'बर्बर' विद्रोहियों के खिलाफ क्रूर प्रतिशोध की मांग की गई।",
+        "4. भारतीय दृष्टिकोण: बाद के राष्ट्रवादी चित्रों में रानी झाँसी जैसे विद्रोहियों को स्वतंत्रता के लिए लड़ने वाले नायकों के रूप में दिखाया गया।",
+        "5. लोक स्मृतियाँ: लोक गीतों और कविताओं (जैसे सुभद्रा कुमारी चौहान की 'खूब लड़ी मर्दानी') ने विद्रोही भावना को जीवित रखा।",
+        "6. चित्रों की शक्ति: चित्रों ने दोनों देशों में विद्रोह को याद रखने के तरीके को आकार देने में महत्वपूर्ण भूमिका निभाई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Art Tip: Include the painting 'In Memoriam' by Joseph Noel Paton in your app to show the British victim narrative.",
+      "hi": "आर्ट टिप: ब्रिटिश पीड़ित नैरेटिव दिखाने के लिए अपने ऐप में जोसेफ नोएल पेटन की पेंटिंग 'In Memoriam' शामिल करें।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: What were the main limitations of the Revolt of 1857?",
+      "hi": "प्रश्न 9: 1857 के विद्रोह की मुख्य सीमाएँ क्या थीं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Lack of Unity: Many regions like South India, Punjab, and Bengal did not participate in the revolt.",
+        "2. Divided Classes: Modern educated Indians and many big Zamindars remained loyal to the British.",
+        "3. Weak Leadership: Most rebel leaders fought for local interests rather than a unified national goal.",
+        "4. Inferior Weapons: Rebels fought with swords and spears against the modern rifles of the British.",
+        "5. Poor Organization: There was no centralized planning or command for the entire movement.",
+        "6. Communication Gap: The British controlled the telegraph, which helped them coordinate much faster than the rebels."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. एकता का अभाव: दक्षिण भारत, पंजाब और बंगाल जैसे कई क्षेत्रों ने विद्रोह में भाग नहीं लिया।",
+        "2. विभाजित वर्ग: आधुनिक शिक्षित भारतीयों और कई बड़े ज़मींदारों ने अंग्रेजों के प्रति वफादारी बनाए रखी।",
+        "3. कमज़ोर नेतृत्व: अधिकांश विद्रोही नेता एक एकीकृत राष्ट्रीय लक्ष्य के बजाय स्थानीय हितों के लिए लड़े।",
+        "4. घटिया हथियार: विद्रोही अंग्रेजों की आधुनिक राइफलों के खिलाफ तलवारों और भालों से लड़े।",
+        "5. खराब संगठन: पूरे आंदोलन के लिए कोई केंद्रीकृत योजना या कमान नहीं थी।",
+        "6. संचार की कमी: अंग्रेजों का टेलीग्राफ पर नियंत्रण था, जिससे उन्हें विद्रोहियों की तुलना में बहुत तेज़ी से तालमेल बिठाने में मदद मिली।"
+      ]
+    },
+    "app_tip": {
+      "en": "Critical Point: Use this as a 'Why the Revolt Failed' summary card in your app.",
+      "hi": "मुख्य बिंदु: इसे अपने ऐप में 'विद्रोह क्यों विफल हुआ' के सारांश कार्ड के रूप में इस्तेमाल करें।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: How did the Revolt of 1857 change British policy in India?",
+      "hi": "प्रश्न 10: 1857 के विद्रोह ने भारत में ब्रिटिश नीति को कैसे बदल दिया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. End of Company Rule: The East India Company was abolished, and India came under the direct rule of the British Crown (Government of India Act 1858).",
+        "2. Secretary of State: A new post of Secretary of State for India was created to oversee the administration.",
+        "3. End of Expansion: The policy of annexation (Doctrine of Lapse) was abandoned to appease local rulers.",
+        "4. Military Reform: The proportion of European soldiers was increased, and sepoys from 'martial' races like Sikhs and Gorkhas were preferred.",
+        "5. Religious Policy: The British promised not to interfere in the religious and social customs of Indians.",
+        "6. Zamindar Support: They decided to support the Zamindars and landlords as pillars of British rule in India."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. कंपनी शासन का अंत: ईस्ट इंडिया कंपनी को खत्म कर दिया गया और भारत सीधे ब्रिटिश क्राउन के शासन में आ गया (1858 का अधिनियम)।",
+        "2. भारत सचिव: प्रशासन की देखरेख के लिए 'भारत सचिव' (Secretary of State) का एक नया पद बनाया गया।",
+        "3. विस्तार का अंत: स्थानीय शासकों को खुश करने के लिए हड़प नीति (Doctrine of Lapse) को छोड़ दिया गया।",
+        "4. सैन्य सुधार: यूरोपीय सैनिकों का अनुपात बढ़ाया गया और सिखों व गोरखाओं जैसी 'मार्शल' जातियों के सिपाहियों को प्राथमिकता दी गई।",
+        "5. धार्मिक नीति: अंग्रेजों ने भारतीयों के धार्मिक और सामाजिक रीति-रिवाजों में हस्तक्षेप न करने का वादा किया।",
+        "6. ज़मींदारों का समर्थन: उन्होंने ज़मींदारों और जागीरदारों को भारत में ब्रिटिश शासन के स्तंभों के रूप में समर्थन देने का फैसला किया।"
+      ]
+    },
+    

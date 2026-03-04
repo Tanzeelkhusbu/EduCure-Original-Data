@@ -1,0 +1,268 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Detailed Comparison: Why did Sanchi Stupa survive while Amaravati did not?",
+      "hi": "प्रश्न 1: विस्तृत तुलना: सांची का स्तूप क्यों बच गया जबकि अमरावती का स्तूप नष्ट हो गया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Discovery Timing: Sanchi was found in 1818 when scholars valued on-site preservation; Amaravati was found in 1796 during a period of rampant looting.",
+        "2. Local Support: The Begums of Bhopal provided funds and protection for Sanchi, whereas the local Raja of Amaravati used its stones to build a palace.",
+        "3. In-situ Preservation: Sanchi's artifacts were kept at the original site; Amaravati's sculptures were taken away to museums in London and Calcutta.",
+        "4. Scientific Oversight: John Marshall worked to preserve Sanchi as a whole, while Amaravati was treated as a stone mine by officials.",
+        "5. Financial Aid: The Begums funded a museum and guesthouse at Sanchi, ensuring its long-term survival."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. खोज का समय: सांची की खोज 1818 में हुई जब संरक्षण की समझ बढ़ चुकी थी; अमरावती 1796 में मिला जब पुरावशेषों की लूट आम थी।",
+        "2. स्थानीय संरक्षण: भोपाल की बेगमों ने सांची को धन और सुरक्षा दी, जबकि अमरावती के राजा ने इसके पत्थरों का इस्तेमाल अपने महल के लिए किया।",
+        "3. मूल स्थान पर संरक्षण: सांची के अवशेषों को वहीं रहने दिया गया, जबकि अमरावती की मूर्तियाँ लंदन और कलकत्ता के संग्रहालयों में भेज दी गईं।",
+        "4. वैज्ञानिक देखरेख: जॉन मार्शल ने सांची को सुरक्षित रखने पर जोर दिया, जबकि अमरावती को अधिकारियों ने केवल पत्थरों की खान समझा।",
+        "5. आर्थिक सहायता: बेगमों ने सांची में संग्रहालय और गेस्ट हाउस बनवाए, जिससे इसका अस्तित्व बचा रहा।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: Discuss the role of the Begums of Bhopal in the preservation of Sanchi Stupa.",
+      "hi": "प्रश्न 2: सांची स्तूप के संरक्षण में भोपाल की बेगमों की भूमिका की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Funding: Shahjehan Begum and Sultan Jehan Begum provided massive grants for the stupa's maintenance.",
+        "2. Infrastructure: They funded a museum and a guest house where John Marshall stayed to conduct his research.",
+        "3. Resisting Export: They refused to let original gateways be taken to France or England.",
+        "4. Plaster Casts: They provided clever plaster copies to Europeans instead of letting them take the original stones.",
+        "5. Publications: Sultan Jehan Begum funded the publication of the major research volumes on Sanchi."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. आर्थिक मदद: शाहजहाँ बेगम और सुल्तान जहाँ बेगम ने स्तूप के रखरखाव के लिए बड़ी धनराशि दान की।",
+        "2. बुनियादी ढांचा: उन्होंने साइट पर एक संग्रहालय और अतिथि गृह बनवाया जहाँ रहकर जॉन मार्शल ने शोध किया।",
+        "3. निर्यात का विरोध: उन्होंने असली तोरण द्वारों को फ्रांस या इंग्लैंड ले जाने की अनुमति नहीं दी।",
+        "4. प्लास्टर की नकलें: यूरोपियों को मूल पत्थरों के बजाय प्लास्टर से बनी हूबहू नकलें दीं ताकि असली स्मारक बचा रहे।",
+        "5. पुस्तकों का प्रकाशन: सुल्तान जहाँ बेगम ने सांची पर लिखे गए शोध ग्रंथों के प्रकाशन के लिए भी पैसा दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Describe the architectural elements and symbolism of a Buddhist Stupa.",
+      "hi": "प्रश्न 3: बौद्ध स्तूप के स्थापत्य तत्वों और उनके प्रतीकात्मक महत्व का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Anda: The semi-circular dome representing the universe.",
+        "2. Harmika: A balcony-like structure on top of the dome, regarded as the home of the gods.",
+        "3. Yashti: A central mast rising from the harmika symbolizing the axis of the world.",
+        "4. Chhatri: An umbrella on top representing spiritual authority and protection.",
+        "5. Vedika: The railing that marks the boundary of the sacred space.",
+        "6. Toranas: Magnificently carved gateways at the four directions showing Buddha's life stories."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. अंड: अर्धवृत्ताकार गुंबद जो ब्रह्मांड का प्रतीक माना जाता है।",
+        "2. हर्मिका: गुंबद के ऊपर बालकनी जैसी संरचना, जिसे देवताओं का निवास स्थान कहा जाता है।",
+        "3. यष्टि: हर्मिका के बीच से निकलने वाला मस्तूल जो दुनिया की धुरी का प्रतीक है।",
+        "4. छतरी: यष्टि के ऊपर लगी छतरी जो आध्यात्मिक शक्ति और सुरक्षा को दर्शाती है।",
+        "5. वेदिका: वह रेलिंग जो पवित्र स्थान को बाहरी दुनिया से अलग करती है।",
+        "6. तोरण: चारों दिशाओं में बने भव्य द्वार जिन पर बुद्ध के जीवन की कहानियाँ उकेरी गई हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: What were the main teachings of Jainism (Vardhamana Mahavira)?",
+      "hi": "प्रश्न 4: जैन धर्म (वर्धमान महावीर) की मुख्य शिक्षाएँ क्या थीं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Animism: The belief that even stones, water, and rocks have life.",
+        "2. Ahimsa: Strict non-violence towards all living beings (humans, animals, insects).",
+        "3. Karma: The cycle of birth and rebirth is determined by one's actions.",
+        "4. Liberation: Freeing oneself from karma requires asceticism and renunciation of the world.",
+        "5. Five Vows: Monks must vow not to kill, steal, lie, possess property, and observe celibacy.",
+        "6. Equality: Rejection of the caste-based hierarchy of the Brahmanical system."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. जीववाद: यह विश्वास कि पत्थरों, जल और चट्टानों में भी जीवन होता है।",
+        "2. अहिंसा: सभी जीवों (इंसानों, जानवरों, कीड़ों) के प्रति कड़ी अहिंसा का पालन।",
+        "3. कर्म का सिद्धांत: जन्म और पुनर्जन्म का चक्र व्यक्ति के कर्मों से तय होता है।",
+        "4. मोक्ष: कर्म के बंधन से मुक्ति के लिए संसार का त्याग और तपस्या ज़रूरी है।",
+        "5. पाँच व्रत: झूठ न बोलना, चोरी न करना, हत्या न करना, धन न जुटाना और ब्रह्मचर्य का पालन।",
+        "6. समानता: ब्राह्मणवादी वर्ण व्यवस्था और ऊंच-नीच का विरोध।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Explain the 'Four Noble Truths' and the 'Eightfold Path' of Buddhism.",
+      "hi": "प्रश्न 5: बौद्ध धर्म के 'चार आर्य सत्य' और 'अष्टांगिक मार्ग' की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Suffering: Life is full of sorrow (Dukkha).",
+        "2. Desire: The root cause of suffering is desire (Tanha).",
+        "3. End of Suffering: Sorrow can be ended by overcoming desires.",
+        "4. The Path: The Eightfold Path (Ashtangika Marga) is the way to end suffering.",
+        "5. Middle Way: Avoid both extreme luxury and extreme self-starvation.",
+        "6. Components: Includes right vision, right speech, right action, and right meditation."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. दुःख: संसार में हर तरफ दुःख है।",
+        "2. दुःख का कारण: दुःखों का असली कारण इच्छा या तृष्णा है।",
+        "3. दुःख निरोध: इच्छाओं को त्याग कर दुःखों से मुक्ति मिल सकती है।",
+        "4. अष्टांगिक मार्ग: दुःखों को खत्म करने का रास्ता 'अष्टांगिक मार्ग' है।",
+        "5. मध्य मार्ग: न ज्यादा भोग-विलास और न ही ज्यादा कठिन तपस्या, बीच का रास्ता अपनाएँ।",
+        "6. अंग: सही सोच, सही वाणी, सही कर्म और सही ध्यान इसके मुख्य हिस्से हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Explain the difference between Mahayana and Hinayana Buddhism.",
+      "hi": "प्रश्न 6: महायान और हीनयान बौद्ध धर्म के बीच अंतर स्पष्ट करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Nature of Buddha: Hinayana sees him as a teacher; Mahayana sees him as a God.",
+        "2. Worship: Mahayana started idol worship; Hinayana used symbols like the Bodhi tree.",
+        "3. Bodhisattvas: Mahayana believes in beings who help others attain salvation.",
+        "4. Focus: Hinayana focuses on individual effort; Mahayana on collective salvation.",
+        "5. Language: Hinayana mostly used Pali; Mahayana shifted towards Sanskrit.",
+        "6. Rituals: Mahayana became more ritualistic and devotional over time."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. बुद्ध का रूप: हीनयान उन्हें एक मार्गदर्शक मानता है; महायान उन्हें भगवान मानता है।",
+        "2. पूजा पद्धति: महायान ने मूर्ति पूजा शुरू की; हीनयान प्रतीकों (जैसे खड़ाऊँ, पेड़) की बात करता था।",
+        "3. बोधिसत्व: महायान उन 'बोधिसत्वों' में विश्वास रखता है जो दूसरों को मुक्ति दिलाते हैं।",
+        "4. लक्ष्य: हीनयान व्यक्तिगत मुक्ति पर जोर देता है; महायान सबकी सामूहिक मुक्ति पर।",
+        "5. भाषा: हीनयान ने पाली भाषा का इस्तेमाल किया; महायान संस्कृत की ओर मुड़ गया।",
+        "6. कर्मकांड: महायान में समय के साथ भक्ति और अनुष्ठान बढ़ गए।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Describe the 'Sangha' and the rules for monks and nuns.",
+      "hi": "प्रश्न 7: 'संघ' और भिक्षु-भिक्षुणियों के लिए नियमों का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Purpose: The Sangha was an organization for those who renounced the world to teach Dhamma.",
+        "2. Inclusion: Initially men only, but later women (Bhikkhunis) were admitted too.",
+        "3. Poverty: Monks could own only a few items, primarily a bowl for collecting alms.",
+        "4. Equality: Social ranks were abandoned; everyone became equal within the Sangha.",
+        "5. Voting: Decisions were often reached by consensus or through formal voting.",
+        "6. Discipline: Members had to follow a strict code of conduct (Vinaya Pitaka)."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. उद्देश्य: संघ उन लोगों का संगठन था जिन्होंने धम्म सिखाने के लिए घर छोड़ दिया था।",
+        "2. समावेश: शुरुआत में सिर्फ पुरुष थे, बाद में महिलाओं (भिक्षुणियों) को भी प्रवेश मिला।",
+        "3. अपरिग्रह: भिक्षु बहुत कम सामान रख सकते थे, मुख्य रूप से भिक्षा के लिए एक कटोरा।",
+        "4. समानता: संघ में आने के बाद पुरानी जाति खत्म हो जाती थी और सब बराबर होते थे।",
+        "5. निर्णय प्रक्रिया: संघ में निर्णय आपसी सहमति या मतदान द्वारा लिए जाते थे।",
+        "6. अनुशासन: सदस्यों को 'विनय पिटक' में लिखे कड़े नियमों का पालन करना पड़ता था।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Why did Buddhism spread so rapidly within India and beyond?",
+      "hi": "प्रश्न 8: बौद्ध धर्म भारत और उसके बाहर इतनी तेज़ी से क्यों फैला?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Social Appeal: It rejected the rigid caste system, attracting lower classes.",
+        "2. Language: Use of local Pali language made it accessible to everyone.",
+        "3. Simple Message: Ethical living was easier to follow than expensive Vedic rituals.",
+        "4. Royal Patronage: Support from kings like Ashoka helped build stupas and send missions abroad.",
+        "5. Discipline: The organized Sangha provided a structured way to spread teachings.",
+        "6. Adaptability: It blended with local cultures in places like China and Sri Lanka."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सामाजिक आकर्षण: इसने जाति प्रथा को नकारा, जिससे दबे-कुचले लोग इसकी ओर आए।",
+        "2. भाषा: संस्कृत के बजाय आम भाषा (पाली) का प्रयोग किया जिससे सब जुड़ सके।",
+        "3. सरल संदेश: महंगे यज्ञों के मुकाबले सादा और नैतिक जीवन जीना आसान था।",
+        "4. राजसी समर्थन: अशोक जैसे राजाओं ने स्तूप बनवाए और विदेशों में प्रचारक भेजे।",
+        "5. संगठन: एक व्यवस्थित 'संघ' के कारण शिक्षाओं को फैलाना आसान हुआ।",
+        "6. लचीलापन: इसने अन्य देशों (जैसे चीन, श्रीलंका) की संस्कृतियों के साथ तालमेल बिठा लिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Describe the growth of Puranic Hinduism and Early Temples.",
+      "hi": "प्रश्न 9: पौराणिक हिंदू धर्म और प्रारंभिक मंदिरों के विकास का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Bhakti: The rise of personal devotion towards deities like Vishnu, Shiva, and Durga.",
+        "2. Avatars: The belief that God takes different forms (avatars) to save the world.",
+        "3. Garbhagriha: Small square rooms where the primary deity's idol was placed.",
+        "4. Shikhara: A tall, tapering structure built over the central shrine.",
+        "5. Cave Temples: Temples carved out of solid rock, such as those at Ellora.",
+        "6. Sculpture: Temples were decorated with detailed carvings of myths and gods."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. भक्ति: विष्णु, शिव और दुर्गा जैसे देवी-देवताओं के प्रति व्यक्तिगत प्रेम और निष्ठा का उदय।",
+        "2. अवतारवाद: यह विश्वास कि भगवान दुनिया बचाने के लिए अलग-अलग रूप (अवतार) लेते हैं।",
+        "3. गर्भगृह: वह छोटा वर्गाकार कमरा जहाँ मुख्य देवता की मूर्ति रखी जाती थी।",
+        "4. शिखर: मुख्य मंदिर के ठीक ऊपर बनी एक ऊँची और नुकीली संरचना।",
+        "5. गुफा मंदिर: ठोस चट्टानों को काटकर बनाए गए भव्य मंदिर (जैसे एलोरा के मंदिर)।",
+        "6. मूर्तिकला: मंदिरों को पौराणिक कथाओं और देवताओं की बारीक नक्काशी से सजाया जाता था।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: Explain the significance of the Sculptures found at Sanchi (Shalabhanjika, etc.).",
+      "hi": "प्रश्न 10: सांची में मिली मूर्तिकला (शालभंजिका आदि) के महत्व की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Narratives: They depict stories from Jatakas (previous lives of Buddha).",
+        "2. Symbols: Used symbols like the wheel (Dhamma), tree (Enlightenment), and stupa (Nirvana).",
+        "3. Shalabhanjika: A figure of a woman whose touch makes trees flower, signifying fertility.",
+        "4. Folk Integration: Presence of non-Buddhist symbols shows Buddhism's blend with local beliefs.",
+        "5. Detail: Extremely fine stone carving depicting jewelry, clothes, and animals.",
+        "6. Donors: Inscriptions mention common people (weavers, potters) who funded these carvings."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. कथाएँ: ये मूर्तियाँ बुद्ध के पिछले जन्मों की 'जातक कथाओं' को दर्शाती हैं।",
+        "2. प्रतीक: बुद्ध को दिखाने के लिए चक्र (धम्म), पेड़ (ज्ञान) और स्तूप (निर्वाण) का प्रयोग हुआ।",
+        "3. शालभंजिका: एक स्त्री की मूर्ति जिसके छूने से पेड़ खिल उठते थे (शुभ और उर्वरता का प्रतीक)।",
+        "4. सांस्कृतिक मेल: गैर-बौद्ध प्रतीकों की मौजूदगी दर्शाती है कि बौद्ध धर्म ने स्थानीय मान्यताओं को अपनाया।",
+        "5. बारीक काम: पत्थरों पर गहनों, कपड़ों और जानवरों की बहुत सुंदर और बारीक नक्काशी।",
+        "6. दानदाता: नक्काशी पर उन आम लोगों (बुनकर, कुम्हार) के नाम हैं जिन्होंने इन्हें बनवाया।"
+      ]
+    }
+  }
+]

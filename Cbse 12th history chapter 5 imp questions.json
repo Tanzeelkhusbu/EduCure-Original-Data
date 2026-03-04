@@ -1,0 +1,307 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Who was Al-Biruni? Describe his famous book 'Kitab-ul-Hind'.",
+      "hi": "प्रश्न 1: अल-बिरूनी कौन था? उसकी प्रसिद्ध पुस्तक 'किताब-उल-हिंद' का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Origin: Al-Biruni was a scholar from Khwarizm (modern Uzbekistan) who came to India in the 11th century.",
+        "2. Languages: He was a polyglot, knowing Arabic, Persian, Hebrew, and Sanskrit.",
+        "3. Language of Book: Kitab-ul-Hind was written in simple and lucid Arabic.",
+        "4. Structure: It is divided into 80 chapters on subjects like religion, philosophy, and astronomy.",
+        "5. Style: Each chapter starts with a question, followed by a description, and ends with a comparison to other cultures.",
+        "6. Objective: His work provides a detailed and systematic account of Indian social and intellectual life."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. मूल स्थान: अल-बिरूनी ख्वारिज्म (आधुनिक उज्बेकिस्तान) का विद्वान था, जो 11वीं शताब्दी में भारत आया था।",
+        "2. भाषा ज्ञान: वह कई भाषाओं का ज्ञाता था, जैसे अरबी, फारसी, हिब्रू और संस्कृत।",
+        "3. पुस्तक की भाषा: 'किताब-उल-हिंद' सरल और स्पष्ट अरबी भाषा में लिखी गई है।",
+        "4. संरचना: यह पुस्तक धर्म, दर्शन और खगोल विज्ञान जैसे विषयों पर 80 अध्यायों में विभाजित है।",
+        "5. लेखन शैली: प्रत्येक अध्याय एक प्रश्न से शुरू होता है, फिर उसका विवरण होता है और अंत में अन्य संस्कृतियों से तुलना की जाती है।",
+        "6. उद्देश्य: उसका कार्य भारतीय सामाजिक और बौद्धिक जीवन का एक विस्तृत और व्यवस्थित विवरण प्रदान करता है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Design Tip: Add a 'Timeline' feature in your app to show that Al-Biruni arrived 300 years before Ibn Battuta.",
+      "hi": "डिज़ाइन टिप: अपने ऐप में एक 'Timeline' फीचर जोड़ें ताकि यह दिखाया जा सके कि अल-बिरूनी, इब्न बतूता से 300 साल पहले आया था।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: What were the obstacles Al-Biruni faced in understanding Indian society?",
+      "hi": "प्रश्न 2: भारतीय समाज को समझने में अल-बिरूनी को किन बाधाओं का सामना करना पड़ा?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Language Barrier: Sanskrit was so different from Arabic/Persian that translating ideas was very hard.",
+        "2. Religious Differences: He found Indian religious beliefs and practices completely different from Islamic traditions.",
+        "3. Insularity: He noted that the locals were self-absorbed and didn't share knowledge easily with outsiders.",
+        "4. Brahminical Pride: He felt the Brahmanas believed their culture and land were superior to all others.",
+        "5. Reliance on Texts: To overcome this, he depended purely on Vedas, Puranas, and the Gita.",
+        "6. Social Distance: The complex caste hierarchy made it difficult for him to get direct social insights."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. भाषा की बाधा: संस्कृत अरबी और फारसी से इतनी अलग थी कि विचारों का अनुवाद करना बहुत कठिन था।",
+        "2. धार्मिक अंतर: उसने भारतीय धार्मिक मान्यताओं और प्रथाओं को इस्लामी परंपराओं से पूरी तरह अलग पाया।",
+        "3. संकीर्णता: उसने देखा कि यहाँ के लोग आत्मकेंद्रित थे और बाहरी लोगों के साथ आसानी से ज्ञान साझा नहीं करते थे।",
+        "4. ब्राह्मणवादी गर्व: उसे लगा कि ब्राह्मणों का मानना था कि उनकी संस्कृति और भूमि बाकी सब से श्रेष्ठ है।",
+        "5. ग्रंथों पर निर्भरता: इसे पार करने के लिए वह पूरी तरह से वेदों, पुराणों और गीता पर निर्भर रहा।",
+        "6. सामाजिक दूरी: जटिल जाति व्यवस्था के कारण उसे सीधे सामाजिक जानकारी प्राप्त करने में कठिनाई हुई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Coding Tip: Use a 'Flashcard' for these 3-4 obstacles; they are very important for 4-mark questions.",
+      "hi": "कोडिंग टिप: इन 3-4 बाधाओं के लिए 'Flashcard' का उपयोग करें; ये 4-नंबर वाले सवालों के लिए बहुत महत्वपूर्ण हैं।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Describe Ibn Battuta's travelogue 'Rihla' and his passion for travel.",
+      "hi": "प्रश्न 3: इब्न बतूता के यात्रा वृत्तांत 'रिहला' और यात्रा के प्रति उसके जुनून का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Background: A Moroccan traveler who reached India in the 14th century during Muhammad bin Tughlaq's reign.",
+        "2. Experience over Books: He believed that traveling provides more knowledge than reading books.",
+        "3. Global Traveler: Before coming to India, he had traveled to North Africa, West Asia, and even China.",
+        "4. Rihla Content: His book 'Rihla' (in Arabic) provides rich details about social and cultural life.",
+        "5. Dangerous Travels: He mentions being attacked by robbers multiple times and getting seriously ill.",
+        "6. Appointment: He served as the Qazi (judge) of Delhi for several years due to his expertise."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पृष्ठभूमि: मोरक्को का एक यात्री जो 14वीं शताब्दी में मुहम्मद बिन तुगलक के शासनकाल में भारत आया था।",
+        "2. अनुभव का महत्व: उसका मानना था कि यात्रा करने से किताबों को पढ़ने की तुलना में अधिक ज्ञान प्राप्त होता है।",
+        "3. वैश्विक यात्री: भारत आने से पहले उसने उत्तरी अफ्रीका, पश्चिम एशिया और यहाँ तक कि चीन की यात्रा की थी।",
+        "4. रिहला की विषय-वस्तु: अरबी में लिखी उसकी पुस्तक 'रिहला' सामाजिक और सांस्कृतिक जीवन का विस्तृत विवरण देती है।",
+        "5. खतरनाक यात्राएँ: उसने कई बार डाकुओं द्वारा किए गए हमलों और गंभीर रूप से बीमार होने का उल्लेख किया है।",
+        "6. नियुक्ति: अपनी विद्वत्ता के कारण उसने कई वर्षों तक दिल्ली के काजी (न्यायाधीश) के रूप में कार्य किया।"
+      ]
+    },
+    "app_tip": {
+      "en": "UX Tip: Use an 'Interactive Map' in Educare to show Ibn Battuta's route from Morocco to Delhi.",
+      "hi": "UX टिप: मोरक्को से दिल्ली तक इब्न बतूता के रास्ते को दिखाने के लिए 'Educare' में एक 'Interactive Map' का उपयोग करें।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: Why was Ibn Battuta amazed by the Coconut and the Betel Leaf?",
+      "hi": "प्रश्न 4: इब्न बतूता नारियल और पान के पत्तों को देखकर हैरान क्यों था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Strange Fruits: He saw them as unique items unknown to the Arab world.",
+        "2. Coconut's Human Look: He compared the coconut to a human head, noting its 'eyes' and 'mouth'.",
+        "3. Coir Utility: He was fascinated that the fiber was used to make ropes to stitch ships instead of iron nails.",
+        "4. Betel Leaf (Pan): He described it as a plant grown for leaves like grapes but bearing no fruit.",
+        "5. Way of Eating: He was surprised to see people chewing leaves with lime and areca nut (Supari).",
+        "6. Digestive Benefits: He noted that locals believed it helped in digestion and freshening the breath."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. अजीब फल: उसने इन्हें ऐसी अनूठी चीजों के रूप में देखा जो अरब दुनिया के लिए अनजान थीं।",
+        "2. नारियल का मानव रूप: उसने नारियल की तुलना इंसान के सिर से की, और इसमें 'आंखें' और 'मुंह' जैसी आकृति देखी।",
+        "3. रेशों का उपयोग: वह इस बात से हैरान था कि इसके रेशों (जटा) से रस्सियाँ बनाकर जहाजों को सिला जाता था।",
+        "4. पान: उसने इसे एक ऐसे पौधे के रूप में बताया जिसे अंगूर की तरह केवल पत्तों के लिए उगाया जाता है।",
+        "5. खाने का तरीका: वह लोगों को चूने और सुपारी के साथ पान चबाते देखकर बहुत चकित था।",
+        "6. पाचन लाभ: उसने गौर किया कि स्थानीय लोग इसे पाचन और सांसों को ताज़ा रखने के लिए उपयोगी मानते थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Fun Fact Tip: This is the most repeated 2-mark question. Mark it as 'Must-Read' in your app.",
+      "hi": "रोचक तथ्य टिप: यह सबसे ज्यादा पूछा जाने वाला 2-नंबर का सवाल है। इसे अपने ऐप में 'Must-Read' के रूप में मार्क करें।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Explain the two types of Indian Postal Systems described by Ibn Battuta.",
+      "hi": "प्रश्न 5: इब्न बतूता द्वारा वर्णित भारतीय डाक प्रणाली के दो प्रकारों की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Efficiency: He was amazed that mail reached from Sindh to Delhi in 5 days, while travelers took 50 days.",
+        "2. Uluq (Horse Post): Horses were stationed at every four miles for rapid relay of mail.",
+        "3. Dawa (Foot Post): Runners were stationed at every one-third of a mile (three stations per mile).",
+        "4. Alert System: Runners carried a rod with copper bells to alert the next station runner.",
+        "5. Faster than Horse: He noted that the foot post (Dawa) was often even faster than the horse post.",
+        "6. Use Case: It was used for military reports and even to transport fresh fruits from Khurasan to the Sultan."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. कार्यकुशलता: वह हैरान था कि डाक सिंध से दिल्ली 5 दिन में पहुँच जाती थी, जबकि यात्रियों को 50 दिन लगते थे।",
+        "2. उलूक (अश्व डाक): डाक को तेज़ी से ले जाने के लिए हर चार मील पर घोड़े तैनात किए जाते थे।",
+        "3. दावा (पैदल डाक): हर मील के एक-तिहाई हिस्से पर (एक मील में तीन स्टेशन) धावक तैनात होते थे।",
+        "4. अलर्ट सिस्टम: धावक अगले स्टेशन के धावक को सचेत करने के लिए घंटियों वाली छड़ी लेकर दौड़ते थे।",
+        "5. अश्व डाक से तेज़: उसने गौर किया कि अक्सर पैदल डाक (दावा) अश्व डाक से भी तेज़ होती थी।",
+        "6. उपयोग: इसका उपयोग सैन्य रिपोर्ट भेजने और सुल्तान के लिए खुरासान से ताज़ा फल मंगाने में होता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Animation Tip: In lylako, you could build a small CSS animation showing the bell-rod relay for this topic.",
+      "hi": "एनीमेशन टिप: lylako में, आप इस टॉपिक के लिए बेल-रॉड रिले दिखाने वाला एक छोटा CSS एनीमेशन बना सकते हैं।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Discuss Francois Bernier's views on the 'Crown Ownership' of land in India.",
+      "hi": "प्रश्न 6: भारत में भूमि पर 'राजकीय स्वामित्व' के बारे में फ्रांसुआ बर्नियर के विचारों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Lack of Private Property: Bernier believed that the King owned all the land, which was the root cause of India's decline.",
+        "2. Nobility System: Land was given to nobles temporarily, so they had no interest in long-term improvement.",
+        "3. Ruin of Agriculture: Since land couldn't be inherited by children, nobody invested in modern tools or irrigation.",
+        "4. Oppression: This system led to the over-taxation and oppression of the helpless peasantry.",
+        "5. Comparison: He used this 'flaw' to praise the European system where private ownership led to prosperity.",
+        "6. Social Impact: He claimed there was no middle class in India—only a rich king and a poor population."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. निजी संपत्ति का अभाव: बर्नियर का मानना था कि राजा ही पूरी भूमि का मालिक था, जो भारत के पतन का मुख्य कारण था।",
+        "2. अमीरों की व्यवस्था: भूमि अस्थायी रूप से अमीरों को दी जाती थी, इसलिए उनमें सुधार करने की कोई दिलचस्पी नहीं थी।",
+        "3. खेती की बर्बादी: चूंकि जमीन बच्चों को विरासत में नहीं मिल सकती थी, इसलिए किसी ने सिंचाई या औजारों में निवेश नहीं किया।",
+        "4. उत्पीड़न: इस व्यवस्था के कारण किसानों पर भारी कर लगाया गया और उनका शोषण हुआ।",
+        "5. तुलना: उसने इस 'कमी' का उपयोग यूरोपीय व्यवस्था की तारीफ करने के लिए किया जहाँ निजी स्वामित्व था।",
+        "6. सामाजिक प्रभाव: उसने दावा किया कि भारत में कोई मध्यम वर्ग नहीं था—केवल एक अमीर राजा और गरीब जनता।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Point: Remember that Bernier's views were often biased because he wanted to justify the European model.",
+      "hi": "मुख्य बिंदु: याद रखें कि बर्नियर के विचार अक्सर पक्षपाती थे क्योंकि वह यूरोपीय मॉडल को सही ठहराना चाहता था।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Why did Bernier call Mughal cities 'Camp Towns'?",
+      "hi": "प्रश्न 7: बर्नियर ने मुगल शहरों को 'शिविर नगर' (Camp Towns) क्यों कहा?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Dependency: He believed cities depended entirely on the arrival and presence of the royal court.",
+        "2. Mobility: When the Emperor moved his camp/court, the city's population and trade also shifted.",
+        "3. Fragility: He felt these cities lacked a permanent foundation or community spirit.",
+        "4. Economic Base: They flourished while the court was there and declined as soon as it left.",
+        "5. Counter-argument: Modern historians point out that many cities were actually centers of trade and industry regardless of the court.",
+        "6. Variety: He ignored that many towns were pilgrimage centers or ports with their own identities."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. निर्भरता: उसका मानना था कि शहर पूरी तरह से शाही दरबार के आगमन और उपस्थिति पर निर्भर थे।",
+        "2. गतिशीलता: जब सम्राट अपना शिविर या दरबार हटाता था, तो शहर की आबादी और व्यापार भी बदल जाता था।",
+        "3. अस्थिरता: उसे लगा कि इन शहरों में स्थायी आधार या सामुदायिक भावना की कमी थी।",
+        "4. आर्थिक आधार: वे तब तक फलते-फूलते थे जब तक दरबार वहाँ होता था और उसके जाते ही उजड़ जाते थे।",
+        "5. विपरीत तर्क: आधुनिक इतिहासकार बताते हैं कि कई शहर वास्तव में व्यापार और उद्योग के केंद्र थे।",
+        "6. विविधता: उसने इस बात को नज़रअंदाज़ किया कि कई शहर तीर्थ केंद्र या बंदरगाह थे जिनकी अपनी अलग पहचान थी।"
+      ]
+    },
+    "app_tip": {
+      "en": "Study Tip: This question is great for practicing critical thinking—how a foreigner's view can be limited.",
+      "hi": "स्टडी टिप: यह सवाल सोचने की क्षमता बढ़ाने के लिए बेहतरीन है—कि कैसे एक विदेशी का नज़रिया सीमित हो सकता है।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: What were Al-Biruni's views on the Caste System and the concept of 'Pollution'?",
+      "hi": "प्रश्न 8: जाति व्यवस्था और 'अपवित्रता' की अवधारणा पर अल-बिरूनी के क्या विचार थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Rejection of Pollution: He rejected the idea that some castes were inherently 'polluted' or untouchable.",
+        "2. Law of Nature: He argued that everything that becomes impure eventually strives to become pure again (e.g., sun cleaning air).",
+        "3. Comparison: He compared Indian castes to the four social categories in ancient Persia.",
+        "4. Four Varnas: He correctly identified the Brahminical hierarchy but noted its rigid nature.",
+        "5. Practical Life: He observed that despite theories, people from different castes lived and worked together in daily life.",
+        "6. Humanism: His view was more logical and scientific compared to the rigid social rules he observed."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. अपवित्रता का खंडन: उसने इस विचार को खारिज कर दिया कि कुछ जातियाँ स्वाभाविक रूप से 'अपवित्र' या अछूत होती हैं।",
+        "2. प्रकृति का नियम: उसने तर्क दिया कि हर वह चीज़ जो अशुद्ध होती है, अंततः फिर से शुद्ध होने का प्रयास करती है (जैसे सूर्य हवा को साफ करता है)।",
+        "3. तुलना: उसने भारतीय जातियों की तुलना प्राचीन फारस की चार सामाजिक श्रेणियों से की।",
+        "4. चार वर्ण: उसने ब्राह्मणवादी पदानुक्रम को सही पहचाना लेकिन उसकी कठोर प्रकृति पर भी ध्यान दिया।",
+        "5. व्यावहारिक जीवन: उसने गौर किया कि सिद्धांतों के बावजूद, दैनिक जीवन में विभिन्न जातियों के लोग साथ रहते और काम करते थे।",
+        "6. मानवतावाद: उसका दृष्टिकोण उन कठोर सामाजिक नियमों की तुलना में अधिक तार्किक और वैज्ञानिक था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Point: Focus on the 'Sun and Air' example. It’s a favorite for examiners.",
+      "hi": "एग्ज़ाम पॉइंट: 'सूर्य और वायु' वाले उदाहरण पर ध्यान दें। यह एग्जामिनर्स का पसंदीदा पॉइंट है।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Describe the vibrant Markets and Slave system observed by Ibn Battuta.",
+      "hi": "प्रश्न 9: इब्न बतूता द्वारा देखे गए जीवंत बाजारों और दास प्रथा का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Market Energy: Markets were not just for trade; they were social centers with mosques, temples, and music halls.",
+        "2. Tarababad: He mentions special markets like Tarababad (in Daulatabad) for singers and dancers.",
+        "3. Global Hub: He observed that Indian goods were exported to Central Asia, Persia, and China.",
+        "4. Slave Trade: Slaves were openly sold in markets like any other commodity.",
+        "5. Gift Culture: Travelers like Ibn Battuta gifted slaves to the Sultan to gain favor.",
+        "6. Role of Slaves: Female slaves were used for domestic work and even as spies for the Sultan."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. बाज़ारों की ऊर्जा: बाज़ार सिर्फ व्यापार के लिए नहीं थे; वे मस्जिद, मंदिर और संगीत हॉल वाले सामाजिक केंद्र थे।",
+        "2. ताराबाबाद: उसने गायकों और नर्तकियों के लिए ताराबाबाद (दौलताबाद में) जैसे विशेष बाज़ारों का उल्लेख किया है।",
+        "3. वैश्विक केंद्र: उसने देखा कि भारतीय सामान मध्य एशिया, फारस और चीन को निर्यात किया जाता था।",
+        "4. दास व्यापार: बाज़ारों में दासों को किसी भी अन्य वस्तु की तरह खुलेआम बेचा जाता था।",
+        "5. उपहार संस्कृति: इब्न बतूता जैसे यात्री सुल्तान को खुश करने के लिए दास उपहार में देते थे।",
+        "6. दासों की भूमिका: महिला दासों का उपयोग घरेलू काम और सुल्तान के लिए जासूसों के रूप में किया जाता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Content Tip: Highlight the word 'Tarababad'. It’s a very specific keyword that shows the student has read deeply.",
+      "hi": "कंटेंट टिप: 'ताराबाबाद' शब्द को हाईलाइट करें। यह एक बहुत ही खास कीवर्ड है जो दिखाता है कि छात्र ने गहराई से पढ़ाई की है।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: How did Bernier describe the condition of Women and Sati in the Mughal Empire?",
+      "hi": "प्रश्न 10: बर्नियर ने मुगल साम्राज्य में महिलाओं और सती प्रथा की स्थिति का वर्णन कैसे किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Tragic Sati: He gave a very emotional account of a young widow being forced onto the funeral pyre.",
+        "2. Cruelty: He described the indifference of the priests and family members while the woman was screaming.",
+        "3. Not Universal: He noted that while some women chose it voluntarily, many were coerced.",
+        "4. Economic Contribution: Surprisingly, he also noted that women were important in agricultural and silk production.",
+        "5. Contrast: He used Sati as a major point to show the 'barbarism' of Indian society to his French readers.",
+        "6. Female Education: He felt that Indian society neglected the intellectual potential of women."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सती का दुखद विवरण: उसने एक युवा विधवा को जबरन चिता पर बिठाए जाने का बहुत ही भावुक विवरण दिया।",
+        "2. क्रूरता: उसने महिला के चिल्लाने के बावजूद पुजारियों और परिवार के सदस्यों की उदासीनता का वर्णन किया।",
+        "3. सार्वभौमिक नहीं: उसने गौर किया कि जहाँ कुछ महिलाएँ स्वेच्छा से इसे चुनती थीं, वहीं कई को मजबूर किया जाता था।",
+        "4. आर्थिक योगदान: आश्चर्यजनक रूप से, उसने यह भी नोट किया कि महिलाएँ कृषि और रेशम उत्पादन में महत्वपूर्ण थीं।",
+        "5. तुलना: उसने अपने फ्रांसीसी पाठकों को भारतीय समाज का 'पिछड़ापन' दिखाने के लिए सती प्रथा को एक मुख्य बिंदु बनाया।",
+        "6. महिला शिक्षा: उसे लगा कि भारतीय समाज ने महिलाओं की बौद्धिक क्षमता की उपेक्षा की है।"
+      ]
+    },
+    

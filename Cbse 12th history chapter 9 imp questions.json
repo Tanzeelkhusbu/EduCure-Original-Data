@@ -1,0 +1,307 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: What are Mughal Chronicles and why were they produced?",
+      "hi": "प्रश्न 1: मुगल इतिवृत्त (Chronicles) क्या हैं और उन्हें क्यों तैयार किया गया था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: Chronicles were official histories commissioned by Mughal emperors to record their achievements.",
+        "2. Purpose: To project a vision of an enlightened kingdom to all those who came under its umbrella.",
+        "3. Legitimacy: They aimed to show that the Mughal rule was divinely ordained and superior.",
+        "4. Record Keeping: To provide a detailed account of the administration and events for future generations.",
+        "5. Language: Primarily written in Persian, which was the court language of the Mughals.",
+        "6. Examples: Famous chronicles include the Akbar Nama, Shahjahan Nama, and Alamgir Nama."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: इतिवृत्त मुगल सम्राटों द्वारा अपनी उपलब्धियों को दर्ज करने के लिए लिखवाए गए आधिकारिक इतिहास थे।",
+        "2. उद्देश्य: उन सभी लोगों के सामने एक प्रबुद्ध राज्य का दृष्टिकोण प्रस्तुत करना जो इसके अधीन थे।",
+        "3. वैधता: इनका उद्देश्य यह दिखाना था कि मुगल शासन दैवीय रूप से निर्धारित और श्रेष्ठ था।",
+        "4. रिकॉर्ड रखना: भविष्य की पीढ़ियों के लिए प्रशासन और घटनाओं का विस्तृत विवरण प्रदान करना।",
+        "5. भाषा: मुख्य रूप से फारसी में लिखे गए, जो मुगलों की दरबारी भाषा थी।",
+        "6. उदाहरण: प्रसिद्ध इतिवृत्तों में अकबरनामा, शाहजहाँनामा और आलमगीरनामा शामिल हैं।"
+      ]
+    },
+    "app_tip": {
+      "en": "App Tip: Add a small definition card for 'Chronicles' in the UI—it's a key keyword for this chapter.",
+      "hi": "ऐप टिप: UI में 'इतिवृत्त' (Chronicles) के लिए एक छोटा परिभाषा कार्ड जोड़ें—यह इस चैप्टर का मुख्य कीवर्ड है।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: Describe the process of making a manuscript in the Mughal Imperial Kitabkhana.",
+      "hi": "प्रश्न 2: मुगल शाही किताबखाने में पांडुलिपि बनाने की प्रक्रिया का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Kitabkhana: A scriptorium where manuscripts were written, illustrated, and bound.",
+        "2. Paper Makers: They prepared the folios or sheets for the manuscript.",
+        "3. Calligraphers: Skilled writers who copied the text using various styles like Nastaliq.",
+        "4. Painters: Illustrators who created scenes and portraits based on the text.",
+        "5. Gilders: Artists who used gold to brighten the pages and the illustrations.",
+        "6. Bookbinders: They gathered the folios and gave them a decorative cover for protection."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. किताबखाना: एक ऐसा स्थान जहाँ पांडुलिपियाँ लिखी, चित्रित और बांधी जाती थीं।",
+        "2. कागज़ बनाने वाले: उन्होंने पांडुलिपि के लिए पन्ने या शीट तैयार किए।",
+        "3. सुलेखक (Calligraphers): कुशल लेखक जिन्होंने नस्तलीक जैसी विभिन्न शैलियों का उपयोग करके पाठ की नकल की।",
+        "4. चित्रकार: वे कलाकार जिन्होंने पाठ के आधार पर दृश्यों और चित्रों का निर्माण किया।",
+        "5. कोफ़्तगार (Gilders): वे कलाकार जिन्होंने पन्नों और चित्रों को चमकाने के लिए सोने का इस्तेमाल किया।",
+        "6. जिल्दसाज़ (Bookbinders): उन्होंने पन्नों को इकट्ठा किया और सुरक्षा के लिए उन्हें सजावटी कवर दिया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Visual Tip: Include an image of 'Nastaliq' calligraphy style to show how beautiful Mughal writing was.",
+      "hi": "विजुअल टिप: मुगल सुलेख कितना सुंदर था, यह दिखाने के लिए 'नस्तलीक' सुलेख शैली का एक चित्र शामिल करें।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Why was Persian established as the language of the Mughal court?",
+      "hi": "प्रश्न 3: फारसी को मुगल दरबार की भाषा के रूप में क्यों स्थापित किया गया था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Cultural Status: Persian was seen as a sophisticated language of the educated elite in West Asia.",
+        "2. Akbar's Policy: It was Akbar who consciously made Persian the leading language of the court.",
+        "3. Power and Prestige: It provided power and prestige to those who could speak it fluently.",
+        "4. Administration: All records and official letters were written in Persian, making it essential for officers.",
+        "5. Translations: Many Sanskrit works like the Mahabharata (Razmnama) were translated into Persian.",
+        "6. Influence: Over time, it merged with local Hindi to form Urdu, showing its deep cultural impact."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सांस्कृतिक स्थिति: फारसी को पश्चिम एशिया के शिक्षित अभिजात वर्ग की एक परिष्कृत भाषा माना जाता था।",
+        "2. अकबर की नीति: अकबर ने ही सचेत रूप से फारसी को दरबार की प्रमुख भाषा बनाया था।",
+        "3. शक्ति और प्रतिष्ठा: यह उन लोगों को शक्ति और प्रतिष्ठा प्रदान करती थी जो इसे धाराप्रवाह बोल सकते थे।",
+        "4. प्रशासन: सभी रिकॉर्ड और आधिकारिक पत्र फारसी में लिखे जाते थे, जिससे यह अधिकारियों के लिए अनिवार्य हो गई।",
+        "5. अनुवाद: महाभारत (रज़्मनामा) जैसे कई संस्कृत कार्यों का फारसी में अनुवाद किया गया।",
+        "6. प्रभाव: समय के साथ, यह स्थानीय हिंदी के साथ मिलकर उर्दू बनी, जो इसके गहरे सांस्कृतिक प्रभाव को दर्शाती है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Key: 'Razmnama' is the Persian name for the Mahabharata. This is a common 1-mark MCQ.",
+      "hi": "एग्ज़ाम की: 'रज़्मनामा' महाभारत का फारसी नाम है। यह 1-नंबर का एक सामान्य MCQ है।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: Discuss the features of the Akbar Nama and its author Abu’l Fazl.",
+      "hi": "प्रश्न 4: अकबरनामा और इसके लेखक अबुल फज़ल की विशेषताओं की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Author: Abu’l Fazl was a court historian and close friend of Akbar.",
+        "2. Structure: Divided into three books: the first two are chronicles, and the third is the Ain-i-Akbari.",
+        "3. Writing Style: Known for its ornate and flowery language, requiring high literacy.",
+        "4. Objective: It aimed to portray Akbar as a divine and perfect ruler (Insan-i-Kamil).",
+        "5. Evidence: Based on official records, oral testimonies, and administrative data.",
+        "6. Timeline: It covers 46 years of Akbar’s reign in great detail."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. लेखक: अबुल फज़ल एक दरबारी इतिहासकार और अकबर के करीबी दोस्त थे।",
+        "2. संरचना: तीन पुस्तकों में विभाजित: पहली दो इतिवृत्त हैं, और तीसरी आईन-ए-अकबरी है।",
+        "3. लेखन शैली: यह अपनी अलंकृत और कठिन भाषा के लिए जानी जाती है, जिसके लिए उच्च साक्षरता की आवश्यकता होती है।",
+        "4. उद्देश्य: इसका उद्देश्य अकबर को एक दैवीय और आदर्श शासक (इंसान-ए-कामिल) के रूप में चित्रित करना था।",
+        "5. साक्ष्य: आधिकारिक रिकॉर्ड, मौखिक साक्ष्य और प्रशासनिक डेटा पर आधारित।",
+        "6. समयरेखा: यह अकबर के शासनकाल के 46 वर्षों को विस्तार से कवर करती है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Memory Tip: Remember Abu'l Fazl was killed by Bir Singh Bundela at the instigation of Prince Salim (Jahangir).",
+      "hi": "मेमोरी टिप: याद रखें कि राजकुमार सलीम (जहाँगीर) के उकसाने पर बीर सिंह बुंदेला ने अबुल फज़ल की हत्या कर दी थी।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: What was the concept of 'Sulh-i-kul' (Absolute Peace) as an ideal of Mughal rule?",
+      "hi": "प्रश्न 5: मुगल शासन के आदर्श के रूप में 'सुलह-ए-कुल' (पूर्ण शांति) की अवधारणा क्या थी?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: Literally means 'universal' or 'absolute peace'.",
+        "2. Religious Tolerance: Under this, all religions and schools of thought had freedom of expression.",
+        "3. Condition: They had to obey the state authority and not fight among themselves.",
+        "4. Mughal Policy: Akbar abolished the pilgrimage tax and the Jizya to promote this ideal.",
+        "5. Divine Kingship: The emperor acted as the supreme mediator to maintain harmony among diverse groups.",
+        "6. Integration: It helped in integrating Rajputs, Turanis, and Iranians into the Mughal administrative structure."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: इसका शाब्दिक अर्थ है 'पूर्ण शांति' या 'सार्वभौमिक शांति'।",
+        "2. धार्मिक सहिष्णुता: इसके तहत सभी धर्मों और विचारधाराओं को अभिव्यक्ति की स्वतंत्रता थी।",
+        "3. शर्त: उन्हें राज्य के अधिकार का पालन करना था और आपस में नहीं लड़ना था।",
+        "4. मुगल नीति: अकबर ने इस आदर्श को बढ़ावा देने के लिए तीर्थयात्रा कर और जजिया को समाप्त कर दिया।",
+        "5. दैवीय राजपद: सम्राट ने विविध समूहों के बीच सद्भाव बनाए रखने के लिए सर्वोच्च मध्यस्थ के रूप में कार्य किया।",
+        "6. एकीकरण: इसने राजपूतों, तूरानियों और ईरानियों को मुगल प्रशासनिक ढांचे में एकीकृत करने में मदद की।"
+      ]
+    },
+    "app_tip": {
+      "en": "Keyword Tip: 'Sulh-i-kul' is a must-know keyword for any question related to Mughal religious policy.",
+      "hi": "कीवर्ड टिप: मुगल धार्मिक नीति से संबंधित किसी भी प्रश्न के लिए 'सुलह-ए-कुल' एक अनिवार्य कीवर्ड है।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Describe the hierarchical structure of the Mughal Nobility.",
+      "hi": "प्रश्न 6: मुगल अभिजात वर्ग की श्रेणीबद्ध संरचना का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Mansabdar System: Nobility was organized through the Mansab system, indicating rank and salary.",
+        "2. Diverse Backgrounds: Included Iranians, Turanis, Rajputs, Indian Muslims, and Marathas.",
+        "3. Loyalty: Their positions were not hereditary; they served at the pleasure of the emperor.",
+        "4. Zat and Sawar: 'Zat' indicated personal rank/salary, while 'Sawar' indicated the number of cavalrymen maintained.",
+        "5. Proximity: Those closer to the emperor held higher prestige and power.",
+        "6. Titles: Emperors bestowed titles like 'Asaf Khan' or 'Mirza Raja' to reward loyal nobles."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. मनसबदार प्रणाली: अभिजात वर्ग को मनसब प्रणाली के माध्यम से संगठित किया गया था, जो रैंक और वेतन को दर्शाता था।",
+        "2. विविध पृष्ठभूमि: इसमें ईरानी, तूरानी, राजपूत, भारतीय मुसलमान और मराठा शामिल थे।",
+        "3. वफादारी: उनके पद वंशानुगत नहीं थे; वे सम्राट की इच्छा तक सेवा करते थे।",
+        "4. ज़ात और सवार: 'ज़ात' व्यक्तिगत रैंक/वेतन को दर्शाता था, जबकि 'सवार' बनाए रखने वाले घुड़सवारों की संख्या को दर्शाता था।",
+        "5. निकटता: जो सम्राट के जितने करीब होते थे, उनकी प्रतिष्ठा और शक्ति उतनी ही अधिक होती थी।",
+        "6. उपाधियाँ: सम्राट वफादार अमीरों को पुरस्कृत करने के लिए 'आसफ खान' या 'मिर्जा राजा' जैसी उपाधियाँ देते थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Comparison Tip: In the app, use a side-by-side comparison of 'Zat' and 'Sawar' for clarity.",
+      "hi": "तुलना टिप: स्पष्टता के लिए ऐप में 'ज़ात' और 'सवार' की एक साथ तुलना दिखाएं।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: How did the Mughal Emperors display their power through the Royal Court?",
+      "hi": "प्रश्न 7: मुगल सम्राटों ने शाही दरबार के माध्यम से अपनी शक्ति का प्रदर्शन कैसे किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Throne (Takht): The physical center of the court, representing the axis of the world.",
+        "2. Etiquette: Rules of conduct like 'Sijda' (prostration) and 'Zaminbos' (kissing the ground) showed absolute submission.",
+        "3. Jharokha Darshan: The emperor appeared at a balcony to meet the public, showing his accessibility and divinity.",
+        "4. Diwan-i-Aam & Diwan-i-Khas: Public and private halls for meetings with commoners and high-ranking officials.",
+        "5. Gifts: Exchange of expensive gifts (Nazr and Peshkash) reinforced the bond between the king and his subjects.",
+        "6. Festivals: Celebrations like Nauroz (Persian New Year) were grand displays of wealth and splendor."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सिंहासन (तख्त): दरबार का भौतिक केंद्र, जो दुनिया की धुरी का प्रतिनिधित्व करता था।",
+        "2. शिष्टाचार: 'सिजदा' (दंडवत) और 'ज़मीनबोस' (ज़मीन चूमना) जैसे नियम पूर्ण समर्पण को दर्शाते थे।",
+        "3. झरोखा दर्शन: सम्राट जनता से मिलने के लिए एक बालकनी पर आते थे, जो उनकी सुलभता और दिव्यता को दर्शाता था।",
+        "4. दीवान-ए-आम और दीवान-ए-खास: आम जनता और उच्च अधिकारियों के साथ बैठकों के लिए सार्वजनिक और निजी हॉल।",
+        "5. उपहार: महंगे उपहारों (नज़र और पेशकश) का आदान-प्रदान राजा और उसकी प्रजा के बीच के बंधन को मज़बूत करता था।",
+        "6. त्यौहार: नौरोज़ (फारसी नव वर्ष) जैसे उत्सव धन और भव्यता का शानदार प्रदर्शन थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "UI Tip: Add a diagram of the Mughal court layout to show where different ranks of nobles stood.",
+      "hi": "UI टिप: यह दिखाने के लिए कि अभिजात वर्ग के विभिन्न रैंक कहाँ खड़े होते थे, मुगल दरबार के लेआउट का एक चित्र जोड़ें।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Discuss the role of Women in the Mughal Imperial Household (Harem).",
+      "hi": "प्रश्न 8: मुगल शाही परिवार (हरम) में महिलाओं की भूमिका की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Harem: Literally a 'sacred place', it housed the wives, relatives, and female servants of the emperor.",
+        "2. Hierarchy: Distinguished between 'Begums' (noble birth) and 'Aghas' (other wives) based on status.",
+        "3. Political Influence: Women like Nur Jahan and Jahanara exercised significant political and financial power.",
+        "4. Trade: Jahanara and Roshanara participated in overseas trade and controlled large revenues.",
+        "5. Architecture: Jahanara designed important parts of Shahjahanabad, including Chandni Chowk.",
+        "6. Literacy: Gulbadan Begum wrote the 'Humayun Nama', providing an insider's view of the royal family."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. हरम: शाब्दिक अर्थ 'पवित्र स्थान', इसमें सम्राट की पत्नियाँ, रिश्तेदार और महिला नौकर रहती थीं।",
+        "2. पदानुक्रम: स्थिति के आधार पर 'बेगम' (कुलीन जन्म) और 'अगा' (अन्य पत्नियाँ) के बीच अंतर किया जाता था।",
+        "3. राजनीतिक प्रभाव: नूरजहाँ और जहाँआरा जैसी महिलाओं ने महत्वपूर्ण राजनीतिक और वित्तीय शक्ति का प्रयोग किया।",
+        "4. व्यापार: जहाँआरा और रोशनआरा ने विदेशी व्यापार में भाग लिया और बड़े राजस्व को नियंत्रित किया।
+        "5. वास्तुकला: जहाँआरा ने चाँदनी चौक सहित शाहजहाँनाबाद के महत्वपूर्ण हिस्सों को डिज़ाइन किया था।",
+        "6. साक्षरता: गुलबदन बेगम ने 'हुमायूँनामा' लिखा, जो शाही परिवार के भीतर का नज़रिया प्रदान करता है।"
+      ]
+    },
+    "app_tip": {
+      "en": "App Feature: Create a 'Profiles' section for famous Mughal women like Nur Jahan and Gulbadan Begum.",
+      "hi": "ऐप फीचर: नूरजहाँ और गुलबदन बेगम जैसी प्रसिद्ध मुगल महिलाओं के लिए एक 'Profiles' सेक्शन बनाएँ।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: What were the features of the Mughal Provincial Administration?",
+      "hi": "प्रश्न 9: मुगल प्रांतीय प्रशासन की क्या विशेषताएँ थीं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Subas: The empire was divided into provinces called Subas, headed by a Subadar.",
+        "2. Officials: Included the Diwan (finance), Bakshi (military), and Qazi (justice) at the provincial level.",
+        "3. Sarkar and Pargana: Subas were further divided into Sarkars (districts) and Parganas (sub-districts).",
+        "4. Faujdar: The military commander of the Sarkar responsible for law and order.",
+        "5. Integration: The provincial administration mirrored the central structure for better coordination.",
+        "6. Communication: A network of news-writers and spies kept the center informed about provincial events."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सूबा: साम्राज्य को सूबा नामक प्रांतों में विभाजित किया गया था, जिसका मुखिया सूबेदार होता था।",
+        "2. अधिकारी: प्रांतीय स्तर पर दीवान (वित्त), बख्शी (सेना) और काजी (न्याय) शामिल थे।",
+        "3. सरकार और परगना: सूबों को आगे सरकारों (ज़िलों) और परगना (उप-ज़िलों) में विभाजित किया गया था।",
+        "4. फौजदार: सरकार का सैन्य कमांडर जो कानून-व्यवस्था के लिए ज़िम्मेदार था।",
+        "5. एकीकरण: बेहतर तालमेल के लिए प्रांतीय प्रशासन केंद्रीय ढांचे के समान ही था।",
+        "6. संचार: समाचार-लेखकों और जासूसों का एक जाल केंद्र को प्रांतीय घटनाओं के बारे में सूचित रखता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Diagram Tip: Use a flowchart to show the hierarchy: Center -> Suba -> Sarkar -> Pargana -> Village.",
+      "hi": "डायग्राम टिप: पदानुक्रम दिखाने के लिए एक फ्लोचार्ट का उपयोग करें: केंद्र -> सूबा -> सरकार -> परगना -> गाँव।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: Explain the significance of Imperial Titles and Gifts in the Mughal Court.",
+      "hi": "प्रश्न 10: मुगल दरबार में शाही उपाधियों और उपहारों के महत्व की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Bestowing Titles: Titles like 'Jahangir' (Conqueror of the World) or 'Shah Jahan' (King of the World) projected the emperor's grandeur.",
+        "2. Recognition: Nobles received titles like 'Asaf Khan' as a mark of high favor and seniority.",
+        "3. Robes of Honour (Khilat): A garment worn by the emperor, gifted to a noble to symbolize a physical link with the king.",
+        "4. Nazr: A small sum of money offered by a subject to the emperor to show loyalty.",
+        "5. Peshkash: Formal and expensive tributes paid by nobles and kings of subordinate states.",
+        "6. Symbols of Power: Ornaments, swords, and jewelled daggers were also used as ritual gifts."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. उपाधियाँ देना: 'जहाँगीर' (दुनिया को जीतने वाला) या 'शाहजहाँ' (दुनिया का राजा) जैसी उपाधियाँ सम्राट की भव्यता को दर्शाती थीं।",
+        "2. मान्यता: अमीरों को उच्च सम्मान और वरिष्ठता के प्रतीक के रूप में 'आसफ खान' जैसी उपाधियाँ मिलती थीं।",
+        "3. खिलअत: सम्राट द्वारा पहना गया एक वस्त्र, जो राजा के साथ भौतिक संबंध के प्रतीक के रूप में किसी अमीर को उपहार में दिया जाता था।",
+        "4. नज़र: वफादारी दिखाने के लिए प्रजा द्वारा सम्राट को दी जाने वाली एक छोटी राशि।",
+        "5. पेशकश: अधीनस्थ राज्यों के राजाओं और अमीरों द्वारा भुगतान किए गए औपचारिक और महंगे उपहार।",
+        "6. शक्ति के प्रतीक: गहने, तलवारें और रत्नजड़ित खंजर भी अनुष्ठानिक उपहारों के रूप में उपयोग किए जाते थे।"
+      ]
+    },
+   

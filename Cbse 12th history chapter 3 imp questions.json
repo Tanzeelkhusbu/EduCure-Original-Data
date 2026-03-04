@@ -1,0 +1,407 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Explain the project of the 'Critical Edition' of the Mahabharata.",
+      "hi": "प्रश्न 1: महाभारत के 'समालोचनात्मक संस्करण' (Critical Edition) की परियोजना की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Leadership: The project began in 1919 under the leadership of a noted Indian Sanskritist, V.S. Sukthankar.",
+        "2. Objective: The team aimed to prepare a critical edition by collecting Sanskrit manuscripts from all over the country.",
+        "3. Methodology: They compared verses from various manuscripts and selected those that were common to most versions.",
+        "4. Output: The final edition was published in several volumes, running into over 13,000 pages.",
+        "5. Key Findings: It revealed significant commonalities in the stories across India and also regional variations.",
+        "6. Duration: It took nearly 47 years to complete this massive scholarly work."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. नेतृत्व: यह परियोजना 1919 में प्रसिद्ध संस्कृत विद्वान वी.एस. सुकथांकर के नेतृत्व में शुरू हुई थी।",
+        "2. उद्देश्य: टीम का लक्ष्य देश भर से संस्कृत पांडुलिपियों को इकट्ठा करके एक समालोचनात्मक संस्करण तैयार करना था।",
+        "3. कार्यविधि: उन्होंने विभिन्न पांडुलिपियों के श्लोकों की तुलना की और उन श्लोकों को चुना जो लगभग सभी संस्करणों में समान थे।",
+        "4. परिणाम: अंतिम संस्करण कई खंडों में प्रकाशित हुआ, जो 13,000 से अधिक पृष्ठों में फैला हुआ था।",
+        "5. मुख्य निष्कर्ष: इससे पूरे भारत में महाभारत की कहानी में समानताएँ और क्षेत्रीय विभिन्नताएँ दोनों का पता चला।",
+        "6. समय: इस विशाल विद्वतापूर्ण कार्य को पूरा करने में लगभग 47 वर्ष का समय लगा।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: What were the rules of 'Patriliny' and how did it influence inheritance?",
+      "hi": "प्रश्न 2: 'पितृवंशिकता' के नियम क्या थे और इसने उत्तराधिकार को कैसे प्रभावित किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: Patriliny means tracing descent from father to son, grandson, and so on.",
+        "2. Core Principle: Under patriliny, sons could claim the resources (including the throne) of their fathers when the latter died.",
+        "3. Exceptional Cases: If there was no son, brothers or sometimes other kinsmen succeeded.",
+        "4. Women's Status: Most ruling dynasties followed patriliny, though there were rare exceptions like Prabhavati Gupta.",
+        "5. Ideals: The Mahabharata war was basically a conflict over competing claims to patriliny and land.",
+        "6. Religious Context: Mantras in the Rigveda also show the importance of having sons to continue the lineage."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: पितृवंशिकता का अर्थ है वह वंश परंपरा जो पिता से पुत्र, फिर प्रपौत्र और इसी तरह आगे चलती है।",
+        "2. मुख्य सिद्धांत: पितृवंशिकता के तहत, पिता की मृत्यु के बाद पुत्र उनके संसाधनों (सिंहासन सहित) पर दावा कर सकते थे।",
+        "3. अपवाद: यदि कोई पुत्र नहीं होता था, तो भाई या कभी-कभी अन्य रिश्तेदार उत्तराधिकारी बनते थे।",
+        "4. महिलाओं की स्थिति: अधिकांश राजवंश पितृवंशिकता का पालन करते थे, हालाँकि प्रभावती गुप्त जैसे दुर्लभ अपवाद भी मिले हैं।",
+        "5. आदर्श: महाभारत का युद्ध मूल रूप से पितृवंशिकता और भूमि के दावों को लेकर उपजा एक संघर्ष था।",
+        "6. धार्मिक संदर्भ: ऋग्वेद के मंत्रों से भी वंश को आगे बढ़ाने के लिए पुत्रों के महत्व का पता चलता है।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Discuss the eight forms of marriage according to the Dharmasutras.",
+      "hi": "प्रश्न 3: धर्मसूत्रों के अनुसार विवाह के आठ रूपों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Categorization: The Dharmasutras and Dharmashastras recognized eight forms of marriage.",
+        "2. Approved Forms: The first four forms were considered good and were approved by Brahmanas.",
+        "3. Condemned Forms: The remaining four (like those based on capture or seduction) were condemned.",
+        "4. Endogamy: Marriage within one's own unit (kin group/caste/locality) was common.",
+        "5. Exogamy: Marrying outside the 'Gotra' was considered a religious duty, especially for daughters.",
+        "6. Significance: These rules were meant to ensure that social order and varna purity were maintained."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. वर्गीकरण: धर्मसूत्रों और धर्मशास्त्रों में विवाह के आठ प्रकारों को मान्यता दी गई थी।",
+        "2. उत्तम विवाह: पहले चार प्रकार के विवाहों को अच्छा माना जाता था और ब्राह्मणों द्वारा उनकी सराहना की जाती थी।",
+        "3. निंदित विवाह: बाकी चार प्रकार (जैसे अपहरण या धोखे पर आधारित) को समाज में बुरा माना जाता था।",
+        "4. अंतर्विवाह: अपने ही समूह (जाति या स्थान) के भीतर विवाह करने की परंपरा प्रचलित थी।",
+        "5. बहिर्विवाह: गोत्र से बाहर विवाह करना एक धार्मिक कर्तव्य माना जाता था, विशेषकर कन्याओं के लिए।",
+        "6. महत्व: इन नियमों का उद्देश्य सामाजिक व्यवस्था और वर्ण की शुद्धता को बनाए रखना था।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: What were the two important rules about Gotras established by Brahmanas?",
+      "hi": "प्रश्न 4: ब्राह्मणों द्वारा स्थापित गोत्रों के बारे में दो महत्वपूर्ण नियम क्या थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Women's Gotra: Women were expected to give up their father's gotra and adopt that of their husband after marriage.",
+        "2. Prohibition: Members of the same gotra could not marry each other.",
+        "3. Lineage: Each gotra was named after a Vedic seer, and all members were considered his descendants.",
+        "4. Reality vs Theory: While these were Brahmanical rules, some dynasties like the Satavahanas did not strictly follow them.",
+        "5. Satavahana Exception: Some Satavahana queens retained their father's gotra even after marriage.",
+        "6. Survival: The system of gotras is still followed in many parts of Hindu society today."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. स्त्रियों का गोत्र: विवाह के बाद स्त्रियों से अपेक्षा की जाती थी कि वे अपने पिता का गोत्र छोड़कर पति का गोत्र अपना लें।",
+        "2. विवाह निषेध: एक ही गोत्र के सदस्य आपस में विवाह नहीं कर सकते थे।",
+        "3. वंशावली: प्रत्येक गोत्र का नाम एक वैदिक ऋषि के नाम पर होता था और सदस्य उनके वंशज माने जाते थे।",
+        "4. सिद्धांत बनाम वास्तविकता: हालाँकि ये ब्राह्मणों के नियम थे, लेकिन सातवाहन जैसे राजवंशों ने इनका कड़ाई से पालन नहीं किया।",
+        "5. सातवाहन अपवाद: कुछ सातवाहन रानियों ने विवाह के बाद भी अपने पिता के गोत्र को बनाए रखा।",
+        "6. निरंतरता: गोत्र की यह व्यवस्था आज भी हिंदू समाज के कई हिस्सों में प्रचलित है।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Explain the 'Varna System' and the 'Righteous Occupation' assigned to each varna.",
+      "hi": "प्रश्न 5: 'वर्ण व्यवस्था' और प्रत्येक वर्ण के लिए निर्धारित 'उचित जीविका' की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Four Varnas: The society was divided into four categories: Brahmanas, Kshatriyas, Vaishyas, and Shudras.",
+        "2. Brahmanas: Assigned to study and teach the Vedas, perform sacrifices, and receive gifts.",
+        "3. Kshatriyas: Their duties were to engage in warfare, protect people, and administer justice.",
+        "4. Vaishyas: They were expected to engage in agriculture, pastoralism, and trade.",
+        "5. Shudras: Their only duty was to serve the other three 'higher' varnas.",
+        "6. Divine Origin: Brahmanas claimed this order was divinely ordained, as mentioned in the Purusha Sukta of Rigveda."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. चार वर्ण: समाज को चार श्रेणियों में बांटा गया था: ब्राह्मण, क्षत्रिय, वैश्य और शूद्र।",
+        "2. ब्राह्मण: इनका कार्य वेदों का अध्ययन-अध्यापन, यज्ञ करना और दान लेना-देना था।",
+        "3. क्षत्रिय: इनका कर्तव्य युद्ध करना, लोगों की रक्षा करना और न्याय करना था।",
+        "4. वैश्य: इनसे कृषि, पशुपालन और व्यापार में संलग्न होने की अपेक्षा की जाती थी।",
+        "5. शूद्र: इनका एकमात्र कर्तव्य तीनों 'उच्च' वर्णों की सेवा करना था।",
+        "6. दैवीय उत्पत्ति: ब्राह्मणों का दावा था कि यह व्यवस्था दैवीय है, जैसा कि ऋग्वेद के 'पुरुष सूक्त' में वर्णित है।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: How did Brahmanas enforce the Varna order? Mention two strategies.",
+      "hi": "प्रश्न 6: ब्राह्मणों ने वर्ण व्यवस्था को कैसे लागू किया? दो रणनीतियों का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Divine Origin: They claimed that the Varna system was a divine institution (Purusha Sukta).",
+        "2. Royal Support: They advised kings to ensure that these norms were followed within their kingdoms.",
+        "3. Birth-based Status: They tried to persuade people that their status was determined by birth.",
+        "4. Literature: Brahmanical texts like the Manusmriti were written to codify these social rules.",
+        "5. Religious Sanction: Performing rituals that reinforced these hierarchies at every major life event.",
+        "6. Myths: Using stories from the Mahabharata and other texts to illustrate the consequences of breaking varna rules."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. दैवीय उत्पत्ति: उन्होंने दावा किया कि वर्ण व्यवस्था एक दैवीय संस्था है (पुरुष सूक्त के अनुसार)।",
+        "2. राजाओं का सहयोग: उन्होंने राजाओं को सलाह दी कि वे अपने राज्यों में इन नियमों का पालन सुनिश्चित करें।",
+        "3. जन्म पर आधारित स्थिति: उन्होंने लोगों को यह विश्वास दिलाने की कोशिश की कि उनकी सामाजिक स्थिति जन्म से तय होती है।",
+        "4. साहित्य का उपयोग: मनुस्मृति जैसे ग्रंथों की रचना इन सामाजिक नियमों को कानूनी रूप देने के लिए की गई थी।",
+        "5. धार्मिक मान्यता: जीवन के हर महत्वपूर्ण अवसर पर ऐसे अनुष्ठान करना जो इस ऊंच-नीच को मज़बूत करें।",
+        "6. पौराणिक कथाएँ: महाभारत जैसी कहानियों का उपयोग करके वर्ण नियमों को तोड़ने के परिणामों को दिखाया गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Discuss the 'Non-Kshatriya' kings who ruled in early India.",
+      "hi": "प्रश्न 7: प्रारंभिक भारत में शासन करने वाले 'गैर-क्षत्रिय' राजाओं की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Shungas and Kanvas: The immediate successors of the Mauryas were Brahmanas, not Kshatriyas.",
+        "2. Shakas: Brahmanas regarded the Shakas (from Central Asia) as 'Mlechchhas' or barbarians.",
+        "3. Satavahanas: Gotami-puta Siri-Satakani claimed to be a unique Brahmana and a destroyer of Kshatriya pride.",
+        "4. Mauryas: Buddhist texts describe Mauryas as Kshatriyas, but Brahmanical texts call them of 'low origin'.",
+        "5. Social Mobility: This shows that anyone who could muster support and resources could become a king.",
+        "6. Conclusion: The rule that only Kshatriyas could be kings was often violated in practice."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. शुंग और कण्व: मौर्यों के उत्तराधिकारी ब्राह्मण थे, न कि क्षत्रिय।",
+        "2. शक शासक: ब्राह्मणों ने मध्य एशिया से आए शक शासकों को 'म्लेच्छ' या बर्बर माना था।",
+        "3. सातवाहन: गौतमी-पुत्र श्री-सातकणि ने खुद को 'एकमात्र ब्राह्मण' और क्षत्रियों के गर्व को चूर करने वाला बताया।",
+        "4. मौर्य: बौद्ध ग्रंथ उन्हें क्षत्रिय मानते हैं, जबकि ब्राह्मण ग्रंथ उन्हें 'निम्न कुल' का बताते हैं।",
+        "5. सामाजिक गतिशीलता: इससे पता चलता है कि जो भी समर्थन और संसाधन जुटा सकता था, वह राजा बन सकता था।",
+        "6. निष्कर्ष: यह नियम कि केवल क्षत्रिय ही राजा हो सकते थे, व्यवहार में अक्सर टूटता रहता था।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Who were the 'Chandalas' and what were their duties according to Manusmriti?",
+      "hi": "प्रश्न 8: 'चांडाल' कौन थे और मनुस्मृति के अनुसार उनके कर्तव्य क्या थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: Chandalas were at the very bottom of the social hierarchy, considered 'untouchable'.",
+        "2. Living Conditions: They had to live outside the village and use discarded utensils.",
+        "3. Clothing: They were supposed to wear clothes of the dead and ornaments made of iron.",
+        "4. Social Restriction: They could not walk in villages and cities at night.",
+        "5. Duties: Their main task was to dispose of the bodies of those who had no relatives and serve as executioners.",
+        "6. Chinese Accounts: Pilgrims like Fa Xian and Xuan Zang wrote about the social exclusion faced by Chandalas."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: चांडाल सामाजिक पदानुक्रम में सबसे नीचे थे और उन्हें 'अस्पृश्य' (अछूत) माना जाता था।",
+        "2. रहने की स्थिति: उन्हें गाँव के बाहर रहना पड़ता था और फेंके हुए बर्तनों का इस्तेमाल करना पड़ता था।",
+        "3. पहनावा: उन्हें मृतकों के कपड़े और लोहे के गहने पहनने होते थे।",
+        "4. सामाजिक पाबंदी: वे रात के समय गाँवों और शहरों में चल-फिर नहीं सकते थे।",
+        "5. कर्तव्य: उनका मुख्य कार्य लावारिस शवों का अंतिम संस्कार करना और वध करना (Executioner) था।",
+        "6. चीनी यात्रियों के वृत्तांत: फा-शिएन और श्वेन त्सांग जैसे यात्रियों ने चांडालों द्वारा झेले जाने वाले बहिष्कार के बारे में लिखा है।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Explain the concept of 'Jati' and how it differed from 'Varna'.",
+      "hi": "प्रश्न 9: 'जाति' की अवधारणा की व्याख्या करें और यह 'वर्ण' से कैसे भिन्न थी?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Number: Varna was fixed at four, while there was no fixed number for Jatis.",
+        "2. Origin: Varna was based on the Vedic order, while Jati often represented professional groups (like Shrenis).",
+        "3. Flexibility: Brahmanas classified people into Jatis when they encountered groups that did not fit into the four varnas.",
+        "4. Examples: Forest-dwellers (Nishadas) or gold-smiths were often classified as Jatis.",
+        "5. Organization: People belonging to the same Jati often organized themselves into guilds (Shrenis).",
+        "6. Commonality: Both Varna and Jati were based on birth, but Jati was more diverse and local."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. संख्या: वर्णों की संख्या चार पर निश्चित थी, जबकि जातियों की कोई निश्चित संख्या नहीं थी।",
+        "2. उत्पत्ति: वर्ण वैदिक व्यवस्था पर आधारित थे, जबकि जातियाँ अक्सर व्यावसायिक समूहों (जैसे श्रेणियों) का प्रतिनिधित्व करती थीं।",
+        "3. लचीलापन: जब ब्राह्मणों का सामना ऐसे समूहों से हुआ जो चार वर्णों में फिट नहीं बैठते थे, तो उन्हें 'जाति' में वर्गीकृत कर दिया गया।",
+        "4. उदाहरण: निषाद (वनवासी) या स्वर्णकारों को अक्सर जाति के रूप में वर्गीकृत किया गया।",
+        "5. संगठन: एक ही जाति के लोग अक्सर खुद को 'श्रेणियों' (Guilds) में संगठित कर लेते थे।",
+        "6. समानता: वर्ण और जाति दोनों जन्म पर आधारित थे, लेकिन जाति अधिक विविधतापूर्ण और स्थानीय थी।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: Discuss the gendered access to property according to Manusmriti.",
+      "hi": "प्रश्न 10: मनुस्मृति के अनुसार संपत्ति तक लैंगिक पहुँच की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Inheritance: Paternal estate was to be divided equally among sons after the death of the parents.",
+        "2. Special Share: The eldest son was often entitled to a special share of the property.",
+        "3. Women's Exclusion: Women could not claim a share of these paternal resources.",
+        "4. Stridhana: However, women were allowed to retain gifts received at the time of marriage (Stridhana).",
+        "5. Control over Stridhana: This could be inherited by their children without the husband having any claim.",
+        "6. Manusmriti Warning: It warned women against hoarding family property or valuables without the husband's permission."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. उत्तराधिकार: माता-पिता की मृत्यु के बाद पैतृक संपत्ति को पुत्रों में समान रूप से विभाजित किया जाना था।",
+        "2. विशेष हिस्सा: ज्येष्ठ (बड़े) पुत्र को अक्सर संपत्ति के विशेष हिस्से का अधिकार होता था।",
+        "3. महिलाओं का बहिष्कार: महिलाएँ इन पैतृक संसाधनों में हिस्सा नहीं मांग सकती थीं।",
+        "4. स्त्रीधन: हालाँकि, महिलाओं को विवाह के समय मिले उपहारों (स्त्रीधन) को अपने पास रखने की अनुमति थी।",
+        "5. स्त्रीधन पर अधिकार: इसे उनकी संतान विरासत में ले सकती थी और पति का इस पर कोई दावा नहीं होता था।",
+        "6. मनुस्मृति की चेतावनी: इसने महिलाओं को पति की अनुमति के बिना पारिवारिक संपत्ति या मूल्यवान वस्तुओं को इकट्ठा करने के विरुद्ध चेतावनी दी।"
+      ]
+    }
+  },
+  {
+    "q_id": 11,
+    "question": {
+      "en": "Question 11: Was birth the only basis for social status? Give examples of 'Alternative Social Scenarios'.",
+      "hi": "प्रश्न 11: क्या जन्म ही सामाजिक स्थिति का एकमात्र आधार था? 'वैकल्पिक सामाजिक परिदृश्यों' के उदाहरण दें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Wealth as a Factor: Social status could also be determined by wealth and access to resources.",
+        "2. Buddhist Critique: Buddhism rejected the idea of birth-based status and argued that it was man-made and flexible.",
+        "3. Tamil Sangam Texts: These texts suggest that although there were differences between rich and poor, the generous rich were respected.",
+        "4. Right to Property: In some cases, Shudras or lower jati members who became wealthy could gain social standing.",
+        "5. Kingship: Non-Kshatriyas becoming kings is a prime example of status shifting from birth to power.",
+        "6. Merit: Early traditions like Buddhism and Jainism emphasized merit and conduct over birth."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. धन एक कारक: सामाजिक स्थिति धन और संसाधनों तक पहुँच से भी निर्धारित हो सकती थी।",
+        "2. बौद्ध आलोचना: बौद्ध धर्म ने जन्म आधारित स्थिति के विचार को खारिज कर दिया और तर्क दिया कि यह मानव निर्मित और लचीली है।",
+        "3. तमिल संगम ग्रंथ: ये ग्रंथ बताते हैं कि अमीर और गरीब के बीच अंतर तो था, लेकिन उदार अमीरों का सम्मान किया जाता था।",
+        "4. संपत्ति का अधिकार: कुछ मामलों में, शूद्र या निचली जाति के सदस्य जो धनी हो गए, वे सामाजिक प्रतिष्ठा प्राप्त कर सकते थे।",
+        "5. राजपद: गैर-क्षत्रियों का राजा बनना जन्म से शक्ति की ओर स्थिति बदलने का एक प्रमुख उदाहरण है।",
+        "6. योग्यता: बौद्ध और जैन धर्म जैसी प्रारंभिक परंपराओं ने जन्म के बजाय योग्यता और आचरण पर जोर दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 12,
+    "question": {
+      "en": "Question 12: Describe the different authors of the Mahabharata.",
+      "hi": "प्रश्न 12: महाभारत के विभिन्न लेखकों का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Sutas: Originally, the story was probably composed by charioteer-bards known as Sutas who accompanied Kshatriya warriors.",
+        "2. Brahmanas: From c. 5th century BCE, Brahmanas took over the story and began to commit it to writing.",
+        "3. Addition of Didactic Content: Between 200 BCE and 200 CE, large didactic sections (like Manusmriti-like rules) were added.",
+        "4. Sage Vyasa: Tradition dictates that the sage Vyasa is the compiler/author of the entire massive text.",
+        "5. Evolution: The text grew from about 10,000 verses to 1,00,000 verses over a period of 1000 years.",
+        "6. Ganesha Myth: Later traditions also add the story of Ganesha writing down the text as Vyasa dictated."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सूत: मूल रूप से, यह कहानी संभवतः 'सूत' कहे जाने वाले सारथियों द्वारा रची गई थी जो क्षत्रिय योद्धाओं के साथ जाते थे।",
+        "2. ब्राह्मण: लगभग 5वीं शताब्दी ईसा पूर्व से, ब्राह्मणों ने इस कथा पर अधिकार कर लिया और इसे लिखना शुरू किया।",
+        "3. उपदेशात्मक अंश: 200 ईसा पूर्व से 200 ईस्वी के बीच इसमें मनुस्मृति जैसे बड़े उपदेशात्मक अंश जोड़े गए।",
+        "4. ऋषि व्यास: परंपरा के अनुसार, ऋषि व्यास को इस संपूर्ण विशाल ग्रंथ का संकलनकर्ता/लेखक माना जाता है।",
+          "5. विकास: 1000 वर्षों की अवधि में यह ग्रंथ लगभग 10,000 श्लोकों से बढ़कर 1,00,000 श्लोकों का हो गया।",
+        "6. गणेश की कथा: बाद की परंपराओं में यह कहानी भी जोड़ी गई कि व्यास के बोलने पर गणेश ने इस ग्रंथ को लिखा था।"
+      ]
+    }
+  },
+  {
+    "q_id": 13,
+    "question": {
+      "en": "Question 13: Why is the Mahabharata described as a 'Dynamic Text'?",
+      "hi": "प्रश्न 13: महाभारत को एक 'गतिशील ग्रंथ' के रूप में क्यों वर्णित किया गया है?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Constant Evolution: The growth of the Mahabharata did not stop with the Sanskrit version.",
+        "2. Multi-lingual: For centuries, versions were written in various languages through a process of dialogue.",
+        "3. Creative Adaptations: Many stories that originated in specific regions found their way into the epic.",
+        "4. Performative Art: The central story has been retold in dance, drama, and other performing arts.",
+        "5. Modern Relevance: Even today, it is used to provide themes for movies, plays, and television series.",
+        "6. Inclusion: It has absorbed regional variations and local traditions over thousands of years."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. निरंतर विकास: महाभारत का विकास संस्कृत संस्करण के साथ नहीं रुका।",
+        "2. बहुभाषी: सदियों तक, संवाद की प्रक्रिया के माध्यम से विभिन्न भाषाओं में इसके संस्करण लिखे गए।",
+        "3. रचनात्मक रूपांतरण: विशिष्ट क्षेत्रों में उत्पन्न कई कहानियों ने इस महाकाव्य में अपनी जगह बना ली।",
+        "4. प्रदर्शनकारी कला: इसकी मुख्य कहानी को नृत्य, नाटक और अन्य प्रदर्शनकारी कलाओं में बार-बार दोहराया गया है।",
+        "5. आधुनिक प्रासंगिकता: आज भी इसका उपयोग फिल्मों, नाटकों और टेलीविजन श्रृंखलाओं के लिए किया जाता है।",
+        "6. समावेशिता: इसने हज़ारों वर्षों में क्षेत्रीय विभिन्नताओं और स्थानीय परंपराओं को अपने भीतर समाहित किया है।"
+      ]
+    }
+  },
+  {
+    "q_id": 14,
+    "question": {
+      "en": "Question 14: What was the significance of the Battle of Kurukshetra in the context of Varna and Kinship?",
+      "hi": "प्रश्न 14: वर्ण और बंधुत्व के संदर्भ में कुरुक्षेत्र के युद्ध का क्या महत्व था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Breakdown of Kinship: It showed the ultimate conflict within a single kin group (Kauravas and Pandavas).",
+        "2. Struggle for Resources: It was a fight for land and power, which were central to the patrilineal system.",
+        "3. Victory of Dharma: The war is portrayed as a struggle between Righteousness (Dharma) and Unrighteousness (Adharma).",
+        "4. Role of Krishna: It introduced the Bhagavad Gita, which provides a religious justification for the duty of a Kshatriya.",
+        "5. Social Lessons: It illustrated that even close family bonds can be broken for higher ethical or political goals.",
+        "6. Impact: The war led to the establishment of a 'just' rule but at the cost of immense destruction of kinsmen."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. बंधुत्व का टूटना: इसने एक ही परिवार (कौरव और पांडव) के भीतर चरम संघर्ष को दिखाया।",
+        "2. संसाधनों का संघर्ष: यह भूमि और शक्ति के लिए लड़ाई थी, जो पितृसत्तात्मक व्यवस्था के केंद्र में थे।",
+        "3. धर्म की विजय: युद्ध को धर्म और अधर्म के बीच संघर्ष के रूप में चित्रित किया गया है।",
+        "4. कृष्ण की भूमिका: इसी युद्ध में भगवद्गीता का उपदेश दिया गया, जो एक क्षत्रिय के कर्तव्य का धार्मिक आधार प्रदान करता है।",
+        "5. सामाजिक सबक: इसने दिखाया कि उच्च नैतिक या राजनीतिक लक्ष्यों के लिए करीबी पारिवारिक रिश्तों को भी तोड़ा जा सकता है।",
+        "6. प्रभाव: युद्ध के परिणामस्वरूप एक 'न्यायपूर्ण' शासन की स्थापना हुई लेकिन इसके लिए अपनों का भारी विनाश झेलना पड़ा।"
+      ]
+    }
+  },
+  {
+    "q_id": 15,
+    "question": {
+      "en": "Question 15: How did Buddhism provide an alternative view on social hierarchy?",
+      "hi": "प्रश्न 15: बौद्ध धर्म ने सामाजिक पदानुक्रम पर एक वैकल्पिक दृष्टिकोण कैसे प्रदान किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Rejection of Birth: Buddhism argued that social differences were not natural or divinely ordained.",
+        "2. Equality in Sangha: Once inside the Buddhist Sangha, people lost their previous social identities (caste/varna).",
+        "3. Emphasis on Conduct: Status was determined by a person's moral conduct (Sila) rather than birth.",
+        "4. Human Agency: It suggested that social categories were created by humans to facilitate economic functions.",
+        "5. Critique of Varna: Many early Buddhist texts mocks the idea of Brahmanical superiority.",
+        "6. Social Change: By providing a platform where anyone could attain enlightenment, it challenged the rigid Varna system."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. जन्म को नकारना: बौद्ध धर्म ने तर्क दिया कि सामाजिक अंतर प्राकृतिक या दैवीय रूप से निर्धारित नहीं हैं।",
+        "2. संघ में समानता: बौद्ध संघ में प्रवेश करने के बाद, लोग अपनी पिछली सामाजिक पहचान (जाति/वर्ण) खो देते थे।",
+        "3. आचरण पर जोर: स्थिति व्यक्ति के जन्म के बजाय उसके नैतिक आचरण (शील) से निर्धारित होती थी।",
+        "4. मानवीय भूमिका: इसने सुझाव दिया कि सामाजिक श्रेणियाँ आर्थिक कार्यों को चलाने के लिए मनुष्यों द्वारा बनाई गई थीं।",
+        "5. वर्ण की आलोचना: कई प्रारंभिक बौद्ध ग्रंथ ब्राह्मणों की श्रेष्ठता के विचार का उपहास करते हैं।",
+        "6. सामाजिक परिवर्तन: एक ऐसा मंच प्रदान करके जहाँ कोई भी निर्वाण प्राप्त कर सकता था, इसने कठोर वर्ण व्यवस्था को चुनौती दी।"
+      ]
+    }
+  }
+]

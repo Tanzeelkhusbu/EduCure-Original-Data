@@ -1,0 +1,407 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Who was James Prinsep and what was his contribution to Indian epigraphy?",
+      "hi": "प्रश्न 1: जेम्स प्रिंसेप कौन थे और भारतीय अभिलेखशास्त्र में उनका क्या योगदान था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Identity: James Prinsep was an officer in the mint of the East India Company.",
+        "2. Breakthrough: In 1838, he deciphered Brahmi and Kharosthi scripts used in earliest inscriptions.",
+        "3. Piyadassi: He found that most inscriptions mentioned a king referred to as 'Piyadassi'.",
+        "4. Identification: These inscriptions were later linked to the Mauryan King Ashoka.",
+        "5. Historical Direction: This discovery gave a new direction to early Indian political history research.",
+        "6. Importance: It allowed scholars to use coins and inscriptions to reconstruct royal lineages."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिचय: जेम्स प्रिंसेप ईस्ट इंडिया कंपनी की टकसाल में एक अधिकारी थे।",
+        "2. बड़ी उपलब्धि: 1838 में उन्होंने सबसे पुराने अभिलेखों में प्रयुक्त ब्राह्मी और खरोष्ठी लिपियों का अर्थ निकाला।",
+        "3. पियदस्सी: उन्होंने पाया कि अधिकांश अभिलेखों में 'पियदस्सी' (सुंदर मुखाकृति वाला) राजा का उल्लेख है।",
+        "4. पहचान: इन अभिलेखों को बाद में मौर्य राजा अशोक से जोड़ा गया।",
+        "5. नया मोड़: इस खोज ने प्रारंभिक भारतीय राजनीतिक इतिहास के अध्ययन को नई दिशा दी।",
+        "6. महत्व: इससे विद्वानों को सिक्कों और अभिलेखों के माध्यम से राजवंशों का इतिहास फिर से लिखने में मदद मिली।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: What were the key features of the sixteen Mahajanapadas?",
+      "hi": "प्रश्न 2: सोलह महाजनपदों की मुख्य विशेषताएँ क्या थीं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Emergence: The 6th century BCE saw the rise of 16 powerful states known as Mahajanapadas.",
+        "2. Governance: Most were ruled by kings, but some (Ganas/Sanghas) were oligarchies ruled by many.",
+        "3. Fortified Capitals: Each Mahajanapada had a capital city which was usually heavily fortified.",
+        "4. Dharmasutras: Brahmanas began writing rules for rulers, advising them to collect taxes.",
+        "5. Resources: Rulers collected taxes from cultivators, traders, and artisans to maintain armies.",
+        "6. Military: Some states maintained standing armies, while others relied on local militias."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. उदय: छठी शताब्दी ईसा पूर्व में 16 शक्तिशाली राज्यों का उदय हुआ जिन्हें महाजनपद कहा गया।",
+        "2. शासन: अधिकांश पर राजाओं का शासन था, जबकि कुछ (गण/संघ) समूहों द्वारा शासित थे।",
+        "3. राजधानियाँ: प्रत्येक महाजनपद की एक राजधानी होती थी जो अक्सर किलेबंद होती थी।",
+        "4. धर्मसूत्र: ब्राह्मणों ने शासकों के लिए नियम लिखे और उन्हें कर वसूलने की सलाह दी।",
+        "5. संसाधन: राजा सेना बनाए रखने के लिए किसानों, व्यापारियों और शिल्पकारों से कर लेते थे।",
+        "6. सैन्य शक्ति: कुछ राज्यों की अपनी स्थायी सेना थी, जबकि कुछ कृषक-सेना पर निर्भर थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Discuss the factors that made Magadha the most powerful Mahajanapada.",
+      "hi": "प्रश्न 3: उन कारकों की चर्चा करें जिन्होंने मगध को सबसे शक्तिशाली महाजनपद बनाया।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Agriculture: Fertile soil led to high agricultural productivity in the Magadha region.",
+        "2. Iron Mines: Access to iron mines (modern Jharkhand) provided metal for weapons and tools.",
+        "3. Elephants: Nearby forests had plenty of elephants, which were crucial for the army.",
+        "4. River Routes: The Ganga and its tributaries provided cheap and easy transport.",
+        "5. Strong Rulers: Ambitious kings like Bimbisara and Ajatasattu implemented powerful policies.",
+        "6. Strategic Capitals: Rajgir and Pataliputra were strategically located for defense and trade."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. कृषि: उपजाऊ मिट्टी के कारण मगध क्षेत्र में कृषि पैदावार बहुत अधिक थी।",
+        "2. लोहे की खदानें: लोहे की खदानों (आधुनिक झारखंड) से हथियार और औजार बनाना आसान था।",
+        "3. हाथी: मगध के जंगलों में प्रचुर मात्रा में हाथी मिलते थे, जो सेना के लिए महत्वपूर्ण थे।",
+        "4. जल मार्ग: गंगा और सहायक नदियों ने सस्ता और सुलभ परिवहन प्रदान किया।",
+        "5. शक्तिशाली शासक: बिम्बिसार और अजातशत्रु जैसे राजाओं ने मगध को मज़बूत बनाया।",
+        "6. सुरक्षित राजधानियाँ: राजगीर और पाटलिपुत्र सुरक्षा और व्यापार की दृष्टि से महत्वपूर्ण थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: What are the main sources to reconstruct the history of the Mauryan Empire?",
+      "hi": "प्रश्न 4: मौर्य साम्राज्य के इतिहास को जानने के मुख्य स्रोत क्या हैं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Archaeology: Sculptures and remains from the Mauryan period serve as direct evidence.",
+        "2. Indica: Written by Megasthenes, it describes the administration and military of the time.",
+        "3. Arthashastra: Kautilya's work provides deep insights into statecraft and economy.",
+        "4. Buddhist/Jaina Texts: Literature from these religions mentions Mauryan kings and events.",
+        "5. Ashokan Inscriptions: Messages carved on rocks and pillars are the most reliable sources.",
+        "6. Puranas: Later Hindu texts also provide genealogical lists of Mauryan rulers."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पुरातत्व: मौर्यकालीन मूर्तियाँ और अवशेष प्रत्यक्ष प्रमाण के रूप में कार्य करते हैं।",
+        "2. इंडिका: मेगस्थनीज द्वारा लिखित यह पुस्तक प्रशासन और सैन्य व्यवस्था का वर्णन करती है।",
+        "3. अर्थशास्त्र: कौटिल्य (चाणक्य) का यह ग्रंथ राजनीति और अर्थव्यवस्था की जानकारी देता है।",
+        "4. धार्मिक ग्रंथ: बौद्ध और जैन साहित्य में मौर्य राजाओं का उल्लेख मिलता है।",
+        "5. अशोक के अभिलेख: स्तंभों और चट्टानों पर खुदे संदेश सबसे विश्वसनीय स्रोत हैं।",
+        "6. पुराण: पौराणिक ग्रंथों से भी मौर्य शासकों की वंशावली के बारे में पता चलता है।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Describe the key features of Mauryan Administration.",
+      "hi": "प्रश्न 5: मौर्य प्रशासन की मुख्य विशेषताओं का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Five Centres: The empire had five major political centers including the capital Pataliputra.",
+        "2. Military Committees: A committee with six sub-committees managed various military wings.",
+        "3. Communication: Wide roads and river routes were maintained for rapid movement of the army.",
+        "4. Provincial Control: Taxila and Ujjayini were crucial for controlling long-distance trade routes.",
+        "5. Dhamma Mahamattas: Special officers were appointed to maintain social harmony through Dhamma.",
+        "6. Uniformity: While administration was vast, it was strongest near the capital and provinces."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पाँच केंद्र: साम्राज्य के पाँच प्रमुख राजनीतिक केंद्र थे जिनमें राजधानी पाटलिपुत्र शामिल थी।",
+        "2. सैन्य समितियाँ: सेना के प्रबंधन के लिए एक समिति और छह उप-समितियाँ थीं।",
+        "3. संचार व्यवस्था: सेना की आवाजाही के लिए सड़कों और जलमार्गों का रखरखाव किया जाता था।",
+        "4. प्रांतीय नियंत्रण: तक्षशिला और उज्जयिनी व्यापारिक मार्गों के नियंत्रण के लिए महत्वपूर्ण थे।",
+        "5. धम्म महामात्त: समाज में शांति और धम्म फैलाने के लिए विशेष अधिकारी नियुक्त किए गए थे।",
+        "6. प्रशासनिक पकड़: प्रशासन की पकड़ राजधानी और प्रमुख प्रांतीय केंद्रों के पास सबसे अधिक थी।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: What was Ashoka's 'Dhamma' and how did he propagate it?",
+      "hi": "प्रश्न 6: अशोक का 'धम्म' क्या था और उसने इसका प्रचार कैसे किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Ethical Principles: Dhamma was a set of simple, non-religious moral rules for a good life.",
+        "2. Key Teachings: It included respecting elders, kindness to animals, and tolerance for all religions.",
+        "3. Pillar Edicts: Ashoka inscribed Dhamma messages on pillars and rocks in local languages.",
+        "4. Special Officers: Dhamma Mahamattas were appointed specifically to teach people these values.",
+        "5. Social Unity: The goal of Dhamma was to bind the diverse empire together without force.",
+        "6. International Reach: Ashoka sent messengers to countries like Syria, Greece, and Sri Lanka."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. नैतिक सिद्धांत: धम्म अच्छे जीवन के लिए सरल और गैर-धार्मिक नैतिक नियमों का समूह था।",
+        "2. मुख्य शिक्षाएँ: इसमें बड़ों का सम्मान, जानवरों के प्रति दया और सभी धर्मों के प्रति सहिष्णुता शामिल थी।",
+        "3. स्तंभ लेख: अशोक ने स्थानीय भाषाओं में स्तंभों और चट्टानों पर धम्म के संदेश लिखवाए।",
+        "4. विशेष अधिकारी: लोगों को इन मूल्यों को सिखाने के लिए 'धम्म महामात्त' नियुक्त किए गए थे।",
+        "5. सामाजिक एकता: धम्म का लक्ष्य बिना किसी बल प्रयोग के विविधतापूर्ण साम्राज्य को जोड़ना था।",
+        "6. अंतरराष्ट्रीय प्रचार: अशोक ने सीरिया, ग्रीस और श्रीलंका जैसे देशों में भी दूत भेजे।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Explain the 'Divine Kingship' strategy used by Kushana rulers.",
+      "hi": "प्रश्न 7: कुषाण शासकों द्वारा अपनाई गई 'दैवीय राजपद' की रणनीति की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Divine Status: Kushana kings claimed they were like gods to increase their authority.",
+        "2. Devaputra: They adopted the title 'Devaputra', which means 'Son of God'.",
+        "3. Colossal Statues: Huge statues of Kushana kings were placed in temples to show power.",
+        "4. Coins: Their coins depicted the king along with images of deities.",
+        "5. Influence: This idea of divine kingship was likely inspired by Chinese traditions.",
+        "6. Legitimacy: By linking themselves to gods, they made it harder for subjects to challenge them."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. दैवीय स्थिति: कुषाण राजाओं ने अपनी शक्ति बढ़ाने के लिए खुद को देवताओं के समान बताया।",
+        "2. देवपुत्र: उन्होंने 'देवपुत्र' की उपाधि धारण की, जिसका अर्थ है 'ईश्वर का पुत्र'।",
+        "3. विशाल मूर्तियाँ: शक्ति प्रदर्शन के लिए मंदिरों में कुषाण राजाओं की विशाल मूर्तियाँ लगाई गईं।",
+        "4. सिक्के: उनके सिक्कों पर राजा के साथ-साथ देवी-देवताओं के चित्र भी होते थे।",
+        "5. प्रभाव: दैवीय राजपद का यह विचार संभवतः चीनी परंपराओं से प्रेरित था।",
+        "6. वैधता: खुद को देवताओं से जोड़कर उन्होंने अपनी सत्ता को चुनौती देना कठिन बना दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: What agricultural technologies were introduced to increase production?",
+      "hi": "प्रश्न 8: उत्पादन बढ़ाने के लिए कौन सी कृषि प्रौद्योगिकियाँ अपनाई गईं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Iron Ploughshare: Use of iron-tipped ploughs spread in fertile river valleys like the Ganga.",
+        "2. Paddy Transplantation: This method significantly increased the yield of rice crops.",
+        "3. Use of Hoe: In hilly areas where ploughs were hard to use, the 'hoe' became common.",
+        "4. Irrigation: Production was boosted by wells, tanks, and occasionally small canals.",
+        "5. King's Support: Kings and powerful elites often organized large irrigation projects.",
+        "6. Labor Intensive: While technology helped, these methods required huge manual labor."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. लोहे का फाल: गंगा जैसी उपजाऊ घाटियों में लोहे के फाल वाले हलों का उपयोग बढ़ गया।",
+        "2. धान की रोपाई: धान की रोपाई की तकनीक से चावल की पैदावार में भारी वृद्धि हुई।",
+        "3. कुदाल का प्रयोग: पहाड़ी क्षेत्रों में जहाँ हल चलाना कठिन था, वहाँ कुदाल का प्रयोग बढ़ा।",
+        "4. सिंचाई: कुओं, तालाबों और कभी-कभी छोटी नहरों से सिंचाई कर उत्पादन बढ़ाया गया।",
+        "5. राजाओं का समर्थन: राजाओं और प्रभावशाली लोगों ने अक्सर बड़े सिंचाई प्रोजेक्ट आयोजित किए।",
+        "6. श्रम शक्ति: इन तकनीकों के साथ-साथ बहुत अधिक शारीरिक मेहनत की भी आवश्यकता थी।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Describe the growth of trade routes and urban life in early India.",
+      "hi": "प्रश्न 9: प्रारंभिक भारत में व्यापार मार्गों और शहरी जीवन के विकास का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Strategic Locations: Towns like Pataliputra and Puhar grew along trade and river routes.",
+        "2. Guilds (Shrenis): Artisans and merchants formed guilds to regulate production and prices.",
+        "3. Luxury Trade: Spices (like pepper), fine textiles, and medicinal plants were in high demand.",
+        "4. Global Reach: Trade networks extended to Central Asia, West Asia, and South-East Asia.",
+        "5. Coinage: The use of punch-marked coins simplified commercial transactions.",
+        "6. Urban Elite: Towns were inhabited by rich merchants, officials, and various craftsmen."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. रणनीतिक स्थान: पाटलिपुत्र और पुहार जैसे नगर व्यापार और नदी मार्गों पर विकसित हुए।",
+        "2. श्रेणियाँ (Guilds): शिल्पकारों और व्यापारियों ने उत्पादन और कीमतों को नियंत्रित करने के लिए संघ बनाए।",
+        "3. विलासिता का व्यापार: मसालों (काली मिर्च), बढ़िया कपड़ों और औषधीय पौधों की भारी मांग थी।",
+        "4. वैश्विक विस्तार: व्यापारिक जाल मध्य एशिया, पश्चिम एशिया और दक्षिण-पूर्व एशिया तक फैला था।",
+        "5. सिक्कों का उपयोग: आहत सिक्कों (Punch-marked coins) ने व्यापारिक लेन-देन को सरल बना दिया।",
+        "6. शहरी अभिजात वर्ग: शहरों में अमीर व्यापारी, अधिकारी और विभिन्न प्रकार के शिल्पकार रहते थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: Explain the significance of Land Grants and Prabhavati Gupta.",
+      "hi": "प्रश्न 10: भूमि दान के महत्व और प्रभावती गुप्त की भूमिका की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Records: Land grants were often recorded on copper plates and given to Brahmanas.",
+        "2. Agrahara: Lands given to Brahmanas were tax-free and known as Agrahara.",
+        "3. Extension of Agriculture: Grants were a strategy to bring new land under cultivation.",
+        "4. Prabhavati Gupta: As a Vakataka queen, she independently granted land to religious groups.",
+        "5. Rare Exception: Her action showed that royal women sometimes had access to land resources.",
+        "6. Political Alliance: Land grants also helped kings gain new political supporters and allies."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. प्रमाण: भूमि दान को अक्सर ताँबे के पत्रों पर दर्ज किया जाता था और ब्राह्मणों को दिया जाता था।",
+        "2. अग्रहार: ब्राह्मणों को दी जाने वाली भूमि कर-मुक्त होती थी जिसे 'अग्रहार' कहा जाता था।",
+        "3. खेती का विस्तार: दान देने की रणनीति नए क्षेत्रों में खेती शुरू करने के लिए अपनाई गई थी।",
+        "4. प्रभावती गुप्त: वाकाटक रानी के रूप में, उसने स्वतंत्र रूप से धार्मिक समूहों को भूमि दान दी।",
+        "5. दुर्लभ अपवाद: उसके कार्यों से पता चलता है कि राजघराने की महिलाओं का संसाधनों पर अधिकार था।",
+        "6. राजनीतिक गठबंधन: भूमि दान से राजाओं को नए राजनीतिक समर्थक और सहयोगी बनाने में मदद मिली।"
+      ]
+    }
+  },
+  {
+    "q_id": 11,
+    "question": {
+      "en": "Question 11: Discuss the importance and evolution of Coinage in early India.",
+      "hi": "प्रश्न 11: प्रारंभिक भारत में सिक्कों के महत्व और उनके विकास की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Punch-marked Coins: The earliest coins were silver and copper punch-marked coins.",
+        "2. Indo-Greeks: They were the first to issue coins with the names and portraits of kings.",
+        "3. Kushana Gold Coins: Kushanas issued the first gold coins in India, similar to Roman coins.",
+        "4. Gupta Excellence: Guptas issued highly artistic gold coins showing the king in various acts.",
+        "5. Economic Indicator: Pure gold coins signify high prosperity and flourishing trade.",
+        "6. Tribal Coins: Tribes like Yaudheyas also issued their own copper coins, showing local autonomy."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. आहत सिक्के: सबसे पुराने सिक्के चांदी और तांबे के 'आहत सिक्के' (Punch-marked) थे।",
+        "2. हिंद-यूनानी: वे पहले शासक थे जिन्होंने सिक्कों पर राजाओं के नाम और चित्र अंकित किए।",
+        "3. कुषाण स्वर्ण सिक्के: कुषाणों ने भारत में पहले सोने के सिक्के जारी किए, जो रोमन सिक्कों के समान थे।",
+        "4. गुप्तकालीन सिक्के: गुप्त शासकों ने अत्यधिक कलात्मक सोने के सिक्के जारी किए।",
+        "5. आर्थिक संकेतक: शुद्ध सोने के सिक्के उच्च समृद्धि और फलते-फूलते व्यापार को दर्शाते हैं।",
+        "6. जनजातीय सिक्के: यौधेय जैसी जनजातियों ने भी अपने तांबे के सिक्के जारी किए थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 12,
+    "question": {
+      "en": "Question 12: What are the limitations of inscriptional evidence in studying history?",
+      "hi": "प्रश्न 12: इतिहास के अध्ययन में अभिलेखीय साक्ष्यों की सीमाएँ क्या हैं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Technical Limitations: Letters are often faintly engraved and very difficult to read.",
+        "2. Damaged Records: Many inscriptions are damaged or have missing letters/parts.",
+        "3. Uncertain Meaning: The exact meaning of the words used is not always clear.",
+        "4. Limited Perspective: They often record only major events or what the ruler wanted to tell.",
+        "5. Omission of Daily Life: Everyday life, joy, and sorrow of common people are rarely recorded.",
+        "6. Survival Issue: Many thousands of inscriptions may have existed but only a few survived."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. तकनीकी सीमाएँ: अक्षर अक्सर बहुत हल्के खुदे होते हैं जिन्हें पढ़ना बहुत कठिन होता है।",
+        "2. क्षतिग्रस्त रिकॉर्ड: कई अभिलेख टूट चुके हैं या उनके कुछ अक्षर/हिस्से गायब हैं।",
+        "3. अनिश्चित अर्थ: अभिलेखों में प्रयुक्त शब्दों का सटीक अर्थ हमेशा स्पष्ट नहीं होता।",
+        "4. सीमित दृष्टिकोण: ये अक्सर केवल बड़ी घटनाओं या राजा के संदेशों को ही दर्ज करते हैं।",
+        "5. दैनिक जीवन की उपेक्षा: आम लोगों के रोजमर्रा के जीवन, सुख-दुख का उल्लेख इनमें नहीं मिलता।",
+        "6. अस्तित्व का संकट: हज़ारों अभिलेख रहे होंगे, लेकिन समय के साथ बहुत कम ही बच पाए हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 13,
+    "question": {
+      "en": "Question 13: Why is the 6th Century BCE called a major turning point in Indian history?",
+      "hi": "प्रश्न 13: छठी शताब्दी ईसा पूर्व को भारतीय इतिहास का एक प्रमुख 'मोड़' क्यों कहा जाता है?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Rise of States: This period saw the emergence of the first early states (Mahajanapadas).",
+        "2. Urbanization: It marked the rise of the first cities in India since the Harappan period.",
+        "3. Use of Iron: Increased use of iron led to better tools, weapons, and agricultural growth.",
+        "4. New Religions: Growth of diverse thought systems like Buddhism and Jainism.",
+        "5. Coinage: Development of the first metallic coins (Punch-marked) for trade.",
+        "6. Political Shift: The focus shifted from small tribal units to large, organized empires."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. राज्यों का उदय: इस काल में पहले प्रारंभिक राज्यों (महाजनपदों) का उदय हुआ।",
+        "2. शहरीकरण: हड़प्पा काल के बाद भारत में पहले नगरों का उदय इसी समय हुआ।",
+        "3. लोहे का प्रयोग: लोहे के बढ़ते उपयोग से बेहतर औजार, हथियार और कृषि विकास हुआ।",
+        "4. नए धर्म: बौद्ध और जैन धर्म जैसे नए विचार प्रणालियों का विकास हुआ।",
+        "5. सिक्कों का विकास: व्यापार के लिए धातु के सिक्कों (आहत सिक्कों) की शुरुआत हुई।",
+        "6. राजनीतिक बदलाव: छोटी जनजातीय इकाइयों से हटकर बड़े संगठित साम्राज्यों की ओर ध्यान बढ़ा।"
+      ]
+    }
+  },
+  {
+ "q_id": 14,
+    "question": {
+      "en": "Question 14: Explain the role of Samantas in the Gupta administration.",
+      "hi": "प्रश्न 14: गुप्त प्रशासन में 'सामंतों' की भूमिका की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: Samantas were local lords or men of power who controlled land and resources.",
+        "2. Military Support: They provided military assistance to the king during wars.",
+        "3. Homage: They were expected to pay homage and attend the royal court.",
+        "4. Power Balance: Powerful samantas could become kings, while weak kings fell under samantas' control.",
+        "5. Autonomy: They maintained significant local control while accepting the king's over-lordship.",
+        "6. Prayag Prashasti: It mentions how Samudragupta defeated or befriended various samantas."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: सामंत स्थानीय प्रभावशाली लोग थे जो भूमि और संसाधनों पर नियंत्रण रखते थे।",
+        "2. सैन्य सहायता: वे युद्ध के समय राजा को सैनिक सहायता प्रदान करते थे।",
+        "3. सम्मान प्रदर्शन: उनसे राजा को सम्मान देने और राजदरबार में उपस्थित होने की अपेक्षा की जाती थी।",
+        "4. शक्ति संतुलन: शक्तिशाली सामंत खुद राजा बन सकते थे, जबकि कमज़ोर राजा सामंतों के वश में आ जाते थे।",
+        "5. स्वायत्तता: वे राजा की सर्वोच्चता स्वीकार करते हुए भी स्थानीय स्तर पर अपना नियंत्रण रखते थे।",
+        "6. प्रयाग प्रशस्ति: इसमें उल्लेख है कि कैसे समुद्रगुप्त ने विभिन्न सामंतों को हराया या मित्र बनाया।"
+      ]
+    }
+  },
+  {
+    "q_id": 15,
+    "question": {
+      "en": "Question 15: What were the characteristics of urban populations in early historic cities?",
+      "hi": "प्रश्न 15: प्रारंभिक ऐतिहासिक शहरों की शहरी आबादी की क्या विशेषताएँ थीं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Diverse Classes: Cities were home to kings, officials, merchants, and common laborers.",
+        "2. Votive Inscriptions: These small records mention donors and their occupations like weavers or potters.",
+        "3. Craftsmen: Skilled artisans like goldsmiths, blacksmiths, and carpenters lived in specific areas.",
+        "4. Merchants: Wealthy merchants lived in the city and controlled long-distance trade.",
+        "5. Religious Groups: Monks and Brahmanas were also a significant part of the urban population.",
+        "6. Standard of Living: Excavations show artifacts like fine pottery (NBPW) used by the rich."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. विविध वर्ग: शहरों में राजा, अधिकारी, व्यापारी और सामान्य मजदूर सभी रहते थे।",
+        "2. दानपरक अभिलेख: इन छोटे अभिलेखों में दानदाताओं और उनके व्यवसायों (जैसे बुनकर या कुम्हार) का उल्लेख है।",
+        "3. शिल्पकार: सुनार, लोहार और बढ़ई जैसे कुशल कारीगर विशिष्ट क्षेत्रों में रहते थे।",
+        "4. व्यापारी: अमीर व्यापारी शहरों में रहकर दूर-दराज के व्यापार को नियंत्रित करते थे।",
+        "5. धार्मिक समूह: भिक्षु और ब्राह्मण भी शहरी आबादी का एक महत्वपूर्ण हिस्सा थे।",
+        "6. जीवन स्तर: खुदाई में कीमती बर्तनों (NBPW) जैसी वस्तुएं मिली हैं जिनका उपयोग अमीर लोग करते थे।"
+      ]
+    }
+  }
+]

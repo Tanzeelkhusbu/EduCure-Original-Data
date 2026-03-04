@@ -1,0 +1,272 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Describe the subsistence strategies and agricultural technologies of the Harappan civilization.",
+      "hi": "प्रश्न 1: हड़प्पा सभ्यता की निर्वाह रणनीतियों और कृषि प्रौद्योगिकियों का विस्तृत वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Dietary Habits: They consumed both plant products and animal products including fish.",
+        "2. Grains: Evidences of wheat, barley, lentil, chickpea, and sesame have been found.",
+        "3. Animal Husbandry: Bones of cattle, sheep, goat, buffalo, and pig suggest they were domesticated.",
+        "4. Agricultural Tools: Terracotta models of the plough have been found in Cholistan and Banawali.",
+        "5. Field Patterns: A ploughed field showing two different crops grown together was discovered at Kalibangan.",
+        "6. Irrigation: Canals were found at Shortughai (Afghanistan) and water reservoirs at Dholavira (Gujarat)."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. खान-पान: वे पेड़-पौधों और मछली सहित जानवरों से प्राप्त उत्पादों का सेवन करते थे।",
+        "2. अनाज: यहाँ गेहूँ, जौ, दाल, सफेद चना और तिल के अवशेष मिले हैं।",
+        "3. पशुपालन: भेड़, बकरी, भैंस और सुअर जैसे जानवरों को पालतू बनाने के साक्ष्य मिले हैं।",
+        "4. कृषि उपकरण: चोलिस्तान और बनावली में मिट्टी के 'हल' के मॉडल मिले हैं।",
+        "5. दोहरी फसल: कालीबंगन में एक साथ दो फसलें उगाने के साक्ष्य मिले हैं।",
+        "6. सिंचाई: अफगानिस्तान के शोरतुघई में 'नहरों' और धौलावीरा में 'जलाशयों' के प्रमाण मिले हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: Explain the unique features of Mohenjodaro's Town Planning and Drainage System.",
+      "hi": "प्रश्न 2: मोहनजोदड़ो के नगर नियोजन और जल निकास प्रणाली की अनूठी विशेषताओं की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Division of City: The settlement was divided into a higher 'Citadel' and a larger 'Lower Town'.",
+        "2. Planned Streets: Roads and streets were laid out in a grid pattern, intersecting at 90 degrees.",
+        "3. Drainage Network: Every house was connected to street drains made of burnt bricks.",
+        "4. Maintenance: Drains were covered with loose bricks or slabs for easy cleaning.",
+        "5. Privacy: Houses had no windows at ground level, and the main entrance gave no direct view of the interior.",
+        "6. Courtyard: Most houses were centered around a courtyard, which was the hub for activities like cooking."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. शहर का विभाजन: बस्ती दो हिस्सों में थी - एक ऊँचा 'दुर्ग' और एक बड़ा 'निचला शहर' ।",
+        "2. नियोजित गलियाँ: सड़कें और गलियाँ 'ग्रिड' पद्धति में बनी थीं, जो समकोण (90°) पर काटती थीं।",
+        "3. नाली तंत्र: हर घर की नाली गली की पक्की नालियों से जुड़ी हुई थी।",
+        "4. रखरखाव: नालियों को सफाई के लिए हटाने योग्य ईंटों या पट्टियों से ढका गया था।",
+        "5. गोपनीयता: घरों के निचले स्तर पर खिड़कियाँ नहीं थीं और मुख्य द्वार से अंदर का सीधा दृश्य नहीं दिखता था।",
+        "6. आँगन: घर के बीच में एक आँगन होता था, जहाँ खाना पकाने जैसे मुख्य कार्य होते थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Describe the structure and significance of the Great Bath.",
+      "hi": "प्रश्न 3: विशाल स्नानागार की संरचना और इसके महत्व का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Location: It was a large rectangular tank situated on the Citadel.",
+        "2. Construction: It was surrounded by corridors on all four sides.",
+        "3. Water-tightness: It was made water-tight using bricks and mortar of gypsum.",
+        "4. Steps: There were two flights of steps on the north and south leading into the tank.",
+        "5. Rooms: There were rooms on three sides, in one of which was a large well.",
+        "6. Purpose: Its unique location suggests it was used for special ritual baths."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. स्थान: यह दुर्ग पर स्थित एक बड़ा आयताकार जलाशय था।",
+        "2. निर्माण: यह चारों ओर से गलियारों से घिरा हुआ था।",
+        "3. जलसह तकनीक: इसे ईंटों और जिप्सम के गारे से वाटर-टाइट (जलसह) बनाया गया था।",
+        "4. सीढ़ियाँ: जलाशय के अंदर जाने के लिए उत्तर और दक्षिण में दो सीढ़ियाँ बनी थीं।",
+        "5. कमरे: इसके तीन ओर कमरे बने थे, जिनमें से एक में एक बड़ा कुआँ था।",
+        "6. उद्देश्य: इसकी विशिष्ट स्थिति बताती है कि इसका उपयोग विशेष धार्मिक स्नान के लिए होता था।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: How do archaeologists identify social differences in Harappan society?",
+      "hi": "प्रश्न 4: पुरातत्वविद हड़प्पा समाज में सामाजिक भिन्नताओं की पहचान कैसे करते हैं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Study of Burials: They look for ornaments or pottery in graves which might indicate wealth.",
+        "2. Burial Pits: In some pits, the hollowed-out spaces were lined with bricks, suggesting a higher status.",
+        "3. Classification of Artifacts: Artifacts are divided into 'Utilitarian' and 'Luxuries'.",
+        "4. Utilitarian Items: These are objects of daily use like querns, pottery, and needles found everywhere.",
+        "5. Luxury Items: Rare objects made from costly materials like 'faience' pots are found mostly in large cities.",
+        "6. Distribution: Concentrated finds of luxury goods in Mohenjodaro and Harappa show social stratification."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. समाधानों का अध्ययन: कब्रों में मिलने वाले गहनों या मिट्टी के बर्तनों से अमीरी-गरीबी का पता लगाया जाता है।",
+        "2. कब्र की बनावट: कुछ कब्रों की सतह पर ईंटों की चिनाई मिली है, जो ऊँचे सामाजिक स्तर को दर्शाती है।",
+        "3. वस्तुओं का वर्गीकरण: पुरातत्वविद वस्तुओं को 'उपयोगितावादी' और 'विलासिता' में बांटते हैं।",
+        "4. उपयोगितावादी वस्तुएँ: रोज़मर्रा के इस्तेमाल की चीज़ें जैसे चक्की और सुइयाँ, जो हर जगह मिली हैं।",
+        "5. विलासिता की वस्तुएँ: 'फ़यॉन्स' जैसे कीमती पदार्थों से बनी चीज़ें, जो केवल बड़े शहरों में मिलीं।",
+        "6. वितरण: कीमती वस्तुओं का केवल बड़े शहरों में मिलना समाज में बड़े अंतर को दर्शाता है।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Discuss the craft production and materials used in Chanhudaro.",
+      "hi": "प्रश्न 5: चन्हुदड़ो में शिल्प उत्पादन और उपयोग की जाने वाली सामग्रियों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Specialized Center: Chanhudaro was almost exclusively devoted to craft production.",
+        "2. Activities: It included bead-making, shell-cutting, metal-working, and seal-making.",
+        "3. Stones: Materials used included carnelian (red), jasper, crystal, quartz, and steatite.",
+        "4. Metals: Copper, bronze, and gold were used for various artifacts.",
+        "5. Bead Shapes: Beads were made in shapes like cylindrical, spherical, barrel-shaped, and segmented.",
+        "6. Identifying Centers: Presence of raw material, tools, and waste flakes help identify these craft centers."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. विशिष्ट केंद्र: चन्हुदड़ो पूरी तरह से शिल्प उत्पादन (Craft Production) के लिए समर्पित था।",
+        "2. मुख्य कार्य: यहाँ मनके बनाना, शंख काटना, धातु कर्म और मुहर बनाना शामिल था।",
+        "3. पत्थरों का उपयोग: कार्नेलियन (लाल रंग), जैस्पर, स्फटिक और सेलखड़ी जैसे पत्थरों का उपयोग होता था।",
+        "4. धातुएँ: ताँबा, काँसा और सोना जैसी धातुओं का उपयोग भी किया जाता था।",
+        "5. मनकों के आकार: मनके चक्राकार, बेलनाकार, गोलाकार और खंडित आकारों में बनाए जाते थे।",
+        "6. केंद्रों की पहचान: कच्चा माल, औजार और कूड़ा-करकट (Waste materials) से इन केंद्रों की पहचान की जाती है।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: How did the Harappans procure materials for craft production from distant lands?",
+      "hi": "प्रश्न 6: हड़प्पावासी दूरदराज के क्षेत्रों से शिल्प के लिए कच्चा माल कैसे प्राप्त करते थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Local Settlements: They established settlements like Nageshwar and Balakot near shell sources.",
+        "2. Strategic Locations: Shortughai (Afghanistan) was established for Lapis Lazuli (blue stone).",
+        "3. Expeditions: They sent expeditions to Khetri (Rajasthan) for copper and South India for gold.",
+        "4. Trade Contacts: Harappans traded with Oman for copper and Mesopotamia for other goods.",
+        "5. Sea Routes: Mesopotamian texts mention 'Meluhha' (Harappan region) as a land of seafarers.",
+        "6. Inland Transport: Use of bullock carts and river routes for transporting goods over land."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. स्थानीय बस्तियाँ: शंख के लिए नागेश्वर और बालाकोट जैसे तटीय क्षेत्रों में बस्तियाँ बसाई गईं।",
+        "2. रणनीतिक स्थान: नीले पत्थर (लाजवर्त मणि) के लिए अफगानिस्तान के शोरतुघई में केंद्र बनाया गया।",
+        "3. विशेष अभियान: ताँबे के लिए राजस्थान के खेत्री और सोने के लिए दक्षिण भारत में अभियान भेजे गए।",
+        "4. विदेशी व्यापार: ओमान से ताँबा और मेसोपोटामिया से अन्य वस्तुओं का आयात-निर्यात होता था।",
+        "5. समुद्री मार्ग: मेसोपोटामिया के लेखों में 'मेलुहा' (हड़प्पा क्षेत्र) को नाविकों का देश कहा गया है।",
+        "6. परिवहन: ज़मीनी रास्तों के लिए बैलगाड़ियों और नदी मार्गों का उपयोग किया जाता था।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Why is the Harappan script considered 'enigmatic'? Mention its features.",
+      "hi": "प्रश्न 7: हड़प्पा लिपि को 'रहस्यमयी' क्यों माना जाता है? इसकी विशेषताएँ बताइये।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Undeciphered: It is called enigmatic because it has not been read (deciphered) to this day.",
+        "2. Non-Alphabetical: It was not alphabetical (where each sign stands for a sound) but pictographic.",
+        "3. Large Number of Signs: The script had many signs, estimated between 375 and 400.",
+        "4. Direction: It was written from right to left, as evident from wider spacing on the right side of seals.",
+        "5. Mediums: Writing has been found on seals, copper tools, rims of jars, and even an ancient signboard.",
+        "6. Purpose: It was likely used for administration, trade, and identifying owners of goods."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. अपठित लिपि: इसे रहस्यमयी इसलिए कहा जाता है क्योंकि इसे आज तक पढ़ा नहीं जा सका है।",
+        "2. गैर-वर्णमाला: यह वर्णमाला आधारित नहीं थी, बल्कि चित्रलेखीय (Pictographic) थी।",
+        "3. चिन्हों की संख्या: इस लिपि में चिन्हों की संख्या बहुत अधिक (375 से 400 के बीच) थी।",
+        "4. लिखने की दिशा: यह दाईं से बाईं ओर लिखी जाती थी (मुहरों पर दाईं ओर अधिक जगह होने से पता चलता है)।",
+        "5. लिपि के साक्ष्य: यह मुहरों, ताँबे के औजारों, बर्तनों और साइनबोर्ड पर देखने को मिलती है।",
+        "6. उपयोग: इसका उपयोग व्यापार, प्रशासन और वस्तुओं के मालिक की पहचान के लिए होता था।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Explain the Harappan system of weights and measures.",
+      "hi": "प्रश्न 8: हड़प्पा की बाँट और माप प्रणाली की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Material: Weights were usually made of a stone called 'Chert'.",
+        "2. Shape: They were generally cubical in shape and had no markings on them.",
+        "3. Binary System: Lower denominations followed a binary system (1, 2, 4, 8, 16, 32... up to 12,800).",
+        "4. Decimal System: Higher denominations of weights followed the decimal system.",
+        "5. Small Weights: Very small weights were likely used for weighing jewelry and beads.",
+        "6. Uniformity: The weight system was remarkably uniform across the entire civilization."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पदार्थ: बाँट आमतौर पर 'चर्ट' नामक पत्थर से बनाए जाते थे।",
+        "2. आकार: ये बाँट आमतौर पर घनाकार (Cubical) होते थे और इन पर कोई निशान नहीं होता था।",
+        "3. द्विआधारी प्रणाली: निचले स्तर के बाँट द्विआधारी प्रणाली (1, 2, 4, 8, 16... 12,800 तक) का पालन करते थे।",
+        "4. दशमलव प्रणाली: भारी वस्तुओं को तोलने के लिए दशमलव प्रणाली का उपयोग किया जाता था।",
+        "5. छोटे बाँट: बहुत छोटे बाँटों का उपयोग संभवतः गहनों और मनकों को तोलने के लिए होता था।",
+        "6. एकरूपता: पूरी सभ्यता में बाँटों की प्रणाली आश्चर्यजनक रूप से एक समान थी।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Discuss the potential reasons for the sudden decline of the Harappan civilization.",
+      "hi": "प्रश्न 9: हड़प्पा सभ्यता के अचानक पतन के संभावित कारणों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Climatic Change: Changes in climate could have affected agriculture and survival.",
+        "2. Deforestation: Over-exploitation of forests for fuel and building materials.",
+        "3. Excessive Floods: Massive flooding of the Indus river might have destroyed cities.",
+        "4. Shifting of Rivers: Drying up or shifting of river courses like the Saraswati/Indus.",
+        "5. Overuse of Resources: Continuous farming for centuries exhausted the soil fertility.",
+        "6. Invasion Theory: Some scholars suggested an Aryan invasion, though this is highly debated."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. जलवायु परिवर्तन: जलवायु में बदलाव के कारण खेती और जीवन का आधार खत्म हो गया होगा।",
+        "2. वनों की कटाई: ईंधन और निर्माण के लिए जंगलों के अत्यधिक दोहन से संतुलन बिगड़ गया।",
+        "3. अत्यधिक बाढ़: सिंधु नदी में आने वाली विनाशकारी बाढ़ ने शहरों को नष्ट कर दिया होगा।",
+        "4. नदियों का मार्ग बदलना: मुख्य नदियों का सूखना या अपना रास्ता बदल लेना एक बड़ा कारण था।",
+        "5. संसाधनों का अति-उपयोग: लगातार सदियों तक खेती करने से मिट्टी की उपजाऊ शक्ति खत्म हो गई।",
+        "6. बाहरी आक्रमण: कुछ विद्वान आर्यों के आक्रमण को कारण मानते हैं, लेकिन यह विवादित है।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: Who was Alexander Cunningham? Mention his confusion regarding Harappa.",
+      "hi": "प्रश्न 10: अलेक्जेंडर कनिंघम कौन थे? हड़प्पा को लेकर उनके भ्रम का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Identity: He was the first Director-General of the Archaeological Survey of India (ASI).",
+        "2. Father of Archaeology: He is also known as the father of Indian archaeology.",
+        "3. Focus Area: His main interest was the archaeology of early historic periods (6th century BCE to 4th century CE).",
+        "4. Source Reliance: He used accounts of Chinese Buddhist pilgrims who visited India between the 4th and 7th centuries CE.",
+        "5. The Confusion: He failed to recognize the antiquity of Harappa because it did not fit into his historical timeline.",
+        "6. Misinterpretation: He thought Harappan artifacts belonged to a much later, known historical period."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिचय: वह भारतीय पुरातत्व सर्वेक्षण (ASI) के पहले महानिदेशक थे।",
+        "2. पुरातत्व के जनक: उन्हें 'भारतीय पुरातत्व का जनक' भी कहा जाता है।",
+        "3. रुचि का क्षेत्र: उनकी मुख्य रुचि प्रारंभिक ऐतिहासिक काल (छठी शताब्दी ईसा पूर्व से चौथी शताब्दी ईस्वी) में थी।",
+        "4. स्रोतों पर निर्भरता: वे चौथी से सातवीं शताब्दी के बीच भारत आए चीनी बौद्ध यात्रियों के वृत्तांतों पर निर्भर थे।",
+        "5. भ्रम का कारण: वे हड़प्पा की प्राचीनता को नहीं समझ सके क्योंकि यह उनके ऐतिहासिक समय-क्रम (Timeline) में फिट नहीं बैठता था।",
+        "6. गलत व्याख्या: उन्होंने हड़प्पा की वस्तुओं को बाद के किसी ऐतिहासिक काल का समझकर नज़रअंदाज़ कर दिया।"
+      ]
+    }
+  }
+]

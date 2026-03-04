@@ -1,0 +1,307 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: What was the Permanent Settlement (Istimrari Bandobast) introduced in Bengal?",
+      "hi": "प्रश्न 1: बंगाल में लागू किया गया 'इस्तमरारी बंदोबस्त' (स्थायी बंदोबस्त) क्या था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Introduction: Introduced by Lord Cornwallis in 1793 in Bengal.",
+        "2. Fixed Revenue: The East India Company fixed the land revenue that Zamindars had to pay to the state forever.",
+        "3. Role of Zamindars: Zamindars were not owners but collectors of revenue from the peasants.",
+        "4. Sunset Law: If the revenue was not paid by sunset of the specified date, the Zamindari was auctioned.",
+        "5. Objective: To ensure a regular flow of income for the Company and encourage investment in agriculture.",
+        "6. Result: Many Zamindars failed to pay the high revenue demand and lost their estates."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. शुरुआत: 1793 में लॉर्ड कॉर्नवालिस द्वारा बंगाल में लागू किया गया।",
+        "2. निश्चित राजस्व: ईस्ट इंडिया कंपनी ने वह भू-राजस्व तय कर दिया जो ज़मींदारों को हमेशा के लिए राज्य को देना था।",
+        "3. ज़मींदारों की भूमिका: ज़मींदार ज़मीन के मालिक नहीं बल्कि केवल राजस्व इकट्ठा करने वाले एजेंट थे।",
+        "4. सूर्यास्त कानून: यदि राजस्व तय तारीख के सूर्यास्त तक नहीं चुकाया गया, तो ज़मींदारी नीलाम कर दी जाती थी।",
+        "5. उद्देश्य: कंपनी के लिए आय का नियमित प्रवाह सुनिश्चित करना और खेती में निवेश को बढ़ावा देना।",
+        "6. परिणाम: कई ज़मींदार भारी राजस्व की मांग को पूरा नहीं कर सके और उनकी ज़मीनें नीलाम हो गईं।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Tip: 'Sunset Law' is a very popular 1-mark question. Highlight it in red in your app.",
+      "hi": "एग्ज़ाम टिप: 'सूर्यास्त कानून' 1-नंबर का बहुत लोकप्रिय सवाल है। अपने ऐप में इसे लाल रंग से हाईलाइट करें।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: Why did Zamindars default on revenue payments in the early years of the Permanent Settlement?",
+      "hi": "प्रश्न 2: इस्तमरारी बंदोबस्त के शुरुआती वर्षों में ज़मींदार राजस्व चुकाने में क्यों चूक जाते थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. High Initial Demand: The Company kept the initial revenue demand very high, fearing they couldn't increase it later.",
+        "2. Agricultural Depression: Prices of agricultural produce were low, making it hard for Ryots (peasants) to pay the Zamindar.",
+        "3. Invariable Revenue: The revenue was fixed and had to be paid regardless of harvest failure or drought.",
+        "4. Limited Power: The Company limited the Zamindars' power to collect rent by abolishing their local courts (cutcheries).",
+        "5. Jotedars' Influence: Powerful rich peasants called Jotedars often encouraged Ryots to delay payments to trouble the Zamindar.",
+        "6. Sunset Law: The fear of losing the estate due to the strict sunset law deadlines."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. ऊंची मांग: कंपनी ने शुरुआती राजस्व की मांग बहुत ऊंची रखी थी, इस डर से कि वे इसे बाद में बढ़ा नहीं पाएंगे।",
+        "2. कृषि मंदी: कृषि उपज की कीमतें कम थीं, जिससे रैयतों (किसानों) के लिए ज़मींदार को लगान देना मुश्किल था।",
+        "3. अपरिवर्तनीय राजस्व: राजस्व निश्चित था और फसल खराब होने या अकाल के बावजूद इसे चुकाना पड़ता था।",
+        "4. सीमित शक्ति: कंपनी ने स्थानीय अदालतों (कचहरी) को खत्म करके ज़मींदारों की लगान वसूलने की शक्ति कम कर दी थी।",
+        "5. जोतदारों का प्रभाव: जोतदार नामक अमीर किसान अक्सर ज़मींदार को परेशान करने के लिए रैयतों को लगान रोकने के लिए उकसाते थे।",
+        "6. सूर्यास्त कानून: सख्त समय सीमा के कारण ज़मींदारी खोने का डर बना रहता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Study Tip: Use the 'Sunset Law' as a reason for the default. It shows you know the specific terminology.",
+      "hi": "स्टडी टिप: राजस्व न चुका पाने के कारण के रूप में 'सूर्यास्त कानून' का ज़िक्र करें। इससे पता चलता है कि आपको सही शब्दावली पता है।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Who were the Jotedars? Describe their rise in the countryside.",
+      "hi": "प्रश्न 3: जोतदार कौन थे? देहात (गाँवों) में उनके उदय का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Identity: A group of rich peasants who emerged in North Bengal towards the end of the 18th century.",
+        "2. Power Base: Unlike Zamindars (who lived in cities), Jotedars lived in the village and had direct control over the Ryots.",
+        "3. Land Control: They acquired vast areas of land and controlled local trade and moneylending.",
+        "4. Opposing Zamindars: They actively resisted the efforts of Zamindars to increase rent and intentionally delayed revenue payments.",
+        "5. Local Influence: They held power in the village panchayats and were supported by the poor villagers.",
+        "6. Auction Gains: When Zamindari lands were auctioned, Jotedars were often the main purchasers."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पहचान: 18वीं शताब्दी के अंत में उत्तरी बंगाल में उभरे अमीर किसानों का एक समूह।",
+        "2. शक्ति का आधार: ज़मींदारों (जो शहरों में रहते थे) के विपरीत, जोतदार गाँव में रहते थे और रैयतों पर उनका सीधा नियंत्रण था।",
+        "3. भूमि नियंत्रण: उन्होंने ज़मीन के बड़े हिस्सों पर कब्ज़ा कर लिया और स्थानीय व्यापार व साहूकारी को नियंत्रित किया।",
+        "4. ज़मींदारों का विरोध: उन्होंने लगान बढ़ाने के ज़मींदारों के प्रयासों का विरोध किया और जानबूझकर राजस्व भुगतान में देरी की।",
+        "5. स्थानीय प्रभाव: ग्राम पंचायतों में उनकी शक्ति थी और गरीब ग्रामीण उनका समर्थन करते थे।",
+        "6. नीलामी में लाभ: जब ज़मींदारी ज़मीन नीलाम होती थी, तो जोतदार ही अक्सर मुख्य खरीदार होते थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Comparison Tip: In Educare, create a 'Zamindar vs Jotedar' table. It's a great way to learn their differences.",
+      "hi": "तुलना टिप: Educare में 'ज़मींदार बनाम जोतदार' की टेबल बनाएँ। उनके अंतर को समझने का यह सबसे अच्छा तरीका है।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: Describe the lifestyle and agriculture of the Paharias of Rajmahal Hills.",
+      "hi": "प्रश्न 4: राजमहल की पहाड़ियों के 'पहाड़िया' लोगों की जीवनशैली और कृषि का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Shifting Cultivation: They practiced shifting cultivation by clearing patches of forest and burning the bushes.",
+        "2. Crops: They grew pulses and millets for consumption using hoes (kudali) for scratching the soil.",
+        "3. Forest Resources: They relied on forest products like Mahua for food and silk cocoons for trade.",
+        "4. Resistance: They viewed the plains and settled cultivators as enemies and often raided the lowlands for grain.",
+        "5. Conflict with British: They resisted British attempts to turn forests into settled agricultural land.",
+        "6. Symbol: The 'Hoe' (Kudali) became the symbol of their shifting lifestyle and freedom."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. झूम खेती: वे जंगल के छोटे हिस्सों को साफ करके और झाड़ियों को जलाकर झूम खेती (Shifting cultivation) करते थे।",
+        "2. फसलें: वे मिट्टी खुरचने के लिए कुदाली का उपयोग करके दालें और बाजरा उगाते थे।",
+        "3. वन संसाधन: वे भोजन के लिए महुआ और व्यापार के लिए रेशम के कोयों (Cocoons) जैसे वन उत्पादों पर निर्भर थे।",
+        "4. प्रतिरोध: वे मैदानी इलाकों के किसानों को अपना दुश्मन मानते थे और अनाज के लिए अक्सर निचले इलाकों पर हमले करते थे।",
+        "5. अंग्रेजों से संघर्ष: उन्होंने जंगलों को स्थाई कृषि भूमि में बदलने के ब्रिटिश प्रयासों का विरोध किया।",
+        "6. प्रतीक: 'कुदाली' उनकी घुमंतू जीवनशैली और आज़ादी का प्रतीक बन गई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Point: Remember: Paharia = Hoe (Kudali), Santhal = Plough (Hal). This distinction is crucial.",
+      "hi": "मुख्य बिंदु: याद रखें: पहाड़िया = कुदाली, संथाल = हल। यह अंतर बहुत महत्वपूर्ण है।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Why did the British invite Santhals to settle in the Rajmahal Hills?",
+      "hi": "प्रश्न 5: अंग्रेजों ने संथालों को राजमहल की पहाड़ियों में बसने के लिए क्यों आमंत्रित किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Failed Paharias: The Paharias refused to clear forests and settle down as stable farmers.",
+        "2. Santhals as Ideal Farmers: Santhals were seen as ideal settlers who were ready to clear forests and use the plough.",
+        "3. Damin-i-Koh: A separate area of land was demarcated for Santhals in 1832, known as Damin-i-Koh.",
+        "4. Revenue Source: Settled agriculture by Santhals provided a permanent and predictable source of revenue for the British.",
+        "5. Forest Conversion: The British wanted to turn 'wild' forests into orderly, revenue-yielding grain fields.",
+        "6. Expansion: By 1850, the Santhal population in this region grew significantly, leading to extensive forest clearing."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पहाड़िया लोगों की विफलता: पहाड़िया लोगों ने जंगलों को साफ करने और स्थाई किसान के रूप में बसने से इनकार कर दिया था।",
+        "2. आदर्श किसान के रूप में संथाल: संथालों को आदर्श बसने वाले के रूप में देखा गया जो जंगल साफ करने और 'हल' चलाने के लिए तैयार थे।",
+        "3. दामिन-ए-कोह: 1832 में संथालों के लिए ज़मीन का एक अलग इलाका तय किया गया, जिसे 'दामिन-ए-कोह' कहा गया।",
+        "4. राजस्व का स्रोत: संथालों द्वारा की जाने वाली स्थाई खेती से अंग्रेजों को राजस्व का एक स्थाई स्रोत मिला।",
+        "5. जंगलों का परिवर्तन: अंग्रेज 'जंगली' जंगलों को व्यवस्थित और राजस्व देने वाले अनाज के खेतों में बदलना चाहते थे।",
+        "6. विस्तार: 1850 तक इस क्षेत्र में संथालों की आबादी काफी बढ़ गई, जिससे बड़े पैमाने पर जंगल साफ हुए।"
+      ]
+    },
+    "app_tip": {
+      "en": "Vocabulary Tip: Add 'Damin-i-Koh' to the app's dictionary. It means 'Land of the Santhals'.",
+      "hi": "शब्दावली टिप: ऐप की डिक्शनरी में 'दामिन-ए-कोह' जोड़ें। इसका अर्थ है 'संथालों की भूमि'।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Discuss the causes and significance of the Santhal Rebellion (1855-56).",
+      "hi": "प्रश्न 6: संथाल विद्रोह (1855-56) के कारणों और महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. High Taxes: The state imposed very high land revenue on the lands cleared by Santhals.",
+        "2. Debt Trap: Moneylenders (Dikus) charged exorbitant interest rates, trapping Santhals in debt.",
+        "3. Land Loss: Zamindars slowly took control of Santhal lands within the Damin-i-Koh area.",
+        "4. Rebellion Leadership: Led by Sidhu and Kanhu, Santhals rose in rebellion against Zamindars, moneylenders, and the British state.",
+        "5. Brutal Suppression: The British used heavy military force to crush the rebellion, burning Santhal villages.",
+        "6. Creation of Santhal Pargana: After the revolt, the British created the 'Santhal Pargana' district to pacify them."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. भारी कर: सरकार ने संथालों द्वारा साफ की गई ज़मीनों पर बहुत अधिक लगान लगा दिया था।",
+        "2. कर्ज का जाल: साहूकार (दिक्कू) बहुत ऊंची ब्याज दरें वसूलते थे, जिससे संथाल कर्ज में डूब गए।",
+        "3. भूमि का छिनना: ज़मींदार धीरे-धीरे दामिन-ए-कोह इलाके के भीतर संथालों की ज़मीन पर कब्ज़ा कर रहे थे।",
+        "4. विद्रोह का नेतृत्व: सिद्धू और कान्हू के नेतृत्व में, संथालों ने ज़मींदारों, साहूकारों और ब्रिटिश सरकार के खिलाफ विद्रोह कर दिया।",
+        "5. क्रूर दमन: अंग्रेजों ने विद्रोह को कुचलने के लिए भारी सैन्य बल का प्रयोग किया और संथालों के गाँवों को जला दिया।",
+        "6. संथाल परगना का निर्माण: विद्रोह के बाद, उन्हें शांत करने के लिए अंग्रेजों ने 'संथाल परगना' नाम का एक अलग जिला बनाया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Profile Tip: Create a profile card for Sidhu and Kanhu as heroes of the Santhal rebellion.",
+      "hi": "प्रोफाइल टिप: संथाल विद्रोह के नायकों के रूप में सिद्धू और कान्हू के लिए एक प्रोफाइल कार्ड बनाएँ।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: What was the Fifth Report and why was it submitted to the British Parliament?",
+      "hi": "प्रश्न 7: 'पाँचवीं रिपोर्ट' क्या थी और इसे ब्रिटिश संसद में क्यों प्रस्तुत किया गया था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: A report on the administration and activities of the East India Company in India, submitted in 1813.",
+        "2. Context: Many groups in Britain were unhappy with the Company's monopoly on trade with India.",
+        "3. Content: It contained detailed records of petitions from Zamindars and Ryots, and statistical tables on revenue.",
+        "4. Objective: To highlight the mismanagement and maladministration of the East India Company.",
+        "5. Result: It led to intense debates in the British Parliament and changed the way the Company governed India.",
+        "6. Historical Bias: Modern historians argue that the report exaggerated the decline of Zamindars to make a case against the Company."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: भारत में ईस्ट इंडिया कंपनी के प्रशासन और गतिविधियों पर एक रिपोर्ट, जो 1813 में पेश की गई थी।",
+        "2. संदर्भ: ब्रिटेन में कई समूह भारत के साथ व्यापार पर कंपनी के एकाधिकार से नाखुश थे।",
+        "3. विषय-वस्तु: इसमें ज़मींदारों और रैयतों की याचिकाओं के विस्तृत रिकॉर्ड और राजस्व पर सांख्यिकीय तालिकाएँ थीं।",
+        "4. उद्देश्य: ईस्ट इंडिया कंपनी के कुप्रबंधन और कुप्रशासन को उजागर करना।",
+        "5. परिणाम: इससे ब्रिटिश संसद में तीखी बहस हुई और कंपनी के शासन करने के तरीके में बदलाव आया।",
+        "6. ऐतिहासिक पक्षपात: आधुनिक इतिहासकारों का तर्क है कि रिपोर्ट ने कंपनी के खिलाफ मामला बनाने के लिए ज़मींदारों के पतन को बढ़ा-चढ़ाकर पेश किया था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Note: This report is a primary source for historians, but it must be read carefully because it was biased against the Company.",
+      "hi": "मुख्य नोट: यह रिपोर्ट इतिहासकारों के लिए एक प्राथमिक स्रोत है, लेकिन इसे सावधानी से पढ़ना चाहिए क्योंकि यह कंपनी के खिलाफ पक्षपाती थी।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Explain the Deccan Riots of 1875 and the role of the Deccan Riots Commission.",
+      "hi": "प्रश्न 8: 1875 के 'दक्कन दंगों' और 'दक्कन दंगा आयोग' की भूमिका की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Cause: Peasants in the Deccan region (Pune/Ahmednagar) rose against Sahukars (moneylenders) due to debt.",
+        "2. Cotton Boom and Bust: During the American Civil War, cotton prices soared, but after the war, prices crashed, leaving farmers in debt.",
+        "3. High Revenue: The British increased land revenue by 50-100%, making it impossible for farmers to pay.",
+        "4. Action: Farmers attacked Sahukars, burnt account books (bahis), and looted grain shops.",
+        "5. Commission: The British government set up the Deccan Riots Commission to investigate the causes of the unrest.",
+        "6. Result: This led to the passing of the Deccan Agriculturists’ Relief Act (1879) to protect farmers from moneylenders."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. कारण: दक्कन क्षेत्र (पुणे/अहमदनगर) के किसानों ने कर्ज के कारण साहूकारों के खिलाफ विद्रोह कर दिया।",
+        "2. कपास की तेज़ी और मंदी: अमेरिकी गृहयुद्ध के दौरान कपास की कीमतें बढ़ीं, लेकिन युद्ध के बाद कीमतें गिर गईं, जिससे किसान कर्ज में डूब गए।",
+        "3. भारी राजस्व: अंग्रेजों ने भू-राजस्व में 50-100% की वृद्धि की, जिससे किसानों के लिए भुगतान करना असंभव हो गया।",
+        "4. कार्यवाही: किसानों ने साहूकारों पर हमला किया, उनकी बही-खाते (Bahis) जला दिए और अनाज की दुकानों को लूट लिया।",
+        "5. आयोग: ब्रिटिश सरकार ने अशांति के कारणों की जाँच के लिए 'दक्कन दंगा आयोग' का गठन किया।",
+        "6. परिणाम: इसके बाद किसानों को साहूकारों से बचाने के लिए 'दक्कन कृषक राहत अधिनियम' (1879) पारित किया गया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Timeline Tip: Connect the American Civil War (1861-65) to the Deccan Riots to explain the global economic connection.",
+      "hi": "टाइमलाइन टिप: वैश्विक आर्थिक संबंध समझाने के लिए अमेरिकी गृहयुद्ध (1861-65) को दक्कन के दंगों से जोड़कर देखें।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Describe the 'Ryotwari' system of land revenue introduced in South India.",
+      "hi": "प्रश्न 9: दक्षिण भारत में लागू की गई भू-राजस्व की 'रैयतवाड़ी' प्रणाली का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Introduction: Introduced mainly in the Bombay and Madras Presidencies.",
+        "2. Direct Settlement: Unlike Bengal, the revenue settlement was made directly with the Ryots (cultivators).",
+        "3. No Intermediaries: There were no Zamindars as middlemen; the state acted as the landlord.",
+        "4. Temporary Assessment: The land was surveyed and revenue was fixed for a temporary period (30 years).",
+        "5. High Rates: In practice, the revenue rates were very high, often 50-60% of the produce.",
+        "6. Debt Cycle: High demands forced Ryots to borrow from moneylenders, leading to widespread rural indebtedness."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिचय: मुख्य रूप से बॉम्बे और मद्रास प्रेसीडेंसी में लागू किया गया।",
+        "2. सीधा बंदोबस्त: बंगाल के विपरीत, राजस्व का समझौता सीधे रैयतों (खेती करने वालों) के साथ किया गया था।",
+        "3. कोई मध्यस्थ नहीं: इसमें ज़मींदार बिचौलिये के रूप में नहीं थे; सरकार ही मालिक के रूप में कार्य करती थी।",
+        "4. अस्थायी निर्धारण: भूमि का सर्वेक्षण किया गया और राजस्व एक अस्थायी अवधि (30 वर्ष) के लिए तय किया गया।",
+        "5. ऊंची दरें: व्यवहार में, राजस्व की दरें बहुत ऊंची थीं, जो अक्सर उपज का 50-60% होती थीं।",
+        "6. कर्ज का चक्र: ऊंची मांग ने रैयतों को साहूकारों से कर्ज लेने पर मजबूर किया, जिससे ग्रामीण कर्जदारी बढ़ गई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Table Tip: Add a comparison table in the app: Permanent Settlement (Bengal) vs Ryotwari System (Madras/Bombay).",
+      "hi": "टेबल टिप: ऐप में एक तुलना तालिका जोड़ें: स्थायी बंदोबस्त (बंगाल) बनाम रैयतवाड़ी प्रणाली (मद्रास/बॉम्बे)।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: How did the American Civil War affect the lives of cotton farmers in the Deccan?",
+      "hi": "प्रश्न 10: अमेरिकी गृहयुद्ध ने दक्कन के कपास किसानों के जीवन को कैसे प्रभावित किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Supply Interruption: When the American Civil War broke out in 1861, cotton supply from the USA to Britain was cut off.",
+        "2. Demand for Indian Cotton: Britain turned to India for raw cotton, leading to a sudden boom in cotton prices.",
+        "3. Credit Expansion: Sahukars (moneylenders) provided easy credit to Deccan farmers to expand cotton cultivation.",
+        "4. Brief Prosperity: For a few years, cotton farmers saw great prosperity and expanded their lands.",
+        "5. The Crash: In 1865, when the war ended, American cotton returned to the market, and prices in India crashed.",
+        "6. Debt and Misery: Moneylenders stopped providing credit and demanded repayment, leading to the Deccan Riots of 1875."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. आपूर्ति में बाधा: जब 1861 में अमेरिकी गृहयुद्ध शुरू हुआ, तो अमेरिका से ब्रिटेन को होने वाली कपास की आपूर्ति बंद हो गई।",
+        "2. भारतीय कपास की मांग: ब्रिटेन कच्चे कपास के लिए भारत की ओर मुड़ा, जिससे कपास की कीमतों में अचानक उछाल आया।",
+        "3. कर्ज का विस्तार: साहूकारों ने दक्कन के किसानों को कपास की खेती बढ़ाने के लिए आसानी से कर्ज दिया।",
+        "4. अल्पकालिक समृद्धि: कुछ वर्षों तक कपास किसानों ने बहुत समृद्धि देखी और अपनी ज़मीनें बढ़ाईं।",
+        "5. मंदी: 1865 में जब युद्ध समाप्त हुआ, तो अमेरिकी कपास बाज़ार में वापस आ गई और भारत में कीमतें गिर गईं।",
+        "6. कर्ज और दुर्दशा: साहूकारों ने कर्ज देना बंद कर दिया और वसूली शुरू कर दी, जिससे 1875 के दक्कन दंगे हुए।"
+      ]
+    },
+ 

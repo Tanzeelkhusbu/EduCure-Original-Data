@@ -1,0 +1,307 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Describe the tumultuous context in which the Indian Constitution was framed.",
+      "hi": "प्रश्न 1: उन उथल-पुथल भरे संदर्भों का वर्णन करें जिनमें भारतीय संविधान का निर्माण हुआ था।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Post-War Chaos: The period following WWII saw intense political activity and the end of British rule.",
+        "2. Partition Trauma: The country was divided, leading to large-scale communal violence and migration.",
+        "3. Princely States: The challenge of integrating over 500 princely states into the Indian Union.",
+        "4. Poverty and Illiteracy: The makers had to address the extreme poverty and lack of education among the masses.",
+        "5. Social Inequality: Centuries of caste discrimination and gender inequality needed legal solutions.",
+        "6. High Expectations: People expected the new Constitution to bring immediate social and economic justice."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. युद्धोत्तर अराजकता: द्वितीय विश्व युद्ध के बाद का समय तीव्र राजनीतिक गतिविधियों और ब्रिटिश शासन के अंत का था।",
+        "2. विभाजन का सदमा: देश विभाजित हो गया था, जिससे बड़े पैमाने पर सांप्रदायिक हिंसा और विस्थापन हुआ।",
+        "3. रियासतों की चुनौती: 500 से अधिक रियासतों को भारतीय संघ में एकीकृत करने की बड़ी चुनौती थी।",
+        "4. गरीबी और निरक्षरता: संविधान निर्माताओं को जनता के बीच व्याप्त गरीबी और शिक्षा की कमी को दूर करना था।",
+        "5. सामाजिक असमानता: सदियों के जातिगत भेदभाव और लैंगिक असमानता के कानूनी समाधान की आवश्यकता थी।",
+        "6. उच्च अपेक्षाएँ: लोगों को उम्मीद थी कि नया संविधान तत्काल सामाजिक और आर्थिक न्याय लाएगा।"
+      ]
+    },
+    "app_tip": {
+      "en": "App Tip: Add a 'Historical Context' card highlighting 15 August 1947 as a mix of joy and mourning due to partition.",
+      "hi": "ऐप टिप: एक 'ऐतिहासिक संदर्भ' कार्ड जोड़ें जिसमें 15 अगस्त 1947 को विभाजन के कारण खुशी और शोक के मिश्रण के रूप में दिखाया गया हो।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: What was the 'Objectives Resolution' moved by Jawaharlal Nehru?",
+      "hi": "प्रश्न 2: जवाहरलाल नेहरू द्वारा पेश किया गया 'उद्देश्य प्रस्ताव' क्या था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Introduction: Moved by Nehru on 13 December 1946 in the Constituent Assembly.",
+        "2. Vision: It outlined the defining ideals of the Constitution of Independent India.",
+        "3. Republic: It declared India to be an 'Independent Sovereign Republic'.",
+        "4. Justice and Equality: It promised social, economic, and political justice to all citizens.",
+        "5. Minority Protection: It ensured adequate safeguards for minorities, backward, and tribal areas.",
+        "6. Foundation: This resolution later became the Preamble (Uddeshika) of the Constitution."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिचय: नेहरू द्वारा 13 दिसंबर 1946 को संविधान सभा में पेश किया गया।",
+        "2. दृष्टिकोण: इसने स्वतंत्र भारत के संविधान के परिभाषित आदर्शों की रूपरेखा तैयार की।",
+        "3. गणराज्य: इसने भारत को एक 'स्वतंत्र संप्रभु गणराज्य' घोषित किया।",
+        "4. न्याय और समानता: इसने सभी नागरिकों को सामाजिक, आर्थिक और राजनीतिक न्याय का वादा किया।",
+        "5. अल्पसंख्यकों की सुरक्षा: इसने अल्पसंख्यकों, पिछड़े और जनजातीय क्षेत्रों के लिए पर्याप्त सुरक्षा उपाय सुनिश्चित किए।",
+        "6. आधार: यही प्रस्ताव बाद में संविधान की 'प्रस्तावना' (Uddeshika) बना।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Key: 'Objectives Resolution' is a high-priority 4-mark question. Tag it as 'Preamble Source'.",
+      "hi": "एग्ज़ाम की: 'उद्देश्य प्रस्ताव' 4-नंबर का एक महत्वपूर्ण सवाल है। इसे 'प्रस्तावना का स्रोत' के रूप में टैग करें।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Discuss the arguments against 'Separate Electorates' in the Constituent Assembly.",
+      "hi": "प्रश्न 3: संविधान सभा में 'पृथक निर्वाचिका' के खिलाफ दिए गए तर्कों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Threat to Unity: Leaders like Sardar Patel argued that separate electorates would divide the nation.",
+        "2. Communalism: It was seen as a poison that had already led to the partition of the country.",
+        "3. Minority Isolation: R.V. Dhulekar argued it would isolate minorities rather than protecting them.",
+        "4. Political Deadlock: It would prevent the development of a unified political system.",
+        "5. Rejection: Most members believed in 'Joint Electorates' with reserved seats instead.",
+        "6. Final Decision: The Assembly finally rejected separate electorates to build a cohesive national identity."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. एकता को खतरा: सरदार पटेल जैसे नेताओं ने तर्क दिया कि पृथक निर्वाचिका राष्ट्र को विभाजित कर देगी।",
+        "2. सांप्रदायिकता: इसे एक ऐसे जहर के रूप में देखा गया जिसने पहले ही देश का विभाजन कर दिया था।",
+        "3. अल्पसंख्यकों का अलगाव: आर.वी. धुलेकर ने तर्क दिया कि यह अल्पसंख्यकों की रक्षा करने के बजाय उन्हें अलग-थलग कर देगा।",
+        "4. राजनीतिक गतिरोध: यह एक एकीकृत राजनीतिक व्यवस्था के विकास को रोक देगा।",
+        "5. अस्वीकृति: अधिकांश सदस्यों ने इसके बजाय आरक्षित सीटों के साथ 'संयुक्त निर्वाचिका' में विश्वास व्यक्त किया।",
+        "6. अंतिम निर्णय: सभा ने अंततः एक मज़बूत राष्ट्रीय पहचान बनाने के लिए पृथक निर्वाचिका को खारिज कर दिया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Vocabulary Tip: Define 'Separate Electorates' vs 'Reserved Seats' clearly in the glossary.",
+      "hi": "शब्दावली टिप: ग्लॉसरी में 'पृथक निर्वाचिका' बनाम 'आरक्षित सीटों' को स्पष्ट रूप से परिभाषित करें।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: What were the views of B.R. Ambedkar regarding the rights of Depressed Classes?",
+      "hi": "प्रश्न 4: दबे-कुचले वर्गों (Depressed Classes) के अधिकारों के संबंध में बी.आर. अंबेडकर के क्या विचार थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Social Justice: He argued that political freedom is useless without social and economic equality.",
+        "2. Reservation: He demanded reserved seats in legislatures and government jobs for the depressed classes.",
+        "3. Abolition of Untouchability: He insisted on a constitutional ban on the practice of untouchability (Article 17).",
+        "4. Moral Obligation: He believed the upper castes had a moral duty to compensate for centuries of oppression.",
+        "5. Education: He emphasized that education is the key to the empowerment of these classes.",
+        "6. Legal Safeguards: He played a vital role in drafting provisions that protect the dignity of every citizen."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सामाजिक न्याय: उन्होंने तर्क दिया कि सामाजिक और आर्थिक समानता के बिना राजनीतिक स्वतंत्रता बेकार है।",
+        "2. आरक्षण: उन्होंने दबे-कुचले वर्गों के लिए विधायिकाओं और सरकारी नौकरियों में आरक्षित सीटों की मांग की।",
+        "3. अस्पृश्यता का अंत: उन्होंने छुआछूत की प्रथा पर संवैधानिक रोक (अनुच्छेद 17) लगाने पर जोर दिया।",
+        "4. नैतिक दायित्व: उनका मानना था कि उच्च जातियों का यह नैतिक कर्तव्य है कि वे सदियों के उत्पीड़न की भरपाई करें।",
+        "5. शिक्षा: उन्होंने इस बात पर जोर दिया कि शिक्षा ही इन वर्गों के सशक्तिकरण की कुंजी है।",
+        "6. कानूनी सुरक्षा: उन्होंने प्रत्येक नागरिक की गरिमा की रक्षा करने वाले प्रावधानों को तैयार करने में महत्वपूर्ण भूमिका निभाई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Profile Tip: Create a profile for Dr. B.R. Ambedkar as the 'Father of the Indian Constitution'.",
+      "hi": "प्रोफाइल टिप: डॉ. बी.आर. अंबेडकर के लिए 'भारतीय संविधान के जनक' के रूप में एक प्रोफाइल कार्ड बनाएँ।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Discuss the debate over the powers of the Central Government vs State Governments.",
+      "hi": "प्रश्न 5: केंद्र सरकार बनाम राज्य सरकारों की शक्तियों पर हुए वाद-विवाद की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Strong Centre: Leaders like Ambedkar and Nehru argued for a strong Central government to maintain unity.",
+        "2. Coordination: A strong centre was seen as essential for national planning and security.",
+        "3. State Autonomy: K. Santhanam argued that states should have enough powers to function effectively.",
+        "4. Fear of Burden: Santhanam felt that over-burdening the Centre would make it inefficient.",
+        "5. The Three Lists: To resolve this, powers were divided into Union List, State List, and Concurrent List.",
+        "6. Residuary Powers: Ultimately, more powers and the 'residuary powers' were given to the Central Government."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. मज़बूत केंद्र: अंबेडकर और नेहरू जैसे नेताओं ने एकता बनाए रखने के लिए एक मज़बूत केंद्र सरकार की वकालत की।",
+        "2. तालमेल: राष्ट्रीय योजना और सुरक्षा के लिए एक मज़बूत केंद्र को अनिवार्य माना गया।",
+        "3. राज्यों की स्वायत्तता: के. संथानम ने तर्क दिया कि राज्यों के पास प्रभावी ढंग से कार्य करने के लिए पर्याप्त शक्तियाँ होनी चाहिए।",
+        "4. बोझ का डर: संथानम को लगा कि केंद्र पर अधिक बोझ डालने से वह अक्षम हो जाएगा।",
+        "5. तीन सूचियाँ: इसे हल करने के लिए शक्तियों को संघ सूची, राज्य सूची और समवर्ती सूची में विभाजित किया गया।",
+        "6. अवशिष्ट शक्तियाँ: अंततः, अधिक शक्तियाँ और 'अवशिष्ट शक्तियाँ' केंद्र सरकार को दी गईं।"
+      ]
+    },
+    "app_tip": {
+      "en": "Concept Tip: Use a flowchart to show the 3 lists (Union, State, Concurrent) in the app.",
+      "hi": "कॉन्सेप्ट टिप: ऐप में 3 सूचियों (संघ, राज्य, समवर्ती) को दिखाने के लिए एक फ्लोचार्ट का उपयोग करें।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Explain the 'Language Debate' in the Constituent Assembly.",
+      "hi": "प्रश्न 6: संविधान सभा में हुए 'भाषा विवाद' की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Hindustani: Gandhi supported Hindustani (mix of Hindi and Urdu) as a bridge between communities.",
+        "2. Hindi Support: Many members from North India pushed for Hindi as the sole national language.",
+        "3. Southern Resistance: Members from South India (like G. Durgabai) feared the imposition of Hindi would marginalize them.",
+        "4. Transition: To satisfy both sides, Hindi was made the 'Official Language' (not National) in Devanagari script.",
+        "5. English: It was decided that English would continue to be used for official purposes for 15 years.",
+        "6. Compromise: Each state was allowed to choose its own official language for provincial administration."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. हिंदुस्तानी: गांधीजी ने समुदायों के बीच सेतु के रूप में हिंदुस्तानी (हिंदी और उर्दू का मिश्रण) का समर्थन किया।",
+        "2. हिंदी का समर्थन: उत्तर भारत के कई सदस्यों ने हिंदी को एकमात्र राष्ट्रीय भाषा बनाने पर जोर दिया।",
+        "3. दक्षिण का विरोध: दक्षिण भारत के सदस्यों (जैसे जी. दुर्गाबाई) को डर था कि हिंदी थोपने से वे हाशिए पर चले जाएंगे।",
+        "4. समाधान: दोनों पक्षों को संतुष्ट करने के लिए हिंदी को देवनागरी लिपि में 'राजभाषा' (Official Language) बनाया गया।",
+        "5. अंग्रेजी: यह निर्णय लिया गया कि अगले 15 वर्षों तक आधिकारिक कार्यों के लिए अंग्रेजी का उपयोग जारी रहेगा।",
+        "6. समझौता: प्रत्येक राज्य को प्रांतीय प्रशासन के लिए अपनी राजभाषा चुनने की अनुमति दी गई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Note: Highlight the distinction between 'National Language' (Rashtrabhasha) and 'Official Language' (Rajbhasha).",
+      "hi": "मुख्य नोट: 'राष्ट्रभाषा' और 'राजभाषा' के बीच के अंतर को स्पष्ट रूप से हाईलाइट करें।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: What role did Somnath Lahiri play in the Assembly and what were his fears?",
+      "hi": "प्रश्न 7: सोमनाथ लाहिड़ी ने सभा में क्या भूमिका निभाई और उनके डर क्या थे?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Identity: He was a Communist member who looked at the Assembly with suspicion.",
+        "2. British Shadow: He feared that the Assembly was working under the shadow of British imperialism.",
+        "3. Fake Independence: He initially thought the freedom being offered was a sham as the British were still involved.",
+        "4. Call for Sovereignty: He urged the members to declare complete independence from any foreign control.",
+        "5. People's Power: He emphasized that the Constitution should reflect the will of the working class and peasants.",
+        "6. Shift: Like others, he eventually participated to ensure a democratic future for India."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पहचान: वे एक कम्युनिस्ट सदस्य थे जिन्होंने सभा को संदेह की दृष्टि से देखा।",
+        "2. ब्रिटिश छाया: उन्हें डर था कि सभा ब्रिटिश साम्राज्यवाद की छाया में काम कर रही है।",
+        "3. झूठी आज़ादी: उन्हें शुरू में लगा कि जो आज़ादी मिल रही है वह दिखावा है क्योंकि अंग्रेज अभी भी शामिल थे।",
+        "4. संप्रभुता का आह्वान: उन्होंने सदस्यों से किसी भी विदेशी नियंत्रण से पूर्ण स्वतंत्रता घोषित करने का आग्रह किया।",
+        "5. जनता की शक्ति: उन्होंने इस बात पर जोर दिया कि संविधान में श्रमिक वर्ग और किसानों की इच्छा झलकनी चाहिए।",
+        "6. बदलाव: अन्यों की तरह, उन्होंने भी अंततः भारत के लोकतांत्रिक भविष्य को सुनिश्चित करने के लिए इसमें भाग लिया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Critical Note: Use Somnath Lahiri's views to show that there was diverse political thought in the Assembly.",
+      "hi": "मुख्य नोट: यह दिखाने के लिए सोमनाथ लाहिड़ी के विचारों का उपयोग करें कि सभा में विविध राजनीतिक सोच मौजूद थी।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Describe the significance of 26 January in Indian history.",
+      "hi": "प्रश्न 8: भारतीय इतिहास में 26 जनवरी के महत्व का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Purna Swaraj: On 26 January 1930, the Congress first celebrated 'Independence Day' in Lahore.",
+        "2. Constitution: Although the Constitution was ready on 26 Nov 1949, it was enforced on 26 Jan 1950.",
+        "3. Republic Day: This date was chosen to honor the memory of the 1930 pledge of Purna Swaraj.",
+        "4. Sovereignty: It marks the day when India truly became a Sovereign Democratic Republic.",
+        "5. Symbolism: It connects the struggle for freedom with the rule of law.",
+        "6. Celebration: It is now celebrated as Republic Day to showcase national unity and progress."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पूर्ण स्वराज: 26 जनवरी 1930 को कांग्रेस ने पहली बार लाहौर में 'स्वतंत्रता दिवस' मनाया था।",
+        "2. संविधान: हालाँकि संविधान 26 नवंबर 1949 को तैयार हो गया था, लेकिन इसे 26 जनवरी 1950 को लागू किया गया।",
+        "3. गणतंत्र दिवस: यह तारीख 1930 के पूर्ण स्वराज के संकल्प की याद में चुनी गई थी।",
+        "4. संप्रभुता: यह उस दिन का प्रतीक है जब भारत वास्तव में एक संप्रभु लोकतांत्रिक गणराज्य बना।",
+        "5. प्रतीकात्मकता: यह आज़ादी के संघर्ष को कानून के शासन (Rule of law) से जोड़ता है।",
+        "6. उत्सव: अब इसे राष्ट्रीय एकता और प्रगति प्रदर्शित करने के लिए गणतंत्र दिवस के रूप में मनाया जाता है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Date Tip: Explain why Nov 26 is 'Constitution Day' and Jan 26 is 'Republic Day'.",
+      "hi": "तारीख टिप: समझाएं कि क्यों 26 नवंबर 'संविधान दिवस' है और 26 जनवरी 'गणतंत्र दिवस' है।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: What were the challenges faced regarding the integration of Princely States?",
+      "hi": "प्रश्न 9: रियासतों के एकीकरण के संबंध में किन चुनौतियों का सामना करना पड़ा?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Number: There were 562 princely states covering one-third of India's land.",
+        "2. Choice: The British gave them the choice to join India, Pakistan, or remain independent.",
+        "3. Threat to Integrity: Independence of states like Hyderabad or Kashmir threatened to balkanize India.",
+        "4. Sardar Patel's Role: Known as the 'Iron Man', he used diplomacy and pressure to integrate most states.",
+        "5. Democratic Aspirations: People in these states wanted democratic rights similar to British India.",
+        "6. Constitutional Inclusion: The Constitution had to create a framework that treated these territories as part of the Union."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. संख्या: भारत की एक-तिहाई भूमि पर 562 रियासतें थीं।",
+        "2. विकल्प: अंग्रेजों ने उन्हें भारत या पाकिस्तान में शामिल होने या स्वतंत्र रहने का विकल्प दिया था।",
+        "3. अखंडता को खतरा: हैदराबाद या कश्मीर जैसी रियासतों की आज़ादी से भारत के विखंडन का खतरा था।",
+        "4. सरदार पटेल की भूमिका: 'लौह पुरुष' के रूप में जाने जाने वाले पटेल ने कूटनीति और दबाव का उपयोग करके अधिकांश रियासतों को एकीकृत किया।",
+        "5. लोकतांत्रिक आकांक्षाएँ: इन रियासतों की जनता ब्रिटिश भारत के समान लोकतांत्रिक अधिकार चाहती थी।",
+        "6. संवैधानिक समावेश: संविधान को एक ऐसा ढांचा बनाना था जो इन क्षेत्रों को संघ के हिस्से के रूप में स्वीकार करे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Historical Tip: Mention Sardar Patel's role in an 'Important Figures' section of the app.",
+      "hi": "ऐतिहासिक टिप: ऐप के 'महत्वपूर्ण व्यक्ति' सेक्शन में सरदार पटेल की भूमिका का उल्लेख करें।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: How did the Assembly ensure the protection of minority rights?",
+      "hi": "प्रश्न 10: सभा ने अल्पसंख्यक अधिकारों की सुरक्षा कैसे सुनिश्चित की?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Religious Freedom: Guaranteed the right to profess and practice any religion (Articles 25-28).",
+        "2. Cultural Rights: Protection of the language, script, and culture of minorities (Articles 29-30).",
+        "3. Secularism: Established India as a secular state with no official religion.",
+        "4. Equality of Opportunity: Ensured no discrimination in public employment based on religion or caste.",
+        "5. N.G. Ranga's View: He argued that real minorities were the poor and the exploited who needed economic protection.",
+        "6. Reservations: Provision of reserved seats in legislatures for Scheduled Castes and Tribes."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. धार्मिक स्वतंत्रता: किसी भी धर्म को मानने और उसका पालन करने के अधिकार की गारंटी दी (अनुच्छेद 25-28)।",
+        "2. सांस्कृतिक अधिकार: अल्पसंख्यकों की भाषा, लिपि और संस्कृति की सुरक्षा (अनुच्छेद 29-30)।",
+        "3. धर्मनिरपेक्षता: भारत को बिना किसी आधिकारिक धर्म के एक धर्मनिरपेक्ष राज्य के रूप में स्थापित किया।",
+        "4. अवसर की समानता: सुनिश्चित किया कि धर्म या जाति के आधार पर सार्वजनिक रोजगार में कोई भेदभाव न हो।",
+        "5. एन.जी. रंगा का विचार: उन्होंने तर्क दिया कि वास्तविक अल्पसंख्यक गरीब और शोषित थे जिन्हें आर्थिक सुरक्षा की आवश्यकता थी।",
+        "6. आरक्षण: अनुसूचित जातियों और जनजातियों के लिए विधायिकाओं में आरक्षित सीटों का प्रावधान।"
+      ]
+    },
+

@@ -1,0 +1,307 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: What are the main sources to understand the agrarian history of the Mughal period?",
+      "hi": "प्रश्न 1: मुगल काल के कृषि इतिहास को समझने के मुख्य स्रोत क्या हैं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Ain-i-Akbari: Authored by Abu’l Fazl, it provides detailed data on crops, revenue, and administration.",
+        "2. Revenue Records: Documents from Gujarat, Rajasthan, and Maharashtra from the 17th-18th centuries.",
+        "3. East India Company Records: Provide descriptions of agrarian relations in Eastern India.",
+        "4. Mughal Chronicles: Official histories of emperors that mention agricultural policies.",
+        "5. Local Documents: Pargana records and village account books (Chittas).",
+        "6. Foreign Accounts: Observations by travelers like Bernier and Tavernier about rural life."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. आईन-ए-अकबरी: अबुल फज़ल द्वारा रचित, इसमें फसलों, राजस्व और प्रशासन का विस्तृत विवरण है।",
+        "2. राजस्व रिकॉर्ड: 17वीं-18वीं शताब्दी के गुजरात, राजस्थान और महाराष्ट्र के दस्तावेज़।",
+        "3. ईस्ट इंडिया कंपनी के रिकॉर्ड: पूर्वी भारत में कृषि संबंधों का वर्णन प्रदान करते हैं।",
+        "4. मुगल इतिवृत्त: सम्राटों के आधिकारिक इतिहास जिनमें कृषि नीतियों का उल्लेख है।",
+        "5. स्थानीय दस्तावेज़: परगना रिकॉर्ड और गाँव के हिसाब-किताब की किताबें (चिट्ठा)।",
+        "6. विदेशी वृत्तांत: बर्नियर और टैवर्नियर जैसे यात्रियों द्वारा ग्रामीण जीवन का अवलोकन।"
+      ]
+    },
+    "app_tip": {
+      "en": "App Tip: Highlight 'Ain-i-Akbari' as the most important source. Mention Abu’l Fazl as the author in an MCQ.",
+      "hi": "ऐप टिप: 'आईन-ए-अकबरी' को सबसे महत्वपूर्ण स्रोत के रूप में हाईलाइट करें। एक MCQ में अबुल फज़ल को लेखक के रूप में ज़रूर शामिल करें।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: Describe the two types of peasants: Khud-kashta and Pahi-kashta.",
+      "hi": "प्रश्न 2: दो प्रकार के किसानों: खुद-काश्त और पाही-काश्त का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Khud-kashta: These were residents of the village in which they held their lands.",
+        "2. Pahi-kashta: These were non-resident cultivators who belonged to another village but cultivated land elsewhere on a contractual basis.",
+        "3. Motive: People became Pahi-kashta out of choice (better terms) or compulsion (famine/poverty).",
+        "4. Rights: Khud-kashta had hereditary rights over their land, while Pahi-kashta were often temporary.",
+        "5. Social Status: Khud-kashta generally held higher social and political influence in the village.",
+        "6. Migration: Migration was common as peasants moved to areas with lower taxes or better soil."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. खुद-काश्त: ये उसी गाँव के निवासी थे जहाँ उनकी अपनी खेती की ज़मीन होती थी।",
+        "2. पाही-काश्त: ये वे किसान थे जो दूसरे गाँव के निवासी थे लेकिन अनुबंध के आधार पर कहीं और खेती करते थे।",
+        "3. कारण: लोग अपनी मर्जी (बेहतर शर्तों) या मजबूरी (अकाल/गरीबी) के कारण पाही-काश्त बनते थे।",
+        "4. अधिकार: खुद-काश्त के पास अपनी ज़मीन पर वंशानुगत अधिकार थे, जबकि पाही-काश्त अक्सर अस्थायी होते थे।",
+        "5. सामाजिक स्थिति: गाँव में खुद-काश्त का सामाजिक और राजनीतिक प्रभाव आमतौर पर अधिक होता था।",
+        "6. पलायन: किसान अक्सर कम कर या बेहतर मिट्टी वाले क्षेत्रों की तलाश में पलायन करते थे।"
+      ]
+    },
+    "app_tip": {
+      "en": "Comparison Tip: In the app UI, use a side-by-side comparison table for these two types of peasants.",
+      "hi": "तुलना टिप: ऐप UI में, इन दो प्रकार के किसानों के लिए एक साथ तुलना करने वाली टेबल का उपयोग करें।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: Discuss the role of Irrigation and Technology in Mughal Agriculture.",
+      "hi": "प्रश्न 3: मुगलकालीन कृषि में सिंचाई और तकनीक की भूमिका की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Monsoon Dependence: Agriculture was largely dependent on the monsoon, but supplementary irrigation was vital.",
+        "2. Artificial Irrigation: State-funded projects like canals (e.g., Shahnahar in Punjab) were built.",
+        "3. Persian Wheel: Used for lifting water from wells, showing technological advancement.",
+        "4. Agricultural Tools: Use of wooden ploughs with iron tips and seed drills was common.",
+        "5. Variety of Crops: Peasants grew at least two crops a year (Kharif and Rabi).",
+        "6. Jins-i-Kamil: The state encouraged the production of 'perfect crops' like cotton and sugarcane for higher revenue."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. मानसून पर निर्भरता: खेती काफी हद तक मानसून पर निर्भर थी, लेकिन सहायक सिंचाई भी महत्वपूर्ण थी।",
+        "2. कृत्रिम सिंचाई: राज्य द्वारा वित्तपोषित नहरों (जैसे पंजाब में शाहनहर) का निर्माण किया गया था।",
+        "3. रहट (Persian Wheel): कुओं से पानी निकालने के लिए रहट का उपयोग तकनीकी प्रगति को दर्शाता है।",
+        "4. कृषि उपकरण: लोहे की नोक वाले लकड़ी के हल और बीज बोने वाले उपकरणों का उपयोग आम था।",
+        "5. फसलों की विविधता: किसान साल में कम से कम दो फसलें (खरीफ और रबी) उगाते थे।",
+        "6. जिन्स-ए-कामिल: राज्य ने अधिक राजस्व के लिए कपास और गन्ना जैसी 'सर्वोत्तम फसलों' के उत्पादन को बढ़ावा दिया।"
+      ]
+    },
+    "app_tip": {
+      "en": "Visual Tip: Include a diagram or picture of a 'Persian Wheel' to explain how irrigation worked.",
+      "hi": "विजुअल टिप: सिंचाई कैसे काम करती थी, यह समझाने के लिए 'रहट' (Persian Wheel) का चित्र शामिल करें।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: What was the role of the 'Muqaddam' or 'Mandal' in the village administration?",
+      "hi": "प्रश्न 4: ग्राम प्रशासन में 'मुकद्दम' या 'मंडल' की क्या भूमिका थी?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Headman: The village panchayat was headed by a headman known as Muqaddam or Mandal.",
+        "2. Appointment: Usually chosen by the village elders and approved by the Zamindar.",
+        "3. Tenure: He held office as long as he enjoyed the confidence of the village elders.",
+        "4. Revenue: His main function was to supervise the collection of land revenue and village accounts.",
+        "5. Social Order: He was responsible for maintaining law and order and settling disputes within the village.",
+        "6. Village Fund: He managed the common financial pool used for village welfare and entertaining officials."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. मुखिया: ग्राम पंचायत का नेतृत्व एक मुखिया करता था जिसे मुकद्दम या मंडल कहा जाता था।",
+        "2. नियुक्ति: आमतौर पर गाँव के बुजुर्गों द्वारा चुना जाता था और ज़मींदार द्वारा अनुमोदित किया जाता था।",
+        "3. कार्यकाल: वह तब तक पद पर रहता था जब तक उसे गाँव के बुजुर्गों का विश्वास प्राप्त था।",
+        "4. राजस्व: उसका मुख्य कार्य भू-राजस्व की वसूली और गाँव के खातों की निगरानी करना था।",
+        "5. सामाजिक व्यवस्था: वह गाँव के भीतर कानून-व्यवस्था बनाए रखने और विवादों को सुलझाने के लिए ज़िम्मेदार था।",
+        "6. ग्राम कोष: वह गाँव के साझा कोष का प्रबंधन करता था जिसका उपयोग जन कल्याण और अधिकारियों के स्वागत में होता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Vocabulary Tip: Add a glossary entry for 'Muqaddam' and 'Patwari' (village accountant).",
+      "hi": "शब्दावली टिप: 'मुकद्दम' और 'पटवारी' (गाँव का लेखाकार) के लिए एक ग्लॉसरी एंट्री जोड़ें।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Discuss the status and duties of Women in the Mughal rural society.",
+      "hi": "प्रश्न 5: मुगल ग्रामीण समाज में महिलाओं की स्थिति और कर्तव्यों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Active Labor: Women worked alongside men in the fields—sowing, weeding, and harvesting.",
+        "2. Artisanal Work: They were central to spinning yarn, pottery, and embroidery work.",
+        "3. Property Rights: Hindu and Muslim women often inherited landed property and could sell or mortgage it.",
+        "4. Social Restrictions: Despite their labor, they were subject to strict social control by the male heads of the family.",
+        "5. Punishments: Adultery or defiance was met with severe punishments from the village panchayats.",
+        "6. Scarcity: High mortality rates led to a scarcity of women, making them a precious 'resource' in rural life."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सक्रिय श्रम: महिलाएँ खेतों में पुरुषों के साथ मिलकर काम करती थीं—बुवाई, निराई और कटाई में।",
+        "2. शिल्प कार्य: वे सूत कातने, मिट्टी के बर्तन बनाने और कढ़ाई के काम में मुख्य भूमिका निभाती थीं।",
+        "3. संपत्ति के अधिकार: हिंदू और मुस्लिम महिलाओं को अक्सर भूमि विरासत में मिलती थी और वे उसे बेच या गिरवी रख सकती थीं।",
+        "4. सामाजिक पाबंदियाँ: उनके श्रम के बावजूद, वे परिवार के पुरुष मुखियाओं के कड़े सामाजिक नियंत्रण में थीं।",
+        "5. दंड: व्यभिचार या अवज्ञा के लिए ग्राम पंचायतों द्वारा कठोर दंड दिए जाते थे।",
+        "6. कमी: मृत्यु दर अधिक होने के कारण महिलाओं की कमी थी, जिससे उन्हें ग्रामीण जीवन में एक कीमती 'संसाधन' माना जाता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Critical Thinking Tip: Highlight that women were essential for the rural economy, challenging the idea that they were only homemakers.",
+      "hi": "सोचने की टिप: हाईलाइट करें कि महिलाएँ ग्रामीण अर्थव्यवस्था के लिए अनिवार्य थीं, जो इस विचार को चुनौती देती हैं कि वे केवल गृहिणी थीं।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Who were the Zamindars? Explain their sources of power.",
+      "hi": "प्रश्न 6: ज़मींदार कौन थे? उनकी शक्ति के स्रोतों की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: Landed gentry who held high social and economic status but did not participate directly in cultivation.",
+        "2. Caste Connection: Most Zamindars belonged to upper castes, giving them traditional social authority.",
+        "3. Military Power: They maintained fortresses (qilas) and small armed contingents of cavalry and infantry.",
+        "4. Milkiyat: They had extensive personal lands called 'milkiyat', cultivated with the help of hired labor.",
+        "5. Revenue Collection: They acted as intermediaries between the state and the peasants in collecting revenue.",
+        "6. Colonization: They played a key role in settling new lands and providing credit to peasants."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: वे उच्च सामाजिक और आर्थिक स्थिति वाले लोग थे जिनके पास ज़मीन होती थी लेकिन वे खुद खेती नहीं करते थे।",
+        "2. जाति जुड़ाव: अधिकांश ज़मींदार उच्च जातियों के थे, जिससे उन्हें पारंपरिक सामाजिक अधिकार प्राप्त थे।",
+        "3. सैन्य शक्ति: वे अपने किले (किले) और घुड़सवारों व पैदल सैनिकों की छोटी सशस्त्र टुकड़ियाँ रखते थे।",
+        "4. मल्कियत: उनके पास 'मल्कियत' नामक विशाल निजी ज़मीनें होती थीं, जिन पर वे दिहाड़ी मजदूरों से खेती कराते थे।",
+        "5. राजस्व वसूली: वे राजस्व इकट्ठा करने में राज्य और किसानों के बीच मध्यस्थ के रूप में काम करते थे।",
+        "6. नई बस्तियाँ: उन्होंने नई ज़मीनों को बसाने और किसानों को ऋण (Credit) देने में मुख्य भूमिका निभाई।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Term: Define 'Milkiyat' clearly in the app, as it is a specific term for personal lands of Zamindars.",
+      "hi": "मुख्य शब्द: ऐप में 'मल्कियत' को स्पष्ट रूप से परिभाषित करें, क्योंकि यह ज़मींदारों की निजी ज़मीन के लिए एक विशिष्ट शब्द है।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Describe the 'Zabit' system of land revenue collection under Akbar.",
+      "hi": "प्रश्न 7: अकबर के शासनकाल में भू-राजस्व वसूली की 'ज़ब्ती' (Zabit) प्रणाली का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Objective: The state aimed to maximize revenue while ensuring the peasants' survival.",
+        "2. Assessment: Two stages—'Jama' (amount assessed) and 'Hasil' (amount actually collected).",
+        "3. Measurement: Land was measured using the 'Gaz-i-Ilahi' to ensure accuracy.",
+        "4. Cash Payment: Akbar preferred revenue to be paid in cash, though payment in kind was also allowed.",
+        "5. Categorization: Land was classified based on productivity (Polaj, Parauti, Chachar, Banjar).",
+        "6. Direct Relation: The state tried to establish a direct link with the cultivators to reduce the Zamindars' influence."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. उद्देश्य: राज्य का लक्ष्य किसानों के अस्तित्व को सुनिश्चित करते हुए राजस्व को अधिकतम करना था।",
+        "2. निर्धारण: इसके दो चरण थे—'जमा' (निर्धारित राशि) और 'हासिल' (वास्तव में वसूल की गई राशि)।",
+        "3. मापन: सटीकता सुनिश्चित करने के लिए 'गज-ए-इलाही' का उपयोग करके भूमि को मापा जाता था।",
+        "4. नकद भुगतान: अकबर ने राजस्व का भुगतान नकद में लेना पसंद किया, हालाँकि अनाज के रूप में भी अनुमति थी।",
+        "5. वर्गीकरण: उत्पादकता के आधार पर भूमि को वर्गीकृत किया गया था (पोलज, परौती, चचर, बंजर)।",
+        "6. सीधा संबंध: राज्य ने ज़मींदारों के प्रभाव को कम करने के लिए खेती करने वालों के साथ सीधा संबंध बनाने की कोशिश की।"
+      ]
+    },
+    "app_tip": {
+      "en": "Table Tip: Create a table showing the 4 types of land (Polaj to Banjar) and their definitions.",
+      "hi": "टेबल टिप: भूमि के 4 प्रकारों (पोलज से बंजर) और उनकी परिभाषाओं को दिखाने वाली एक टेबल बनाएँ।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Explain the significance of the silver flow into Mughal India during the 16th-17th centuries.",
+      "hi": "प्रश्न 8: 16वीं-17वीं शताब्दी के दौरान मुगल भारत में चाँदी के प्रवाह के महत्व की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Global Trade: India's trade with Europe and Asia expanded, leading to a huge influx of silver.",
+        "2. Payment in Silver: Foreign companies paid for Indian textiles and spices primarily in silver bullions.",
+        "3. Monetization: This led to the large-scale minting of silver coins (Rupee), monetizing the economy.",
+        "4. Revenue in Cash: It allowed the Mughal state to demand and collect land revenue in cash more easily.",
+        "5. Stability: The constant supply of silver prevented a shortage of currency despite the expanding trade.",
+        "6. Prosperity: It reflected the strong global demand for Indian goods like silk, cotton, and indigo."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. वैश्विक व्यापार: यूरोप और एशिया के साथ भारत के व्यापार का विस्तार हुआ, जिससे चाँदी का भारी आगमन हुआ।",
+        "2. चाँदी में भुगतान: विदेशी कंपनियाँ भारतीय वस्त्रों और मसालों के लिए मुख्य रूप से चाँदी में भुगतान करती थीं।",
+        "3. मौद्रिकरण: इससे चाँदी के सिक्कों (रुपया) की बड़े पैमाने पर ढलाई हुई, जिससे अर्थव्यवस्था का मौद्रिकरण हुआ।",
+        "4. नकद राजस्व: इसने मुगल राज्य को नकद में भू-राजस्व माँगने और वसूलने में मदद की।",
+        "5. स्थिरता: चाँदी की निरंतर आपूर्ति ने व्यापार के विस्तार के बावजूद मुद्रा की कमी को रोका।",
+        "6. समृद्धि: यह रेशम, कपास और नील जैसे भारतीय सामानों की मज़बूत वैश्विक मांग को दर्शाता है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Economic Fact: Mention that the silver 'Rupee' became the standard currency, which helped in stabilizing prices.",
+      "hi": "आर्थिक तथ्य: उल्लेख करें कि चाँदी का 'रुपया' मानक मुद्रा बन गया, जिससे कीमतों को स्थिर करने में मदद मिली।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: What was the Ain-i-Akbari? Discuss its strengths and limitations.",
+      "hi": "प्रश्न 9: आईन-ए-अकबरी क्या थी? इसकी खूबियों और सीमाओं की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: The third book of the Akbarnama, providing a detailed gazetteer of the Mughal Empire.",
+        "2. Strength: It provides unparalleled quantitative data on crops, prices, and revenue for various provinces.",
+        "3. Structure: Divided into five books (daftars) covering the household, army, administration, and traditions.",
+        "4. Limitation: It mainly reflects the view from the center (Delhi/Agra) and ignores regional variations.",
+        "5. Inaccuracy: Some statistical totals have arithmetical errors, as noted by modern historians.",
+        "6. Bias: As an official document, it portrays the Emperor’s vision and often overlooks rural resistance."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: यह अकबरनामा की तीसरी पुस्तक है, जो मुगल साम्राज्य का एक विस्तृत राजपत्र (Gazetteer) प्रदान करती है।",
+        "2. खूबी: यह विभिन्न प्रांतों की फसलों, कीमतों और राजस्व पर अद्वितीय मात्रात्मक डेटा प्रदान करती है।",
+        "3. संरचना: यह पाँच भागों (दफ्तरों) में विभाजित है जो घर, सेना, प्रशासन और परंपराओं को कवर करते हैं।",
+        "4. सीमा: यह मुख्य रूप से केंद्र (दिल्ली/आगरा) के दृष्टिकोण को दर्शाती है और क्षेत्रीय विभिन्नताओं को नज़रअंदाज़ करती है।",
+        "5. अशुद्धि: जैसा कि आधुनिक इतिहासकारों ने बताया है, कुछ सांख्यिकीय योगों में अंकगणितीय त्रुटियाँ हैं।",
+        "6. पक्षपात: एक आधिकारिक दस्तावेज़ होने के नाते, यह सम्राट के दृष्टिकोण को चित्रित करती है और अक्सर ग्रामीण विरोध की अनदेखी करती है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Key: 'Ain-i-Akbari' is a must-know topic. Expect questions on its five books (Daftars).",
+      "hi": "एग्ज़ाम की: 'आईन-ए-अकबरी' एक अनिवार्य विषय है। इसके पाँच भागों (दफ्तरों) पर सवाल की उम्मीद करें।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: How did the Mughal state handle the Forest Dwellers and Tribes?",
+      "hi": "प्रश्न 10: मुगल राज्य ने वनवासियों और जनजातियों के साथ कैसा व्यवहार किया?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Infiltration: The state viewed forests as a source of resources (elephants, timber) and tried to control them.",
+        "2. Shift to Agriculture: The state encouraged forest dwellers to settle down and practice settled agriculture for revenue.",
+        "3. Trade: Forest tribes traded products like honey, wax, and lac for grain and salt from the plains.",
+        "4. Military Service: Some forest tribes were recruited into the Mughal army as soldiers or scouts.",
+        "5. Conflict: Tribal chiefs often resisted state interference, leading to localized skirmishes.",
+        "6. Social Change: Influence of the sedentary world led to tribal chiefs becoming Zamindars and even kings in some areas."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. पैठ: राज्य ने जंगलों को संसाधनों (हाथी, लकड़ी) के स्रोत के रूप में देखा और उन पर नियंत्रण करने की कोशिश की।",
+        "2. कृषि में बदलाव: राज्य ने वनवासियों को राजस्व के लिए एक जगह बसने और खेती करने के लिए प्रोत्साहित किया।",
+        "3. व्यापार: वन जनजातियाँ शहद, मोम और लाख जैसे उत्पादों का व्यापार मैदानी इलाकों के अनाज और नमक के लिए करती थीं।",
+        "4. सैन्य सेवा: कुछ वन जनजातियों को मुगल सेना में सैनिकों या स्काउट्स के रूप में भर्ती किया गया था।",
+        "5. संघर्ष: कबीले के मुखिया अक्सर राज्य के हस्तक्षेप का विरोध करते थे, जिससे स्थानीय झड़पें होती थीं।",
+        "6. सामाजिक परिवर्तन: बाहरी दुनिया के प्रभाव से जनजातीय मुखिया ज़मींदार और कुछ क्षेत्रों में राजा भी बन गए।"
+      ]
+    },
+    

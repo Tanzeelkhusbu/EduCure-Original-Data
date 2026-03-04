@@ -1,0 +1,306 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Question 1: Who was Colin Mackenzie? Describe the discovery of Hampi.",
+      "hi": "प्रश्न 1: कोलिन मैकेन्जी कौन थे? हम्पी की खोज का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Identity: Colin Mackenzie was an engineer and surveyor in the East India Company.",
+        "2. First Map: In 1800, he prepared the first survey map of the site of Hampi.",
+        "3. Oral Tradition: He collected information based on the memories of the priests of the Virupaksha and Pampadevi temples.",
+        "4. Photography: Later in 1856, photographers recorded the monuments, helping scholars study them further.",
+        "5. Epigraphy: In 1836, epigraphists started collecting inscriptions found at the various temples.",
+        "6. Reconstruction: These sources were combined with foreign accounts and local literature to reconstruct the city's history."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिचय: कोलिन मैकेन्जी ईस्ट इंडिया कंपनी में एक इंजीनियर और सर्वेक्षणकर्ता थे।",
+        "2. पहला मानचित्र: 1800 में उन्होंने हम्पी स्थल का पहला सर्वेक्षण मानचित्र तैयार किया।",
+        "3. मौखिक परंपरा: उन्होंने विरुपाक्ष और पंपादेवी मंदिरों के पुरोहितों की यादों के आधार पर जानकारी जुटाई।",
+        "4. फोटोग्राफी: बाद में 1856 में, फोटोग्राफरों ने स्मारकों के चित्र लिए, जिससे विद्वानों को अध्ययन में मदद मिली।",
+        "5. अभिलेख शास्त्र: 1836 में विद्वानों ने विभिन्न मंदिरों से शिलालेखों को इकट्ठा करना शुरू किया।",
+        "6. पुनर्निर्माण: इन सभी स्रोतों को विदेशी वृत्तांतों और स्थानीय साहित्य के साथ जोड़कर इतिहास फिर से लिखा गया।"
+      ]
+    },
+    "app_tip": {
+      "en": "App Tip: Highlight that 'Hampi' is derived from the local goddess 'Pampadevi'. It's a common 1-mark question.",
+      "hi": "ऐप टिप: हाईलाइट करें कि 'हम्पी' नाम स्थानीय देवी 'पंपादेवी' से निकला है। यह 1-नंबर का एक सामान्य प्रश्न है।"
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Question 2: Describe the unique Water Resources and Management in Vijayanagara.",
+      "hi": "प्रश्न 2: विजयनगर में अद्वितीय जल संसाधनों और प्रबंधन का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Natural Basin: The city was located in a natural basin formed by the river Tungabhadra.",
+        "2. Embankments: Dams were built along the streams to create reservoirs of varying sizes.",
+        "3. Kamalapuram Tank: A crucial tank used for irrigating fields and providing water to the Royal Centre.",
+        "4. Hiriya Canal: A massive canal that drew water from a dam across the Tungabhadra to irrigate the valley.",
+        "5. Arid Zone: Since the region was semi-arid, elaborate arrangements were made to store rainwater.",
+        "6. Hydraulic Engineering: The system showed advanced knowledge of topography and water flow."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. प्राकृतिक कुंड: यह शहर तुंगभद्रा नदी द्वारा बनाए गए एक प्राकृतिक बेसिन में स्थित था।",
+        "2. तटबंध: नदी की धाराओं पर बांध बनाकर अलग-अलग आकार के जलाशय बनाए गए थे।",
+        "3. कमलपुरम जलाशय: यह एक महत्वपूर्ण टैंक था, जिसका उपयोग खेतों और 'राजकीय केंद्र' तक पानी पहुँचाने के लिए किया जाता था।",
+        "4. हिरिया नहर: एक विशाल नहर जो तुंगभद्रा से पानी लाकर घाटी की सिंचाई करती थी।",
+        "5. शुष्क क्षेत्र: चूंकि यह क्षेत्र अर्ध-शुष्क था, इसलिए बारिश के पानी को जमा करने के लिए व्यापक इंतजाम थे।",
+        "6. हाइड्रोलिक इंजीनियरिंग: यह प्रणाली स्थलाकृति और जल प्रवाह के उन्नत ज्ञान को दर्शाती है।"
+      ]
+    },
+    "app_tip": {
+      "en": "Construction Tip: Compare this ancient drainage with modern systems for your Chotpur project. It helps in understanding sustainability.",
+      "hi": "निर्माण टिप: अपने चोटपुर प्रोजेक्ट के लिए इस प्राचीन जल निकासी की तुलना आधुनिक प्रणालियों से करें। यह टिकाऊ निर्माण समझने में मदद करता है।"
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Question 3: What were the features of the Fortifications described by Abdur Razzaq?",
+      "hi": "प्रश्न 3: अब्दुल रज्जाक द्वारा वर्णित किलेबंदी की क्या विशेषताएँ थीं?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Seven Walls: Abdur Razzaq was impressed by the seven lines of forts surrounding the city.",
+        "2. Agricultural Enclosure: The unique feature was that walls enclosed agricultural fields and forests.",
+        "3. Siege Strategy: This ensured food supply during long sieges by enemies.",
+        "4. Dry Masonry: No mortar was used; stones were wedge-shaped and held together by their own weight.",
+        "5. Indo-Islamic Gateways: Gateways featured arches and domes, showing cultural synthesis.",
+        "6. Strategic Links: The walls linked the surrounding hills, making the city a massive fortress."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. सात दीवारें: अब्दुल रज्जाक यहाँ की किलेबंदी की सात पंक्तियों से बहुत प्रभावित थे।",
+        "2. कृषि क्षेत्र: इसकी अनूठी विशेषता यह थी कि दीवारों के भीतर खेती वाले खेत और जंगल भी शामिल थे।",
+        "3. घेराबंदी रणनीति: ऐसा इसलिए किया गया था ताकि युद्ध के दौरान भोजन की कमी न हो।",
+        "4. चिनाई शैली: पत्थरों को जोड़ने के लिए गारे का उपयोग नहीं था; पत्थर फानाकार (Wedge) थे जो आपस में जुड़े रहते थे।",
+        "5. तोरण द्वार: प्रवेश द्वारों में मेहराब और गुंबद जैसे भारत-इस्लामी तत्व दिखाई देते थे।",
+        "6. सुरक्षा: दीवारें पहाड़ियों को आपस में जोड़ती थीं, जिससे शहर एक अभेद्य किले जैसा बन गया था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Visual Tip: Use an illustration of the seven layers of walls in your app to show the defense strategy.",
+      "hi": "विजुअल टिप: रक्षा रणनीति को बेहतर समझाने के लिए अपने ऐप में सात परतों वाली दीवारों का एक चित्र इस्तेमाल करें।"
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Question 4: What was the 'Mahanavami Dibba' and its significance?",
+      "hi": "प्रश्न 4: 'महानवमी डिब्बा' क्या था और इसका क्या महत्व था?"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Massive Platform: A high stone platform (about 11,000 sq ft) located in the Royal Centre.",
+        "2. Festival Connection: Rituals coincided with the ten-day Mahanavami/Dussehra festival.",
+        "3. Power Display: The king displayed his prestige, military strength, and authority on this platform.",
+        "4. Ceremonies: Included worship of the state horse, image worship, and buffalo sacrifices.",
+        "5. Entertainment: Events like wrestling, dances, and processions were held here.",
+        "6. Tributes: On the final day, the king received annual gifts and tributes from the Nayakas."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. विशाल मंच: पत्थर का एक ऊँचा मंच (लगभग 11,000 वर्ग फुट) जो राजकीय केंद्र में स्थित था।",
+        "2. त्यौहार से जुड़ाव: यहाँ होने वाले अनुष्ठान 'महानवमी/दशहरा' के 10 दिनों के त्यौहार के दौरान होते थे।",
+        "3. शक्ति प्रदर्शन: राजा इस मंच से अपनी प्रतिष्ठा, सैन्य शक्ति और अधिकार का प्रदर्शन करता था।",
+        "4. समारोह: इसमें राज्य के घोड़े की पूजा, मूर्ति पूजा और भैंसों की बलि शामिल थी।",
+        "5. मनोरंजन: यहाँ कुश्ती प्रतियोगिताएँ, नृत्य और भव्य जुलूस निकाले जाते थे।",
+        "6. नजराना: अंतिम दिन राजा नायकों से वार्षिक उपहार और कर (Tribute) स्वीकार करता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Exam Key: 'Mahanavami Dibba' is a favorite for 4-mark questions. Tag it as 'Must Read'.",
+      "hi": "एग्ज़ाम की: 'महानवमी डिब्बा' 4-नंबर के सवालों के लिए बहुत महत्वपूर्ण है। इसे 'Must Read' के रूप में टैग करें।"
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Question 5: Explain the features of the Lotus Mahal and Elephant Stables.",
+      "hi": "प्रश्न 5: कमल महल (Lotus Mahal) और हाथी अस्तबल की विशेषताओं की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Lotus Mahal: A beautiful pavilion with a mix of Hindu and Islamic architectural styles.",
+        "2. Function: Historians think it was a 'Council Chamber' for the king and his advisers.",
+        "3. Design: It features complex arches and a ground plan shaped like a lotus.",
+        "4. Elephant Stables: Located nearby, these were massive structures used to house royal elephants.",
+        "5. Global Synthesis: The architecture shows influence from the neighboring Deccani Sultanates.",
+        "6. Survival: These stone/secular buildings survived better than the wooden royal palaces."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. कमल महल: एक सुंदर मंडप जिसमें हिंदू और इस्लामी स्थापत्य शैलियों का मिश्रण है।",
+        "2. कार्य: इतिहासकारों का मानना है कि यह राजा और सलाहकारों के लिए एक 'परिषद कक्ष' रहा होगा।",
+        "3. डिज़ाइन: इसमें जटिल मेहराब हैं और इसका ग्राउंड प्लान कमल के आकार का है।",
+        "4. हाथी अस्तबल: कमल महल के पास स्थित ये विशाल संरचनाएं शाही हाथियों के लिए थीं।",
+        "5. वैश्विक समन्वय: यह वास्तुकला पड़ोसी दक्कन सल्तनतों के प्रभाव को दर्शाती है।",
+        "6. स्थायित्व: राजकीय केंद्र की ये पत्थर की इमारतें लकड़ी के महलों की तुलना में बेहतर बची रहीं।"
+      ]
+    },
+    "app_tip": {
+      "en": "Creative Tip: Use an image of the Lotus Mahal to explain the term 'Indo-Islamic architecture'.",
+      "hi": "क्रिएटिव टिप: 'भारत-इस्लामी वास्तुकला' शब्द को समझाने के लिए कमल महल की फोटो का उपयोग करें।"
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Question 6: Discuss the importance of the Virupaksha and Vitthala Temples.",
+      "hi": "प्रश्न 6: विरुपाक्ष और विट्ठल मंदिरों के महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Virupaksha Temple: Dedicated to Shiva, the guardian deity of the Vijayanagara kings.",
+        "2. Royal Patronage: Krishnadeva Raya added the main hall and gopurams to show his devotion.",
+        "3. Market Streets: Temples had wide streets lined with stone pavilions for trade.",
+        "4. Vitthala Temple: Dedicated to a form of Vishnu worshipped usually in Maharashtra.",
+        "5. Stone Chariot: Famous for its iconic chariot-shaped shrine in the temple courtyard.",
+        "6. Musical Pillars: Some pillars were designed to emit musical sounds when struck."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. विरुपाक्ष मंदिर: यह शिव को समर्पित है, जिन्हें विजयनगर राजाओं का रक्षक देवता माना जाता था।",
+        "2. शाही संरक्षण: कृष्णदेव राय ने अपनी भक्ति दिखाने के लिए मुख्य हॉल और गोपुरम जोड़े थे।",
+        "3. बाज़ार मार्ग: मंदिरों के सामने चौड़े मार्ग थे जहाँ पत्थरों से बने व्यापारिक मंडप थे।",
+        "4. विट्ठल मंदिर: यह विष्णु के एक रूप 'विट्ठल' को समर्पित है, जिनकी पूजा अक्सर महाराष्ट्र में होती थी।",
+        "5. पत्थर का रथ: यह मंदिर अपने प्रांगण में स्थित प्रसिद्ध रथ के आकार के मंदिर के लिए जाना जाता है।",
+        "6. संगीत स्तंभ: कुछ स्तंभों को इस तरह बनाया गया था कि उन्हें थपथपाने पर संगीत निकलता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Visual Tip: Include a picture of the Hampi Stone Chariot; it is a symbol of the Vijayanagara glory.",
+      "hi": "विजुअल टिप: हम्पी के पत्थर के रथ की तस्वीर शामिल करें; यह विजयनगर के वैभव का प्रतीक है।"
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Question 7: Explain the Amara-Nayaka system of Vijayanagara.",
+      "hi": "प्रश्न 7: विजयनगर की अमर-नायक प्रणाली की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Definition: A major political innovation, partly derived from the 'Iqta' system of Delhi Sultanate.",
+        "2. Amara-Nayakas: They were military commanders given territories to govern by the Raya (king).",
+        "3. Revenue: They collected taxes from peasants, artisans, and traders in their assigned land.",
+        "4. Military Duty: They maintained a fixed contingent of horses and elephants for the king's use.",
+        "5. Tributes: They sent annual payments and personally visited the court to show loyalty.",
+        "6. Control: The king could transfer them from one place to another to maintain his authority."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. परिभाषा: एक प्रमुख राजनीतिक नवाचार, जो आंशिक रूप से दिल्ली सल्तनत की 'इक्ता' प्रणाली से लिया गया था।",
+        "2. अमर-नायक: ये सैन्य कमांडर थे जिन्हें राय (राजा) द्वारा शासन के लिए क्षेत्र दिए जाते थे।",
+        "3. राजस्व: वे अपने क्षेत्र के किसानों, शिल्पकारों और व्यापारियों से कर वसूल करते थे।",
+        "4. सैन्य कर्तव्य: वे राजा के लिए घोड़ों और हाथियों की एक निर्धारित सेना की टुकड़ी रखते थे।",
+        "5. नजराना: वे वार्षिक भुगतान भेजते थे और वफादारी दिखाने के लिए व्यक्तिगत रूप से दरबार जाते थे।",
+        "6. नियंत्रण: राजा अपने अधिकार को बनाए रखने के लिए उनका तबादला एक जगह से दूसरी जगह कर सकता था।"
+      ]
+    },
+    "app_tip": {
+      "en": "Comparison Tip: Compare this with the 'Samanta' system for a deeper conceptual understanding.",
+      "hi": "तुलना टिप: गहरी वैचारिक समझ के लिए इस व्यवस्था की तुलना 'सामंत' व्यवस्था से करें।"
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Question 8: Discuss the major achievements of Krishnadeva Raya.",
+      "hi": "प्रश्न 8: कृष्णदेव राय की प्रमुख उपलब्धियों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Expansion: He acquired the Raichur Doab and defeated rulers of Orissa and Bijapur.",
+        "2. Architecture: He built many grand temples and impressively tall 'Raya-gopurams'.",
+        "3. Nagalapuram: He founded a new suburban township named after his mother, Nagala Devi.",
+        "4. Literature: A great scholar himself, he wrote 'Amuktamalyada' in Telugu.",
+        "5. Prosperity: His reign was the most stable and prosperous period for the empire.",
+        "6. Control: He managed the balance between the Nayakas and the royal authority effectively."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. विस्तार: उन्होंने रायचूर दोआब पर कब्जा किया और उड़ीसा व बीजापुर के शासकों को हराया।",
+        "2. स्थापत्य: उन्होंने कई भव्य मंदिरों और ऊँचे 'राय-गोपुरम' का निर्माण कराया।",
+        "3. नागलपुरम्: उन्होंने अपनी माता नागला देवी के नाम पर एक नया उपनगरीय शहर बसाया।",
+        "4. साहित्य: वे स्वयं एक महान विद्वान थे और उन्होंने तेलुगु में 'आमुक्तमाल्यद' की रचना की।",
+        "5. समृद्धि: उनका शासनकाल साम्राज्य के लिए सबसे स्थिर और समृद्ध समय था।",
+        "6. नियंत्रण: उन्होंने नायकों और शाही सत्ता के बीच प्रभावी संतुलन बनाए रखा।"
+      ]
+    },
+    "app_tip": {
+      "en": "Key Fact: Krishnadeva Raya belonged to the Tuluva dynasty. This often appears in MCQs.",
+      "hi": "मुख्य तथ्य: कृष्णदेव राय तुलुव राजवंश के थे। यह अक्सर MCQs में आता है।"
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Question 9: Describe the nature of Trade in the Vijayanagara Empire.",
+      "hi": "प्रश्न 9: विजयनगर साम्राज्य में व्यापार की प्रकृति का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Horse Trade: Crucial for war; warhorses were imported from Arabia and Central Asia.",
+        "2. Kudirai Chettis: Local horse merchants who participated in this high-value trade.",
+        "3. Commodities: Major markets for spices, textiles, and precious stones.",
+        "4. Revenue: Trade taxes were a major source of wealth for the kingdom.",
+        "5. Global Reach: Trade linked Vijayanagara to Portugal, Persia, and the Arab world.",
+        "6. Urban Elite: The demand for luxury items showed the prosperity of the city's upper class."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. घोड़ों का व्यापार: युद्ध के लिए महत्वपूर्ण; घोड़ों का आयात अरब और मध्य एशिया से होता था।",
+        "2. कुदिरई चेट्टी: स्थानीय घोड़ा व्यापारी जो इस बड़े व्यापार में शामिल थे।",
+        "3. वस्तुएं: मसालों, वस्त्रों और कीमती पत्थरों के लिए विजयनगर एक बहुत बड़ा बाजार था।",
+        "4. राजस्व: व्यापार पर लगने वाले कर राज्य की आय का मुख्य स्रोत थे।",
+        "5. वैश्विक जुड़ाव: व्यापार ने विजयनगर को पुर्तगाल, फारस और अरब जगत से जोड़ा।",
+        "6. शहरी अभिजात वर्ग: विलासिता की वस्तुओं की मांग शहर के उच्च वर्ग की समृद्धि को दर्शाती थी।"
+      ]
+    },
+    "app_tip": {
+      "en": "Term Tip: 'Raya' was the title for kings in Vijayanagara. Keep it distinct from 'Nayaka'.",
+      "hi": "टर्म टिप: विजयनगर में राजाओं के लिए 'राय' उपाधि थी। इसे 'नायक' से अलग रखें।"
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Question 10: Explain the decline of the Vijayanagara Empire and the Battle of Talikota.",
+      "hi": "प्रश्न 10: विजयनगर साम्राज्य के पतन और तालीकोटा के युद्ध की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "Answer: ",
+        "1. Succession Issues: After Krishnadeva Raya, weak successors and internal rivalries began.",
+        "2. Battle of Talikota (1565): Also known as Rakshasi-Tangadi, where the empire was defeated.",
+        "3. Combined Enemies: The Sultanates of Bijapur, Ahmadnagar, and Golconda joined forces.",
+        "4. Rama Raya: The de facto leader whose risky policies led to the unification of the Sultanates.",
+        "5. Sacking of the City: After defeat, the city of Vijayanagara was brutally sacked and abandoned.",
+        "6. Shift of Capital: The capital moved to the east (Penukonda/Chandragiri), but the glory never returned."
+      ],
+      "hi": [
+        "उत्तर: ",
+        "1. उत्तराधिकार के मुद्दे: कृष्णदेव राय के बाद, कमज़ोर उत्तराधिकारी और आंतरिक संघर्ष शुरू हो गए।",
+        "2. तालीकोटा का युद्ध (1565): इसे राक्षसी-तांगड़ी का युद्ध भी कहते हैं, जहाँ साम्राज्य की हार हुई।",
+        "3. एकजुट दुश्मन: बीजापुर, अहमदनगर और गोलकुंडा की सल्तनतों ने एक साथ हमला किया।",
+        "4. राम राय: वास्तविक नेता जिनकी जोखिम भरी नीतियों ने सुल्तानों को एकजुट कर दिया।",
+        "5. शहर की तबाही: हार के बाद, विजयनगर शहर को बुरी तरह लूटा गया और फिर छोड़ दिया गया।",
+        "6. राजधानी का बदलाव: राजधानी पूर्व (पेनुकोंडा/चंद्रगिरि) की ओर चली गई, लेकिन पुराना वैभव नहीं लौटा।"
+      ]
+    }
