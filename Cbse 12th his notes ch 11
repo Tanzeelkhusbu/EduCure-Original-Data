@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Pattern of the Mutiny",
+      "hi": "विद्रोह का स्वरूप"
+    },
+    "content": {
+      "en": [
+        "The mutiny began on 10 May 1857 in the cantonment of Meerut.",
+        "It followed a pattern: first, sepoys captured the bell of arms and treasury, then attacked bungalows and burnt records.",
+        "Signals for revolt were often the firing of the evening gun or the sound of a bugle.",
+        "On 11 May, sepoys reached the Red Fort in Delhi and persuaded Bahadur Shah Zafar to lead them.",
+        "The revolt spread rapidly to Kanpur, Lucknow, Jhansi, and Bareilly."
+      ],
+      "hi": [
+        "विद्रोह 10 मई 1857 को मेरठ की छावनी से शुरू हुआ था।",
+        "विद्रोह का एक निश्चित स्वरूप था: पहले सिपाहियों ने शस्त्रागार और खजाने पर कब्ज़ा किया, फिर बंगलों पर हमला किया और रिकॉर्ड जला दिए।",
+        "विद्रोह के संकेत अक्सर शाम की तोप दागना या बिगुल की आवाज़ होती थी।",
+        "11 मई को सिपाही दिल्ली के लाल किले पहुँचे और बहादुर शाह जफर को अपना नेता बनने के लिए राजी किया।",
+        "विद्रोह तेज़ी से कानपुर, लखनऊ, झाँसी और बरेली में फैल गया।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Causes: Rumours and Prophecies",
+      "hi": "कारण: अफवाहें और भविष्यवाणियाँ"
+    },
+    "content": {
+      "en": [
+        "Immediate cause: Introduction of Enfield rifles with cartridges greased with cow and pig fat.",
+        "Rumour spread that the British had mixed the bone dust of cows and pigs into the flour (atta) in markets.",
+        "People feared a conspiracy to convert them to Christianity and destroy their religion/caste.",
+        "A prophecy stated that British rule would end exactly 100 years after the Battle of Plassey (23 June 1857).",
+        "The mysterious distribution of 'chapattis' from village to village acted as a psychological signal for upheaval."
+      ],
+      "hi": [
+        "तात्कालिक कारण: एनफील्ड राइफल की शुरुआत, जिसके कारतूसों में गाय और सुअर की चर्बी होने की अफवाह थी।",
+        "यह अफवाह फैली कि अंग्रेजों ने बाज़ार में बिकने वाले आटे में गाय और सुअर की हड्डियों का चूरा मिला दिया है।",
+        "लोगों को डर था कि यह उन्हें ईसाई बनाने और उनके धर्म व जाति को नष्ट करने की साजिश है।",
+        "एक भविष्यवाणी थी कि प्लासी के युद्ध के ठीक 100 साल बाद (23 जून 1857) ब्रिटिश शासन समाप्त हो जाएगा।",
+        "एक गाँव से दूसरे गाँव 'चपातियों' का रहस्यमयी वितरण आने वाली उथल-पुथल के मनोवैज्ञानिक संकेत के रूप में कार्य कर रहा था।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Annexation of Awadh",
+      "hi": "अवध का अधिग्रहण"
+    },
+    "content": {
+      "en": [
+        "Lord Dalhousie described Awadh as 'a cherry that will drop into our mouth one day' in 1851.",
+        "Awadh was annexed in 1856 on the grounds of misgovernment, displacing Nawab Wajid Ali Shah.",
+        "The removal of the Nawab was described as 'the life had gone out of the body' of the city.",
+        "The Summary Settlement of 1856 dispossessed taluqdars of their land and forts.",
+        "This led to deep resentment among sepoys (many were from Awadh) and the local population."
+      ],
+      "hi": [
+        "लॉर्ड डलहौजी ने 1851 में अवध को 'एक ऐसा चेरी जो एक दिन हमारे मुँह में गिरेगा' के रूप में वर्णित किया था।",
+        "1856 में कुशासन के आधार पर अवध का अधिग्रहण कर लिया गया और नवाब वाजिद अली शाह को विस्थापित कर दिया गया।",
+        "नवाब को हटाए जाने को शहर के 'शरीर से जान निकल जाने' के रूप में वर्णित किया गया था।",
+        "1856 के एकमुश्त बंदोबस्त (Summary Settlement) ने तालुकदारों को उनकी ज़मीन और किलों से बेदखल कर दिया।",
+        "इससे सिपाहियों (जिनमें से बहुत से अवध के थे) और स्थानीय आबादी में गहरा रोष पैदा हुआ।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Main Leaders of the Revolt",
+      "hi": "विद्रोह के मुख्य नेता"
+    },
+    "content": {
+      "en": [
+        "Delhi: Bahadur Shah Zafar was the symbolic head of the rebellion.",
+        "Kanpur: Nana Sahib, the adopted son of Peshwa Baji Rao II, led the revolt.",
+        "Jhansi: Rani Lakshmibai fought against the British to reclaim her kingdom.",
+        "Bihar: Kunwar Singh, an old zamindar from Arrah, provided leadership in the region.",
+        "Lucknow: Begum Hazrat Mahal and Birjis Qadr led the resistance after the Nawab's exile."
+      ],
+      "hi": [
+        "दिल्ली: बहादुर शाह जफर विद्रोह के प्रतीकात्मक प्रमुख थे।",
+        "कानपुर: पेशवा बाजीराव द्वितीय के दत्तक पुत्र नाना साहिब ने विद्रोह का नेतृत्व किया।",
+        "झाँसी: रानी लक्ष्मीबाई ने अपना राज्य वापस पाने के लिए अंग्रेजों के खिलाफ लड़ाई लड़ी।",
+        "बिहार: आरा के एक वृद्ध ज़मींदार कुँवर सिंह ने इस क्षेत्र में नेतृत्व प्रदान किया।",
+        "लखनऊ: नवाब के निर्वासन के बाद बेगम हज़रत महल और बिरजिस कद्र ने प्रतिरोध का नेतृत्व किया।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Vision of Unity",
+      "hi": "एकता का दृष्टिकोण"
+    },
+    "content": {
+      "en": [
+        "Proclamations (Ishtahars) were issued in the name of both Hindu and Muslim leaders to unite all people.",
+        "The revolt was characterized by a remarkable bond between Hindus and Muslims against the 'firangi'.",
+        "Rebel leaders made appeals to both 'Deen' and 'Dharma' to mobilize people.",
+        "The British tried to divide the two communities (e.g., in Bareilly) but failed during the peak of the revolt.",
+        "Pre-colonial memories were invoked to imagine a world free of British oppression."
+      ],
+      "hi": [
+        "सभी लोगों को एकजुट करने के लिए हिंदू और मुस्लिम दोनों नेताओं के नाम पर घोषणाएं (इश्तहार) जारी की गईं।",
+        "विद्रोह की विशेषता 'फिरंगियों' के खिलाफ हिंदू और मुसलमानों के बीच एक अद्भुत बंधन था।",
+        "विद्रोही नेताओं ने लोगों को संगठित करने के लिए 'दीन' और 'धर्म' दोनों के नाम पर अपील की।",
+        "अंग्रेजों ने दोनों समुदायों को विभाजित करने की कोशिश की (जैसे बरेली में) लेकिन विद्रोह के चरम के दौरान वे विफल रहे।",
+        "ब्रिटिश उत्पीड़न से मुक्त दुनिया की कल्पना करने के लिए औपनिवेशिक पूर्व की स्मृतियों का आह्वान किया गया।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Suppression of the Revolt",
+      "hi": "विद्रोह का दमन"
+    },
+    "content": {
+      "en": [
+        "The British passed laws to declare Martial Law in North India, giving officers the power to execute anyone.",
+        "Forces were diverted from other regions and Britain to retake Delhi in September 1857.",
+        "Two-pronged attack on Delhi: one from Calcutta and another from the Punjab.",
+        "Rebels were punished brutally; they were blown from cannons or hanged from trees as a deterrent.",
+        "In Awadh, the British used diplomacy by promising to return land to loyal taluqdars."
+      ],
+      "hi": [
+        "अंग्रेजों ने उत्तर भारत में मार्शल लॉ घोषित करने के लिए कानून पारित किए, जिससे अधिकारियों को किसी को भी सज़ा देने की शक्ति मिल गई।",
+        "सितंबर 1857 में दिल्ली को वापस लेने के लिए अन्य क्षेत्रों और ब्रिटेन से सेनाएं बुलाई गईं।",
+        "दिल्ली पर दोहरा हमला किया गया: एक कलकत्ता से और दूसरा पंजाब से।",
+        "विद्रोहियों को क्रूर दंड दिया गया; डर पैदा करने के लिए उन्हें तोपों से उड़ा दिया गया या पेड़ों से लटका दिया गया।",
+        "अवध में, अंग्रेजों ने वफादार तालुकदारों को उनकी ज़मीन वापस करने का वादा करके कूटनीति का इस्तेमाल किया।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Visual Representations",
+      "hi": "दृश्यात्मक चित्रण"
+    },
+    "content": {
+      "en": [
+        "British paintings like 'Relief of Lucknow' portrayed British officers as heroes and saviors.",
+        "Nationalist imagery in India later portrayed the rebels as heroic figures fighting for freedom.",
+        "British cartoons in 'Punch' magazine often mocked and demonized the Indian rebels.",
+        "Poetry and folk songs (e.g., Subhadra Kumari Chauhan's poem on Rani Jhansi) kept the spirit of 1857 alive.",
+        "The imagery created in both countries shaped how the revolt was remembered for generations."
+      ],
+      "hi": [
+        "ब्रिटिश चित्रों जैसे 'Relief of Lucknow' में ब्रिटिश अधिकारियों को नायकों और रक्षकों के रूप में दिखाया गया।",
+        "भारत में राष्ट्रवादी चित्रों ने बाद में विद्रोहियों को स्वतंत्रता के लिए लड़ने वाले नायकों के रूप में चित्रित किया।",
+        "ब्रिटिश पत्रिका 'पंच' के कार्टून अक्सर भारतीय विद्रोहियों का मज़ाक उड़ाते और उन्हें शैतान की तरह दिखाते थे।",
+        "कविताओं और लोकगीतों (जैसे रानी झाँसी पर सुभद्रा कुमारी चौहान की कविता) ने 1857 की भावना को जीवित रखा।",
+        "दोनों देशों में बनाए गए चित्रों ने तय किया कि आने वाली पीढ़ियाँ इस विद्रोह को कैसे याद रखेंगी।"
+      ]
+    }
+  }
+]

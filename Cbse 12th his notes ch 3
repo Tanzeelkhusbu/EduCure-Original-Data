@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "The Critical Edition of the Mahabharata",
+      "hi": "महाभारत का समालोचनात्मक संस्करण"
+    },
+    "content": {
+      "en": [
+        "Initiated in 1919 under the leadership of noted Sanskritist V.S. Sukthankar.",
+        "The team collected Sanskrit manuscripts from all over the country written in different scripts.",
+        "They compared verses and selected those common to most versions, published in 13,000 pages.",
+        "It took 47 years to complete and revealed significant commonalities and regional variations.",
+        "It showed that social histories were not just based on Brahmanical texts but were also shaped by local practices."
+      ],
+      "hi": [
+        "1919 में प्रसिद्ध संस्कृत विद्वान वी.एस. सुकथांकर के नेतृत्व में यह परियोजना शुरू हुई थी।",
+        "टीम ने देश के विभिन्न हिस्सों से विभिन्न लिपियों में लिखी गई संस्कृत पांडुलिपियों को इकट्ठा किया।",
+        "उन्होंने श्लोकों की तुलना की और उन श्लोकों को चुना जो अधिकांश संस्करणों में समान थे, जिन्हें 13,000 पृष्ठों में प्रकाशित किया गया।",
+        "इसे पूरा करने में 47 वर्ष लगे और इससे कहानियों में समानता और क्षेत्रीय विभिन्नताओं दोनों का पता चला।",
+        "इससे पता चला कि सामाजिक इतिहास केवल ब्राह्मणवादी ग्रंथों पर आधारित नहीं था, बल्कि स्थानीय प्रथाओं से भी प्रभावित था।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Kinship and Patriliny",
+      "hi": "बंधुत्व और पितृवंशिकता"
+    },
+    "content": {
+      "en": [
+        "Patriliny means tracing descent from father to son, grandson, and so on.",
+        "Under patriliny, sons could claim the resources (throne/property) of their fathers after their death.",
+        "The Mahabharata story is a conflict over patriliny between two groups of cousins, the Kauravas and the Pandavas.",
+        "Most ruling dynasties followed patriliny, though there were rare exceptions like Prabhavati Gupta.",
+        "Rigveda mantras emphasize the importance of having sons to continue the lineage."
+      ],
+      "hi": [
+        "पितृवंशिकता का अर्थ है वह वंश परंपरा जो पिता से पुत्र, फिर प्रपौत्र और इसी तरह आगे चलती है।",
+        "पितृवंशिकता के तहत, पिता की मृत्यु के बाद पुत्र उनके संसाधनों (सिंहासन/संपत्ति) पर दावा कर सकते थे।",
+        "महाभारत की कहानी दो चचेरे भाइयों के समूहों, कौरवों और पांडवों के बीच पितृवंशिकता को लेकर हुए संघर्ष की है।",
+        "अधिकांश राजवंश पितृवंशिकता का पालन करते थे, हालाँकि प्रभावती गुप्त जैसे दुर्लभ अपवाद भी मिलते हैं।",
+        "ऋग्वेद के मंत्रों में वंश को आगे बढ़ाने के लिए पुत्रों के महत्व पर जोर दिया गया है।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Rules of Marriage",
+      "hi": "विवाह के नियम"
+    },
+    "content": {
+      "en": [
+        "Endogamy: Marriage within a unit (kin group/caste/locality).",
+        "Exogamy: Marriage outside the unit (specifically outside the Gotra).",
+        "Dharmasutras recognized eight forms of marriage; the first four were considered 'good' and approved.",
+        "Kanyadana (gift of a daughter in marriage) was considered an important religious duty for the father.",
+        "Polygyny (one man with many wives) and Polyandry (one woman with many husbands) were also practiced."
+      ],
+      "hi": [
+        "अंतर्विवाह: एक ही इकाई (जैसे गोत्र, जाति या स्थान) के भीतर होने वाला विवाह।",
+        "बहिर्विवाह: अपनी इकाई या गोत्र से बाहर किया जाने वाला विवाह।",
+        "धर्मसूत्रों में विवाह के आठ प्रकारों को मान्यता दी गई थी; पहले चार प्रकारों को 'उत्तम' माना गया।",
+        "कन्यादान (विवाह में बेटी का उपहार) पिता का एक महत्वपूर्ण धार्मिक कर्तव्य माना जाता था।",
+        "बहुपत्नी प्रथा (एक पुरुष की कई पत्नियाँ) और बहुपति प्रथा (एक स्त्री के कई पति) भी प्रचलित थी।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "The Gotra of Women",
+      "hi": "स्त्रियों का गोत्र"
+    },
+    "content": {
+      "en": [
+        "Each Gotra was named after a Vedic seer, and members were considered his descendants.",
+        "Two main rules: Women were to give up father's gotra and adopt husband's gotra after marriage.",
+        "Members of the same gotra could not marry each other.",
+        "Satavahana rulers were an exception: many queens retained their father's gotras after marriage.",
+        "Satavahana kings were also sometimes identified through metronymics (names derived from mothers)."
+      ],
+      "hi": [
+        "प्रत्येक गोत्र का नाम एक वैदिक ऋषि के नाम पर था, और सदस्यों को उनका वंशज माना जाता था।",
+        "दो मुख्य नियम: विवाह के बाद स्त्रियों को पिता का गोत्र छोड़कर पति का गोत्र अपनाना होता था।",
+        "एक ही गोत्र के सदस्य आपस में विवाह नहीं कर सकते थे।",
+        "सातवाहन शासक एक अपवाद थे: उनकी कई रानियों ने विवाह के बाद भी अपने पिता का गोत्र बनाए रखा।",
+        "सातवाहन राजाओं को कभी-कभी उनके मातृनाम (माता के नाम से उत्पन्न नाम) से भी पहचाना जाता था।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Social Hierarchy: The Varna System",
+      "hi": "सामाजिक पदानुक्रम: वर्ण व्यवस्था"
+    },
+    "content": {
+      "en": [
+        "Brahmanas claimed the Varna system was divinely ordained (Purusha Sukta of Rigveda).",
+        "Four categories: Brahmanas (priests/teachers), Kshatriyas (rulers/warriors), Vaishyas (traders/farmers), and Shudras (servants).",
+        "Brahmanas enforced this by advising kings and persuading people that status was birth-based.",
+        "Manusmriti codified these social roles and rules of conduct.",
+        "Non-Kshatriya kings existed: Mauryas (debated), Shungas/Kanvas (Brahmanas), and Shakas (Mlechchhas)."
+      ],
+      "hi": [
+        "ब्राह्मणों का दावा था कि वर्ण व्यवस्था दैवीय है (ऋग्वेद के पुरुष सूक्त के अनुसार)।",
+        "चार श्रेणियाँ: ब्राह्मण (पुरोहित), क्षत्रिय (शासक/योद्धा), वैश्य (व्यापारी/किसान) और शूद्र (सेवा करने वाले)।",
+        "ब्राह्मणों ने राजाओं को सलाह देकर और लोगों को यह बताकर इसे लागू किया कि सामाजिक स्थिति जन्म पर आधारित है।",
+        "मनुस्मृति में इन सामाजिक भूमिकाओं और आचरण के नियमों को संहिताबद्ध किया गया था।",
+        "गैर-क्षत्रिय राजा भी थे: मौर्य (विवादित), शुंग/कण्व (ब्राह्मण) और शक (जिन्हें 'म्लेच्छ' माना गया)।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Caste (Jati) and Social Mobility",
+      "hi": "जाति और सामाजिक गतिशीलता"
+    },
+    "content": {
+      "en": [
+        "Unlike Varna (fixed at four), there was no fixed number of Jatis.",
+        "New groups encountered by Brahmanas in forests or professionals were classified as Jatis.",
+        "Jatis often shared a common occupation and were organized into guilds called 'Shrenis'.",
+        "The Mandasor inscription (Madhya Pradesh) records the history of silk weavers' guild.",
+        "This shows that social categories were flexible and people could move or change occupations."
+      ],
+      "hi": [
+        "वर्ण (जो केवल चार थे) के विपरीत, जातियों की कोई निश्चित संख्या नहीं थी।",
+        "जंगलों में रहने वाले या व्यावसायिक समूहों को जब ब्राह्मणों ने देखा, तो उन्हें 'जाति' के रूप में वर्गीकृत किया।",
+        "एक ही जाति के लोग अक्सर एक ही व्यवसाय करते थे और 'श्रेणी' (Guilds) नामक संघों में संगठित थे।",
+        "मंदसौर अभिलेख (मध्य प्रदेश) रेशम बुनकरों की एक श्रेणी के इतिहास को दर्ज करता है।",
+        "इससे पता चलता है कि सामाजिक श्रेणियाँ लचीली थीं और लोग प्रवास या व्यवसाय परिवर्तन कर सकते थे।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Beyond the Four Varnas: Chandalas",
+      "hi": "चार वर्णों के परे: चांडाल"
+    },
+    "content": {
+      "en": [
+        "Some groups were classified as 'untouchable' and placed at the bottom of the hierarchy.",
+        "Chandalas had to live outside villages and use discarded utensils and clothes of the dead.",
+        "Their duty was to dispose of bodies of those with no relatives and serve as executioners.",
+        "Chinese pilgrim Fa Xian wrote that they had to clap their hands to warn others of their approach.",
+        "Xuan Zang observed that executioners and scavengers were forced to live outside the city."
+      ],
+      "hi": [
+        "कुछ समूहों को 'अस्पृश्य' (अछूत) माना गया और पदानुक्रम में सबसे नीचे रखा गया।",
+        "चांडालों को गाँव के बाहर रहना पड़ता था और मरे हुए लोगों के कपड़े व फेंके हुए बर्तनों का इस्तेमाल करना पड़ता था।",
+        "उनका काम लावारिस शवों का अंतिम संस्कार करना और जल्लाद (वध करने वाले) के रूप में कार्य करना था।",
+        "चीनी यात्री फा-शिएन ने लिखा कि उन्हें सड़क पर चलते हुए ताली बजानी पड़ती थी ताकि लोग उन्हें न देखें।",
+        "श्वेन त्सांग ने देखा कि सफाई करने वालों और वध करने वालों को शहर के बाहर रहना पड़ता था।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Gender and Property Rights",
+      "hi": "लिंग और संपत्ति के अधिकार"
+    },
+    "content": {
+      "en": [
+        "According to Manusmriti, paternal estate was to be divided equally among sons after parents' death.",
+        "The eldest son sometimes received a special share of the property.",
+        "Women could not claim a share of the paternal estate.",
+        "Women were allowed to keep 'Stridhana' (gifts received at marriage), which their children could inherit.",
+        "Manusmriti warned women against hoarding family property without their husband's permission."
+      ],
+      "hi": [
+        "मनुस्मृति के अनुसार, माता-पिता की मृत्यु के बाद पैतृक संपत्ति बेटों में बराबर बाँटी जानी थी।",
+        "ज्येष्ठ (सबसे बड़े) पुत्र को कभी-कभी संपत्ति का एक विशेष हिस्सा मिलता था।",
+        "स्त्रियाँ पैतृक संपत्ति में हिस्सेदारी का दावा नहीं कर सकती थीं।",
+        "विवाह के समय मिले उपहारों (स्त्रीधन) पर स्त्रियों का अधिकार था, जिसे उनकी संतान विरासत में ले सकती थी।",
+        "मनुस्मृति में स्त्रियों को पति की आज्ञा के बिना संपत्ति संचय करने के विरुद्ध चेतावनी दी गई थी।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "The Language and Content of Mahabharata",
+      "hi": "महाभारत की भाषा और विषय-वस्तु"
+    },
+    "content": {
+      "en": [
+        "The Sanskrit used in Mahabharata is simpler than that of the Vedas or Prashastis.",
+        "Content is divided into two sections: Narrative (stories) and Didactic (instructional/moral rules).",
+        "The Bhagavad Gita is a didactic section added to the narrative of the war.",
+        "Originally composed by Sutas (charioteer-bards), it was later written down by Brahmanas.",
+        "The text grew over centuries from 10,000 to over 100,000 verses."
+      ],
+      "hi": [
+        "महाभारत में प्रयुक्त संस्कृत वेदों या प्रशस्तियों की तुलना में अधिक सरल है।",
+        "विषय-वस्तु को दो भागों में बांटा गया है: आख्यान (कहानियाँ) और उपदेशात्मक (निर्देश या नैतिक नियम)।",
+        "भगवद्गीता युद्ध के आख्यान में जोड़ा गया एक उपदेशात्मक अंश है।",
+        "मूल रूप से 'सूतों' (सारथी-भाट) द्वारा रचित इस कथा को बाद में ब्राह्मणों ने लिखना शुरू किया।",
+        "सदियों के दौरान यह ग्रंथ 10,000 श्लोकों से बढ़कर 1,00,000 श्लोकों से भी अधिक का हो गया।"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "topic": {
+      "en": "The Mahabharata: A Dynamic Text",
+      "hi": "महाभारत: एक गतिशील ग्रंथ"
+    },
+    "content": {
+      "en": [
+        "The epic was translated and retold in many languages through centuries.",
+        "Local stories and variations were added to the central narrative.",
+        "It provided themes for paintings, sculptures, plays, and dance forms.",
+        "Excavations at Hastinapura by B.B. Lal provided archaeological links to the text.",
+        "The core story of kinship conflict remained a powerful tool to explore human relationships."
+      ],
+      "hi": [
+        "इस महाकाव्य का सदियों तक कई भाषाओं में अनुवाद और पुनर्कथन किया गया।",
+        "मुख्य कहानी में स्थानीय कहानियों और विविधताओं को भी जोड़ा गया।",
+        "इसने चित्रकला, मूर्तिकला, नाटकों और नृत्य रूपों के लिए विषय प्रदान किए।",
+        "बी.बी. लाल द्वारा हस्तिनापुर में की गई खुदाई ने ग्रंथ के साथ पुरातात्विक संबंध प्रदान किए।",
+        "बंधुत्व के संघर्ष की मुख्य कहानी मानवीय रिश्तों को समझने का एक शक्तिशाली माध्यम बनी रही।"
+      ]
+    }
+  }
+]

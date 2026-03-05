@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Towns in the Pre-colonial Period",
+      "hi": "औपनिवेशिक काल से पहले के शहर"
+    },
+    "content": {
+      "en": [
+        "Pre-colonial towns were often defined by their functions, such as centers of administration, trade, or religion.",
+        "Mughal towns like Agra, Delhi, and Lahore were famous for their grand palaces, mosques, and gardens.",
+        "The 'Kotwal' was the chief of city police who maintained internal order.",
+        "Qasba and Ganj: A 'Qasba' was a small town in the countryside, and 'Ganj' was a small fixed market.",
+        "Towns were often fortified and surrounded by gardens, orchards, and agricultural land."
+      ],
+      "hi": [
+        "औपनिवेशिक काल से पहले के शहरों को अक्सर उनके कार्यों (जैसे प्रशासन, व्यापार या धर्म के केंद्र) से पहचाना जाता था।",
+        "आगरा, दिल्ली और लाहौर जैसे मुगल शहर अपने भव्य महलों, मस्जिदों और बगीचों के लिए प्रसिद्ध थे।",
+        " 'कोतवाल' शहर की पुलिस का प्रमुख होता था जो आंतरिक व्यवस्था बनाए रखता था।",
+        "कस्बा और गंज: 'कस्बा' देहात का एक छोटा नगर था, और 'गंज' एक छोटा स्थाई बाज़ार था।",
+        "शहर अक्सर किलेबंद होते थे और बागों, बगीचों व कृषि भूमि से घिरे होते थे।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "18th Century Shift: Madras, Calcutta, and Bombay",
+      "hi": "18वीं सदी के बदलाव: मद्रास, कलकत्ता और बंबई"
+    },
+    "content": {
+      "en": [
+        "With the decline of Mughal power, old administrative centers like Delhi and Agra lost their glory.",
+        "The East India Company established its 'Presidency' towns at Madras (1639), Bombay (1661), and Calcutta (1690).",
+        "These cities became the main centers of trade, administration, and military power for the British.",
+        "They grew rapidly as people migrated for jobs and new opportunities.",
+        "By the mid-19th century, these cities had become the largest urban centers in India."
+      ],
+      "hi": [
+        "मुगल सत्ता के पतन के साथ, दिल्ली और आगरा जैसे पुराने प्रशासनिक केंद्रों ने अपनी चमक खो दी।",
+        "ईस्ट इंडिया कंपनी ने मद्रास (1639), बंबई (1661) और कलकत्ता (1690) में अपने 'प्रेसिडेंसी' शहर स्थापित किए।",
+        "ये शहर अंग्रेजों के व्यापार, प्रशासन और सैन्य शक्ति के मुख्य केंद्र बन गए।",
+        "नौकरियों और नए अवसरों की तलाश में लोगों के आने से ये शहर तेज़ी से विकसित हुए।",
+        "19वीं सदी के मध्य तक, ये शहर भारत के सबसे बड़े शहरी केंद्र बन चुके थे।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Finding Out About Colonial Cities: The Census",
+      "hi": "औपनिवेशिक शहरों के बारे में जानकारी: जनगणना"
+    },
+    "content": {
+      "en": [
+        "The British were obsessed with collecting data to monitor and control the population.",
+        "The first pan-India census was attempted in 1872, and regular decennial (every 10 years) census began from 1881.",
+        "This data allowed the British to track urban growth, migration, and the health of the population.",
+        "However, census data was often biased as categories like 'occupation' or 'caste' were fluid and hard to define.",
+        "Statistical reports and maps were also prepared to plan the urban infrastructure."
+      ],
+      "hi": [
+        "अंग्रेज जनसंख्या की निगरानी और नियंत्रण के लिए डेटा इकट्ठा करने के शौकीन थे।",
+        "अखिल भारतीय जनगणना का पहला प्रयास 1872 में हुआ, और 1881 से नियमित (हर 10 साल में) जनगणना शुरू हुई।",
+        "इस डेटा ने अंग्रेजों को शहरी विकास, प्रवास और जनसंख्या के स्वास्थ्य पर नज़र रखने में मदद की।",
+        "हालाँकि, जनगणना का डेटा अक्सर पक्षपाती था क्योंकि 'व्यवसाय' या 'जाति' जैसी श्रेणियाँ परिवर्तनशील थीं।",
+        "शहरी बुनियादी ढांचे की योजना बनाने के लिए सांख्यिकीय रिपोर्ट और मानचित्र भी तैयार किए गए थे।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "White Town and Black Town",
+      "hi": "सफेद शहर और काला शहर"
+    },
+    "content": {
+      "en": [
+        "Colonial cities were marked by sharp racial segregation.",
+        "White Town: Areas like Fort St. George (Madras) or Fort William (Calcutta) where the British lived.",
+        "These areas had wide roads, open spaces, and bungalows with large gardens.",
+        "Black Town: Areas outside the fort where the native Indian population (traders, artisans, laborers) lived.",
+        "Black Towns were crowded, had narrow lanes, and poor sanitation compared to White Towns."
+      ],
+      "hi": [
+        "औपनिवेशिक शहरों में नस्लीय आधार पर कड़ा अलगाव (Segregation) देखा गया।",
+        "सफेद शहर (White Town): फोर्ट सेंट जॉर्ज (मद्रास) या फोर्ट विलियम (कलकत्ता) जैसे इलाके जहाँ अंग्रेज रहते थे।",
+        "इन क्षेत्रों में चौड़ी सड़कें, खुले स्थान और बड़े बगीचों वाले बंगले होते थे।",
+        "काला शहर (Black Town): किले के बाहर के इलाके जहाँ भारतीय आबादी (व्यापारी, शिल्पकार, मज़दूर) रहती थी।",
+        "सफेद शहरों की तुलना में काले शहर भीड़भाड़ वाले थे, वहाँ तंग गलियाँ थीं और साफ-सफाई की व्यवस्था खराब थी।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Hill Stations: Retreats for the British",
+      "hi": "पहाड़ी सैरगाह (Hill Stations): अंग्रेजों के लिए शरणस्थल"
+    },
+    "content": {
+      "en": [
+        "Hill stations like Shimla, Mussoorie, and Darjeeling were developed for military and health reasons.",
+        "They provided a cool climate that reminded the British of their home in Europe.",
+        "Shimla became the official summer capital of the Government of India.",
+        "These stations served as sanatoriums for sick soldiers and recreation spots for officials.",
+        "Architectural styles in hill stations were often based on Swiss chalets or English cottages."
+      ],
+      "hi": [
+        "शिमला, मसूरी और दार्जिलिंग जैसे हिल स्टेशनों को सैन्य और स्वास्थ्य कारणों से विकसित किया गया था।",
+        "वहाँ की ठंडी जलवायु अंग्रेजों को उनके यूरोपीय घर की याद दिलाती थी।",
+        "शिमला भारत सरकार की आधिकारिक ग्रीष्मकालीन राजधानी बन गया।",
+        "ये स्टेशन बीमार सैनिकों के लिए स्वास्थ्य केंद्र (Sanatoriums) और अधिकारियों के लिए मनोरंजन स्थल थे।",
+        "हिल स्टेशनों की वास्तुकला अक्सर स्विस शैले (Swiss chalets) या अंग्रेजी कॉटेज पर आधारित होती थी।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Town Planning in Calcutta",
+      "hi": "कलकत्ता में नगर नियोजन"
+    },
+    "content": {
+      "en": [
+        "Town planning in Calcutta began in earnest after the Battle of Plassey (1757) with the building of Fort William.",
+        "Lord Wellesley (1798) emphasized the need for better sanitation and clearing of crowded areas.",
+        "The Lottery Committee (1817) was formed to raise funds for town improvement (roads, bridges, etc.).",
+        "Fears of epidemics like cholera and malaria led to more strict laws on cleanliness.",
+        "Thatched huts were banned and replaced with tiled roofs to prevent frequent fires."
+      ],
+      "hi": [
+        "कलकत्ता में नगर नियोजन प्लासी के युद्ध (1757) के बाद फोर्ट विलियम के निर्माण के साथ गंभीरता से शुरू हुआ।",
+        "लॉर्ड वेलेज़ली (1798) ने बेहतर साफ-सफाई और भीड़भाड़ वाले इलाकों को खाली करने पर जोर दिया।",
+        "नगर सुधार (सड़कें, पुल आदि) के लिए धन जुटाने के लिए 'लॉटरी कमेटी' (1817) का गठन किया गया था।",
+        "हैजा और मलेरिया जैसी महामारियों के डर ने स्वच्छता पर और कड़े कानून बनाने के लिए प्रेरित किया।",
+        "बार-बार लगने वाली आग को रोकने के लिए फूस की झोपड़ियों पर प्रतिबंध लगा दिया गया और खपरैल की छतों का उपयोग शुरू हुआ।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Architecture in Bombay",
+      "hi": "बंबई की वास्तुकला"
+    },
+    "content": {
+      "en": [
+        "As Bombay became a major port and commercial hub, grand buildings were constructed in various styles.",
+        "Neo-classical: Characterized by large columns and domes (e.g., Town Hall, Elphinstone Circle).",
+        "Victorian Gothic: Featured high-pointed arches and elaborate carvings (e.g., Victoria Terminus).",
+        "Indo-Saracenic: A synthesis of Indian and Islamic styles with European structures (e.g., Gateway of India).",
+        "These styles were meant to project the power, glory, and permanence of British rule."
+      ],
+      "hi": [
+        "जैसे-जैसे बंबई एक प्रमुख बंदरगाह और व्यापारिक केंद्र बना, वहाँ विभिन्न शैलियों में भव्य इमारतें बनाई गईं।",
+        "नव-शास्त्रीय (Neo-classical): बड़े स्तंभों और गुंबदों वाली शैली (जैसे टाउन हॉल, एलफिंस्टन सर्कल)।",
+        "विक्टोरियन गोथिक (Victorian Gothic): इसमें ऊँचे नुकीले मेहराब और बारीक नक्काशी होती थी (जैसे विक्टोरिया टर्मिनस)।",
+        "इंडो-सारैसेनिक (Indo-Saracenic): भारतीय और इस्लामी शैलियों का यूरोपीय संरचनाओं के साथ मेल (जैसे गेटवे ऑफ इंडिया)।",
+        "इन शैलियों का उद्देश्य ब्रिटिश शासन की शक्ति, वैभव और स्थायित्व को प्रदर्शित करना था।"
+      ]
+    }
+  }
+]

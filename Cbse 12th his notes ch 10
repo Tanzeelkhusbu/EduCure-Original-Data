@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Bengal and the Zamindars",
+      "hi": "बंगाल और ज़मींदार"
+    },
+    "content": {
+      "en": [
+        "The colonial rule was first established in Bengal.",
+        "The Permanent Settlement (Istimrari Bandobast) was introduced by Lord Cornwallis in 1793.",
+        "The East India Company fixed the land revenue that the Zamindars had to pay to the state forever.",
+        "Zamindars were not owners of the land but revenue collectors of the state.",
+        "The Company hoped this would ensure a regular flow of revenue and encourage investment in agriculture."
+      ],
+      "hi": [
+        "औपनिवेशिक शासन सबसे पहले बंगाल में स्थापित किया गया था।",
+        "1793 में लॉर्ड कॉर्नवालिस द्वारा 'इस्तमरारी बंदोबस्त' (स्थायी बंदोबस्त) लागू किया गया।",
+        "ईस्ट इंडिया कंपनी ने वह भू-राजस्व निश्चित कर दिया जो ज़मींदारों को हमेशा के लिए राज्य को देना था।",
+        "ज़मींदार भूमि के स्वामी नहीं बल्कि राज्य के राजस्व संग्राहक (Revenue Collectors) थे।",
+        "कंपनी को उम्मीद थी कि इससे राजस्व का नियमित प्रवाह सुनिश्चित होगा और कृषि में निवेश को बढ़ावा मिलेगा।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Why Zamindars Defaulted on Payments",
+      "hi": "ज़मींदार राजस्व चुकाने में क्यों चूक जाते थे"
+    },
+    "content": {
+      "en": [
+        "Initial demands were very high, as the Company feared it could not increase them later.",
+        "The high demand was imposed in the 1790s when agricultural prices were low.",
+        "The revenue was invariable; it had to be paid regardless of harvest failure.",
+        "The Sunset Law: If payment did not come in by sunset of the specified date, the Zamindari was auctioned.",
+        "The Company limited the Zamindar's power to collect rent by abolishing their local courts (cutcheries)."
+      ],
+      "hi": [
+        "शुरुआती मांगें बहुत ऊंची थीं, क्योंकि कंपनी को डर था कि वह बाद में इन्हें बढ़ा नहीं पाएगी।",
+        "यह ऊंची मांग 1790 के दशक में लागू की गई थी जब कृषि उपज की कीमतें कम थीं।",
+        "राजस्व अपरिवर्तनीय था; फसल खराब होने के बावजूद इसे चुकाना ही पड़ता था।",
+        "सूर्यास्त कानून (Sunset Law): यदि निश्चित तिथि के सूर्यास्त तक भुगतान नहीं होता था, तो ज़मींदारी नीलाम कर दी जाती थी।",
+        "कंपनी ने ज़मींदारों की कचहरियों को समाप्त करके लगान वसूलने की उनकी शक्ति को सीमित कर दिया था।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "The Rise of Jotedars",
+      "hi": "जोतदारों का उदय"
+    },
+    "content": {
+      "en": [
+        "By the early 19th century, a group of rich peasants known as 'jotedars' became powerful.",
+        "Unlike Zamindars who lived in cities, Jotedars lived in villages and had direct control over poor villagers.",
+        "They owned vast areas of land and controlled local trade and moneylending.",
+        "They actively resisted the efforts of Zamindars to increase the jama (revenue).",
+        "When Zamindari lands were auctioned, Jotedars were often among the purchasers."
+      ],
+      "hi": [
+        "19वीं शताब्दी की शुरुआत में 'जोतदार' कहे जाने वाले अमीर किसानों का एक समूह शक्तिशाली हो गया।",
+        "शहरों में रहने वाले ज़मींदारों के विपरीत, जोतदार गाँवों में रहते थे और गरीब ग्रामीणों पर उनका सीधा नियंत्रण था।",
+        "वे ज़मीन के बड़े हिस्सों के मालिक थे और स्थानीय व्यापार व साहूकारी को नियंत्रित करते थे।",
+        "उन्होंने ज़मींदारों द्वारा राजस्व (जमा) बढ़ाने के प्रयासों का कड़ा विरोध किया।",
+        "जब ज़मींदारों की ज़मीन नीलाम होती थी, तो जोतदार अक्सर उन्हें खरीदने वालों में सबसे आगे होते थे।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "The Fifth Report (1813)",
+      "hi": "पाँचवीं रिपोर्ट (1813)"
+    },
+    "content": {
+      "en": [
+        "It was the fifth of a series of reports on the administration and activities of the East India Company in India.",
+        "Submitted to the British Parliament in 1813, it contained 1002 pages.",
+        "It included petitions of Zamindars and Ryots, and reports by collectors on revenue matters.",
+        "The report was used by critics of the Company in Britain to argue for ending the Company’s trade monopoly.",
+        "Historians caution that the report may have exaggerated the decline of the Zamindars."
+      ],
+      "hi": [
+        "यह भारत में ईस्ट इंडिया कंपनी के प्रशासन और गतिविधियों पर रिपोर्टों की एक श्रृंखला में पाँचवीं थी।",
+        "1813 में ब्रिटिश संसद में पेश की गई इस रिपोर्ट में 1002 पृष्ठ थे।",
+        "इसमें ज़मींदारों और रैयतों की याचिकाएं और राजस्व मामलों पर कलेक्टरों की रिपोर्ट शामिल थीं।",
+        "ब्रिटेन में कंपनी के आलोचकों ने कंपनी के व्यापारिक एकाधिकार को समाप्त करने के लिए इस रिपोर्ट का उपयोग किया।",
+        "इतिहासकार चेतावनी देते हैं कि रिपोर्ट ने कंपनी के खिलाफ मामला बनाने के लिए ज़मींदारों के पतन को बढ़ा-चढ़ाकर दिखाया होगा।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Paharias and the Hoe",
+      "hi": "पहाड़िया और कुदाल"
+    },
+    "content": {
+      "en": [
+        "The Paharias lived around the Rajmahal hills and practiced shifting cultivation.",
+        "They cleared forest patches, grew pulses and millets, and used the 'hoe' (kudali) to scratch the soil.",
+        "They lived on forest produce and also conducted raids on the settled cultivators of the plains.",
+        "They resisted the British attempts to convert forests into settled agricultural lands.",
+        "The 'hoe' became a symbol of the Paharia way of life and their resistance."
+      ],
+      "hi": [
+        "पहाड़िया लोग राजमहल की पहाड़ियों के आसपास रहते थे और झूम खेती (shifting cultivation) करते थे।",
+        "वे जंगल साफ करते थे, दालें और बाजरा उगाते थे, और मिट्टी खुरचने के लिए 'कुदाल' का उपयोग करते थे।",
+        "वे वन उत्पादों पर निर्भर थे और मैदानी इलाकों के स्थाई किसानों पर हमले भी करते थे।",
+        "उन्होंने जंगलों को स्थाई कृषि भूमि में बदलने के ब्रिटिश प्रयासों का विरोध किया।",
+        " 'कुदाल' पहाड़िया जीवन शैली और उनके प्रतिरोध का प्रतीक बन गई।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "The Santhals and the Plough",
+      "hi": "संथाल और हल"
+    },
+    "content": {
+      "en": [
+        "The Santhals began to come into Bengal around the 1780s as agricultural labourers.",
+        "The British invited them to settle in the Rajmahal hills to clear forests and practice settled agriculture.",
+        "In 1832, a large area of land was demarcated as 'Damin-i-Koh' for the Santhals.",
+        "Unlike the Paharias, the Santhals used the 'plough' and grew commercial crops like rice and tobacco.",
+        "The Santhals soon found that the land was slipping from their hands due to high taxes and debt."
+      ],
+      "hi": [
+        "संथाल 1780 के दशक के आसपास कृषि मज़दूरों के रूप में बंगाल में आने लगे थे।",
+        "अंग्रेजों ने उन्हें राजमहल की पहाड़ियों में बसने, जंगल साफ करने और स्थाई खेती करने के लिए आमंत्रित किया।",
+        "1832 में, ज़मीन के एक बड़े हिस्से को संथालों के लिए 'दामिन-ए-कोह' के रूप में सीमांकित किया गया।",
+        "पहाड़िया लोगों के विपरीत, संथाल 'हल' का उपयोग करते थे और चावल व तंबाकू जैसी व्यावसायिक फसलें उगाते थे।",
+        "जल्द ही संथालों ने पाया कि भारी कर और कर्ज के कारण ज़मीन उनके हाथों से फिसल रही है।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "The Santhal Rebellion (1855-56)",
+      "hi": "संथाल विद्रोह (1855-56)"
+    },
+    "content": {
+      "en": [
+        "By the 1850s, Santhals felt the need to revolt against Zamindars, moneylenders, and the colonial state.",
+        "The rebellion was led by two brothers, Sidhu and Kanhu.",
+        "Santhals attacked bungalows of British officials and moneylenders.",
+        "The British suppressed the revolt with brutal force, but it forced them to create 'Santhal Pargana'.",
+        "The new district was governed by special laws to protect the interests of the Santhals."
+      ],
+      "hi": [
+        "1850 के दशक तक, संथालों ने ज़मींदारों, साहूकारों और औपनिवेशिक राज्य के खिलाफ विद्रोह करने की आवश्यकता महसूस की।",
+        "विद्रोह का नेतृत्व दो भाइयों, सिद्धू और कान्हू ने किया था।",
+        "संथालों ने ब्रिटिश अधिकारियों और साहूकारों के बंगलों पर हमले किए।",
+        "अंग्रेजों ने क्रूर बल प्रयोग के साथ विद्रोह को कुचल दिया, लेकिन उन्हें 'संथाल परगना' बनाने के लिए मजबूर होना पड़ा।",
+        "संथालों के हितों की रक्षा के लिए इस नए जिले को विशेष कानूनों द्वारा शासित किया गया।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "The Deccan Riots (1875)",
+      "hi": "दक्कन के दंगे (1875)"
+    },
+    "content": {
+      "en": [
+        "The movement began at Supa, a large village in Poona district, in May 1875.",
+        "Ryots (peasants) attacked the shops of moneylenders (sahukars) and burnt their account books (bahis).",
+        "The riots spread to Ahmedabad and other parts of the Deccan.",
+        "The primary reason was the high land revenue and the debt trap set by moneylenders.",
+        "The British established the 'Deccan Riots Commission' to investigate the causes of the unrest."
+      ],
+      "hi": [
+        "आंदोलन मई 1875 में पुणे जिले के एक बड़े गाँव सूपा से शुरू हुआ।",
+        "रैयतों (किसानों) ने साहूकारों की दुकानों पर हमला किया और उनके बही-खाते जला दिए।",
+        "दंगे अहमदाबाद और दक्कन के अन्य हिस्सों में भी फैल गए।",
+        "इसका मुख्य कारण भारी भू-राजस्व और साहूकारों द्वारा फैलाया गया कर्ज का जाल था।",
+        "अंग्रेजों ने अशांति के कारणों की जाँच के लिए 'दक्कन दंगा आयोग' का गठन किया।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "The Cotton Boom and the Ryotwari System",
+      "hi": "कपास की तेज़ी और रैयतवाड़ी प्रणाली"
+    },
+    "content": {
+      "en": [
+        "The American Civil War (1861) led to a sudden increase in demand for Indian cotton in Britain.",
+        "Moneylenders provided easy credit to Deccan ryots to expand cotton cultivation.",
+        "When the war ended in 1865, cotton prices crashed, but the British state increased land revenue demands.",
+        "Under the Ryotwari system, revenue was collected directly from the ryots, and land was resurveyed every 30 years.",
+        "Ryots became deeply indebted to sahukars to pay the high revenue, leading to the 1875 riots."
+      ],
+      "hi": [
+        "अमेरिकी गृहयुद्ध (1861) के कारण ब्रिटेन में भारतीय कपास की मांग में अचानक वृद्धि हुई।",
+        "साहूकारों ने कपास की खेती बढ़ाने के लिए दक्कन के रैयतों को आसानी से ऋण दिया।",
+        "1865 में जब युद्ध समाप्त हुआ, कपास की कीमतें गिर गईं, लेकिन ब्रिटिश राज्य ने भू-राजस्व की मांगें बढ़ा दीं।",
+        "रैयतवाड़ी प्रणाली के तहत, राजस्व सीधे रैयतों से वसूला जाता था और हर 30 साल में भूमि का पुनरीक्षण किया जाता था।",
+        "भारी राजस्व चुकाने के लिए रैयत साहूकारों के कर्ज में डूब गए, जिससे 1875 के दंगे हुए।"
+      ]
+    }
+  }
+]

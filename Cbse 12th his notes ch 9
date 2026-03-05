@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "The Mughal Kings and their Chronicles",
+      "hi": "मुगल राजा और उनके इतिवृत्त"
+    },
+    "content": {
+      "en": [
+        "Chronicles were official histories commissioned by Mughal emperors to record their achievements.",
+        "They aimed to project a vision of an enlightened kingdom and divine authority.",
+        "Major chronicles include 'Akbar Nama', 'Shahjahan Nama', and 'Alamgir Nama'.",
+        "They serve as a primary source for understanding the administrative structure and court life.",
+        "The authors were mostly court historians who focused on the emperor and the royal family."
+      ],
+      "hi": [
+        "इतिवृत्त मुगल सम्राटों द्वारा अपनी उपलब्धियों को दर्ज करने के लिए लिखवाए गए आधिकारिक इतिहास थे।",
+        "इनका उद्देश्य एक प्रबुद्ध राज्य और दैवीय अधिकार का दृष्टिकोण प्रस्तुत करना था।",
+        "प्रमुख इतिवृत्तों में 'अकबरनामा', 'शाहजहाँनामा' और 'आलमगीरनामा' शामिल हैं।",
+        "ये प्रशासनिक ढांचे और दरबारी जीवन को समझने के लिए प्राथमिक स्रोत के रूप में कार्य करते हैं।",
+        "लेखक अधिकतर दरबारी इतिहासकार थे जिन्होंने सम्राट और शाही परिवार पर ध्यान केंद्रित किया।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "The Making of Manuscripts: Kitabkhana",
+      "hi": "पांडुलिपियों का निर्माण: किताबखाना"
+    },
+    "content": {
+      "en": [
+        "Manuscripts were handwritten books produced in the imperial 'Kitabkhana' (scriptorium).",
+        "The process involved various specialists: paper makers, calligraphers, gilders, and bookbinders.",
+        "Calligraphy was considered an important art; 'Nastaliq' was Akbar’s favourite style.",
+        "Illustrations (paintings) were added to enhance the beauty and meaning of the text.",
+        "Abu’l Fazl described painting as a 'magical art' that could make inanimate objects look alive."
+      ],
+      "hi": [
+        "पांडुलिपियाँ शाही 'किताबखाना' (लिपिघर) में तैयार की गई हस्तलिखित पुस्तकें थीं।",
+        "इस प्रक्रिया में विभिन्न विशेषज्ञ शामिल थे: कागज़ बनाने वाले, सुलेखक, कोफ़्तगार और जिल्दसाज़।",
+        "सुलेख (Calligraphy) को एक महत्वपूर्ण कला माना जाता था; 'नस्तलीक' अकबर की पसंदीदा शैली थी।",
+        "पाठ की सुंदरता और अर्थ बढ़ाने के लिए चित्र (पेंटिंग) जोड़े जाते थे।",
+        "अबुल फज़ल ने चित्रकारी को एक 'जादुई कला' बताया जो निर्जीव वस्तुओं को जीवित दिखा सकती थी।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "The Language of the Court: Persian",
+      "hi": "दरबारी भाषा: फारसी"
+    },
+    "content": {
+      "en": [
+        "Mughals were originally Chaghatai Turks, but they adopted Persian as the leading language of the court.",
+        "Akbar consciously made Persian the language of administration and culture.",
+        "It provided power and prestige to those who mastered it, including Iranians and Indian elites.",
+        "Many Sanskrit texts, like the Mahabharata (Razmnama), were translated into Persian.",
+        "Interaction between Persian and local Hindi led to the development of a new language, Urdu."
+      ],
+      "hi": [
+        "मुगल मूल रूप से चगताई तुर्क थे, लेकिन उन्होंने फारसी को दरबार की प्रमुख भाषा के रूप में अपनाया।",
+        "अकबर ने सचेत रूप से फारसी को प्रशासन और संस्कृति की भाषा बनाया।",
+        "इसने ईरानियों और भारतीय अभिजात वर्ग सहित उन लोगों को शक्ति और प्रतिष्ठा दी जो इसमें निपुण थे।",
+        "महाभारत (रज़्मनामा) जैसे कई संस्कृत ग्रंथों का फारसी में अनुवाद किया गया।",
+        "फारसी और स्थानीय हिंदी के बीच संवाद से एक नई भाषा, 'उर्दू' का विकास हुआ।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Akbar Nama and Abu’l Fazl",
+      "hi": "अकबरनामा और अबुल फज़ल"
+    },
+    "content": {
+      "en": [
+        "Abu’l Fazl was a close friend and adviser to Akbar, who wrote the 'Akbar Nama' over 13 years.",
+        "It is divided into three books: the first two are chronicles, and the third is the 'Ain-i Akbari'.",
+        "The text provides a detailed account of Akbar's reign, including battles, administration, and traditions.",
+        "It portrays Akbar as a divine ruler who ensured social harmony through 'Sulh-i kul' (absolute peace).",
+        "Abu’l Fazl used a highly ornate and flowery language style for this work."
+      ],
+      "hi": [
+        "अबुल फज़ल अकबर के करीबी दोस्त और सलाहकार थे, जिन्होंने 13 वर्षों में 'अकबरनामा' लिखा।",
+        "यह तीन पुस्तकों में विभाजित है: पहली दो इतिवृत्त हैं, और तीसरी 'आईन-ए-अकबरी' है।",
+        "यह ग्रंथ अकबर के शासनकाल का विस्तृत विवरण देता है, जिसमें युद्ध, प्रशासन और परंपराएँ शामिल हैं।",
+        "इसमें अकबर को एक दैवीय शासक के रूप में चित्रित किया गया है जिसने 'सुलह-ए-कुल' (पूर्ण शांति) के माध्यम से सद्भाव सुनिश्चित किया।",
+        "अबुल फज़ल ने इस कार्य के लिए अत्यंत अलंकृत और कठिन भाषा शैली का उपयोग किया।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Sulh-i kul: The Policy of Tolerance",
+      "hi": "सुलह-ए-कुल: सहिष्णुता की नीति"
+    },
+    "content": {
+      "en": [
+        "Mughal chronicles present the empire as comprising many different ethnic and religious communities.",
+        "Sulh-i kul (absolute peace) was the ideal of Mughal rule where all religions had freedom of expression.",
+        "Condition: They had to obey the state authority and not fight among themselves.",
+        "Akbar abolished the pilgrimage tax (1563) and Jizya (1564) to promote this ideal.",
+        "Instructions were given to officers to follow the precept of Sulh-i kul in administration."
+      ],
+      "hi": [
+        "मुगल इतिवृत्त साम्राज्य को कई अलग-अलग जातीय और धार्मिक समुदायों के मिलन के रूप में प्रस्तुत करते हैं।",
+        "सुलह-ए-कुल (पूर्ण शांति) मुगल शासन का आदर्श था जहाँ सभी धर्मों को अभिव्यक्ति की स्वतंत्रता थी।",
+        "शर्त: उन्हें राज्य की सत्ता का पालन करना था और आपस में नहीं लड़ना था।",
+        "अकबर ने इस आदर्श को बढ़ावा देने के लिए तीर्थयात्रा कर (1563) और जजिया (1564) को समाप्त कर दिया।",
+        "अधिकारियों को प्रशासन में सुलह-ए-कुल के सिद्धांतों का पालन करने के निर्देश दिए गए थे।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "The Imperial Court: Rituals and Hierarchy",
+      "hi": "शाही दरबार: अनुष्ठान और पदानुक्रम"
+    },
+    "content": {
+      "en": [
+        "The physical center was the king’s throne (takht), representing the axis of the world.",
+        "Forms of salutation like 'Sijda' (prostration) and 'Zaminbos' (kissing the ground) indicated the status of the person.",
+        "Jharokha Darshan: The emperor appeared at a small balcony to meet the public at sunrise.",
+        "Diwan-i Aam (public hall) and Diwan-i Khas (private hall) were used for meetings.",
+        "Gifts (Nazr/Peshkash) and titles were exchanged to reinforce loyalty and prestige."
+      ],
+      "hi": [
+        "दरबार का भौतिक केंद्र राजा का सिंहासन (तख्त) था, जो दुनिया की धुरी माना जाता था।",
+        "अभिवादन के तरीके जैसे 'सिजदा' (दंडवत) और 'ज़मीनबोस' (ज़मीन चूमना) व्यक्ति की स्थिति को दर्शाते थे।",
+        "झरोखा दर्शन: सम्राट सूर्योदय के समय जनता से मिलने के लिए एक छोटी बालकनी पर आते थे।",
+        "बैठकों के लिए दीवान-ए-आम (सार्वजनिक हॉल) और दीवान-ए-खास (निजी हॉल) का उपयोग किया जाता था।",
+        "वफादारी और प्रतिष्ठा को मज़बूत करने के लिए उपहारों (नज़र/पेशकश) और उपाधियों का आदान-प्रदान होता था।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "The Imperial Household (Harem)",
+      "hi": "शाही परिवार (हरम)"
+    },
+    "content": {
+      "en": [
+        "The term 'harem' (sacred place) referred to the domestic world of the Mughals.",
+        "It consisted of wives, concubines, relatives, and female servants.",
+        "A hierarchy existed between 'Begums' (noble birth) and 'Aghas' (other wives).",
+        "Women like Nur Jahan and Jahanara exercised significant political and financial power.",
+        "Gulbadan Begum (Humayun’s sister) wrote 'Humayun Nama', providing insights into the domestic life of the Mughals."
+      ],
+      "hi": [
+        "शब्द 'हरम' (पवित्र स्थान) मुगलों की घरेलू दुनिया को संदर्भित करता था।",
+        "इसमें पत्नियाँ, उप-पत्नियाँ, रिश्तेदार और महिला नौकर शामिल थे।",
+        "पदानुक्रम में 'बेगम' (कुलीन जन्म) और 'अगा' (अन्य पत्नियाँ) के बीच अंतर था।",
+        "नूरजहाँ और जहाँआरा जैसी महिलाओं ने महत्वपूर्ण राजनीतिक और वित्तीय शक्ति का प्रयोग किया।",
+        "गुलबदन बेगम (हुमायूँ की बहन) ने 'हुमायूँनामा' लिखा, जो मुगलों के घरेलू जीवन की जानकारी देता है।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "The Mughal Nobility and Mansabdars",
+      "hi": "मुगल अभिजात वर्ग और मनसबदार"
+    },
+    "content": {
+      "en": [
+        "The nobility was a diverse body comprising Iranians, Turanis, Rajputs, and Indian Muslims.",
+        "The 'Mansabdari' system determined the rank (zat) and salary of the officials.",
+        "Nobles were required to maintain a specified number of cavalrymen (sawar).",
+        "They received pay in the form of land grants (Jagirs) or cash.",
+        "Their loyalty was to the emperor alone, and their positions were not hereditary."
+      ],
+      "hi": [
+        "अभिजात वर्ग एक विविध समूह था जिसमें ईरानी, तूरानी, राजपूत और भारतीय मुसलमान शामिल थे।",
+        " 'मनसबदारी' प्रणाली अधिकारियों के रैंक (ज़ात) और वेतन को निर्धारित करती थी।",
+        "अमीरों को घुड़सवारों (सवार) की एक निश्चित संख्या बनाए रखनी होती थी।",
+        "उन्हें भूमि अनुदान (जागीर) या नकद के रूप में वेतन मिलता था।",
+        "उनकी वफादारी केवल सम्राट के प्रति थी, और उनके पद वंशानुगत नहीं थे।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "Provincial Administration",
+      "hi": "प्रांतीय प्रशासन"
+    },
+    "content": {
+      "en": [
+        "The empire was divided into provinces called 'Subas', headed by a 'Subadar'.",
+        "Other provincial officers included the 'Diwan' (finance), 'Bakshi' (military), and 'Qazi' (justice).",
+        "Subas were divided into 'Sarkars' and then into 'Parganas'.",
+        "At the local level, the 'Qanungo' (records), 'Chaudhuri' (revenue), and 'Patwari' managed affairs.",
+        "Persian was the official language used at all administrative levels."
+      ],
+      "hi": [
+        "साम्राज्य को 'सूबा' नामक प्रांतों में विभाजित किया गया था, जिसका मुखिया 'सूबेदार' होता था।",
+        "अन्य प्रांतीय अधिकारियों में 'दीवान' (वित्त), 'बख्शी' (सेना) और 'काजी' (न्याय) शामिल थे।",
+        "सूबों को 'सरकारों' और फिर 'परगना' में विभाजित किया गया था।",
+        "स्थानीय स्तर पर 'कानूनगो' (रिकॉर्ड), 'चौधरी' (राजस्व) और 'पटवारी' कार्यों का प्रबंधन करते थे।",
+        "प्रशासन के सभी स्तरों पर फारसी आधिकारिक भाषा के रूप में उपयोग की जाती थी।"
+      ]
+    }
+  }
+]

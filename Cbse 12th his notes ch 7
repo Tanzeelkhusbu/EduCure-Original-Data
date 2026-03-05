@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "The Discovery of Hampi",
+      "hi": "हम्पी की खोज"
+    },
+    "content": {
+      "en": [
+        "The ruins at Hampi were brought to light in 1800 by Colonel Colin Mackenzie, an engineer and antiquarian.",
+        "He prepared the first survey map of the site.",
+        "Much of the initial information was based on the memories of priests of the Virupaksha temple and the shrine of Pampadevi.",
+        "In 1856, photographers began recording the monuments which allowed scholars to study them.",
+        "By 1836, epigraphists began collecting several dozen inscriptions found at this and other temples at Hampi."
+      ],
+      "hi": [
+        "हम्पी के खंडहर 1800 ईस्वी में एक इंजीनियर और पुरातत्वविद् कर्नल कोलिन मैकेन्जी द्वारा प्रकाश में लाए गए थे।",
+        "उन्होंने इस स्थल का पहला सर्वेक्षण मानचित्र तैयार किया।",
+        "शुरुआती जानकारी विरुपाक्ष मंदिर और पंपादेवी के मंदिर के पुरोहितों की यादों पर आधारित थी।",
+        "1856 में फोटोग्राफरों ने स्मारकों के चित्र लेना शुरू किया जिससे विद्वानों को उनके अध्ययन में मदद मिली।",
+        "1836 से ही अभिलेखविदों ने यहाँ और हम्पी के अन्य मंदिरों से दर्जनों शिलालेखों को इकट्ठा करना शुरू कर दिया था।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "The Rayas and the Nayakas",
+      "hi": "राय और नायक"
+    },
+    "content": {
+      "en": [
+        "The empire was founded in 1336 by two brothers, Harihara and Bukka.",
+        "The rulers of Vijayanagara called themselves 'Rayas'.",
+        "The empire featured powerful military chiefs known as 'Nayakas' who controlled forts and had armed supporters.",
+        "The Amara-Nayaka system was a major political innovation, derived from the Iqta system of the Delhi Sultanate.",
+        "Amara-Nayakas were military commanders who were given territories to govern by the Raya."
+      ],
+      "hi": [
+        "इस साम्राज्य की स्थापना 1336 में दो भाइयों, हरिहर और बुक्का ने की थी।",
+        "विजयनगर के शासक खुद को 'राय' कहते थे।",
+        "साम्राज्य में शक्तिशाली सैन्य प्रमुख होते थे जिन्हें 'नायक' कहा जाता था, जो किलों को नियंत्रित करते थे और उनके पास सशस्त्र समर्थक होते थे।",
+        "अमर-नायक प्रणाली एक प्रमुख राजनीतिक नवाचार थी, जो दिल्ली सल्तनत की इक्ता प्रणाली से ली गई थी।",
+        "अमर-नायक सैन्य कमांडर थे जिन्हें राय द्वारा शासन करने के लिए क्षेत्र दिए जाते थे।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Water Resources and Management",
+      "hi": "जल संसाधन और प्रबंधन"
+    },
+    "content": {
+      "en": [
+        "The city was located in the natural basin formed by the Tungabhadra river.",
+        "As it was in one of the most arid zones, elaborate arrangements were made to store rainwater.",
+        "Kamalapuram tank: Built in the 15th century, its water was used for irrigation and to supply the Royal Centre.",
+        "Hiriya canal: One of the most prominent canals that drew water from a dam across the Tungabhadra.",
+        "The canal irrigated the valley that separated the Sacred Centre from the Urban Core."
+      ],
+      "hi": [
+        "यह शहर तुंगभद्रा नदी द्वारा बनाए गए एक प्राकृतिक बेसिन (कुंड) में स्थित था।",
+        "चूंकि यह सबसे शुष्क क्षेत्रों में से एक था, इसलिए बारिश के पानी को संचित करने के लिए व्यापक प्रबंध किए गए थे।",
+        "कमलपुरम जलाशय: 15वीं शताब्दी में निर्मित, इसके पानी का उपयोग सिंचाई और राजकीय केंद्र की आपूर्ति के लिए किया जाता था।",
+        "हिरिया नहर: सबसे प्रमुख नहरों में से एक, जो तुंगभद्रा पर बने एक बांध से पानी लाती थी।",
+        "यह नहर उस घाटी को सींचती थी जो पवित्र केंद्र को शहरी केंद्र (अर्बन कोर) से अलग करती थी।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Fortifications and Roads",
+      "hi": "किलेबंदी और सड़कें"
+    },
+    "content": {
+      "en": [
+        "Abdur Razzaq, an ambassador from Persia, was impressed by the seven lines of forts.",
+        "The fortification enclosed not just the city but also its agricultural hinterland and forests.",
+        "No mortar or cementing agent was used; stones were wedge-shaped and held together by gravity.",
+        "The innermost walls enclosed the Royal Centre, and fortified gateways led into the city.",
+        "Roads were generally laid out along the terrain, avoiding rocky outcrops, and linked the major centres."
+      ],
+      "hi": [
+        "फारस के दूत अब्दुल रज्जाक यहाँ की किलेबंदी की सात पंक्तियों से बहुत प्रभावित थे।",
+        "किलेबंदी में न केवल शहर, बल्कि उसके कृषि क्षेत्र और जंगलों को भी शामिल किया गया था।",
+        "निर्माण में गारे या सीमेंट का उपयोग नहीं किया गया था; पत्थर फानाकार (wedge-shaped) थे जो अपने भार से टिके थे।",
+        "सबसे भीतरी दीवारें राजकीय केंद्र को घेरती थीं, और किलेबंद प्रवेश द्वार शहर की ओर ले जाते थे।",
+        "सड़कें आमतौर पर पहाड़ी इलाकों के साथ बिछाई गई थीं और प्रमुख केंद्रों को आपस में जोड़ती थीं।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Royal Centre and Mahanavami Dibba",
+      "hi": "राजकीय केंद्र और महानवमी डिब्बा"
+    },
+    "content": {
+      "en": [
+        "The Royal Centre was located in the south-western part of the settlement and included over 60 temples.",
+        "Mahanavami Dibba: A massive platform rising from a base of about 11,000 sq. ft to a height of 40 ft.",
+        "It was the site of important rituals during the ten-day Hindu festival (Dussehra/Navaratri).",
+        "Ceremonies included worship of the image, the state horse, and the sacrifice of buffaloes.",
+        "The king displayed his prestige and power, receiving homage and gifts from the Nayakas."
+      ],
+      "hi": [
+        "राजकीय केंद्र बस्ती के दक्षिण-पश्चिमी भाग में स्थित था और इसमें 60 से अधिक मंदिर शामिल थे।",
+        "महानवमी डिब्बा: एक विशाल मंच जो लगभग 11,000 वर्ग फुट के आधार से 40 फुट की ऊँचाई तक बना था।",
+        "यह दस दिनों के हिंदू त्यौहार (दशहरा/नवरात्रि) के दौरान होने वाले महत्वपूर्ण अनुष्ठानों का स्थल था।",
+        "समारोहों में मूर्ति पूजा, राज्य के घोड़े की पूजा और भैंसों की बलि शामिल थी।",
+        "यहाँ राजा अपनी प्रतिष्ठा और शक्ति का प्रदर्शन करता था और नायकों से उपहार व नज़राना स्वीकार करता था।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Lotus Mahal and Elephant Stables",
+      "hi": "कमल महल और हाथी अस्तबल"
+    },
+    "content": {
+      "en": [
+        "The Lotus Mahal is a beautiful pavilion, named by British travellers in the 19th century.",
+        "Historians suggest it may have been a council chamber where the king met his advisers.",
+        "Its architecture shows a mix of Hindu and Islamic styles (Indo-Islamic style).",
+        "The Elephant Stables are a cluster of massive structures located near the Lotus Mahal.",
+        "These were used to house the royal elephants, showing the military preparedness of the state."
+      ],
+      "hi": [
+        "कमल महल एक सुंदर मंडप है, जिसका नाम 19वीं शताब्दी में ब्रिटिश यात्रियों द्वारा रखा गया था।",
+        "इतिहासकारों का मानना है कि यह एक परिषद कक्ष रहा होगा जहाँ राजा अपने सलाहकारों से मिलता था।",
+        "इसकी वास्तुकला हिंदू और इस्लामी शैलियों (भारत-इस्लामी शैली) का मिश्रण दर्शाती है।",
+        "हाथी अस्तबल कमल महल के पास स्थित विशाल संरचनाओं का एक समूह है।",
+        "इनका उपयोग शाही हाथियों को रखने के लिए किया जाता था, जो राज्य की सैन्य तैयारी को दर्शाता है।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "The Sacred Centre and its Temples",
+      "hi": "पवित्र केंद्र और इसके मंदिर"
+    },
+    "content": {
+      "en": [
+        "The Sacred Centre was on the banks of the Tungabhadra and housed many ancient shrines.",
+        "The Virupaksha Temple: Dedicated to Shiva, the guardian deity of the kingdom. Expanded by Krishnadeva Raya.",
+        "The Vitthala Temple: Dedicated to a form of Vishnu, featuring a famous stone chariot.",
+        "Temple architecture included 'Gopurams' (royal gateways) and 'Mandapas' (pillared halls).",
+        "Chariot streets were built in front of the temples, lined with stone pavilions for merchants."
+      ],
+      "hi": [
+        "पवित्र केंद्र तुंगभद्रा के तट पर था और यहाँ कई प्राचीन मंदिर स्थित थे।",
+        "विरुपाक्ष मंदिर: शिव को समर्पित, जो साम्राज्य के संरक्षक देवता थे। कृष्णदेव राय ने इसका विस्तार किया।",
+        "विट्ठल मंदिर: विष्णु के एक रूप को समर्पित, जिसमें एक प्रसिद्ध पत्थर का रथ बना है।",
+        "मंदिर वास्तुकला में 'गोपुरम' (शाही प्रवेश द्वार) और 'मंडप' (स्तंभों वाले हॉल) शामिल थे।",
+        "मंदिरों के सामने रथ मार्ग बनाए गए थे, जिनके दोनों ओर व्यापारियों के लिए पत्थर के मंडप थे।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Peak and Decline: Krishnadeva Raya and Talikota",
+      "hi": "चरम और पतन: कृष्णदेव राय और तालीकोटा"
+    },
+    "content": {
+      "en": [
+        "The empire reached its peak under Krishnadeva Raya (Tuluva dynasty, 1509-29).",
+        "He acquired the Raichur Doab and built fine temples and the suburban township of Nagalapuram.",
+        "After his death, internal struggles and pressures from neighbouring Sultanates increased.",
+        "In 1565, the army of Vijayanagara led by Rama Raya was defeated at the Battle of Talikota (Rakshasi-Tangadi).",
+        "The city was sacked by the combined forces of Bijapur, Ahmadnagar, and Golconda, and eventually abandoned."
+      ],
+      "hi": [
+        "साम्राज्य कृष्णदेव राय (तुलुव राजवंश, 1509-29) के शासनकाल में अपने चरम पर पहुँचा।",
+        "उन्होंने रायचूर दोआब पर कब्ज़ा किया और बेहतरीन मंदिरों व 'नागलपुरम्' नामक उपनगरीय बस्ती का निर्माण कराया।",
+        "उनकी मृत्यु के बाद, आंतरिक संघर्ष और पड़ोसी सल्तनतों का दबाव बढ़ गया।",
+        "1565 में, राम राय के नेतृत्व वाली विजयनगर की सेना तालीकोटा के युद्ध (राक्षसी-तांगड़ी) में पराजित हुई।",
+        "बीजापुर, अहमदनगर और गोलकुंडा की संयुक्त सेनाओं द्वारा शहर को लूटा गया और अंततः इसे छोड़ दिया गया।"
+      ]
+    }
+  }
+]

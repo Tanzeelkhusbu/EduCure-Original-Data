@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "A Glimpse of Sanchi and its Preservation",
+      "hi": "सांची की एक झलक और उसका संरक्षण"
+    },
+    "content": {
+      "en": [
+        "Sanchi Stupa is one of the most important Buddhist monuments discovered in the 19th century.",
+        "The Begums of Bhopal (Shahjehan Begum and Sultan Jehan Begum) provided significant funds for its preservation.",
+        "They funded a museum and a guest house where John Marshall lived and wrote his volumes.",
+        "Europeans (French and British) wanted to take away the eastern gateway, but the Begums provided plaster casts instead.",
+        "Their vision ensured that the monument remained in situ (on its original site) and was well-preserved."
+      ],
+      "hi": [
+        "सांची का स्तूप 19वीं शताब्दी में खोजे गए सबसे महत्वपूर्ण बौद्ध स्मारकों में से एक है।",
+        "भोपाल की बेगमों (शाहजहाँ बेगम और सुल्तान जहाँ बेगम) ने इसके संरक्षण के लिए भारी धन दिया था।",
+        "उन्होंने एक संग्रहालय और अतिथि गृह के लिए दान दिया जहाँ जॉन मार्शल ने रहकर अपनी पुस्तकें लिखीं।",
+        "यूरोपीय (फ्रांसीसी और अंग्रेज) पूर्वी तोरण द्वार ले जाना चाहते थे, लेकिन बेगमों ने उन्हें प्लास्टर की नकलें दीं।",
+        "उनकी दूरदर्शिता के कारण यह स्मारक अपने मूल स्थान पर ही सुरक्षित बचा रहा।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Background: Sacrifices and Debates",
+      "hi": "पृष्ठभूमि: यज्ञ और विवाद"
+    },
+    "content": {
+      "en": [
+        "The mid-first millennium BCE was a turning point in world history with thinkers like Buddha, Mahavira, Socrates, and Plato.",
+        "Early Vedic tradition involved sacrifices (Yajnas) for cattle, sons, and good health (e.g., Rajasuya and Ashvamedha).",
+        "Upanishads questioned the meaning of life, possibility of life after death, and rebirth.",
+        "Kutagarashala (huts with pointed roofs) were places where traveling teachers stayed and debated philosophy.",
+        "New thinkers often challenged the authority of the Vedas and emphasized individual effort to achieve liberation."
+      ],
+      "hi": [
+        "प्रथम सहस्राब्दी ईसा पूर्व के मध्य का काल विश्व इतिहास में बुद्ध, महावीर, सुकरात और प्लेटो जैसे विचारकों के उदय का समय था।",
+        "प्रारंभिक वैदिक परंपरा में मवेशी, पुत्र और अच्छे स्वास्थ्य के लिए यज्ञ (जैसे राजसूय और अश्वमेध) किए जाते थे।",
+        "उपनिषदों में जीवन के अर्थ, मृत्यु के बाद जीवन और पुनर्जन्म जैसे विषयों पर सवाल उठाए गए।",
+        "कुटागारशाला (नुकीली छत वाली झोपड़ियाँ) वे स्थान थे जहाँ घूमते हुए शिक्षक रुकते थे और दर्शन पर चर्चा करते थे।",
+        "नए विचारकों ने अक्सर वेदों के अधिकार को चुनौती दी और मुक्ति के लिए व्यक्तिगत प्रयास पर जोर दिया।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "The Message of Mahavira (Jainism)",
+      "hi": "महावीर का संदेश (जैन धर्म)"
+    },
+    "content": {
+      "en": [
+        "The central philosophy of Jainism is that the entire world is animated; even stones and water have life.",
+        "Ahimsa (Non-violence) is the core principle - no injury to any living being, including plants and insects.",
+        "The cycle of birth and rebirth is determined through karma; penance is required to free oneself from this cycle.",
+        "Monastic existence is a necessary condition for salvation.",
+        "Jain monks take five vows: not to kill, steal, lie, possess property, and to observe celibacy."
+      ],
+      "hi": [
+        "जैन धर्म का मुख्य दर्शन है कि संपूर्ण विश्व सजीव है; यहाँ तक कि पत्थरों और जल में भी जीवन होता है।",
+        "अहिंसा जैन धर्म का मुख्य सिद्धांत है - किसी भी जीव (पौधों और कीड़ों सहित) को चोट न पहुँचाना।",
+        "जन्म और पुनर्जन्म का चक्र कर्म द्वारा निर्धारित होता है; इस चक्र से मुक्ति के लिए तपस्या की आवश्यकता होती है।",
+        "मुक्ति प्राप्त करने के लिए संसार का त्याग और भिक्षु जीवन अपनाना अनिवार्य माना गया है।",
+        "जैन साधु पाँच व्रतों का पालन करते हैं: हत्या न करना, चोरी न करना, झूठ न बोलना, धन संग्रह न करना और ब्रह्मचर्य का पालन।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "The Buddha and the Quest for Enlightenment",
+      "hi": "बुद्ध और ज्ञान की खोज"
+    },
+    "content": {
+      "en": [
+        "Siddhartha (Buddha) was born into the Sakya clan. His life changed after seeing an old man, a sick man, a corpse, and a monk.",
+        "He attained enlightenment under a Bodhi tree at Bodh Gaya and became the Buddha (the enlightened one).",
+        "The Buddha taught that the world is transient (anicca) and soulless (anatta).",
+        "He identified 'Dukkha' (suffering) as intrinsic to human existence and 'Tanha' (desire) as its cause.",
+        "He advocated the 'Middle Path' - avoiding both extreme indulgence and extreme penance."
+      ],
+      "hi": [
+        "सिद्धार्थ (बुद्ध) का जन्म शाक्य कबीले में हुआ था। एक वृद्ध, एक बीमार, एक लाश और एक संन्यासी को देखकर उनका जीवन बदल गया।",
+        "उन्होंने बोधगया में एक बोधि वृक्ष के नीचे ज्ञान प्राप्त किया और 'बुद्ध' (प्रबुद्ध) कहलाए।",
+        "बुद्ध ने सिखाया कि दुनिया अनित्य (क्षणिक) है और आत्मा विहीन (अनात्म) है।",
+        "उन्होंने 'दुःख' को मानव अस्तित्व का हिस्सा और 'तृष्णा' (इच्छा) को इसका कारण बताया।",
+        "उन्होंने 'मध्यम मार्ग' की सलाह दी - न तो अत्यधिक विलासिता और न ही अत्यधिक कठोर तपस्या।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Buddhist Sangha",
+      "hi": "बौद्ध संघ"
+    },
+    "content": {
+      "en": [
+        "The Sangha was an organization of monks (bhikkhus) who became teachers of Dhamma.",
+        "Members lived a simple life with only essential possessions like a bowl for alms.",
+        "Initially only men were allowed; later, women were admitted as Bhikkhunis (Prajapati Gautami was the first).",
+        "Rules for the Sangha were recorded in the 'Vinaya Pitaka'.",
+        "Within the Sangha, all were treated as equal as they shed their earlier social identities (caste/status)."
+      ],
+      "hi": [
+        "संघ भिक्षुओं का एक संगठन था जो धम्म के शिक्षक बन गए थे।",
+        "सदस्य सादा जीवन जीते थे और उनके पास केवल ज़रूरत की चीज़ें होती थीं, जैसे भिक्षा के लिए एक कटोरा।",
+        "शुरुआत में केवल पुरुषों को अनुमति थी; बाद में महिलाओं को 'भिक्षुणी' के रूप में प्रवेश मिला (प्रजापति गौतमी पहली थीं)।",
+        "संघ के नियमों को 'विनय पिटक' में दर्ज किया गया था।",
+        "संघ के भीतर सभी को समान माना जाता था क्योंकि वे अपनी पिछली सामाजिक पहचान (जाति/रुतबा) छोड़ देते थे।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Stupas: Architecture and Meaning",
+      "hi": "स्तूप: स्थापत्य और अर्थ"
+    },
+    "content": {
+      "en": [
+        "Stupas were built over relics of the Buddha (bodily remains or objects used by him).",
+        "Structure: A semi-circular mound called 'anda', surmounted by a 'harmika' (abode of gods).",
+        "A mast called 'yashti' rose from the harmika, often with a 'chhatri' (umbrella).",
+        "The sacred space was separated by railings (vedika) and entered through gateways (toranas).",
+        "Devotees walked around the stupa in a clockwise direction (pradakshina)."
+      ],
+      "hi": [
+        "स्तूप बुद्ध के अवशेषों (शारीरिक अवशेष या उनके द्वारा उपयोग की जाने वाली वस्तुओं) पर बनाए गए थे।",
+        "संरचना: 'अंड' नामक अर्ध-गोलाकार टीला, जिसके ऊपर 'हर्मिका' (देवताओं का घर) होती थी।",
+        "हर्मिका से एक मस्तूल निकलता था जिसे 'यष्टि' कहते थे, जिस पर अक्सर 'छतरी' लगी होती थी।",
+        "पवित्र स्थान को रेलिंग (वेदिका) द्वारा अलग किया जाता था और प्रवेश द्वारों (तोरणों) से पहुँचा जाता था।",
+        "भक्त स्तूप के चारों ओर घड़ी की सुई की दिशा में परिक्रमा (प्रदक्षिणा) करते थे।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Sculptures and Symbols in Buddhist Art",
+      "hi": "बौद्ध कला में मूर्तिकला और प्रतीक"
+    },
+    "content": {
+      "en": [
+        "Early artists used symbols instead of showing the Buddha in human form.",
+        "The 'Empty Throne' symbolized the meditation of the Buddha.",
+        "The 'Wheel' (Dharmachakra) represented his first sermon at Sarnath.",
+        "The 'Stupa' symbolized the Mahaparinibbana (death of Buddha).",
+        "Other figures like 'Shalabhanjika' (woman touching a tree) were incorporated from popular traditions."
+      ],
+      "hi": [
+        "शुरुआती कलाकारों ने बुद्ध को मानव रूप में दिखाने के बजाय प्रतीकों का उपयोग किया।",
+        " 'खाली सिंहासन' बुद्ध के ध्यान की अवस्था का प्रतीक था।",
+        " 'चक्र' (धर्मचक्र) सारनाथ में दिए गए उनके पहले उपदेश का प्रतिनिधित्व करता था।",
+        " 'स्तूप' महापरिनिर्वाण (बुद्ध की मृत्यु) का प्रतीक था।",
+        " 'शालभंजिका' (पेड़ को छूती महिला) जैसी अन्य आकृतियों को लोकप्रिय परंपराओं से शामिल किया गया था।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "New Religious Traditions: Mahayana and Hinayana",
+      "hi": "नई धार्मिक परंपराएँ: महायान और हीनयान"
+    },
+    "content": {
+      "en": [
+        "Mahayana (Great Vehicle): Saw Buddha as a god/savior and started idol worship.",
+        "They believed in 'Bodhisattvas' who helped others achieve salvation through their merit.",
+        "Hinayana (Lesser Vehicle/Theravada): Stuck to older traditions, seeing Buddha as a human teacher.",
+        "Emphasized individual effort and meditation to achieve nirvana.",
+        "This split occurred around the 1st century CE and changed the nature of Buddhist worship."
+      ],
+      "hi": [
+        "महायान (बड़ा वाहन): बुद्ध को एक देवता/मुक्तिदाता के रूप में देखा और मूर्ति पूजा शुरू की।",
+        "वे 'बोधिसत्वों' में विश्वास करते थे जो अपने पुण्य से दूसरों को मुक्ति दिलाने में मदद करते थे।",
+        "हीनयान (छोटा वाहन/थेरवाद): पुरानी परंपराओं पर टिके रहे, बुद्ध को एक मानव शिक्षक माना।",
+        "निर्वाण प्राप्त करने के लिए व्यक्तिगत प्रयास और ध्यान पर जोर दिया।",
+        "यह विभाजन लगभग पहली शताब्दी ईस्वी के आसपास हुआ और इसने बौद्ध पूजा के स्वरूप को बदल दिया।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "The Growth of Puranic Hinduism",
+      "hi": "पौराणिक हिंदू धर्म का विकास"
+    },
+    "content": {
+      "en": [
+        "Rise of 'Bhakti' - personal devotion to a specific deity like Vishnu or Shiva.",
+        "Vaishnavism centered on ten avatars (incarnations) of Vishnu to save the world.",
+        "Shaivism focused on Shiva, symbolized through the 'Linga' and human forms.",
+        "Temples started evolving from small square rooms (garbhagriha) to structures with tall towers (shikhara).",
+        "Sculptures of deities were placed inside temples and worshipped as part of the ritual tradition."
+      ],
+      "hi": [
+        " 'भक्ति' का उदय - विष्णु या शिव जैसे किसी विशेष देवता के प्रति व्यक्तिगत प्रेम और श्रद्धा।",
+        "वैष्णववाद विष्णु के दस अवतारों के इर्द-गिर्द केंद्रित था जो दुनिया को बचाने के लिए अवतरित होते थे।",
+        "शैववाद शिव पर केंद्रित था, जिन्हें 'लिंग' और मानव रूपों के माध्यम से प्रतीकात्मक रूप दिया गया।",
+        "मंदिरों का विकास छोटे वर्गाकार कमरों (गर्भगृह) से ऊँचे शिखरों वाली संरचनाओं के रूप में होना शुरू हुआ।",
+        "देवताओं की मूर्तियों को मंदिरों के भीतर स्थापित किया गया और अनुष्ठानिक परंपरा के रूप में पूजा गया।"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "topic": {
+      "en": "Sanchi vs. Amaravati: Why Sanchi Survived?",
+      "hi": "सांची बनाम अमरावती: सांची क्यों बच गया?"
+    },
+    "content": {
+      "en": [
+        "Amaravati was discovered much earlier (1796) when people did not understand the value of site preservation.",
+        "British officials and local rajas looted Amaravati's sculptures to decorate their gardens or museums.",
+        "Sanchi was discovered in 1818, by which time scholars like John Marshall advocated keeping artifacts 'in situ'.",
+        "Sanchi also received royal protection and funding from the Bhopal Begums.",
+        "By the time Sanchi was being studied, Amaravati had already become a site of ruins due to theft and neglect."
+      ],
+      "hi": [
+        "अमरावती की खोज बहुत पहले (1796) हुई थी जब लोग स्थल संरक्षण के महत्व को नहीं समझते थे।",
+        "ब्रिटिश अधिकारियों और स्थानीय राजाओं ने अमरावती की मूर्तियों को अपने बगीचों या संग्रहालयों के लिए लूट लिया।",
+        "सांची की खोज 1818 में हुई, तब तक जॉन मार्शल जैसे विद्वानों ने पुरावशेषों को उनके मूल स्थान पर रखने की वकालत की थी।",
+        "सांची को भोपाल की बेगमों से शाही संरक्षण और आर्थिक सहायता भी मिली।",
+        "जब तक सांची का अध्ययन शुरू हुआ, तब तक चोरी और उपेक्षा के कारण अमरावती पहले ही खंडहर बन चुका था।"
+      ]
+    }
+  }
+]

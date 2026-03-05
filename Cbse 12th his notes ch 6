@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Mosaic of Religious Beliefs: Saguna and Nirguna",
+      "hi": "धार्मिक विश्वासों का ताना-बाना: सगुण और निर्गुण"
+    },
+    "content": {
+      "en": [
+        "Bhakti traditions are broadly classified into two categories: Saguna and Nirguna.",
+        "Saguna (with attributes): Focuses on the worship of specific deities like Shiva, Vishnu and his avatars, and forms of the Goddess.",
+        "Nirguna (without attributes): Worship of an abstract, formless God (Nirankar).",
+        "Integration of Cults: This period saw a mix of Great Sanskritic traditions and Little local traditions.",
+        "Brahmanas played a key role in spreading these beliefs by writing Puranas in simple Sanskrit."
+      ],
+      "hi": [
+        "भक्ति परंपराओं को मुख्य रूप से दो श्रेणियों में बांटा गया है: सगुण और निर्गुण।",
+        "सगुण (गुणों सहित): शिव, विष्णु और उनके अवतारों तथा देवी के विशेष रूपों की आराधना पर केंद्रित।",
+        "निर्गुण (गुणों रहित): ईश्वर के निराकार और अमूर्त स्वरूप की उपासना।",
+        "आस्थाओं का संकलन: इस काल में महान संस्कृत परंपराओं और लघु स्थानीय परंपराओं का मेल देखा गया।",
+        "ब्राह्मणों ने सरल संस्कृत में पुराणों की रचना करके इन विश्वासों को फैलाने में मुख्य भूमिका निभाई।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Alvars and Nayanars of South India",
+      "hi": "दक्षिण भारत के अलवार और नयनार"
+    },
+    "content": {
+      "en": [
+        "Alvars: Devotees of Vishnu; Nayanars: Devotees of Shiva.",
+        "They traveled singing hymns in Tamil in praise of their gods.",
+        "They were inclusive, drawing members from all castes including 'untouchables'.",
+        "Presence of Women: Famous female saints included Andal (Alvar) and Karaikkal Ammaiyar (Nayanar).",
+        "Opposition: They strongly opposed Buddhism and Jainism, which led to royal patronage of Hindu temples."
+      ],
+      "hi": [
+        "अलवार: विष्णु के भक्त; नयनार: शिव के भक्त थे।",
+        "वे अपने आराध्य की स्तुति में तमिल भाषा में भजन गाते हुए यात्राएँ करते थे।",
+        "वे समावेशी थे, जिनमें 'अछूत' मानी जाने वाली जातियों सहित सभी वर्गों के लोग शामिल थे।",
+        "स्त्रियों की उपस्थिति: प्रसिद्ध महिला संतों में अंडाल (अलवार) और करइक्काल अम्मइयार (नयनार) शामिल थीं।",
+        "विरोध: उन्होंने बौद्ध और जैन धर्म का कड़ा विरोध किया, जिसके कारण हिंदू मंदिरों को शाही संरक्षण मिला।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Virashaiva Tradition in Karnataka",
+      "hi": "कर्नाटक की वीरशैव परंपरा"
+    },
+    "content": {
+      "en": [
+        "Led by Basavanna, a Brahmana minister in the 12th century.",
+        "Followers were known as Virashaivas (heroes of Shiva) or Lingayats (wearers of the linga).",
+        "They worship Shiva in the form of a small linga worn in a silver case on the left shoulder.",
+        "They challenged the ideas of caste and 'pollution' (untouchability) dictated by Brahmanas.",
+        "Social Reforms: Supported post-puberty marriage and the remarriage of widows.",
+        "Belief: They believe that after death, the devotee merges with Shiva and does not return."
+      ],
+      "hi": [
+        "12वीं शताब्दी में एक ब्राह्मण मंत्री बसवन्ना ने इसका नेतृत्व किया था।",
+        "अनुयायियों को वीरशैव (शिव के वीर) या लिंगायत (लिंग धारण करने वाले) कहा जाता था।",
+        "वे शिव की आराधना एक छोटे लिंग के रूप में करते हैं जिसे चांदी के डिब्बे में बाएं कंधे पर पहना जाता है।",
+        "उन्होंने ब्राह्मणों द्वारा निर्धारित जाति प्रथा और 'अपवित्रता' (छुआछूत) के विचारों को चुनौती दी।",
+        "सामाजिक सुधार: उन्होंने वयस्क विवाह और विधवा पुनर्विवाह का समर्थन किया।",
+        "विश्वास: उनका मानना है कि मृत्यु के बाद भक्त शिव में लीन हो जाता है और पुनर्जन्म नहीं होता।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Sufism: Mysticism in Islam",
+      "hi": "सूफीवाद: इस्लाम में रहस्यवाद"
+    },
+    "content": {
+      "en": [
+        "Sufis were a group of religious-minded people in Islam who emphasized personal devotion to God.",
+        "They turned to asceticism and mysticism to protest against the growing materialism of the Caliphate.",
+        "Khanqah: A center of social life where the master (Pir/Shaikh) lived with his disciples (Murids).",
+        "Silsila: A continuous 'chain' of spiritual genealogy from the Prophet Muhammad to the master.",
+        "Ziyarat: Pilgrimage to the tombs (Dargahs) of Sufi saints on their death anniversaries (Urs)."
+      ],
+      "hi": [
+        "सूफी इस्लाम के भीतर उन लोगों का समूह था जो ईश्वर के प्रति व्यक्तिगत प्रेम और भक्ति पर जोर देते थे।",
+        "उन्होंने खिलाफत की बढ़ती विलासिता के विरोध में वैराग्य और रहस्यवाद का मार्ग अपनाया।",
+        "खानकाह: सामाजिक जीवन का केंद्र जहाँ गुरु (पीर या शेख) अपने शिष्यों (मुरीद) के साथ रहता था।",
+        "सिलसिला: पैगंबर मुहम्मद से गुरु तक की एक निरंतर आध्यात्मिक वंशावली या 'जंजीर'।",
+        "ज़ियारत: सूफी संतों की पुण्यतिथि (उर्स) पर उनकी मज़ारों या दरगाहों की तीर्थयात्रा।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Chishti Order in India",
+      "hi": "भारत में चिश्ती सिलसिला"
+    },
+    "content": {
+      "en": [
+        "The Chishtis were the most influential Sufi order in the Indian subcontinent.",
+        "Shaikh Nizamuddin Auliya (Delhi) was one of the most famous saints of this order.",
+        "Their life was simple, supported by voluntary donations (Futuh).",
+        "Sama: Audition of devotional music (Qawwali) was used to achieve spiritual ecstasy.",
+        "Interactions: People from all social backgrounds visited the Khanqah for blessings.",
+        "Langar: Community kitchens were maintained to feed the poor and visitors."
+      ],
+      "hi": [
+        "भारतीय उपमहाद्वीप में चिश्ती सिलसिला सबसे प्रभावशाली सूफी आदेश था।",
+        "शेख निजामुद्दीन औलिया (दिल्ली) इस सिलसिले के सबसे प्रसिद्ध संतों में से एक थे।",
+        "उनका जीवन सादा था, जो बिना मांगे मिले दान (फुतूह) पर निर्भर था।",
+        "समा: आध्यात्मिक आनंद प्राप्त करने के लिए भक्ति संगीत (कव्वाली) का उपयोग किया जाता था।",
+        "संवाद: समाज के सभी वर्गों के लोग आशीर्वाद लेने के लिए खानकाह में आते थे।",
+        "लंगर: गरीबों और आगंतुकों को भोजन कराने के लिए सामुदायिक रसोई का संचालन किया जाता था।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Kabir: The Poet-Saint",
+      "hi": "कबीर: कवि-संत"
+    },
+    "content": {
+      "en": [
+        "Kabir is one of the most prominent figures of the Nirguna Bhakti movement.",
+        "His verses are found in three collections: Kabir Bijak, Kabir Granthavali, and the Adi Granth Sahib.",
+        "He used 'Ulatbansi' (upside-down sayings) to challenge religious orthodoxies.",
+        "He rejected idol worship, caste hierarchy, and formal rituals of both Hindus and Muslims.",
+        "He preached that God is one, often referred to as Allah, Ram, or Hari."
+      ],
+      "hi": [
+        "कबीर निर्गुण भक्ति आंदोलन के सबसे प्रमुख व्यक्तियों में से एक हैं।",
+        "उनके पद तीन संकलनों में मिलते हैं: कबीर बीजक, कबीर ग्रंथावली और आदि ग्रंथ साहिब।",
+        "उन्होंने धार्मिक रूढ़ियों को चुनौती देने के लिए 'उलटबांसी' (उल्टी बातें) का प्रयोग किया।",
+        "उन्होंने हिंदू और मुस्लिम दोनों के मूर्ति पूजा, जाति पदानुक्रम और औपचारिक कर्मकांडों को नकारा।",
+        "उन्होंने उपदेश दिया कि ईश्वर एक है, जिसे अक्सर अल्लाह, राम या हरि कहा जाता है।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Baba Guru Nanak Dev Ji",
+      "hi": "बाबा गुरु नानक देव जी"
+    },
+    "content": {
+      "en": [
+        "Guru Nanak Dev Ji founded the Sikh tradition, emphasizing one formless God (Akir Purakh).",
+        "He rejected the scriptures and rituals of Hindus and Muslims.",
+        "He advocated the meditation on the divine name (Nam-Simran).",
+        "He established the practice of Sangat (holy congregation) and Pangat (eating together).",
+        "His teachings were compiled by his successors in the Guru Granth Sahib (Adi Granth)."
+      ],
+      "hi": [
+        "गुरु नानक देव जी ने सिख परंपरा की नींव रखी, जो एक निराकार ईश्वर (अकाल पुरख) पर जोर देती है।",
+        "उन्होंने हिंदू और मुसलमानों के धर्मग्रंथों और कर्मकांडों को खारिज कर दिया।",
+        "उन्होंने ईश्वरीय नाम के स्मरण और ध्यान (नाम-सिमरन) की वकालत की।",
+        "उन्होंने संगत (पवित्र सभा) और पंगत (एक साथ भोजन) की प्रथा स्थापित की।",
+        "उनकी शिक्षाओं को उनके उत्तराधिकारियों ने 'गुरु ग्रंथ साहिब' (आदि ग्रंथ) में संकलित किया।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Mirabai: The Devotee of Krishna",
+      "hi": "मीराबाई: कृष्ण की भक्त"
+    },
+    "content": {
+      "en": [
+        "Mirabai was a Rajput princess who defied social norms to express her devotion to Krishna.",
+        "She rejected her role as a wife and queen, recognizing Krishna (Girdhar Gopal) as her husband.",
+        "She chose Raidas (a leather-worker) as her guru, challenging caste hierarchies.",
+        "Her compositions (Bhajans) are popular for their deep emotional connect and defiance of patriarchy.",
+        "She is considered a 'rebel saint' who chose the path of spiritual freedom over palace luxury."
+      ],
+      "hi": [
+        "मीराबाई एक राजपूत राजकुमारी थीं जिन्होंने कृष्ण के प्रति अपनी भक्ति व्यक्त करने के लिए सामाजिक मानदंडों को तोड़ा।",
+        "उन्होंने कृष्ण (गिरधर गोपाल) को अपना पति मानकर पत्नी और रानी की पारंपरिक भूमिका को अस्वीकार कर दिया।",
+        "उन्होंने एक चर्मकार (रैदास) को अपना गुरु चुना, जो जाति पदानुक्रम को एक बड़ी चुनौती थी।",
+        "उनके भजन अपने गहरे भावनात्मक जुड़ाव और पितृसत्ता के विरोध के लिए प्रसिद्ध हैं।",
+        "उन्हें एक 'विद्रोही संत' माना जाता है जिन्होंने महल के सुख के बजाय आध्यात्मिक स्वतंत्रता का मार्ग चुना।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "Religious Traditions and the State",
+      "hi": "धार्मिक परंपराएँ और राज्य"
+    },
+    "content": {
+      "en": [
+        "Kings provided massive grants of land and funds to build temples (e.g., Chola kings).",
+        "State patronage helped rulers gain religious legitimacy and support from the masses.",
+        "Akbar and the Mughals visited Dargahs and gave land to various religious groups to show tolerance.",
+        "Conflict: Sometimes there were clashes, such as with Guru Arjan Dev and the Mughal state.",
+        "Sufis often provided advice to kings on spiritual and ethical governance."
+      ],
+      "hi": [
+        "राजाओं ने मंदिरों के निर्माण के लिए भूमि और धन का भारी दान दिया (जैसे चोल राजा)।",
+        "राजकीय संरक्षण ने शासकों को धार्मिक वैधता और जनता का समर्थन हासिल करने में मदद की।",
+        "अकबर और मुगलों ने सहिष्णुता दिखाने के लिए दरगाहों की यात्रा की और विभिन्न समूहों को भूमि दान की।",
+        "संघर्ष: कभी-कभी टकराव भी हुए, जैसे गुरु अर्जन देव और मुगल राज्य के बीच।",
+        "सूफियों ने अक्सर राजाओं को आध्यात्मिक और नैतिक शासन पर सलाह प्रदान की।"
+      ]
+    }
+  }
+]

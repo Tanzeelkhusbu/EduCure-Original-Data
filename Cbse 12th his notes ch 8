@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Sources for Agrarian History",
+      "hi": "कृषि इतिहास के स्रोत"
+    },
+    "content": {
+      "en": [
+        "The primary source is the 'Ain-i Akbari', written by Abu’l Fazl, which recorded the arrangements made by the state to ensure cultivation and collect revenue.",
+        "It also recorded the relationship between the state and the zamindars.",
+        "Other sources include revenue records from Gujarat, Rajasthan, and Maharashtra dating from the 17th and 18th centuries.",
+        "Records of the East India Company provide useful descriptions of agrarian relations in eastern India.",
+        "These documents often reflect the perspective of the state but also capture voices of peasants in the form of petitions."
+      ],
+      "hi": [
+        "मुख्य स्रोत अबुल फज़ल द्वारा रचित 'आईन-ए-अकबरी' है, जिसमें खेती सुनिश्चित करने और राजस्व वसूली के लिए राज्य द्वारा किए गए प्रबंधों का लेखा-जोखा है।",
+        "इसमें राज्य और ज़मींदारों के बीच के संबंधों को भी दर्ज किया गया है।",
+        "अन्य स्रोतों में 17वीं और 18वीं शताब्दी के गुजरात, राजस्थान और महाराष्ट्र के राजस्व रिकॉर्ड शामिल हैं।",
+        "ईस्ट इंडिया कंपनी के रिकॉर्ड पूर्वी भारत में कृषि संबंधों के उपयोगी विवरण प्रदान करते हैं।",
+        "ये दस्तावेज़ अक्सर राज्य के दृष्टिकोण को दर्शाते हैं, लेकिन याचिकाओं के रूप में किसानों की आवाज़ को भी शामिल करते हैं।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Peasants and their Lands",
+      "hi": "किसान और उनकी भूमि"
+    },
+    "content": {
+      "en": [
+        "The term 'raiyat' or 'muzarian' was used to describe peasants.",
+        "There were two kinds of peasants: Khud-kashta and Pahi-kashta.",
+        "Khud-kashta: Residents of the village in which they held their lands.",
+        "Pahi-kashta: Non-resident cultivators who belonged to another village but cultivated land elsewhere on a contractual basis.",
+        "Land ownership was hereditary, and peasants often sold or mortgaged their lands."
+      ],
+      "hi": [
+        "किसानों के लिए 'रैयत' या 'मुज़ारियन' शब्द का प्रयोग किया जाता था।",
+        "किसान दो प्रकार के थे: खुद-काश्त और पाही-काश्त।",
+        "खुद-काश्त: वे किसान जो उसी गाँव में रहते थे जहाँ उनकी अपनी ज़मीन थी।",
+        "पाही-काश्त: वे खेतीहर जो दूसरे गाँव के निवासी थे लेकिन अनुबंध के आधार पर कहीं और खेती करते थे।",
+        "भूमि का स्वामित्व वंशानुगत था, और किसान अक्सर अपनी ज़मीन बेचते या गिरवी रखते थे।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Irrigation and Technology",
+      "hi": "सिंचाई और तकनीक"
+    },
+    "content": {
+      "en": [
+        "Agriculture was dependent on the monsoon, but supplementary irrigation was vital for some crops.",
+        "The state-supported the construction of canals (e.g., Shahnahar in Punjab).",
+        "Technology included the use of wooden ploughs with iron tips and the 'Persian Wheel' (Rahat) for lifting water from wells.",
+        "Artificial irrigation helped in the cultivation of diverse crops throughout the year.",
+        "Peasants used basic but effective tools for sowing and harvesting grains."
+      ],
+      "hi": [
+        "कृषि मानसून पर निर्भर थी, लेकिन कुछ फसलों के लिए सहायक सिंचाई अनिवार्य थी।",
+        "राज्य ने नहरों के निर्माण में सहायता प्रदान की (जैसे पंजाब में शाहनहर)।",
+        "तकनीक में लोहे के फाल वाले लकड़ी के हल और कुओं से पानी निकालने के लिए 'रहट' (Persian Wheel) का उपयोग शामिल था।",
+        "कृत्रिम सिंचाई ने साल भर विविध फसलों की खेती में मदद की।",
+        "किसान अनाज की बुवाई और कटाई के लिए बुनियादी लेकिन प्रभावी उपकरणों का उपयोग करते थे।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Crops and Commercialisation",
+      "hi": "फसलें और व्यवसायीकरण"
+    },
+    "content": {
+      "en": [
+        "Agriculture was organized around two major seasonal cycles: Kharif (autumn) and Rabi (spring).",
+        "A wide variety of crops were grown: staples like wheat, rice, and millets.",
+        "Jins-i Kamil (Perfect Crops): The Mughal state encouraged the production of cash crops like cotton and sugarcane for higher revenue.",
+        "Oilseeds (mustard) and pulses were also important components of the agrarian economy.",
+        "New crops like tobacco, maize, and fruits from the New World (e.g., pineapple, papaya) were introduced."
+      ],
+      "hi": [
+        "कृषि दो मुख्य मौसमी चक्रों के इर्द-गिर्द संगठित थी: खरीफ (पतझड़) और रबी (वसंत)।",
+        "फसलों की एक विस्तृत विविधता उगाई जाती थी: जैसे गेहूँ, चावल और बाजरा।",
+        "जिन्स-ए-कामिल (सर्वोत्तम फसलें): मुगल राज्य ने उच्च राजस्व के लिए कपास और गन्ना जैसी नकदी फसलों के उत्पादन को प्रोत्साहित किया।",
+        "तिलहन (सरसों) और दालें भी कृषि अर्थव्यवस्था के महत्वपूर्ण अंग थे।",
+        "तंबाकू, मक्का और नई दुनिया के फल (जैसे अनानास, पपीता) जैसी नई फसलें भी इसी काल में आईं।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Village Community: Panchayat and Headman",
+      "hi": "ग्राम समुदाय: पंचायत और मुखिया"
+    },
+    "content": {
+      "en": [
+        "The village community consisted of three components: the cultivators, the panchayat, and the village headman (muqaddam/mandal).",
+        "The Panchayat was an assembly of elders, usually representing the various castes and communities in the village.",
+        "Its decisions were binding on the members, and its main function was to maintain law and order and supervise village accounts.",
+        "The headman was responsible for collecting revenue and ensuring the village's welfare using a common financial pool.",
+        "Artisans like blacksmiths, carpenters, and potters were an integral part of the village and provided specialized services in exchange for land or food grains."
+      ],
+      "hi": [
+        "ग्राम समुदाय के तीन घटक थे: खेतीहर किसान, पंचायत और गाँव का मुखिया (मुकद्दम या मंडल)।",
+        "पंचायत बुजुर्गों की एक सभा थी, जो आमतौर पर गाँव की विभिन्न जातियों और समुदायों का प्रतिनिधित्व करती थी।",
+        "इसके निर्णय सदस्यों पर बाध्यकारी थे, और इसका मुख्य कार्य कानून-व्यवस्था बनाए रखना व गाँव के खातों की निगरानी करना था।",
+        "मुखिया राजस्व वसूलने और एक साझा कोष का उपयोग करके गाँव के कल्याण को सुनिश्चित करने के लिए ज़िम्मेदार था।",
+        "लोहार, बढ़ई और कुम्हार जैसे शिल्पकार गाँव का अभिन्न हिस्सा थे और वे भूमि या अनाज के बदले अपनी सेवाएँ देते थे।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Women in Rural Society",
+      "hi": "ग्रामीण समाज में महिलाएँ"
+    },
+    "content": {
+      "en": [
+        "Women played a crucial role in agricultural production, working alongside men in the fields.",
+        "While men tilled the land, women sowed, weeded, and harvested.",
+        "They were also involved in artisanal tasks like spinning yarn and making pottery.",
+        "Social control was strict; women were often subject to the authority of male family members.",
+        "Records indicate that women could inherit property and were sometimes involved in legal petitions to the panchayat."
+      ],
+      "hi": [
+        "कृषि उत्पादन में महिलाओं की महत्वपूर्ण भूमिका थी, वे खेतों में पुरुषों के साथ कंधे से कंधा मिलाकर काम करती थीं।",
+        "जहाँ पुरुष हल चलाते थे, वहीं महिलाएँ बुवाई, निराई और कटाई का काम करती थीं।",
+        "वे सूत कातने और मिट्टी के बर्तन बनाने जैसे शिल्प कार्यों में भी शामिल थीं।",
+        "सामाजिक नियंत्रण कड़ा था; महिलाएँ अक्सर परिवार के पुरुष सदस्यों के अधिकार के अधीन थीं।",
+        "दस्तावेज़ बताते हैं कि महिलाएँ संपत्ति विरासत में ले सकती थीं और कभी-कभी पंचायत में कानूनी याचिकाओं में भी शामिल होती थीं।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Forest Society and Tribes",
+      "hi": "वन समाज और जनजातियाँ"
+    },
+    "content": {
+      "en": [
+        "About 40% of the land was covered by forests, inhabited by 'Jangli' (forest-dwellers).",
+        "Their livelihood came from hunting, gathering forest products, and shifting cultivation.",
+        "State intrusion into forests was driven by the need for elephants and timber.",
+        "Tribal chiefs often became zamindars or even kings over time.",
+        "Trade in honey, wax, and lac linked forest communities with the outside market."
+      ],
+      "hi": [
+        "लगभग 40% भूमि जंगलों से ढकी थी, जहाँ 'जंगली' (वनवासी) रहते थे।",
+        "उनकी आजीविका शिकार, वन उत्पादों के संग्रह और झूम खेती से चलती थी।",
+        "हाथियों और लकड़ी की ज़रूरत के कारण जंगलों में राज्य का हस्तक्षेप बढ़ता गया।",
+        "समय के साथ कई जनजातीय मुखिया ज़मींदार या यहाँ तक कि राजा भी बन गए।",
+        "शहद, मोम और लाख के व्यापार ने वन समुदायों को बाहरी बाज़ारों से जोड़ा।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "The Zamindars",
+      "hi": "ज़मींदार"
+    },
+    "content": {
+      "en": [
+        "Zamindars were landed gentry who held high social and economic status.",
+        "They did not participate directly in cultivation but held 'milkiyat' (private land) worked by hired labor.",
+        "They performed important services for the state, primarily as intermediaries in revenue collection.",
+        "They maintained fortresses (qilas) and armed contingents.",
+        "Zamindars often played a role in colonising new lands and providing credit to peasants."
+      ],
+      "hi": [
+        "ज़मींदार वे उच्च सामाजिक और आर्थिक स्थिति वाले लोग थे जिनके पास अपनी ज़मीन होती थी।",
+        "वे सीधे खेती में भाग नहीं लेते थे बल्कि 'मल्कियत' (निजी भूमि) पर दिहाड़ी मजदूरों से काम कराते थे।",
+        "वे राज्य के लिए महत्वपूर्ण सेवाएँ देते थे, मुख्य रूप से राजस्व वसूली में मध्यस्थ के रूप में।",
+        "वे अपने किले (किले) और सशस्त्र सेना की टुकड़ियाँ रखते थे।",
+        "ज़मींदारों ने अक्सर नई ज़मीनों को बसाने और किसानों को ऋण देने में भूमिका निभाई।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "Land Revenue System",
+      "hi": "भू-राजस्व प्रणाली"
+    },
+    "content": {
+      "en": [
+        "Revenue was the lifeline of the Mughal Empire. The state aimed to maximize it while ensuring peasant survival.",
+        "Assessment involved two stages: Jama (assessed amount) and Hasil (actual amount collected).",
+        "Akbar introduced the 'Zabti' system based on the measurement of land and classification of its productivity (Polaj, Parauti, Chachar, Banjar).",
+        "Revenue was preferably collected in cash, though collection in kind was also common.",
+        "Officials like the Amil-Guzar were responsible for supervising revenue collection."
+      ],
+      "hi": [
+        "राजस्व मुगल साम्राज्य की जीवन-रेखा थी। राज्य का लक्ष्य किसानों के अस्तित्व को बचाते हुए इसे अधिकतम करना था।",
+        "निर्धारण के दो चरण थे: जमा (निर्धारित राशि) और हासिल (वास्तव में वसूली गई राशि)।",
+        "अकबर ने भूमि की पैमाइश और उत्पादकता के वर्गीकरण (पोलज, परौती, चचर, बंजर) पर आधारित 'ज़ब्ती' प्रणाली शुरू की।",
+        "राजस्व मुख्य रूप से नकद में वसूला जाता था, हालाँकि अनाज के रूप में भुगतान भी प्रचलित था।",
+        "राजस्व वसूली की निगरानी के लिए 'आमिल-गुज़ार' जैसे अधिकारी ज़िम्मेदार थे।"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "topic": {
+      "en": "The Flow of Silver and Monetisation",
+      "hi": "चाँदी का प्रवाह और मौद्रिकरण"
+    },
+    "content": {
+      "en": [
+        "The 16th and 17th centuries saw an expansion of trade with Europe and West Asia.",
+        "This led to a huge influx of silver into India in exchange for textiles and spices.",
+        "Silver was minted into Rupee coins, leading to large-scale monetisation of the economy.",
+        "The availability of coins made it easier for the state to collect revenue in cash.",
+        "Foreign travellers like Bernier noted the prosperity of India due to its global trade connections."
+      ],
+      "hi": [
+        "16वीं और 17वीं शताब्दी में यूरोप और पश्चिम एशिया के साथ व्यापार का विस्तार हुआ।",
+        "इसके परिणामस्वरूप कपड़ों और मसालों के बदले भारत में चाँदी का भारी आगमन हुआ।",
+        "चाँदी को 'रुपया' सिक्कों में ढाला गया, जिससे अर्थव्यवस्था का बड़े पैमाने पर मौद्रिकरण हुआ।",
+        "सिक्कों की उपलब्धता ने राज्य के लिए नकद में राजस्व वसूलना आसान बना दिया।",
+        "बर्नियर जैसे विदेशी यात्रियों ने वैश्विक व्यापार संबंधों के कारण भारत की समृद्धि को नोट किया।"
+      ]
+    }
+  }
+]

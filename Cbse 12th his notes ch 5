@@ -1,0 +1,215 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Al-Biruni and Kitab-ul-Hind",
+      "hi": "अल-बिरूनी और किताब-उल-हिंद"
+    },
+    "content": {
+      "en": [
+        "Al-Biruni was born in Khwarizm (modern Uzbekistan) in 973 CE.",
+        "He came to India with Mahmud of Ghazni and developed an interest in Indian culture.",
+        "He learned Sanskrit and studied religious and philosophical texts like the Vedas and Puranas.",
+        "His book 'Kitab-ul-Hind' is written in Arabic and divided into 80 chapters.",
+        "It covers diverse topics including religion, philosophy, festivals, astronomy, manners, and laws.",
+        "He followed a distinctive structure: starting with a question, followed by a description, and ending with a comparison."
+      ],
+      "hi": [
+        "अल-बिरूनी का जन्म 973 ईस्वी में ख्वारिज्म (आधुनिक उज्बेकिस्तान) में हुआ था।",
+        "वह महमूद गजनवी के साथ भारत आया और यहाँ की संस्कृति में उसकी रुचि जगी।",
+        "उसने संस्कृत सीखी और वेदों व पुराणों जैसे धार्मिक और दार्शनिक ग्रंथों का अध्ययन किया।",
+        "उसकी पुस्तक 'किताब-उल-हिंद' अरबी में लिखी गई है और 80 अध्यायों में विभाजित है।",
+        "इसमें धर्म, दर्शन, त्यौहार, खगोल विज्ञान, रीति-रिवाज और कानूनों जैसे विविध विषयों को शामिल किया गया है।",
+        "उसने एक विशिष्ट शैली अपनाई: एक प्रश्न से शुरुआत, फिर उसका विवरण और अंत में अन्य संस्कृतियों से तुलना।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Al-Biruni’s Obstacles in Understanding India",
+      "hi": "भारत को समझने में अल-बिरूनी की बाधाएँ"
+    },
+    "content": {
+      "en": [
+        "Language Barrier: Sanskrit was very different from Arabic and Persian, making translation difficult.",
+        "Difference in Religious Beliefs: He found Indian religious practices vastly different from Islamic traditions.",
+        "Insularity of Local People: He noted that Indians were self-absorbed and didn't easily share knowledge with outsiders.",
+        "Reliance on Texts: To overcome these barriers, he relied heavily on the works of Brahmanas (Vedas, Puranas, Gita).",
+        "Caste System: He observed the hierarchy but rejected the concept of 'pollution' (untouchability) as against laws of nature."
+      ],
+      "hi": [
+        "भाषा की बाधा: संस्कृत अरबी और फारसी से इतनी अलग थी कि विचारों का अनुवाद करना बहुत कठिन था।",
+        "धार्मिक विश्वासों में अंतर: उसने भारतीय धार्मिक प्रथाओं को इस्लामी परंपराओं से पूरी तरह अलग पाया।",
+        "स्थानीय लोगों की संकीर्णता: उसने गौर किया कि भारतीय आत्मकेंद्रित थे और बाहरी लोगों के साथ ज्ञान आसानी से साझा नहीं करते थे।",
+        "ग्रंथों पर निर्भरता: इन बाधाओं को पार करने के लिए वह पूरी तरह ब्राह्मणों के ग्रंथों (वेद, पुराण, गीता) पर निर्भर रहा।",
+        "जाति व्यवस्था: उसने पदानुक्रम को देखा लेकिन 'अपवित्रता' (छुआछूत) की अवधारणा को प्रकृति के नियमों के विरुद्ध बताकर खारिज कर दिया।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Ibn Battuta and the Rihla",
+      "hi": "इब्न बतूता और रिहला"
+    },
+    "content": {
+      "en": [
+        "Ibn Battuta was a Moroccan traveller born in Tangier in the 14th century.",
+        "He believed that knowledge is gained through travel rather than books.",
+        "He reached Delhi in 1333 during the reign of Muhammad bin Tughlaq.",
+        "The Sultan appointed him as the Qazi (judge) of Delhi because of his scholarly background.",
+        "His travelogue 'Rihla' (in Arabic) provides rich details about the social and cultural life of India.",
+        "He also traveled to China as the Sultan's envoy before returning home."
+      ],
+      "hi": [
+        "इब्न बतूता 14वीं शताब्दी में मोरक्को के टेंजियर में पैदा हुआ एक यात्री था।",
+        "उसका मानना था कि ज्ञान किताबों के बजाय यात्राओं के माध्यम से प्राप्त होता है।",
+        "वह 1333 में मुहम्मद बिन तुगलक के शासनकाल के दौरान दिल्ली पहुँचा।",
+        "उसकी विद्वत्ता को देखते हुए सुल्तान ने उसे दिल्ली का काज़ी (न्यायाधीश) नियुक्त किया।",
+        "अरबी में लिखा उसका यात्रा वृत्तांत 'रिहला' भारत के सामाजिक और सांस्कृतिक जीवन का विस्तृत विवरण देता है।",
+        "घर लौटने से पहले उसने सुल्तान के दूत के रूप में चीन की भी यात्रा की थी।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Fascination with Coconut and Betel Leaf",
+      "hi": "नारियल और पान के प्रति जिज्ञासा"
+    },
+    "content": {
+      "en": [
+        "Ibn Battuta described items that were completely strange to his audience in North Africa.",
+        "Coconut: He compared it to a human head, noting it has 'eyes' and a 'mouth'. Its fibers were used to stitch ships.",
+        "Betel Leaf (Pan): He was amazed that it was grown for its leaves like grapes but had no fruit.",
+        "He described how Indians chewed it with lime and areca nut (supari).",
+        "He noted its medicinal benefits like helping in digestion and freshening the breath."
+      ],
+      "hi": [
+        "इब्न बतूता ने उन चीज़ों का वर्णन किया जो उत्तरी अफ्रीका के पाठकों के लिए पूरी तरह से नई और अजीब थीं।",
+        "नारियल: उसने इसकी तुलना मानव सिर से की, जिसमें 'आंखें' और 'मुंह' जैसी आकृति थी। इसके रेशों से जहाज सिले जाते थे।",
+        "पान: वह इस बात से हैरान था कि इसे अंगूर की तरह केवल पत्तों के लिए उगाया जाता है और इसमें कोई फल नहीं लगता।",
+        "उसने बताया कि कैसे भारतीय इसे चूने और सुपारी के साथ चबाते थे।",
+        "उसने इसके औषधीय लाभों जैसे पाचन में मदद और सांसों को ताज़ा रखने पर ध्यान दिया।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Indian Cities and Markets",
+      "hi": "भारतीय शहर और बाज़ार"
+    },
+    "content": {
+      "en": [
+        "Ibn Battuta saw Indian cities as full of exciting opportunities for those with skill and drive.",
+        "Delhi was described as a vast city with a large population, the largest in India.",
+        "Daulatabad (in Maharashtra) was equally impressive and rivalled Delhi in size.",
+        "Markets were not just economic centers but also social and cultural hubs.",
+        "Most markets had public spaces for dancers, musicians, and singers (like Tarababad in Daulatabad).",
+        "He noted that the prosperity of cities came from the surplus of a productive agriculture."
+      ],
+      "hi": [
+        "इब्न बतूता ने भारतीय शहरों को उन लोगों के लिए अवसरों से भरा बताया जिनके पास कौशल और जज़्बा था।",
+        "उसने दिल्ली को एक विशाल आबादी वाला शहर बताया, जो उस समय भारत का सबसे बड़ा शहर था।",
+        "दौलताबाद (महाराष्ट्र) भी उतना ही भव्य था और आकार में दिल्ली को टक्कर देता था।",
+        "बाज़ार केवल आर्थिक केंद्र नहीं थे बल्कि सामाजिक और सांस्कृतिक गतिविधियों के केंद्र भी थे।",
+        "अधिकांश बाज़ारों में नर्तकों और गायकों के लिए सार्वजनिक स्थान होते थे (जैसे दौलताबाद में ताराबाबाद)।",
+        "उसने गौर किया कि शहरों की समृद्धि उन्नत कृषि के अतिरिक्त उत्पादन (Surplus) से आती थी।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "The Postal System (Uluq and Dawa)",
+      "hi": "डाक प्रणाली (उलूक और दावा)"
+    },
+    "content": {
+      "en": [
+        "Ibn Battuta was amazed by the efficiency of the postal system in the 14th century.",
+        "Uluq (Horse post): Run by royal horses stationed at every four miles.",
+        "Dawa (Foot post): Had three stations per mile. Runners carried a rod with bells to alert the next station.",
+        "Efficiency: It allowed news to travel from Sindh to Delhi in 5 days, while travellers took 50 days.",
+        "It was used to send military reports and even transport fresh fruits from Khurasan for the Sultan."
+      ],
+      "hi": [
+        "इब्न बतूता 14वीं शताब्दी की डाक प्रणाली की कार्यकुशलता से बहुत प्रभावित था।",
+        "उलूक (अश्व डाक): शाही घोड़ों द्वारा संचालित, जो हर चार मील पर तैनात होते थे।",
+        "दावा (पैदल डाक): प्रति मील तीन स्टेशन होते थे। धावक अगले स्टेशन को अलर्ट करने के लिए घंटियों वाली छड़ी लेकर दौड़ते थे।",
+        "सक्षमता: इससे सिंध से दिल्ली खबर 5 दिन में पहुँच जाती थी, जबकि यात्रियों को 50 दिन लगते थे।",
+        "इसका उपयोग सैन्य रिपोर्ट भेजने और सुल्तान के लिए खुरासान से ताज़ा फल मंगाने में किया जाता था।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Francois Bernier and European Comparisons",
+      "hi": "फ्रांसुआ बर्नियर और यूरोपीय तुलना"
+    },
+    "content": {
+      "en": [
+        "Bernier was a French doctor and philosopher who lived in the Mughal court for 12 years (17th century).",
+        "His book 'Travels in the Mughal Empire' consistently compares India with Europe.",
+        "He believed that the lack of private property in land was the main cause of India’s decline.",
+        "According to him, the Mughal Emperor owned all the land, distributing it to nobles temporarily.",
+        "This led to a lack of long-term investment in land, ruining agriculture and harming peasants."
+      ],
+      "hi": [
+        "बर्नियर एक फ्रांसीसी डॉक्टर था जो 17वीं शताब्दी में 12 वर्षों तक मुगल दरबार में रहा।",
+        "उसकी पुस्तक 'ट्रेवल्स इन द मुगल एम्पायर' लगातार भारत की तुलना यूरोप से करती है।",
+        "उसका मानना था कि भूमि पर निजी संपत्ति का अभाव भारत के पतन का मुख्य कारण था।",
+        "उसके अनुसार, मुगल सम्राट पूरी भूमि का स्वामी होता था और इसे अमीरों को अस्थायी रूप से बांटता था।",
+        "इससे भूमि में दीर्घकालिक निवेश की कमी हुई, जिससे खेती बर्बाद हुई और किसानों को नुकसान पहुँचा।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Camp Towns and Social Structure (Bernier)",
+      "hi": "शिविर नगर और सामाजिक संरचना (बर्नियर)"
+    },
+    "content": {
+      "en": [
+        "Bernier called Mughal cities 'camp towns' as he felt they depended on the presence of the royal court.",
+        "He argued that these cities flourished when the court arrived and declined when it moved.",
+        "He noted a complete lack of a middle class: society consisted of only a rich elite and the poor masses.",
+        "Modern historians challenge this, pointing to the existence of vibrant merchant and artisanal groups.",
+        "He also mentioned that India exported massive amounts of textiles and spices for global gold and silver."
+      ],
+      "hi": [
+        "बर्नियर ने मुगल शहरों को 'शिविर नगर' कहा क्योंकि उसे लगा कि वे शाही दरबार की उपस्थिति पर निर्भर थे।",
+        "उसका तर्क था कि ये शहर दरबार के आने पर बसते थे और दरबार के जाने पर उजड़ जाते थे।",
+        "उसने मध्यम वर्ग के पूर्ण अभाव की बात की: समाज में केवल अमीर शासक और गरीब जनता थी।",
+        "आधुनिक इतिहासकार इसे चुनौती देते हैं और व्यापारियों व शिल्पकारों के सक्रिय समूहों की ओर इशारा करते हैं।",
+        "उसने यह भी बताया कि भारत वैश्विक सोने और चांदी के बदले भारी मात्रा में कपड़े और मसाले निर्यात करता था।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "Women, Slaves, and Sati",
+      "hi": "महिलाएं, दास और सती प्रथा"
+    },
+    "content": {
+      "en": [
+        "Travellers noted the widespread practice of slavery; slaves were gifted and traded openly in markets.",
+        "Female slaves were used for domestic labor and also served as spies for the Sultan.",
+        "Bernier provided a heart-rending description of the Sati practice (burning widows alive).",
+        "He observed that while some women chose it, many were forced into it by priests and family.",
+        "However, he also noted that women participated actively in agricultural and non-agricultural production."
+      ],
+      "hi": [
+        "यात्रियों ने दास प्रथा के व्यापक प्रसार को नोट किया; बाज़ारों में दासों का खुलेआम व्यापार और उपहार दिया जाता था।",
+        "महिला दासों का उपयोग घरेलू काम और सुल्तान के लिए जासूसी करने में भी किया जाता था।",
+        "बर्नियर ने सती प्रथा (विधवाओं को जिंदा जलाना) का बहुत ही दुखद विवरण दिया है।",
+        "उसने देखा कि जहाँ कुछ महिलाएँ इसे चुनती थीं, वहीं कई को पुजारियों और परिवार द्वारा मजबूर किया जाता था।",
+        "हालाँकि, उसने यह भी गौर किया कि महिलाएँ कृषि और गैर-कृषि उत्पादन में सक्रिय रूप से भाग लेती थीं।"
+      ]
+    }
+  }
+]

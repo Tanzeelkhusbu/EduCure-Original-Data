@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Introduction & Chronology",
+      "hi": "परिचय और कालक्रम"
+    },
+    "content": {
+      "en": [
+        "The civilization is named after 'Harappa', the first site discovered.",
+        "It is also called the Indus Valley Civilisation.",
+        "The Mature Harappan culture lasted between c. 2600 and 1900 BCE.",
+        "Distinctive artifacts include seals, beads, weights, stone blades, and baked bricks.",
+        "The region spread across modern-day Pakistan, Gujarat, Rajasthan, and Haryana."
+      ],
+      "hi": [
+        "इस सभ्यता का नाम 'हड़प्पा' नामक स्थान पर रखा गया है, जहाँ यह सबसे पहले खोजी गई थी।",
+        "इसे सिंधु घाटी सभ्यता के नाम से भी जाना जाता है।",
+        "विकसित हड़प्पा संस्कृति का काल लगभग 2600 से 1900 ईसा पूर्व के बीच था।",
+        "विशिष्ट पुरावशेषों में मुहरें, मनके, बाट, पत्थर के फलक और पकी हुई ईंटें शामिल हैं।",
+        "यह क्षेत्र आधुनिक पाकिस्तान, गुजरात, राजस्थान और हरियाणा में फैला हुआ था।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "Subsistence Strategies (Dietary Habits)",
+      "hi": "निर्वाह के तरीके (खान-पान)"
+    },
+    "content": {
+      "en": [
+        "Harappans ate a wide range of plant and animal products, including fish.",
+        "Grains included wheat, barley, lentil, chickpea, and sesame.",
+        "Millets have been found at sites in Gujarat; rice was relatively rare.",
+        "Animal bones found include cattle, sheep, goat, buffalo, and pig.",
+        "Bones of wild species like boar, deer, and gharial were also found."
+      ],
+      "hi": [
+        "हड़प्पावासी पेड़-पौधों और जानवरों (मछली सहित) से प्राप्त उत्पादों का सेवन करते थे।",
+        "अनाजों में गेहूँ, जौ, दाल, सफेद चना और तिल शामिल थे।",
+        "गुजरात के स्थलों से बाजरे के दाने मिले हैं; चावल के दाने अपेक्षाकृत कम मिले हैं।",
+        "मवेशी, भेड़, बकरी, भैंस और सुअर जैसे पालतू जानवरों की हड्डियाँ मिली हैं।",
+        "जंगली प्रजातियों जैसे वराह (सूअर), हिरण और घड़ियाल की हड्डियाँ भी पाई गई हैं।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Agricultural Technologies",
+      "hi": "कृषि प्रौद्योगिकियाँ"
+    },
+    "content": {
+      "en": [
+        "Terracotta models of the plough have been found at Banawali and Cholistan.",
+        "Representations on seals indicate that the bull/oxen were used for ploughing.",
+        "Evidence of a ploughed field with two sets of furrows was found at Kalibangan.",
+        "Traces of canals have been found at Shortughai in Afghanistan.",
+        "Water reservoirs found in Dholavira were used to store water for agriculture."
+      ],
+      "hi": [
+        "बनावली और चोलिस्तान में मिट्टी के बने 'हल' के मॉडल मिले हैं।",
+        "मुहरों पर किए गए रेखांकन से पता चलता है कि खेती के लिए बैलों का उपयोग किया जाता था।",
+        "कालीबंगन (राजस्थान) में जुते हुए खेत के साक्ष्य मिले हैं, जहाँ दो फसलें साथ उगाई जाती थीं।",
+        "अफगानिस्तान के शोरतुघई में नहरों के अवशेष पाए गए हैं।",
+        "धौलावीरा (गुजरात) में मिले जलाशयों का उपयोग कृषि के लिए पानी संचय करने में होता था।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Mohenjodaro: Town Planning & Drainage",
+      "hi": "मोहनजोदड़ो: नगर नियोजन और जल निकास"
+    },
+    "content": {
+      "en": [
+        "The city was divided into two sections: The Citadel (higher/smaller) and the Lower Town (lower/larger).",
+        "The Citadel was built on mud-brick platforms and was physically separated from the Lower Town.",
+        "Drainage System: Streets and drains were laid out in a 'grid' pattern, intersecting at right angles.",
+        "Every house was connected to the street drains, which were covered with bricks or limestone slabs.",
+        "Houses in the Lower Town were centered around a courtyard; windows were absent at ground level for privacy."
+      ],
+      "hi": [
+        "शहर को दो हिस्सों में बांटा गया था: दुर्ग (ऊँचा/छोटा) और निचला शहर (नीचा/बड़ा)।",
+        "दुर्ग को कच्ची ईंटों के चबूतरों पर बनाया गया था और इसे निचले शहर से अलग किया गया था।",
+        "जल निकास प्रणाली: सड़कें और नालियाँ 'ग्रिड' पद्धति में बनी थीं, जो एक-दूसरे को समकोण पर काटती थीं।",
+        "प्रत्येक घर की नाली गली की नालियों से जुड़ी थी, जिन्हें ईंटों या चूना पत्थर की पट्टियों से ढका गया था।",
+        "निचले शहर के घर एक आँगन के चारों ओर बने थे; गोपनीयता के लिए सड़क के स्तर पर खिड़कियाँ नहीं थीं।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Great Bath",
+      "hi": "विशाल स्नानागार"
+    },
+    "content": {
+      "en": [
+        "A large rectangular tank in a courtyard on the Citadel, surrounded by corridors.",
+        "The tank was made watertight using bricks and gypsum mortar.",
+        "There were two flights of steps on the north and south leading into the tank.",
+        "There were rooms on three sides, and water from the tank flowed into a huge drain.",
+        "It was likely used for special ritual baths."
+      ],
+      "hi": [
+        "यह दुर्ग पर स्थित एक आयताकार जलाशय था, जो चारों ओर से गलियारों से घिरा था।",
+        "जलाशय को ईंटों और जिप्सम के गारे के उपयोग से जलसह (watertight) बनाया गया था।",
+        "जलाशय के अंदर जाने के लिए उत्तर और दक्षिण में दो सीढ़ियाँ बनी थीं।",
+        "इसके तीन ओर कमरे बने थे, और जलाशय का पानी एक बड़े नाले में बह जाता था।",
+        "इसका उपयोग संभवतः विशेष धार्मिक अनुष्ठानों के स्नान के लिए किया जाता था।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Social Differences & Luxuries",
+      "hi": "सामाजिक भिन्नताएँ और विलासिता"
+    },
+    "content": {
+      "en": [
+        "Burials: Archaeologists look for differences in grave pits and the items (pottery, jewelry) inside them.",
+        "Utilitarian Objects: Daily use items made of ordinary materials like stone or clay (querns, needles).",
+        "Luxury Objects: Rare items made of costly materials like 'faience' pots or gold.",
+        "Faience: A material made of ground sand/silica mixed with colour and gum, then fired.",
+        "Precious items are found mostly in large settlements like Mohenjodaro and Harappa."
+      ],
+      "hi": [
+        "समाधान (Burials): पुरातत्वविद कब्रों की बनावट और उनमें मिलने वाली वस्तुओं (बर्तन, आभूषण) से अंतर का पता लगाते हैं।",
+        "उपयोगितावादी वस्तुएँ: पत्थर या मिट्टी जैसे सामान्य पदार्थों से बनी रोज़मर्रा की चीज़ें (चक्की, सुइयाँ)।",
+        "विलासिता की वस्तुएँ: 'फ़यॉन्स' के पात्र या सोने जैसे कीमती और दुर्लभ पदार्थों से बनी चीज़ें।",
+        "फ़यॉन्स: घिसी हुई रेत या बालू और रंग व गोंद के मिश्रण को पकाकर बनाया गया पदार्थ।",
+        "कीमती वस्तुएँ मुख्य रूप से मोहनजोदड़ो और हड़प्पा जैसे बड़े केंद्रों में मिली हैं।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Craft Production",
+      "hi": "शिल्प उत्पादन"
+    },
+    "content": {
+      "en": [
+        "Chanhudaro was a tiny settlement devoted almost entirely to craft production.",
+        "Crafts included bead-making, shell-cutting, metal-working, seal-making, and weight-making.",
+        "Materials used: Stones (carnelian, jasper, steatite), Metals (copper, bronze, gold), Shell, and Faience.",
+        "Steatite: A very soft stone used to make beads easily by using a paste.",
+        "Waste flakes and rejected pieces are used by archaeologists to identify craft centers."
+      ],
+      "hi": [
+        "चन्हुदड़ो एक छोटी बस्ती थी जो लगभग पूरी तरह से शिल्प उत्पादन के लिए समर्पित थी।",
+        "शिल्प में मनके बनाना, शंख काटना, धातु कर्म, मुहर बनाना और बाट बनाना शामिल था।",
+        "प्रयुक्त सामग्री: पत्थर (कार्नेलियन, जैस्पर, सेलखड़ी), धातुएँ (ताँबा, काँसा, सोना), शंख और फ़यॉन्स।",
+        "सेलखड़ी (Steatite): एक बहुत ही मुलायम पत्थर जिसका उपयोग पेस्ट बनाकर मनके बनाने में होता था।",
+        "कूड़ा-करकट और त्याग दिए गए टुकड़े शिल्प केंद्रों की पहचान करने में मदद करते हैं।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Procuring Materials & Trade",
+      "hi": "माल प्राप्त करना और व्यापार"
+    },
+    "content": {
+      "en": [
+        "Local: Settlements like Nageshwar and Balakot were established near shell sources.",
+        "Distant: Lapis Lazuli was brought from Shortughai; Carnelian from Lothal; Steatite from South Rajasthan.",
+        "Expeditions: Sent to Khetri (Rajasthan) for copper and South India for gold.",
+        "International: Copper was likely brought from Oman. Mesopotamian texts refer to Harappa as 'Meluhha'.",
+        "Communication: Bull-carts were used for land transport, and ships/boats for river and sea routes."
+      ],
+      "hi": [
+        "स्थानीय: शंख के लिए नागेश्वर और बालाकोट जैसे तटीय क्षेत्रों में बस्तियाँ बसाई गईं।",
+        "दूरस्थ: लाजवर्त मणि शोरतुघई से; कार्नेलियन लोथल से; सेलखड़ी दक्षिण राजस्थान से मंगाया जाता था।",
+        "अभियान: ताँबे के लिए राजस्थान के खेत्री और सोने के लिए दक्षिण भारत में अभियान भेजे गए।",
+        "अंतर्राष्ट्रीय: ताँबा संभवतः ओमान से आता था। मेसोपोटामिया के लेखों में हड़प्पा को 'मेलुहा' कहा गया है।",
+        "परिवहन: ज़मीनी रास्तों के लिए बैलगाड़ियों और नदी व समुद्र के लिए जहाजों का उपयोग होता था।"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "topic": {
+      "en": "Seals, Script, & Weights",
+      "hi": "मुहरें, लिपि और बाट"
+    },
+    "content": {
+      "en": [
+        "Seals and sealings were used to facilitate long-distance communication and trade security.",
+        "Harappan script is 'enigmatic' because it remains undeciphered to this day.",
+        "The script was written from right to left and contained between 375 and 400 signs.",
+        "Weights were made of a stone called 'chert' and were usually cubical with no markings.",
+        "Lower denominations of weights were binary (1, 2, 4, 8, 16, 32... up to 12,800)."
+      ],
+      "hi": [
+        "मुहरों और मुद्रांकनों का उपयोग व्यापारिक सामान की सुरक्षा और लंबी दूरी के संपर्क के लिए होता था।",
+        "हड़प्पा लिपि 'रहस्यमयी' है क्योंकि इसे आज तक पढ़ा नहीं जा सका है।",
+        "यह लिपि दाईं से बाईं ओर लिखी जाती थी और इसमें 375 से 400 के बीच चिह्न थे।",
+        "बाट 'चर्ट' नामक पत्थर से बनाए जाते थे और आमतौर पर बिना किसी निशान के घनाकार होते थे।",
+        "बाटों के निचले मान द्विआधारी प्रणाली (1, 2, 4, 8, 16, 32... 12,800 तक) का पालन करते थे।"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "topic": {
+      "en": "Decline of the Civilisation",
+      "hi": "सभ्यता का अंत"
+    },
+    "content": {
+      "en": [
+        "By 1800 BCE, most mature Harappan sites were abandoned.",
+        "Reasons for decline: Climate change, deforestation, excessive floods, shifting/drying up of rivers.",
+        "The disappearance of seals, script, and standardized weights indicates the collapse of the state.",
+        "A cultural transition occurred towards 'Late Harappan' or 'Successor cultures'.",
+        "Scholars believe that a single cause cannot explain the decline of the entire civilization."
+      ],
+      "hi": [
+        "1800 ईसा पूर्व तक अधिकांश विकसित हड़प्पा स्थल छोड़ दिए गए थे।",
+        "पतन के कारण: जलवायु परिवर्तन, वनों की कटाई, अत्यधिक बाढ़, नदियों का सूखना या मार्ग बदलना।",
+        "मुहरों, लिपि और मानक बाटों का गायब होना शासन व्यवस्था के अंत का संकेत देता है।",
+        "सभ्यता 'उत्तर-हड़प्पा' या 'अनुवर्ती संस्कृतियों' की ओर परिवर्तित हो गई।",
+        "विद्वानों का मानना है कि कोई एक कारण पूरी सभ्यता के पतन की व्याख्या नहीं कर सकता।"
+      ]
+    }
+  }
+]

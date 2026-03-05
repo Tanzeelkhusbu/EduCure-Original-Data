@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "A Tumultuous Context",
+      "hi": "एक उथल-पुथल भरा संदर्भ"
+    },
+    "content": {
+      "en": [
+        "The Constitution was framed between December 1946 and November 1949.",
+        "The country was recovering from the trauma of Partition and communal violence.",
+        "There was a huge challenge of integrating over 500 princely states into the Indian Union.",
+        "The makers had to address extreme poverty, illiteracy, and social inequality.",
+        "The Constitution was seen as a tool to bring social and economic justice to millions."
+      ],
+      "hi": [
+        "संविधान का निर्माण दिसंबर 1946 और नवंबर 1949 के बीच किया गया था।",
+        "देश विभाजन के सदमे और सांप्रदायिक हिंसा से उबर रहा था।",
+        "500 से अधिक रियासतों को भारतीय संघ में एकीकृत करने की एक बड़ी चुनौती थी।",
+        "निर्माताओं को अत्यधिक गरीबी, निरक्षरता और सामाजिक असमानता को दूर करना था।",
+        "संविधान को करोड़ों लोगों के लिए सामाजिक और आर्थिक न्याय लाने के उपकरण के रूप में देखा गया।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "The Constituent Assembly",
+      "hi": "संविधान सभा"
+    },
+    "content": {
+      "en": [
+        "The members were chosen on the basis of the provincial elections of 1946.",
+        "It consisted of 300 members, with the Congress holding a dominant majority.",
+        "Key figures included Jawaharlal Nehru, Vallabhbhai Patel, Rajendra Prasad, and B.R. Ambedkar.",
+        "B.R. Ambedkar served as the Chairman of the Drafting Committee.",
+        "Constitutional advisers like B.N. Rau and S.N. Mukherjee provided technical legal support."
+      ],
+      "hi": [
+        "सदस्यों का चयन 1946 के प्रांतीय चुनावों के आधार पर किया गया था।",
+        "इसमें 300 सदस्य शामिल थे, जिनमें कांग्रेस के पास भारी बहुमत था।",
+        "मुख्य व्यक्तियों में जवाहरलाल नेहरू, वल्लभभाई पटेल, राजेंद्र प्रसाद और बी.आर. अंबेडकर शामिल थे।",
+        "बी.आर. अंबेडकर ने 'प्रारूप समिति' (Drafting Committee) के अध्यक्ष के रूप में कार्य किया।",
+        "बी.एन. राव और एस.एन. मुखर्जी जैसे संवैधानिक सलाहकारों ने तकनीकी कानूनी सहायता प्रदान की।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "The Objectives Resolution (1946)",
+      "hi": "उद्देश्य प्रस्ताव (1946)"
+    },
+    "content": {
+      "en": [
+        "Moved by Jawaharlal Nehru on 13 December 1946.",
+        "It declared India to be an 'Independent Sovereign Republic'.",
+        "It guaranteed justice, equality, and freedom to all its citizens.",
+        "It provided adequate safeguards for minorities, backward, and tribal areas.",
+        "This resolution formed the basis of the Preamble of the Indian Constitution."
+      ],
+      "hi": [
+        "इसे 13 दिसंबर 1946 को जवाहरलाल नेहरू द्वारा पेश किया गया था।",
+        "इसने भारत को एक 'स्वतंत्र संप्रभु गणराज्य' घोषित किया।",
+        "इसने अपने सभी नागरिकों को न्याय, समानता और स्वतंत्रता की गारंटी दी।",
+        "इसने अल्पसंख्यकों, पिछड़े और जनजातीय क्षेत्रों के लिए पर्याप्त सुरक्षा उपाय प्रदान किए।",
+        "यह प्रस्ताव भारतीय संविधान की प्रस्तावना (Preamble) का आधार बना।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "The Debate over Separate Electorates",
+      "hi": "पृथक निर्वाचिका पर बहस"
+    },
+    "content": {
+      "en": [
+        "B. Pocker Bahadur argued for separate electorates to protect minority interests.",
+        "Most leaders like Sardar Patel and G.B. Pant opposed it, fearing it would divide the nation.",
+        "They argued that separate electorates had already led to the Partition of the country.",
+        "It was seen as a 'poison' that would turn one community against another.",
+        "Ultimately, the Assembly rejected separate electorates in favor of joint electorates with reserved seats."
+      ],
+      "hi": [
+        "बी. पोकर बहादुर ने अल्पसंख्यक हितों की रक्षा के लिए पृथक निर्वाचिका का तर्क दिया।",
+        "सरदार पटेल और जी.बी. पंत जैसे अधिकांश नेताओं ने इसका विरोध किया, क्योंकि उन्हें डर था कि यह राष्ट्र को विभाजित कर देगा।",
+        "उन्होंने तर्क दिया कि पृथक निर्वाचिका पहले ही देश के विभाजन का कारण बन चुकी थी।",
+        "इसे एक 'ज़हर' के रूप में देखा गया जो एक समुदाय को दूसरे के खिलाफ खड़ा कर देगा।",
+        "अंततः, सभा ने आरक्षित सीटों के साथ संयुक्त निर्वाचिका के पक्ष में पृथक निर्वाचिका को खारिज कर दिया।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Rights of the Depressed Classes",
+      "hi": "दबे-कुचले वर्गों के अधिकार"
+    },
+    "content": {
+      "en": [
+        "B.R. Ambedkar demanded strong safeguards for the Depressed Classes (Scheduled Castes).",
+        "He argued that political freedom was meaningless without social and economic equality.",
+        "The Assembly abolished 'Untouchability' (Article 17) and made its practice a crime.",
+        "Seats were reserved in legislatures and government jobs for these classes.",
+        "This was seen as a moral obligation of the upper castes to compensate for past oppression."
+      ],
+      "hi": [
+        "बी.आर. अंबेडकर ने दबे-कुचले वर्गों (अनुसूचित जातियों) के लिए मज़बूत सुरक्षा उपायों की मांग की।",
+        "उन्होंने तर्क दिया कि सामाजिक और आर्थिक समानता के बिना राजनीतिक स्वतंत्रता अर्थहीन है।",
+        "सभा ने 'अस्पृश्यता' (अनुच्छेद 17) को समाप्त कर दिया और इसके अभ्यास को अपराध बना दिया।",
+        "इन वर्गों के लिए विधायिकाओं और सरकारी नौकरियों में सीटें आरक्षित की गईं।",
+        "इसे पिछली प्रताड़ना की भरपाई के लिए उच्च जातियों के नैतिक दायित्व के रूप में देखा गया।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Central vs. State Powers",
+      "hi": "केंद्र बनाम राज्य की शक्तियाँ"
+    },
+    "content": {
+      "en": [
+        "The Constitution created a strong Central Government to maintain national unity and security.",
+        "Three lists were created: Union List, State List, and Concurrent List.",
+        "The Union List (defense, foreign affairs) was under the exclusive control of the Centre.",
+        "K. Santhanam and others argued for more powers to the states for effective local governance.",
+        "Ultimately, the 'Residuary Powers' were also given to the Central Government."
+      ],
+      "hi": [
+        "संविधान ने राष्ट्रीय एकता और सुरक्षा बनाए रखने के लिए एक मज़बूत केंद्र सरकार का निर्माण किया।",
+        "तीन सूचियाँ बनाई गईं: संघ सूची, राज्य सूची और समवर्ती सूची।",
+        "संघ सूची (रक्षा, विदेशी मामले) केंद्र के विशेष नियंत्रण में थी।",
+        "के. संथानम और अन्य ने प्रभावी स्थानीय शासन के लिए राज्यों को अधिक शक्तियाँ देने का तर्क दिया।",
+        "अंततः, 'अवशिष्ट शक्तियाँ' (Residuary Powers) भी केंद्र सरकार को दी गईं।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "The Language of the Nation",
+      "hi": "राष्ट्र की भाषा"
+    },
+    "content": {
+      "en": [
+        "There was an intense debate over which language should be the national language.",
+        "Mahatma Gandhi favored 'Hindustani' (a blend of Hindi and Urdu) for its inclusivity.",
+        "Members from the South opposed the imposition of Hindi, fearing it would marginalize their languages.",
+        "A compromise was reached: Hindi in Devanagari script was made the 'Official Language'.",
+        "English was allowed to continue for official purposes for a period of fifteen years."
+      ],
+      "hi": [
+        "इस बात पर तीखी बहस हुई कि किस भाषा को राष्ट्रभाषा होना चाहिए।",
+        "महात्मा गांधी ने समावेशिता के लिए 'हिंदुस्तानी' (हिंदी और उर्दू का मिश्रण) का समर्थन किया।",
+        "दक्षिण के सदस्यों ने हिंदी थोपने का विरोध किया, उन्हें डर था कि यह उनकी भाषाओं को हाशिए पर धकेल देगा।",
+        "एक समझौता हुआ: देवनागरी लिपि में हिंदी को 'राजभाषा' (Official Language) बनाया गया।",
+        "पंद्रह वर्षों की अवधि के लिए आधिकारिक उद्देश्यों के लिए अंग्रेजी का उपयोग जारी रखने की अनुमति दी गई।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Significance of the Constitution",
+      "hi": "संविधान का महत्व"
+    },
+    "content": {
+      "en": [
+        "The Constitution was formally signed on 24 January 1950 and came into force on 26 January 1950.",
+        "It established India as a Democratic Republic with Universal Adult Franchise.",
+        "It is the longest written constitution in the world, reflecting the diversity of India.",
+        "It provided a legal framework for social transformation and economic development.",
+        "It continues to be the 'living document' that guides the nation."
+      ],
+      "hi": [
+        "संविधान पर औपचारिक रूप से 24 जनवरी 1950 को हस्ताक्षर किए गए और यह 26 जनवरी 1950 को लागू हुआ।",
+        "इसने भारत को 'सार्वभौमिक वयस्क मताधिकार' के साथ एक लोकतांत्रिक गणराज्य के रूप में स्थापित किया।",
+        "यह दुनिया का सबसे लंबा लिखित संविधान है, जो भारत की विविधता को दर्शाता है।",
+        "इसने सामाजिक परिवर्तन और आर्थिक विकास के लिए एक कानूनी ढांचा प्रदान किया।",
+        "यह राष्ट्र का मार्गदर्शन करने वाला एक 'जीवंत दस्तावेज़' बना हुआ है।"
+      ]
+    }
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Gandhi’s Return and Early Activism",
+      "hi": "गांधीजी की वापसी और प्रारंभिक सक्रियता"
+    },
+    "content": {
+      "en": [
+        "Mahatma Gandhi returned to India from South Africa in January 1915.",
+        "On the advice of Gopal Krishna Gokhale, he spent a year travelling across India to understand the people.",
+        "His first major public appearance was at the opening of Banaras Hindu University (BHU) in 1916.",
+        "Early localized struggles: Champaran (1917) for indigo farmers, Kheda (1918) for revenue remission, and Ahmedabad (1918) for mill workers.",
+        "These movements established him as a leader who could connect with the poor and the masses."
+      ],
+      "hi": [
+        "महात्मा गांधी जनवरी 1915 में दक्षिण अफ्रीका से भारत लौटे।",
+        "गोपाल कृष्ण गोखले की सलाह पर, उन्होंने लोगों को समझने के लिए एक वर्ष तक पूरे भारत की यात्रा की।",
+        "उनकी पहली बड़ी सार्वजनिक उपस्थिति 1916 में बनारस हिंदू विश्वविद्यालय (BHU) के उद्घाटन समारोह में थी।",
+        "प्रारंभिक स्थानीय संघर्ष: नील किसानों के लिए चंपारण (1917), लगान माफी के लिए खेड़ा (1918), और मिल मज़दूरों के लिए अहमदाबाद (1918)।",
+        "इन आंदोलनों ने उन्हें एक ऐसे नेता के रूप में स्थापित किया जो गरीबों और आम जनता से जुड़ सकता था।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "The Rowlatt Act and Jallianwala Bagh",
+      "hi": "रौलट एक्ट और जलियांवाला बाग"
+    },
+    "content": {
+      "en": [
+        "The Rowlatt Act (1919) allowed the British to imprison people without trial for up to two years.",
+        "Gandhi called for a countrywide 'Hartal' on 6 April 1919 in protest against this 'Black Act'.",
+        "The Jallianwala Bagh Massacre (13 April 1919): General Dyer opened fire on a peaceful crowd in Amritsar.",
+        "This incident shocked the nation and turned Gandhi into a radical nationalist.",
+        "He realized that the British rule in India was a 'Satanic' system that must be ended."
+      ],
+      "hi": [
+        "रौलट एक्ट (1919) ने अंग्रेजों को बिना किसी मुकदमे के दो साल तक लोगों को जेल में रखने की अनुमति दी।",
+        "गांधीजी ने इस 'काले कानून' के विरोध में 6 अप्रैल 1919 को देशव्यापी 'हड़ताल' का आह्वान किया।",
+        "जलियांवाला बाग हत्याकांड (13 अप्रैल 1919): जनरल डायर ने अमृतसर में एक शांतिपूर्ण भीड़ पर गोलियां चलवाईं।",
+        "इस घटना ने पूरे देश को झकझोर दिया और गांधीजी को एक कट्टर राष्ट्रवादी बना दिया।",
+        "उन्हें अहसास हुआ कि भारत में ब्रिटिश शासन एक 'शैतानी' व्यवस्था है जिसे समाप्त करना होगा।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Non-Cooperation Movement (1920-22)",
+      "hi": "असहयोग आंदोलन (1920-22)"
+    },
+    "content": {
+      "en": [
+        "Gandhi combined the Non-Cooperation Movement with the Khilafat Movement to unite Hindus and Muslims.",
+        "Program: Surrender of titles, boycott of schools, courts, foreign goods, and legislative councils.",
+        "The movement saw massive participation from students, lawyers, and the working class across India.",
+        "Gandhi promoted 'Swadeshi', especially the spinning of Charkha and wearing Khadi.",
+        "The movement was called off in February 1922 after the violent Chauri Chaura incident."
+      ],
+      "hi": [
+        "गांधीजी ने हिंदू-मुस्लिम एकता के लिए असहयोग आंदोलन को खिलाफत आंदोलन के साथ जोड़ा।",
+        "कार्यक्रम: उपाधियों का त्याग, स्कूलों, अदालतों, विदेशी सामानों और विधान परिषदों का बहिष्कार।",
+        "आंदोलन में पूरे भारत के छात्रों, वकीलों और श्रमिक वर्ग की भारी भागीदारी देखी गई।",
+        "गांधीजी ने 'स्वदेशी' को बढ़ावा दिया, विशेष रूप से चरखा चलाने और खादी पहनने पर जोर दिया।",
+        "फरवरी 1922 में चौरी-चौरा की हिंसक घटना के बाद आंदोलन वापस ले लिया गया।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "The Salt Satyagraha and Dandi March (1930)",
+      "hi": "नमक सत्याग्रह और दांडी मार्च (1930)"
+    },
+    "content": {
+      "en": [
+        "Gandhi chose salt as a symbol of protest because it was an essential item taxed by the British.",
+        "The Dandi March started on 12 March 1930 from Sabarmati Ashram to the coast of Dandi.",
+        "Gandhi reached Dandi on 6 April and ceremonially broke the salt law by picking up natural salt.",
+        "This led to the Civil Disobedience Movement, involving large-scale law-breaking and boycotts.",
+        "Women, including leaders like Sarojini Naidu, participated in large numbers for the first time."
+      ],
+      "hi": [
+        "गांधीजी ने नमक को विरोध के प्रतीक के रूप में चुना क्योंकि यह एक अनिवार्य वस्तु थी जिस पर अंग्रेजों ने टैक्स लगाया था।",
+        "दांडी मार्च 12 मार्च 1930 को साबरमती आश्रम से दांडी के तट तक शुरू हुआ।",
+        "गांधीजी 6 अप्रैल को दांडी पहुँचे और मुट्ठी भर प्राकृतिक नमक उठाकर औपचारिक रूप से नमक कानून तोड़ा।",
+        "इससे सविनय अवज्ञा आंदोलन शुरू हुआ, जिसमें बड़े पैमाने पर कानून तोड़ने और बहिष्कार की घटनाएँ हुईं।",
+        "सरोजिनी नायडू जैसी नेताओं सहित महिलाओं ने पहली बार बड़ी संख्या में भाग लिया।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "Round Table Conferences and Gandhi-Irwin Pact",
+      "hi": "गोलमेज सम्मेलन और गांधी-इरविन समझौता"
+    },
+    "content": {
+      "en": [
+        "The Gandhi-Irwin Pact (1931) led to the suspension of Civil Disobedience and release of prisoners.",
+        "Gandhi attended the Second Round Table Conference in London (1931) as the sole representative of Congress.",
+        "The conference failed as the British refused to grant immediate self-rule and insisted on separate electorates.",
+        "Upon returning, Gandhi restarted Civil Disobedience, but it was suppressed by the government.",
+        "Later, the Poona Pact (1932) was signed between Gandhi and Ambedkar regarding reserved seats for depressed classes."
+      ],
+      "hi": [
+        "गांधी-इरविन समझौते (1931) के कारण सविनय अवज्ञा को स्थगित किया गया और कैदियों को रिहा किया गया।",
+        "गांधीजी ने कांग्रेस के एकमात्र प्रतिनिधि के रूप में लंदन में दूसरे गोलमेज सम्मेलन (1931) में भाग लिया।",
+        "सम्मेलन विफल रहा क्योंकि अंग्रेजों ने तुरंत स्वशासन देने से इनकार कर दिया और पृथक निर्वाचिका पर जोर दिया।",
+        "लौटने पर, गांधीजी ने फिर से सविनय अवज्ञा शुरू की, लेकिन सरकार द्वारा इसे दबा दिया गया।",
+        "बाद में, दबे-कुचले वर्गों के लिए आरक्षित सीटों के संबंध में गांधी और अंबेडकर के बीच पूना पैक्ट (1932) हुआ।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "Quit India Movement (1942)",
+      "hi": "भारत छोड़ो आंदोलन (1942)"
+    },
+    "content": {
+      "en": [
+        "Launched in August 1942 after the failure of the Cripps Mission during World War II.",
+        "Gandhi gave the slogan 'Do or Die' (Karo ya Maro) in his speech at Gowalia Tank Maidan.",
+        "The British immediately arrested Gandhi and other top leaders to crush the movement.",
+        "Common people took charge; students, workers, and peasants led strikes and sabotaged British communication.",
+        "Independent local governments were formed in districts like Satara, Medinipur, and Ballia."
+      ],
+      "hi": [
+        "द्वितीय विश्व युद्ध के दौरान क्रिप्स मिशन की विफलता के बाद अगस्त 1942 में शुरू किया गया।",
+        "गांधीजी ने गोवालिया टैंक मैदान में अपने भाषण में 'करो या मरो' का नारा दिया।",
+        "अंग्रेजों ने आंदोलन को कुचलने के लिए गांधीजी और अन्य शीर्ष नेताओं को तुरंत गिरफ्तार कर लिया।",
+        "आम जनता ने कमान संभाली; छात्रों, मज़दूरों और किसानों ने हड़तालें कीं और ब्रिटिश संचार व्यवस्था को बाधित किया।",
+        "सतारा, मेदिनीपुर और बलिया जैसे जिलों में स्वतंत्र स्थानीय सरकारें बनाई गईं।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "The Last Days and Independence",
+      "hi": "अंतिम दिन और स्वतंत्रता"
+    },
+    "content": {
+      "en": [
+        "Direct Action Day (16 August 1946) called by the Muslim League led to communal riots.",
+        "Gandhi toured riot-affected areas like Noakhali and Calcutta to restore peace and harmony.",
+        "India achieved independence on 15 August 1947, but was partitioned into India and Pakistan.",
+        "Gandhi did not participate in the celebrations; he spent the day fasting and praying for peace.",
+        "He was assassinated on 30 January 1948 by Nathuram Godse in Delhi."
+      ],
+      "hi": [
+        "मुस्लिम लीग द्वारा बुलाए गए 'प्रत्यक्ष कार्यवाही दिवस' (16 अगस्त 1946) के कारण सांप्रदायिक दंगे हुए।",
+        "गांधीजी ने शांति और सद्भाव बहाल करने के लिए नोआखली और कलकत्ता जैसे दंगा प्रभावित क्षेत्रों का दौरा किया।",
+        "15 अगस्त 1947 को भारत आज़ाद हुआ, लेकिन देश का भारत और पाकिस्तान में विभाजन हो गया।",
+        "गांधीजी ने जश्न में भाग नहीं लिया; उन्होंने वह दिन उपवास और शांति के लिए प्रार्थना करते हुए बिताया।",
+        "30 जनवरी 1948 को दिल्ली में नाथूराम गोडसे द्वारा उनकी हत्या कर दी गई।"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "topic": {
+      "en": "Reconstructing History: Sources",
+      "hi": "इतिहास का पुनर्निर्माण: स्रोत"
+    },
+    "content": {
+      "en": [
+        "Writings and Speeches: Gandhi's journals ('Young India', 'Harijan') and his autobiography.",
+        "Private Letters: Correspondence between leaders provide personal insights into their thoughts.",
+        "Government Records: Police and intelligence reports that tracked Gandhi’s movements and impact.",
+        "Newspapers: Reports in Indian and foreign press (like TIME magazine) provide contemporary views.",
+        "Oral History: Memories and interviews of people who participated in or witnessed the movement."
+      ],
+      "hi": [
+        "लेखन और भाषण: गांधीजी की पत्रिकाएँ ('यंग इंडिया', 'हरिजन') और उनकी आत्मकथा।",
+        "निजी पत्र: नेताओं के बीच का पत्राचार उनके विचारों की व्यक्तिगत जानकारी देता है।",
+        "सरकारी रिकॉर्ड: पुलिस और खुफिया रिपोर्ट जो गांधीजी की गतिविधियों और उनके प्रभाव पर नज़र रखती थीं।",
+        "समाचार पत्र: भारतीय और विदेशी प्रेस (जैसे TIME मैगजीन) की रिपोर्टें समकालीन दृष्टिकोण प्रदान करती हैं।",
+        "मौखिक इतिहास: आंदोलन में भाग लेने वाले या उसे देखने वाले लोगों की यादें और साक्षात्कार।"
+      ]
+    }
+  }
+]

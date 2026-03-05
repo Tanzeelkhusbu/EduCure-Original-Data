@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "topic": {
+      "en": "Partition: A Culmination of Developments",
+      "hi": "विभाजन: घटनाक्रमों की परिणति"
+    },
+    "content": {
+      "en": [
+        "The partition of India in 1947 was a result of long-term political and communal developments.",
+        "The 'Two-Nation Theory' suggested that Hindus and Muslims were two distinct nations that could not live together.",
+        "Communal politics intensified in the 1930s and 40s, led by the Muslim League and Hindu Mahasabha.",
+        "The British policy of 'Divide and Rule' and the creation of separate electorates fueled the fire.",
+        "Provincial elections of 1937 showed that the Muslim League had limited support initially, but it grew rapidly later."
+      ],
+      "hi": [
+        "1947 में भारत का विभाजन लंबे समय के राजनीतिक और सांप्रदायिक घटनाक्रमों का परिणाम था।",
+        " 'द्वि-राष्ट्र सिद्धांत' ने सुझाव दिया कि हिंदू और मुसलमान दो अलग-अलग राष्ट्र थे जो एक साथ नहीं रह सकते थे।",
+        "1930 और 40 के दशक में मुस्लिम लीग और हिंदू महासभा के नेतृत्व में सांप्रदायिक राजनीति तेज़ हो गई।",
+        "अंग्रेजों की 'बांटो और राज करो' की नीति और पृथक निर्वाचिका ने इस आग में घी डालने का काम किया।",
+        "1937 के प्रांतीय चुनावों ने दिखाया कि शुरू में मुस्लिम लीग का समर्थन सीमित था, लेकिन बाद में यह तेज़ी से बढ़ा।"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "topic": {
+      "en": "The Pakistan Resolution (1940)",
+      "hi": "पाकिस्तान प्रस्ताव (1940)"
+    },
+    "content": {
+      "en": [
+        "In March 1940, the Muslim League passed a resolution at Lahore demanding 'independent states' for Muslims.",
+        "The resolution did not explicitly mention 'Partition' or 'Pakistan' at that time.",
+        "It demanded that geographically contiguous units in the North-West and East should be grouped together.",
+        "Mohammad Ali Jinnah emerged as the primary advocate for a separate homeland.",
+        "This resolution changed the political discourse from self-rule to a demand for a separate sovereign state."
+      ],
+      "hi": [
+        "मार्च 1940 में, मुस्लिम लीग ने लाहौर में एक प्रस्ताव पारित कर मुसलमानों के लिए 'स्वतंत्र राज्यों' की मांग की।",
+        "उस समय प्रस्ताव में 'विभाजन' या 'पाकिस्तान' शब्द का स्पष्ट रूप से उल्लेख नहीं था।",
+        "इसने मांग की कि उत्तर-पश्चिम और पूर्व में भौगोलिक रूप से सटे हुए क्षेत्रों को एक साथ समूहबद्ध किया जाए।",
+        "मोहम्मद अली जिन्ना एक अलग मातृभूमि के प्राथमिक समर्थक के रूप में उभरे।",
+        "इस प्रस्ताव ने राजनीतिक चर्चा को स्वशासन से बदलकर एक अलग संप्रभु राज्य की मांग में बदल दिया।"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "topic": {
+      "en": "Post-War Developments and Cabinet Mission (1946)",
+      "hi": "युद्ध के बाद के घटनाक्रम और कैबिनेट मिशन (1946)"
+    },
+    "content": {
+      "en": [
+        "After WWII, the British sent the Cabinet Mission to India to find a solution for independence.",
+        "It proposed a three-tier federation: a weak center and strong provinces grouped into three sections (A, B, C).",
+        "Section A (Hindu majority), Section B and C (Muslim majority areas).",
+        "The Congress and the Muslim League initially accepted it but differed on the 'grouping' clause.",
+        "The failure of the Cabinet Mission made the partition of India almost inevitable."
+      ],
+      "hi": [
+        "द्वितीय विश्व युद्ध के बाद, अंग्रेजों ने स्वतंत्रता का समाधान खोजने के लिए कैबिनेट मिशन को भारत भेजा।",
+        "इसने त्रि-स्तरीय महासंघ का प्रस्ताव दिया: एक कमज़ोर केंद्र और तीन वर्गों (A, B, C) में बँटे शक्तिशाली प्रांत।",
+        "वर्ग A (हिंदू बहुल), वर्ग B और C (मुस्लिम बहुल क्षेत्र) के लिए थे।",
+        "कांग्रेस और मुस्लिम लीग ने शुरू में इसे स्वीकार किया लेकिन 'ग्रुपिंग' क्लॉज की व्याख्या पर मतभेद पैदा हो गए।",
+        "कैबिनेट मिशन की विफलता ने भारत के विभाजन को लगभग अपरिहार्य बना दिया।"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "topic": {
+      "en": "Direct Action Day and Communal Riots",
+      "hi": "प्रत्यक्ष कार्यवाही दिवस और सांप्रदायिक दंगे"
+    },
+    "content": {
+      "en": [
+        "Jinnah called for 'Direct Action Day' on 16 August 1946 to push for Pakistan.",
+        "Massive communal riots broke out in Calcutta, resulting in the death of thousands.",
+        "The violence soon spread to Noakhali (East Bengal), Bihar, and the United Provinces.",
+        "By 1947, the atmosphere of fear and blood-lust made a peaceful settlement impossible.",
+        "The British administration was unable or unwilling to control the escalating violence."
+      ],
+      "hi": [
+        "जिन्ना ने पाकिस्तान की मांग को मनवाने के लिए 16 अगस्त 1946 को 'प्रत्यक्ष कार्यवाही दिवस' का आह्वान किया।",
+        "कलकत्ता में भीषण सांप्रदायिक दंगे भड़क उठे, जिसके परिणामस्वरूप हज़ारों लोग मारे गए।",
+        "हिंसा जल्द ही नोआखली (पूर्वी बंगाल), बिहार और संयुक्त प्रांत में फैल गई।",
+        "1947 तक, डर और खून-खराबे के माहौल ने शांतिपूर्ण समझौते को असंभव बना दिया।",
+        "ब्रिटिश प्रशासन बढ़ती हिंसा को नियंत्रित करने में असमर्थ या अनिच्छुक था।"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "topic": {
+      "en": "The Partition Plan and Migration",
+      "hi": "विभाजन योजना और विस्थापन"
+    },
+    "content": {
+      "en": [
+        "Lord Mountbatten announced the Partition Plan on 3 June 1947.",
+        "India was divided into two independent dominions: India and Pakistan.",
+        "Partition led to one of the largest and most painful migrations in human history.",
+        "About 15 million people crossed the newly created borders, leaving their ancestral homes.",
+        "Refugees faced extreme violence, looting, and murder during their journey on foot and in trains."
+      ],
+      "hi": [
+        "लॉर्ड माउंटबेटन ने 3 जून 1947 को विभाजन योजना की घोषणा की।",
+        "भारत को दो स्वतंत्र अधिराज्यों (Dominions): भारत और पाकिस्तान में विभाजित किया गया।",
+        "विभाजन के कारण मानव इतिहास का सबसे बड़ा और दर्दनाक विस्थापन (Migration) हुआ।",
+        "लगभग 1.5 करोड़ लोगों ने अपना पुश्तैनी घर छोड़कर नई सीमाओं को पार किया।",
+        "शरणार्थियों ने पैदल और ट्रेनों में अपनी यात्रा के दौरान अत्यधिक हिंसा, लूटपाट और हत्याओं का सामना किया।"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "topic": {
+      "en": "The Experience of Women during Partition",
+      "hi": "विभाजन के दौरान महिलाओं का अनुभव"
+    },
+    "content": {
+      "en": [
+        "Women were the worst victims of the communal violence during partition.",
+        "Thousands were abducted, raped, and forced into marriages against their will.",
+        "In many cases, families killed their own women ('honour killing') to protect family 'honour'.",
+        "Governments later initiated recovery programs, but many women were unwilling to leave their new families.",
+        "The trauma of partition for women involved both physical violence and forced separation from children."
+      ],
+      "hi": [
+        "विभाजन के दौरान सांप्रदायिक हिंसा की सबसे बुरी शिकार महिलाएँ हुईं।",
+        "हज़ारों महिलाओं का अपहरण किया गया, बलात्कार हुआ और उनकी इच्छा के विरुद्ध जबरन शादी कर दी गई।",
+        "कई मामलों में, परिवारों ने परिवार की 'इज़्ज़त' बचाने के लिए अपनी ही महिलाओं को मार डाला (ऑन्र किलिंग)।",
+        "सरकारों ने बाद में 'बरामदगी' कार्यक्रम शुरू किए, लेकिन कई महिलाएँ अपने नए परिवारों को छोड़ना नहीं चाहती थीं।",
+        "महिलाओं के लिए विभाजन के सदमे में शारीरिक हिंसा और बच्चों से जबरन अलगाव दोनों शामिल थे।"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "topic": {
+      "en": "Oral Testimonies and Memory",
+      "hi": "मौखिक साक्ष्य और स्मृतियाँ"
+    },
+    "content": {
+      "en": [
+        "Oral history helps in understanding the personal trauma and emotional side of partition.",
+        "Official records focus on political decisions, but oral testimonies reveal the lived experience of the common man.",
+        "People often remember partition as a 'time of madness' where neighbors turned into enemies.",
+        "Memories also include stories of help and humanity where people saved those from other communities.",
+        "Oral sources provide a 'bottom-up' perspective of history, moving beyond official documents."
+      ],
+      "hi": [
+        "मौखिक इतिहास विभाजन के व्यक्तिगत सदमे और भावनात्मक पक्ष को समझने में मदद करता है।",
+        "आधिकारिक रिकॉर्ड राजनीतिक निर्णयों पर ध्यान केंद्रित करते हैं, लेकिन मौखिक साक्ष्य आम आदमी के वास्तविक अनुभवों को उजागर करते हैं।",
+        "लोग अक्सर विभाजन को 'पागलपन के समय' के रूप में याद करते हैं जहाँ पड़ोसी ही दुश्मन बन गए थे।",
+        "यादों में मदद और इंसानियत की कहानियाँ भी शामिल हैं जहाँ लोगों ने दूसरे समुदायों के लोगों को बचाया।",
+        "मौखिक स्रोत इतिहास का एक 'नीचे से ऊपर' (bottom-up) का दृष्टिकोण प्रदान करते हैं, जो आधिकारिक दस्तावेज़ों से परे है।"
+      ]
+    }
+  }
+]
