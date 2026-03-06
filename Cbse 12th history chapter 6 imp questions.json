@@ -2,306 +2,231 @@
   {
     "q_id": 1,
     "question": {
-      "en": "Question 1: Explain the difference between Saguna and Nirguna Bhakti with examples.",
-      "hi": "प्रश्न 1: उदाहरण सहित सगुण और निर्गुण भक्ति के बीच अंतर स्पष्ट करें।"
+      "en": "Distinguish between Saguna and Nirguna Bhakti traditions.",
+      "hi": "सगुण और निर्गुण भक्ति परंपराओं के बीच अंतर स्पष्ट करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Saguna Bhakti: Focuses on the worship of specific deities like Vishnu, Shiva, or their avatars with specific forms and attributes.",
-        "2. Methods: It involves using idols, temples, and performing rituals.",
-        "3. Examples: Tulsidas and Mirabai are key Saguna Bhakti saints.",
-        "4. Nirguna Bhakti: Focuses on the worship of an abstract, formless (Nirankar) God.",
-        "5. Methods: It rejects idol worship and complex rituals, focusing on internal meditation.",
-        "6. Examples: Kabir and Guru Nanak Dev Ji are primary Nirguna Bhakti saints."
+        "1. Saguna Bhakti: Focuses on the worship of specific deities with attributes/forms (e.g., Shiva, Vishnu, Rama, Krishna).",
+        "2. Representation: Deities are worshipped through idols and physical symbols.",
+        "3. Nirguna Bhakti: Focuses on the worship of an abstract, formless God (Nirankar).",
+        "4. Examples: Kabir and Guru Nanak were prominent followers of the Nirguna tradition.",
+        "5. Core Belief: Nirguna followers believe God cannot be limited to a specific human or idol form."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. सगुण भक्ति: इसमें भगवान के विशेष स्वरूपों जैसे विष्णु, शिव या उनके अवतारों की पूजा उनके आकार और गुणों के साथ की जाती है।",
-        "2. तरीके: इसमें मूर्तियों, मंदिरों और अनुष्ठानों का उपयोग किया जाता है।",
-        "3. उदाहरण: तुलसीदास और मीराबाई प्रमुख सगुण भक्त संत हैं।",
-        "4. निर्गुण भक्ति: इसमें ईश्वर के निराकार (बिना किसी रूप के) स्वरूप की आराधना की जाती है।",
-        "5. तरीके: यह मूर्ति पूजा और कर्मकांडों को नकारकर आंतरिक ध्यान पर जोर देता है।",
-        "6. उदाहरण: कबीर और गुरु नानक देव जी मुख्य निर्गुण भक्त संत हैं।"
+        "1. सगुण भक्ति: इसमें विशेष गुणों या रूपों वाले देवताओं (जैसे शिव, विष्णु, राम, कृष्ण) की पूजा पर ध्यान दिया जाता है।",
+        "2. चित्रण: देवताओं की पूजा मूर्तियों और भौतिक प्रतीकों के माध्यम से की जाती है।",
+        "3. निर्गुण भक्ति: यह ईश्वर के निराकार और अमूर्त स्वरूप (निरंकार) की उपासना पर केंद्रित है।",
+        "4. उदाहरण: कबीर और गुरु नानक निर्गुण परंपरा के प्रमुख अनुयायी थे।",
+        "5. मुख्य विश्वास: निर्गुण अनुयायियों का मानना है कि ईश्वर को किसी विशेष मानव या मूर्ति रूप में सीमित नहीं किया जा सकता।"
       ]
-    },
-    "app_tip": {
-      "en": "Visual Tip: In the app, show a picture of an idol (Saguna) and an empty meditative space (Nirguna) side-by-side to make students understand quickly.",
-      "hi": "विजुअल टिप: ऐप में एक मूर्ति (सगुण) और एक खाली ध्यान मुद्रा (निर्गुण) की तस्वीर अगल-बगल दिखाएं ताकि छात्र जल्दी समझ सकें।"
     }
   },
   {
     "q_id": 2,
     "question": {
-      "en": "Question 2: Who were Alvars and Nayanars? Discuss their role in the Bhakti movement.",
-      "hi": "प्रश्न 2: अलवार और नयनार कौन थे? भक्ति आंदोलन में उनकी भूमिका की चर्चा करें।"
+      "en": "Who were the Alvars and Nayanars? Discuss their role in the Bhakti movement.",
+      "hi": "अलवार और नयनार कौन थे? भक्ति आंदोलन में उनकी भूमिका की चर्चा करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Identity: Alvars were devotees of Vishnu and Nayanars were devotees of Shiva in South India.",
-        "2. Inclusivity: They came from all backgrounds, including lower castes and women (like Andal and Karaikkal Ammaiyar).",
-        "3. Travels: They wandered from place to place singing hymns in Tamil in praise of their gods.",
-        "4. Impact: They provided a strong alternative to Buddhism and Jainism, which were dominant then.",
-        "5. Royal Support: Chola kings supported them by building grand temples and recording their hymns.",
-        "6. Sacred Literature: Their hymns were compiled into Nalayira Divyaprabandham (Alvars) and Tevaram (Nayanars)."
+        "1. Identity: Alvars were devotees of Vishnu; Nayanars were devotees of Shiva in South India (Tamil Nadu).",
+        "2. Method: They traveled from place to place singing hymns in Tamil in praise of their gods.",
+        "3. Inclusivity: They protested against caste hierarchy and included members from 'untouchable' castes.",
+        "4. Women Saints: Figures like Andal (Alvar) and Karaikkal Ammaiyar (Nayanar) challenged male dominance.",
+        "5. Impact: They played a major role in integrating local traditions with Vedic practices."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. पहचान: दक्षिण भारत में अलवार विष्णु के भक्त थे और नयनार शिव के भक्त थे।",
-        "2. समावेशिता: वे सभी वर्गों से आए थे, जिनमें निचली जातियाँ और महिलाएँ (जैसे अंडाल और करइक्काल अम्मइयार) शामिल थीं।",
-        "3. यात्राएँ: वे अपने आराध्य की स्तुति में तमिल में भजन गाते हुए एक स्थान से दूसरे स्थान पर घूमते थे।",
-        "4. प्रभाव: उन्होंने उस समय के प्रमुख बौद्ध और जैन धर्मों का एक मज़बूत विकल्प प्रदान किया।",
-        "5. राजकीय समर्थन: चोल राजाओं ने भव्य मंदिरों का निर्माण कराकर और उनके भजनों को दर्ज कराकर उनका समर्थन किया।",
-        "6. पवित्र साहित्य: उनके भजनों को 'नलियरा दिव्यप्रबंधम' (अलवार) और 'तेवरम' (नयनार) में संकलित किया गया था।"
+        "1. पहचान: अलवार विष्णु के भक्त थे और नयनार दक्षिण भारत (तमिलनाडु) में शिव के भक्त थे।",
+        "2. विधि: वे अपने आराध्य की स्तुति में तमिल भाषा में भजन गाते हुए एक स्थान से दूसरे स्थान की यात्रा करते थे।",
+        "3. समावेशिता: उन्होंने जाति पदानुक्रम का विरोध किया और इसमें 'अछूत' मानी जाने वाली जातियों के लोग भी शामिल थे।",
+        "4. महिला संत: अंडाल (अलवार) और करइक्काल अम्मइयार (नयनार) जैसी संतों ने पुरुष प्रधानता को चुनौती दी।",
+        "5. प्रभाव: उन्होंने स्थानीय परंपराओं को वैदिक प्रथाओं के साथ एकीकृत करने में बड़ी भूमिका निभाई।"
       ]
-    },
-    "app_tip": {
-      "en": "Memory Tip: Remember Andal as the 'Female Alvar'. This is a very frequent 1-mark MCQ question.",
-      "hi": "मेमोरी टिप: अंडाल को 'महिला अलवार' के रूप में याद रखें। यह 1-नंबर वाले MCQs में बहुत बार पूछा जाता है।"
     }
   },
   {
     "q_id": 3,
     "question": {
-      "en": "Question 3: Discuss the main features of the Virashaiva (Lingayat) tradition in Karnataka.",
-      "hi": "प्रश्न 3: कर्नाटक की वीरशैव (लिंगायत) परंपरा की मुख्य विशेषताओं की चर्चा करें।"
+      "en": "Describe the Virashaiva tradition founded by Basavanna in Karnataka.",
+      "hi": "कर्नाटक में बसवन्ना द्वारा स्थापित वीरशैव परंपरा का वर्णन करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Founder: Led by Basavanna, a Brahmana minister in the 12th century.",
-        "2. Worship: They worship Shiva in his manifestation as a linga worn on the left shoulder.",
-        "3. Rejection of Caste: They strongly challenged the caste system and the concept of 'pollution'.",
-        "4. Post-death Belief: They believe that after death, the devotee unites with Shiva and does not return to the world.",
-        "5. Social Reforms: They encouraged post-puberty marriage and the remarriage of widows.",
-        "6. Vachanas: Their teachings were recorded in simple Kannada verses called 'Vachanas'."
+        "1. Leadership: Led by Basavanna, a Brahmana minister, in the 12th century.",
+        "2. Identity: Followers were called Virashaivas (heroes of Shiva) or Lingayats (wearers of the linga).",
+        "3. Worship: They worship Shiva in the form of a small linga worn in a silver case on the left shoulder.",
+        "4. Social Reform: They challenged the Brahmana ideas of caste and the 'pollution' of certain groups.",
+        "5. Beliefs: They support the remarriage of widows and do not believe in rebirth, but in merging with Shiva."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. संस्थापक: इसका नेतृत्व 12वीं शताब्दी में एक ब्राह्मण मंत्री बसवन्ना ने किया था।",
-        "2. पूजा विधि: वे शिव की आराधना लिंग के रूप में करते हैं जिसे बाएं कंधे पर धारण किया जाता है।",
-        "3. जाति का विरोध: उन्होंने जाति प्रथा और 'अपवित्रता' की अवधारणा को कड़ी चुनौती दी।",
-        "4. मृत्यु के बाद विश्वास: उनका मानना है कि मृत्यु के बाद भक्त शिव में लीन हो जाता है और पुनर्जन्म नहीं होता।",
-        "5. सामाजिक सुधार: उन्होंने वयस्क विवाह और विधवा पुनर्विवाह को बढ़ावा दिया।",
-        "6. वचन: उनकी शिक्षाओं को सरल कन्नड़ छंदों में दर्ज किया गया है जिन्हें 'वचन' कहा जाता है।"
+        "1. नेतृत्व: 12वीं शताब्दी में एक ब्राह्मण मंत्री बसवन्ना द्वारा नेतृत्व किया गया।",
+        "2. पहचान: अनुयायियों को वीरशैव (शिव के वीर) या लिंगायत (लिंग धारण करने वाले) कहा जाता था।",
+        "3. पूजा: वे शिव की आराधना एक छोटे लिंग के रूप में करते हैं जिसे चांदी के डिब्बे में बाएं कंधे पर पहना जाता है।",
+        "4. सामाजिक सुधार: उन्होंने ब्राह्मणों के जाति संबंधी विचारों और कुछ समूहों की 'अपवित्रता' को चुनौती दी।",
+        "5. विश्वास: वे विधवा पुनर्विवाह का समर्थन करते हैं और पुनर्जन्म में विश्वास नहीं करते, बल्कि शिव में लीन होने को ही अंत मानते हैं।"
       ]
-    },
-    "app_tip": {
-      "en": "UI Tip: Use a 'Keyword Highlight' for 'Vachanas' and 'Linga' so students remember these technical terms.",
-      "hi": "UI टिप: 'वचन' और 'लिंग' जैसे शब्दों के लिए 'Keyword Highlight' का उपयोग करें ताकि छात्रों को ये तकनीकी शब्द याद रहें।"
     }
   },
   {
     "q_id": 4,
     "question": {
-      "en": "Question 4: What is Sufism? Explain the concepts of Khanqah and Silsila.",
-      "hi": "प्रश्न 4: सूफीवाद क्या है? खानकाह और सिलसिला की अवधारणाओं को स्पष्ट करें।"
+      "en": "What are the key concepts of Sufism? Define Khanqah and Silsila.",
+      "hi": "सूफीवाद की मुख्य अवधारणाएँ क्या हैं? खानकाह और सिलसिला को परिभाषित करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Sufism: A mystical movement in Islam that emphasizes love for God and service to humanity.",
-        "2. Khanqah: A hospice or center where a Sufi master (Pir/Shaikh) lived and taught his disciples (Murids).",
-        "3. Life in Khanqah: It was an open space for people from all social classes to seek spiritual guidance.",
-        "4. Silsila: Literally meaning a 'chain', it represents the spiritual genealogy from the Prophet to the master.",
-        "5. Succession: It ensured a continuous link of teaching and authority through successors (Khalifas).",
-        "6. Dargah: After the saint's death, his tomb (Dargah) became a site of pilgrimage (Ziyarat)."
+        "1. Sufism: A mystical branch of Islam that emphasizes personal devotion and love for God.",
+        "2. Khanqah: A center of social and religious life where the Sufi master (Pir/Shaikh) lived with his disciples.",
+        "3. Silsila: A spiritual genealogy or 'chain' that traces the master's authority back to Prophet Muhammad.",
+        "4. Ziyarat: Pilgrimage to the tombs (Dargahs) of Sufi saints on their death anniversaries (Urs).",
+        "5. Sama: Musical recitals (Qawwalis) used to achieve a state of spiritual ecstasy."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. सूफीवाद: इस्लाम के भीतर एक रहस्यवादी आंदोलन जो ईश्वर के प्रति प्रेम और मानवता की सेवा पर जोर देता है।",
-        "2. खानकाह: एक धर्मशाला या केंद्र जहाँ एक सूफी गुरु (पीर या शेख) अपने शिष्यों (मुरीद) के साथ रहता था।",
-        "3. खानकाह का जीवन: यह समाज के सभी वर्गों के लिए आध्यात्मिक मार्गदर्शन प्राप्त करने का एक खुला स्थान था।",
-        "4. सिलसिला: इसका शाब्दिक अर्थ 'जंजीर' है, जो पैगंबर से गुरु तक की आध्यात्मिक वंशावली को दर्शाता है।",
-        "5. उत्तराधिकार: यह उत्तराधिकारियों (खलीफाओं) के माध्यम से शिक्षा और अधिकार की निरंतरता सुनिश्चित करता था।",
-        "6. दरगाह: संत की मृत्यु के बाद उनकी कब्र (दरगाह) तीर्थयात्रा (ज़ियारत) का स्थल बन जाती थी।"
+        "1. सूफीवाद: इस्लाम की एक रहस्यवादी शाखा जो ईश्वर के प्रति व्यक्तिगत भक्ति और प्रेम पर जोर देती है।",
+        "2. खानकाह: सामाजिक और धार्मिक जीवन का केंद्र जहाँ सूफी गुरु (पीर या शेख) अपने शिष्यों के साथ रहता था।",
+        "3. सिलसिला: एक आध्यात्मिक वंशावली या 'जंजीर' जो गुरु के अधिकार को पैगंबर मुहम्मद से जोड़ती है।",
+        "4. ज़ियारत: सूफी संतों की पुण्यतिथि (उर्स) पर उनकी मज़ारों या दरगाहों की तीर्थयात्रा।",
+        "5. समा: आध्यात्मिक आनंद प्राप्त करने के लिए किया जाने वाला भक्ति संगीत (कव्वाली)।"
       ]
-    },
-    "app_tip": {
-      "en": "Vocab Tip: Pir = Master, Murid = Disciple. Add a small glossary button in Educare for such Sufi terms.",
-      "hi": "शब्द टिप: पीर = गुरु, मुरीद = शिष्य। Educare में ऐसे सूफी शब्दों के लिए एक छोटा ग्लॉसरी (शब्दकोश) बटन जोड़ें।"
     }
   },
   {
     "q_id": 5,
     "question": {
-      "en": "Question 5: Describe the importance of the Chishti Silsila in India.",
-      "hi": "प्रश्न 5: भारत में चिश्ती सिलसिले के महत्व का वर्णन करें।"
+      "en": "Discuss the significance of the Chishti order in the Indian subcontinent.",
+      "hi": "भारतीय उपमहाद्वीप में चिश्ती सिलसिले के महत्व की चर्चा करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Popularity: The Chishti Silsila was the most influential Sufi order in India due to its simple life.",
-        "2. Local Integration: They adapted to local Indian customs, language, and devotional music (Qawwali).",
-        "3. Famous Saints: Includes Moinuddin Chishti (Ajmer), Nizamuddin Auliya (Delhi), and Baba Farid.",
-        "4. Sama: The use of music (Sama) to achieve spiritual ecstasy was a key feature.",
-        "5. Distance from State: They generally avoided political power and lived on voluntary donations (Futuh).",
-        "6. Universal Appeal: Their khanqahs were visited by both Hindus and Muslims, promoting communal harmony."
+        "1. Influence: The Chishtis were the most influential Sufi order in India.",
+        "2. Masters: Famous saints include Khwaja Muinuddin Chishti and Shaikh Nizamuddin Auliya.",
+        "3. Simple Life: They lived simple lives and relied on voluntary donations (Futuh).",
+        "4. Integration: They used local languages and music (Sama) to reach out to the common people.",
+        "5. Royal Interaction: While they kept a distance from politics, kings often visited Dargahs for blessings."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. लोकप्रियता: अपने सादे जीवन के कारण भारत में चिश्ती सिलसिला सबसे प्रभावशाली सूफी सिलसिला था।",
-        "2. स्थानीय समन्वय: उन्होंने भारतीय रीति-रिवाजों, भाषा और भक्ति संगीत (कव्वाली) को अपनाया।",
-        "3. प्रसिद्ध संत: इसमें मोइनुद्दीन चिश्ती (अजमेर), निजामुद्दीन औलिया (दिल्ली) और बाबा फरीद शामिल हैं।",
-        "4. समा: आध्यात्मिक आनंद प्राप्त करने के लिए संगीत (समा) का उपयोग इसकी एक प्रमुख विशेषता थी।",
-        "5. सत्ता से दूरी: वे आमतौर पर राजनीति से दूर रहते थे और बिना मांगे मिले दान (फुतूह) पर निर्भर थे।",
-        "6. सार्वभौमिक अपील: उनकी खानकाहों में हिंदू और मुस्लिम दोनों आते थे, जिससे सांप्रदायिक सद्भाव को बढ़ावा मिला।"
+        "1. प्रभाव: भारत में चिश्ती सिलसिला सबसे प्रभावशाली सूफी सिलसिला था।",
+        "2. गुरु: प्रसिद्ध संतों में ख्वाजा मुइनुद्दीन चिश्ती और शेख निजामुद्दीन औलिया शामिल हैं।",
+        "3. सादा जीवन: वे सादा जीवन जीते थे और बिना मांगे मिले दान (फुतूह) पर निर्भर थे।",
+        "4. एकीकरण: उन्होंने आम लोगों तक पहुँचने के लिए स्थानीय भाषाओं और संगीत (समा) का उपयोग किया।",
+        "5. शाही संवाद: हालाँकि वे राजनीति से दूर रहते थे, लेकिन राजा अक्सर आशीर्वाद के लिए दरगाहों पर आते थे।"
       ]
-    },
-    "app_tip": {
-      "en": "Exam Fact: Moinuddin Chishti is often called 'Gharib Nawaz'. This is important for short answers.",
-      "hi": "एग्ज़ाम फैक्ट: मोइनुद्दीन चिश्ती को अक्सर 'गरीब नवाज' कहा जाता है। यह छोटे उत्तरों के लिए महत्वपूर्ण है।"
     }
   },
   {
     "q_id": 6,
     "question": {
-      "en": "Question 6: Discuss the life and teachings of Kabir.",
-      "hi": "प्रश्न 6: कबीर के जीवन और शिक्षाओं की चर्चा करें।"
+      "en": "What were the main teachings of Kabir Das?",
+      "hi": "कबीर दास की मुख्य शिक्षाएँ क्या थीं?"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Nirguna Saint: Kabir was a prominent Nirguna Bhakti saint who believed in one formless God.",
-        "2. Rejection of Rituals: He criticized idol worship, animal sacrifice, and external religious shows of both Hindus and Muslims.",
-        "3. Language: He used 'Ulatbansi' (upside-down sayings) and everyday language to challenge fixed ideas.",
-        "4. Source of Verses: His poems are found in Kabir Bijak, Kabir Granthavali, and the Adi Granth Sahib.",
-        "5. Unity: He used terms like Allah, Ram, and Hari interchangeably to show God is one.",
-        "6. Social Reformer: He staunchly opposed the caste system and promoted social equality."
+        "1. Formless God: He believed in one formless God (Nirankar), referred to as Allah, Ram, or Hari.",
+        "2. Rejection of Rituals: He rejected idol worship, pilgrimages, and formal religious rituals.",
+        "3. Social Equality: He strongly criticized the caste system and the divide between Hindus and Muslims.",
+        "4. Verses: His teachings are preserved in the Kabir Bijak, Kabir Granthavali, and Adi Granth Sahib.",
+        "5. Language: He used simple, everyday language (Sadhukkari) to communicate with commoners."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. निर्गुण संत: कबीर एक प्रमुख निर्गुण भक्त संत थे जो एक निराकार ईश्वर में विश्वास करते थे।",
-        "2. कर्मकांडों का विरोध: उन्होंने हिंदू और मुस्लिम दोनों के मूर्ति पूजा, पशु बलि और बाहरी आडंबरों की आलोचना की।",
-        "3. भाषा: उन्होंने स्थापित विचारों को चुनौती देने के लिए 'उलटबांसी' और आम बोलचाल की भाषा का प्रयोग किया।",
-        "4. संकलन: उनके पद कबीर बीजक, कबीर ग्रंथावली और आदि ग्रंथ साहिब में मिलते हैं।",
-        "5. एकता: उन्होंने अल्लाह, राम और हरि जैसे शब्दों का प्रयोग यह दिखाने के लिए किया कि ईश्वर एक है।",
-        "6. समाज सुधारक: उन्होंने जाति प्रथा का कड़ा विरोध किया और सामाजिक समानता को बढ़ावा दिया।"
+        "1. निराकार ईश्वर: वे एक निराकार ईश्वर (निरंकार) में विश्वास करते थे, जिसे अल्लाह, राम या हरि कहा जाता था।",
+        "2. कर्मकांडों का त्याग: उन्होंने मूर्ति पूजा, तीर्थयात्रा और औपचारिक धार्मिक कर्मकांडों को खारिज कर दिया।",
+        "3. सामाजिक समानता: उन्होंने जाति प्रथा और हिंदू-मुस्लिम विभाजन की कड़ी आलोचना की।",
+        "4. पद/दोहे: उनकी शिक्षाएँ कबीर बीजक, कबीर ग्रंथावली और आदि ग्रंथ साहिब में सुरक्षित हैं।",
+        "5. भाषा: उन्होंने आम लोगों से संवाद करने के लिए सरल, रोज़मर्रा की भाषा (सधुक्कड़ी) का उपयोग किया।"
       ]
-    },
-    "app_tip": {
-      "en": "Study Tip: If a long question comes on Kabir, mention his 'Dohas' (verses). It makes the answer very strong.",
-      "hi": "स्टडी टिप: यदि कबीर पर कोई लंबा सवाल आता है, तो उनके 'दोहों' का उल्लेख करें। इससे उत्तर बहुत मज़बूत हो जाता है।"
     }
   },
   {
     "q_id": 7,
     "question": {
-      "en": "Question 7: What were the core teachings of Guru Nanak Dev Ji?",
-      "hi": "प्रश्न 7: गुरु नानक देव जी की मुख्य शिक्षाएँ क्या थीं?"
+      "en": "Describe the spiritual path of Guru Nanak Dev Ji.",
+      "hi": "गुरु नानक देव जी के आध्यात्मिक मार्ग का वर्णन करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Oneness of God: He preached that there is only one God who is timeless and omnipresent.",
-        "2. Nam-Simran: Emphasized the importance of meditating on the 'Name' of God.",
-        "3. Rejection of Dogma: He rejected rituals, scriptures of both religions, and idol worship.",
-        "4. Langar: Established the tradition of community kitchen to promote equality and service.",
-        "5. Honest Living: Advocated for 'Kirat Karo' (honest work) and 'Vand Chako' (sharing with others).",
-        "6. Succession: He appointed a successor (Guru Angad), starting a lineage that eventually led to the Adi Granth Sahib."
+        "1. Nirguna Bhakti: He preached the worship of one formless God through 'Nam-Simran'.",
+        "2. Equality: He established the concept of 'Sangat' (holy congregation) and 'Pangat' (community kitchen).",
+        "3. Rejection: He rejected the authority of both Hindu and Muslim scriptures and formal rituals.",
+        "4. Practical Life: He emphasized leading a simple, honest, and hardworking life while remaining a householder.",
+        "5. Succession: He appointed Angad Dev as his successor, leading to the formation of the Sikh community."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. ईश्वर की एकता: उन्होंने उपदेश दिया कि ईश्वर केवल एक है जो कालातीत और सर्वव्यापी है।",
-        "2. नाम-सिमरन: ईश्वर के 'नाम' के स्मरण और ध्यान के महत्व पर जोर दिया।",
-        "3. रूढ़ियों का विरोध: उन्होंने कर्मकांडों, दोनों धर्मों के ग्रंथों की रूढ़ियों और मूर्ति पूजा को नकारा।",
-        "4. लंगर: समानता और सेवा को बढ़ावा देने के लिए सामुदायिक रसोई (लंगर) की परंपरा स्थापित की।",
-        "5. ईमानदारी का जीवन: 'कीरत करो' (ईमानदारी की कमाई) और 'वंड छको' (दूसरों के साथ साझा करना) की वकालत की।",
-        "6. उत्तराधिकार: उन्होंने एक उत्तराधिकारी (गुरु अंगद) नियुक्त किया, जिससे एक ऐसी परंपरा शुरू हुई जो आदि ग्रंथ साहिब तक पहुँची।"
+        "1. निर्गुण भक्ति: उन्होंने 'नाम-सिमरन' के माध्यम से एक निराकार ईश्वर की उपासना का उपदेश दिया।",
+        "2. समानता: उन्होंने 'संगत' (पवित्र सभा) और 'पंगत' (सामुदायिक रसोई/लंगर) की अवधारणा स्थापित की।",
+        "3. बहिष्कार: उन्होंने हिंदू और मुस्लिम दोनों धर्मग्रंथों और औपचारिक कर्मकांडों के अधिकार को नकार दिया।",
+        "4. व्यावहारिक जीवन: उन्होंने गृहस्थ रहते हुए सादा, ईमानदार और मेहनती जीवन जीने पर जोर दिया।",
+        "5. उत्तराधिकार: उन्होंने अंगद देव को अपना उत्तराधिकारी नियुक्त किया, जिससे सिख समुदाय का गठन हुआ।"
       ]
-    },
-    "app_tip": {
-      "en": "App Feature: Add a 'Key Vocabulary' section for 'Sangat' and 'Pangat' under this chapter.",
-      "hi": "ऐप फीचर: इस चैप्टर के तहत 'संगत' और 'पंगत' के लिए एक 'मुख्य शब्दावली' सेक्शन जोड़ें।"
     }
   },
   {
-    "q_id": 8,
+    "id": 8,
     "question": {
-      "en": "Question 8: Describe Mirabai as a 'Rebel Saint' and her devotion to Krishna.",
-      "hi": "प्रश्न 8: एक 'विद्रोही संत' के रूप में मीराबाई और कृष्ण के प्रति उनकी भक्ति का वर्णन करें।"
+      "en": "Discuss Mirabai as a rebel saint of the Bhakti movement.",
+      "hi": "भक्ति आंदोलन की एक विद्रोही संत के रूप में मीराबाई की चर्चा करें।"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Defiance: Mirabai defied the traditional roles of a princess and wife by refusing to follow courtly rules.",
-        "2. Devotion: She considered Krishna (Girdhar Gopal) as her only husband and divine lover.",
-        "3. Guru: She chose Raidas, a leather-worker (lower caste), as her guru, challenging social norms.",
-        "4. Poetry: She composed numerous 'Bhajans' in Rajasthani and Braj Bhasha that are still popular.",
-        "5. Nomadic Life: She left her palace and wandered as a singer, living among common people.",
-        "6. Legacy: Her life remains a powerful symbol of resistance against patriarchy and casteism."
+        "1. Devotion: A Rajput princess who dedicated her life to the worship of Lord Krishna (Girdhar Gopal).",
+        "2. Defiance: She rejected her role as a wife and queen, refusing to follow traditional royal duties.",
+        "3. Guru Choice: She chose Raidas (a leather-worker) as her guru, challenging caste hierarchies.",
+        "4. Composition: Her bhajans, written in Rajasthani and Gujarati, are famous for their emotional intensity.",
+        "5. Legacy: She is seen as a symbol of female spiritual freedom and resistance against patriarchy."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. विद्रोह: मीराबाई ने दरबारी नियमों को मानने से इनकार कर एक राजकुमारी और पत्नी की पारंपरिक भूमिका को चुनौती दी।",
-        "2. भक्ति: उन्होंने कृष्ण (गिरधर गोपाल) को अपना एकमात्र पति और दिव्य प्रेमी माना।",
-        "3. गुरु: उन्होंने एक चर्मकार (निचली जाति) के संत रैदास को अपना गुरु चुना, जो सामाजिक मानदंडों के खिलाफ था।",
-        "4. कविता: उन्होंने राजस्थानी और ब्रज भाषा में कई 'भजन' रचे जो आज भी बहुत लोकप्रिय हैं।",
-        "5. घुमक्कड़ जीवन: उन्होंने अपना महल छोड़ दिया और एक गायिका के रूप में आम लोगों के बीच रहीं।",
-        "6. विरासत: उनका जीवन आज भी पितृसत्ता और जातिवाद के खिलाफ प्रतिरोध का एक शक्तिशाली प्रतीक है।"
+        "1. भक्ति: एक राजपूत राजकुमारी जिन्होंने अपना जीवन भगवान कृष्ण (गिरधर गोपाल) की पूजा के लिए समर्पित कर दिया।",
+        "2. अवज्ञा: उन्होंने पत्नी और रानी के रूप में अपनी भूमिका को अस्वीकार कर दिया और पारंपरिक शाही कर्तव्यों को नहीं माना।",
+        "3. गुरु का चयन: उन्होंने एक चर्मकार (रैदास) को अपना गुरु चुना, जो जाति पदानुक्रम को एक चुनौती थी।",
+        "4. रचना: राजस्थानी और गुजराती में लिखे उनके भजन अपनी भावनात्मक तीव्रता के लिए प्रसिद्ध हैं।",
+        "5. विरासत: उन्हें महिला आध्यात्मिक स्वतंत्रता और पितृसत्ता के विरुद्ध प्रतिरोध के प्रतीक के रूप में देखा जाता है।"
       ]
-    },
-    "app_tip": {
-      "en": "Design Tip: Use a 'Saffron' color palette for the Mirabai card in Educare to reflect the theme of Bhakti.",
-      "hi": "डिज़ाइन टिप: भक्ति के विषय को दर्शाने के लिए Educare में मीराबाई कार्ड के लिए 'केसरिया' रंग की थीम का उपयोग करें।"
     }
   },
   {
     "q_id": 9,
     "question": {
-      "en": "Question 9: Explain the significance of the Ziyarat and Urs in Sufi tradition.",
-      "hi": "प्रश्न 9: सूफी परंपरा में ज़ियारत और उर्स के महत्व को स्पष्ट करें।"
+      "en": "How did the state interact with Bhakti and Sufi traditions?",
+      "hi": "राज्य ने भक्ति और सूफी परंपराओं के साथ कैसे संवाद किया?"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Ziyarat: Pilgrimage to the tombs of Sufi saints to seek blessings (Barakat).",
-        "2. Urs: The death anniversary of the saint, literally meaning 'marriage'—the union of the soul with God.",
-        "3. Rituals: Includes singing Qawwalis, burning incense, and offering flowers at the tomb.",
-        "4. Social Unity: Millions of people from different religions participate, showing communal unity.",
-        "5. Barakat: It is believed that after death, the saint's spiritual power increases and can help followers.",
-        "6. Ajmer Sharif: The Urs of Khwaja Moinuddin Chishti is one of the biggest such gatherings in India."
+        "1. Patronage: Kings provided massive land grants and funds to build temples and Dargahs.",
+        "2. Legitimacy: By supporting saints, rulers gained religious legitimacy and the support of the common people.",
+        "3. Mughal Stance: Akbar and other Mughal rulers visited Dargahs and showed tolerance towards different sects.",
+        "4. Conflict: Occasionally, there were clashes, such as between the Mughal state and the Sikh Gurus.",
+        "5. Advisory Role: Sufis often acted as spiritual advisers to kings on matters of ethical governance."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. ज़ियारत: आशीर्वाद (बरकत) प्राप्त करने के लिए सूफी संतों की कब्रों की तीर्थयात्रा।",
-        "2. उर्स: संत की पुण्यतिथि, जिसका शाब्दिक अर्थ 'विवाह' है—आत्मा का ईश्वर के साथ मिलन।",
-        "3. अनुष्ठान: इसमें कव्वाली गाना, अगरबत्ती जलाना और कब्र पर फूल चढ़ाना शामिल है।",
-        "4. सामाजिक एकता: विभिन्न धर्मों के लाखों लोग भाग लेते हैं, जो सांप्रदायिक एकता को दर्शाता है।",
-        "5. बरकत: माना जाता है कि मृत्यु के बाद संत की आध्यात्मिक शक्ति बढ़ जाती है और वह अनुयायियों की मदद कर सकता है।",
-        "6. अजमेर शरीफ: ख्वाजा मोइनुद्दीन चिश्ती का उर्स भारत में ऐसे सबसे बड़े आयोजनों में से एक है।"
+        "1. संरक्षण: राजाओं ने मंदिरों और दरगाहों के निर्माण के लिए भारी भूमि अनुदान और धन प्रदान किया।",
+        "2. वैधता: संतों का समर्थन करके, शासकों ने धार्मिक वैधता और आम लोगों का समर्थन हासिल किया।",
+        "3. मुगल रुख: अकबर और अन्य मुगल शासकों ने दरगाहों की यात्रा की और विभिन्न संप्रदायों के प्रति सहिष्णुता दिखाई।",
+        "4. संघर्ष: कभी-कभी टकराव भी हुए, जैसे मुगल राज्य और सिख गुरुओं के बीच।",
+        "5. सलाहकार की भूमिका: सूफी अक्सर नैतिक शासन के मामलों में राजाओं के आध्यात्मिक सलाहकार के रूप में कार्य करते थे।"
       ]
-    },
-    "app_tip": {
-      "en": "Vocab Tip: Remember that 'Urs' means union of the soul with God, not just a festival.",
-      "hi": "शब्द टिप: याद रखें कि 'उर्स' का अर्थ आत्मा का ईश्वर से मिलन है, न कि केवल एक त्यौहार।"
     }
   },
   {
     "q_id": 10,
     "question": {
-      "en": "Question 10: How did the State (Kings) interact with Bhakti and Sufi saints?",
-      "hi": "प्रश्न 10: राज्य (राजाओं) ने भक्ति और सूफी संतों के साथ कैसा व्यवहार किया?"
+      "en": "What are the main sources for reconstructing the history of Bhakti-Sufi traditions?",
+      "hi": "भक्ति-सूफी परंपराओं के इतिहास के पुनर्निर्माण के मुख्य स्रोत क्या हैं?"
     },
     "answer": {
       "en": [
-        "Answer: ",
-        "1. Patronage: Kings provided land grants and funds to build grand temples and Dargahs.",
-        "2. Legitimacy: Kings sought the support of saints to gain religious legitimacy among their subjects.",
-        "3. Akbar and Sufism: Emperor Akbar visited Ajmer Sharif many times and promoted religious tolerance.",
-        "4. Conflict: Sometimes there were conflicts, like Mughal Emperors finding some Gurus or Sufis too influential.",
-        "5. Mutual Respect: Most kings respected saints and consulted them on spiritual and even political matters.",
-        "6. Influence: Saints often advised rulers on ethical governance and justice."
+        "1. Hagiographies: Biographies of saints written by their followers (often containing legendary stories).",
+        "2. Compositions: Devotional poems and songs like Vachanas, Bhajans, and Qawwalis.",
+        "3. Malfuzat: Conversations of Sufi saints recorded by their disciples.",
+        "4. Maktubat: Collections of letters written by Sufi masters to their followers.",
+        "5. Architecture: The structure of temples, Dargahs, and Khanqahs provides spatial context."
       ],
       "hi": [
-        "उत्तर: ",
-        "1. संरक्षण: राजाओं ने भव्य मंदिरों और दरगाहों के निर्माण के लिए भूमि और धन दान दिया।",
-        "2. वैधता: राजाओं ने अपनी प्रजा के बीच धार्मिक वैधता हासिल करने के लिए संतों का समर्थन मांगा।",
-        "3. अकबर और सूफीवाद: सम्राट अकबर ने कई बार अजमेर शरीफ की यात्रा की और धार्मिक सहिष्णुता को बढ़ावा दिया।",
-        "4. संघर्ष: कभी-कभी संघर्ष भी हुए, जैसे कि मुगल सम्राटों ने कुछ गुरुओं या सूफियों को बहुत प्रभावशाली पाया।",
-        "5. आपसी सम्मान: अधिकांश राजा संतों का सम्मान करते थे और आध्यात्मिक व राजनीतिक मामलों में उनसे सलाह लेते थे।",
-        "6. प्रभाव: संतों ने अक्सर शासकों को नैतिक शासन और न्याय पर सलाह दी।"
+        "1. संत जीवनी (Hagiographies): उनके अनुयायियों द्वारा लिखी गई संतों की जीवनियाँ (अक्सर चमत्कारी कहानियों के साथ)।",
+        "2. रचनाएँ: वचनों, भजनों और कव्वालियों जैसी भक्ति कविताएँ और गीत।",
+        "3. मलफूज़ात: शिष्यों द्वारा रिकॉर्ड की गई सूफी संतों की बातचीत।",
+        "4. मकतूबात: सूफी गुरुओं द्वारा अपने अनुयायियों को लिखे गए पत्रों के संग्रह।",
+        "5. वास्तुकला: मंदिरों, दरगाहों और खानकाहों की संरचना उनके प्रसार को समझने में मदद करती है।"
       ]
-    },
-    
+    }
+  }
+]
