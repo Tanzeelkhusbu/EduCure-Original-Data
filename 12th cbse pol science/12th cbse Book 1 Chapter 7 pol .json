@@ -1,0 +1,127 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "What is Globalization? Mention its key dimensions.",
+      "hi": "वैश्वीकरण क्या है? इसके मुख्य आयामों का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: Globalization is the process of rapid integration and interconnection between countries through the flow of ideas, capital, commodities, and people.",
+        "2. Political Dimension: It affects the role of the state, often leading to a reduction in state capacity (welfare functions) while strengthening its core functions like law and order.",
+        "3. Economic Dimension: Involves the increase in global trade, foreign investment, and the dominant role of international institutions like the WTO and IMF.",
+        "4. Cultural Dimension: Leads to 'cultural homogenization' (rise of a uniform global culture) as well as 'cultural heterogenization' (mixing of different cultures).",
+        "5. Technology: Rapid advancements in information technology and communication are the primary drivers of this process.",
+        "6. Multi-dimensional: It is not just an economic phenomenon but a complex process affecting all aspects of human life."
+      ],
+      "hi": [
+        "1. परिभाषा: वैश्वीकरण विचारों, पूँजी, वस्तुओं और लोगों के प्रवाह के माध्यम से देशों के बीच तेज़ी से एकीकरण और परस्पर जुड़ाव की प्रक्रिया है।",
+        "2. राजनीतिक आयाम: यह राज्य की भूमिका को प्रभावित करता है, जिससे अक्सर राज्य की क्षमता (कल्याणकारी कार्य) में कमी आती है जबकि कानून-व्यवस्था जैसे इसके मुख्य कार्य मज़बूत होते हैं।",
+        "3. आर्थिक आयाम: इसमें वैश्विक व्यापार, विदेशी निवेश में वृद्धि और डब्ल्यूटीओ (WTO) व आईएमएफ (IMF) जैसे अंतर्राष्ट्रीय संस्थानों की प्रमुख भूमिका शामिल है।",
+        "4. सांस्कृतिक आयाम: यह 'सांस्कृतिक समरूपता' (एक समान वैश्विक संस्कृति का उदय) और 'सांस्कृतिक विभिन्नता' (विभिन्न संस्कृतियों का मिश्रण) की ओर ले जाता है।",
+        "5. तकनीक: सूचना प्रौद्योगिकी और संचार में तेज़ी से हुई प्रगति इस प्रक्रिया के प्राथमिक चालक हैं।",
+        "6. बहुआयामी: यह केवल एक आर्थिक घटना नहीं है, बल्कि मानव जीवन के सभी पहलुओं को प्रभावित करने वाली एक जटिल प्रक्रिया है।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Discuss the positive and negative economic consequences of globalization.",
+      "hi": "वैश्वीकरण के सकारात्मक और नकारात्मक आर्थिक परिणामों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Positive - Market Access: It opens up global markets for local producers and provides consumers with a wider variety of goods at competitive prices.",
+        "2. Positive - Investment: Increased Foreign Direct Investment (FDI) leads to job creation and better infrastructure in developing countries.",
+        "3. Positive - Growth: Many countries like India and China have seen rapid economic growth by integrating with the world economy.",
+        "4. Negative - Inequality: It often increases the gap between the rich and the poor, both within and between nations.",
+        "5. Negative - Job Insecurity: Small-scale industries may fail to compete with multinational corporations (MNCs), leading to job losses.",
+        "6. Negative - Dependency: Developing nations may become overly dependent on developed countries and international financial bodies."
+      ],
+      "hi": [
+        "1. सकारात्मक - बाज़ार तक पहुँच: यह स्थानीय उत्पादकों के लिए वैश्विक बाज़ार खोलता है और उपभोक्ताओं को प्रतिस्पर्धी कीमतों पर विभिन्न प्रकार की वस्तुएं प्रदान करता है।",
+        "2. सकारात्मक - निवेश: प्रत्यक्ष विदेशी निवेश (FDI) में वृद्धि से विकासशील देशों में रोज़गार सृजन और बेहतर बुनियादी ढांचा तैयार होता है।",
+        "3. सकारात्मक - विकास: भारत और चीन जैसे कई देशों ने विश्व अर्थव्यवस्था के साथ जुड़कर तेज़ी से आर्थिक विकास किया है।",
+        "4. नकारात्मक - असमानता: यह अक्सर अमीर और गरीब के बीच की खाई को बढ़ाता है, चाहे वह देशों के भीतर हो या देशों के बीच।",
+        "5. नकारात्मक - रोज़गार असुरक्षा: लघु उद्योग बहुराष्ट्रीय कंपनियों (MNCs) के साथ प्रतिस्पर्धा करने में विफल हो सकते हैं, जिससे रोज़गार का नुकसान होता है।",
+        "6. नकारात्मक - निर्भरता: विकासशील राष्ट्र विकसित देशों और अंतर्राष्ट्रीय वित्तीय निकायों पर अत्यधिक निर्भर हो सकते हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "What is 'Cultural Homogenization'? How is it different from 'Cultural Heterogenization'?",
+      "hi": "'सांस्कृतिक समरूपता' क्या है? यह 'सांस्कृतिक विभिन्नता' से किस प्रकार भिन्न है?"
+    },
+    "answer": {
+      "en": [
+        "1. Cultural Homogenization: The rise of a uniform global culture, often dominated by Western values and lifestyles (e.g., popularity of Hollywood and McDonald's).",
+        "2. Threat: Critics fear it might lead to the loss of unique local cultures and traditional values.",
+        "3. Cultural Heterogenization: The process where globalization leads to the mixing of cultures, creating new and diverse cultural forms.",
+        "4. Example: Fusion music or the popularity of Indian food in the West shows how cultures enrich each other.",
+        "5. Global Culture: While homogenization makes the world look similar, heterogenization makes it more diverse through interactions.",
+        "6. Resilience: Local cultures often adapt to global influences rather than disappearing completely."
+      ],
+      "hi": [
+        "1. सांस्कृतिक समरूपता: एक समान वैश्विक संस्कृति का उदय, जिस पर अक्सर पश्चिमी मूल्यों और जीवन शैली का दबदबा होता है (जैसे हॉलीवुड और मैकडॉनल्ड्स की लोकप्रियता)।",
+        "2. खतरा: आलोचकों को डर है कि इससे अनूठी स्थानीय संस्कृतियों और पारंपरिक मूल्यों का नुकसान हो सकता है।",
+        "3. सांस्कृतिक विभिन्नता: वह प्रक्रिया जहाँ वैश्वीकरण संस्कृतियों के मिश्रण की ओर ले जाता है, जिससे नए और विविध सांस्कृतिक रूप बनते हैं।",
+        "4. उदाहरण: फ्यूजन संगीत या पश्चिम में भारतीय भोजन की लोकप्रियता दिखाती है कि कैसे संस्कृतियाँ एक-दूसरे को समृद्ध करती हैं।",
+        "5. वैश्विक संस्कृति: जहाँ समरूपता दुनिया को एक जैसा बनाती है, वहीं विभिन्नता बातचीत के माध्यम से इसे और अधिक विविध बनाती है।",
+        "6. लचीलापन: स्थानीय संस्कृतियाँ अक्सर पूरी तरह गायब होने के बजाय वैश्विक प्रभावों के अनुसार खुद को ढाल लेती हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Discuss India's experience with globalization and the 1991 reforms.",
+      "hi": "वैश्वीकरण के साथ भारत के अनुभव और 1991 के सुधारों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Background: Faced with a severe financial crisis in 1991, India adopted the policy of Liberalization, Privatization, and Globalization (LPG).",
+        "2. Open Economy: India opened its doors to foreign investment and removed trade barriers to integrate with the global economy.",
+        "3. Economic Growth: Post-1991, India witnessed high growth rates and emerged as a major hub for IT and services (outsourcing).",
+        "4. Middle Class Expansion: Led to the rise of a large and aspirational middle class with access to global brands and technology.",
+        "5. Challenges: Agriculture lagged behind, and industrial growth was uneven, leading to increased rural-urban disparity.",
+        "6. Soft Power: Globalization has also spread India's cultural influence abroad through Yoga, Bollywood, and its diaspora."
+      ],
+      "hi": [
+        "1. पृष्ठभूमि: 1991 में गंभीर वित्तीय संकट का सामना करते हुए भारत ने उदारीकरण, निजीकरण और वैश्वीकरण (LPG) की नीति अपनाई।",
+        "2. खुली अर्थव्यवस्था: भारत ने वैश्विक अर्थव्यवस्था के साथ जुड़ने के लिए विदेशी निवेश के दरवाज़े खोले और व्यापार बाधाओं को दूर किया।",
+        "3. आर्थिक विकास: 1991 के बाद भारत ने उच्च विकास दर देखी और आईटी व सेवाओं (आउटसोर्सिंग) के लिए एक प्रमुख केंद्र के रूप में उभरा।",
+        "4. मध्यम वर्ग का विस्तार: इसके कारण एक बड़े और महत्वाकांक्षी मध्यम वर्ग का उदय हुआ जिसकी पहुँच वैश्विक ब्रांडों और तकनीक तक हुई।",
+        "5. चुनौतियाँ: कृषि क्षेत्र पिछड़ गया और औद्योगिक विकास असमान रहा, जिससे ग्रामीण-शहरी असमानता बढ़ गई।",
+        "6. सॉफ्ट पावर: वैश्वीकरण ने योग, बॉलीवुड और प्रवासी भारतीयों के माध्यम से विदेशों में भारत के सांस्कृतिक प्रभाव को भी फैलाया है।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Why is globalization resisted? Mention the role of WSF.",
+      "hi": "वैश्वीकरण का विरोध क्यों किया जाता है? WSF की भूमिका का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Economic Reason: Critics argue that globalization benefits only the rich and leads to the exploitation of workers and resources in poor nations.",
+        "2. Political Reason: Fear of losing national sovereignty and the weakening of the state's ability to protect its citizens.",
+        "3. Cultural Reason: Anxiety over the erosion of traditional values and the imposition of a Western 'consumerist' culture.",
+        "4. WSF (World Social Forum): A global platform that brings together activists, NGOs, and workers to protest against 'neo-liberal' globalization.",
+        "5. Alternative Vision: The WSF advocates for 'Another World is Possible'—a world based on social justice, equality, and human rights.",
+        "6. Right-wing Resistance: In some countries, resistance also comes from groups wanting to protect local jobs and industries from foreign competition."
+      ],
+      "hi": [
+        "1. आर्थिक कारण: आलोचकों का तर्क है कि वैश्वीकरण केवल अमीरों को लाभ पहुँचाता है और गरीब देशों के मज़दूरों व संसाधनों के शोषण की ओर ले जाता है।",
+        "2. राजनीतिक कारण: राष्ट्रीय संप्रभुता खोने और अपने नागरिकों की रक्षा करने की राज्य की क्षमता कमज़ोर होने का डर।",
+        "3. सांस्कृतिक कारण: पारंपरिक मूल्यों के क्षरण और पश्चिमी 'उपभोक्तावादी' संस्कृति के थोपे जाने की चिंता।",
+        "4. WSF (वर्ल्ड सोशल फोरम): एक वैश्विक मंच जो 'नव-उदारवादी' वैश्वीकरण के विरोध में कार्यकर्ताओं, एनजीओ और मज़दूरों को एक साथ लाता है।",
+        "5. वैकल्पिक दृष्टिकोण: WSF 'एक और दुनिया मुमकिन है' (Another World is Possible) की वकालत करता है—एक ऐसी दुनिया जो सामाजिक न्याय और समानता पर आधारित हो।",
+        "6. दक्षिणपंथी विरोध: कुछ देशों में विदेशी प्रतिस्पर्धा से स्थानीय नौकरियों और उद्योगों को बचाने के लिए भी विरोध होता है।"
+      ]
+    }
+  }
+]

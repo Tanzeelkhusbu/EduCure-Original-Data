@@ -1,0 +1,152 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Why do we need international organisations? Mention their key functions.",
+      "hi": "हमें अंतर्राष्ट्रीय संगठनों की आवश्यकता क्यों है? उनके मुख्य कार्यों का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Conflict Resolution: They provide a platform to resolve disputes peacefully through dialogue instead of war.",
+        "2. Cooperation: They help countries cooperate on global issues that no single nation can solve alone, like climate change or pandemics.",
+        "3. Setting Rules: They establish international norms, rules, and standards for trade, health, and security.",
+        "4. Information Sharing: They act as a hub for gathering and sharing data and technical expertise among nations.",
+        "5. Support for Small Nations: They give a voice to smaller and developing countries in global decision-making.",
+        "6. Human Rights: They monitor and promote the protection of human rights and provide humanitarian aid during crises."
+      ],
+      "hi": [
+        "1. विवाद समाधान: ये युद्ध के बजाय संवाद के माध्यम से विवादों को शांतिपूर्ण ढंग से सुलझाने के लिए एक मंच प्रदान करते हैं।",
+        "2. सहयोग: ये देशों को उन वैश्विक मुद्दों पर सहयोग करने में मदद करते हैं जिन्हें कोई भी देश अकेले हल नहीं कर सकता, जैसे जलवायु परिवर्तन या महामारियाँ।",
+        "3. नियम बनाना: ये व्यापार, स्वास्थ्य और सुरक्षा के लिए अंतर्राष्ट्रीय मानदंड, नियम और मानक स्थापित करते हैं।",
+        "4. सूचना साझा करना: ये राष्ट्रों के बीच डेटा और तकनीकी विशेषज्ञता इकट्ठा करने और साझा करने के केंद्र के रूप में कार्य करते हैं।",
+        "5. छोटे देशों का समर्थन: ये वैश्विक निर्णय लेने की प्रक्रिया में छोटे और विकासशील देशों को आवाज़ देते हैं।",
+        "6. मानवाधिकार: ये मानवाधिकारों के संरक्षण की निगरानी और प्रचार करते हैं और संकट के दौरान मानवीय सहायता प्रदान करते हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Describe the evolution of the United Nations (UN) and its principal organs.",
+      "hi": "संयुक्त राष्ट्र संघ (UN) के विकास और इसके मुख्य अंगों का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Origin: Established on 24 October 1945 as a successor to the League of Nations after World War II.",
+        "2. General Assembly: The main deliberative organ where all 193 member states have equal representation (one vote each).",
+        "3. Security Council: Responsible for maintaining international peace; has 5 permanent (P5) and 10 non-permanent members.",
+        "4. Secretariat: The administrative arm headed by the Secretary-General, who acts as the UN's chief spokesperson.",
+        "5. International Court of Justice (ICJ): The principal judicial organ located in The Hague, Netherlands.",
+        "6. Economic and Social Council (ECOSOC): Coordinates the economic and social work of the UN and its specialized agencies."
+      ],
+      "hi": [
+        "1. उत्पत्ति: द्वितीय विश्व युद्ध के बाद 'लीग ऑफ नेशंस' के उत्तराधिकारी के रूप में 24 अक्टूबर 1945 को स्थापित किया गया।",
+        "2. महासभा: मुख्य विचार-विमर्श करने वाला अंग जहाँ सभी 193 सदस्य देशों का समान प्रतिनिधित्व है (प्रत्येक का एक वोट)।",
+        "3. सुरक्षा परिषद: अंतर्राष्ट्रीय शांति बनाए रखने के लिए ज़िम्मेदार; इसमें 5 स्थायी (P5) और 10 अस्थायी सदस्य होते हैं।",
+        "4. सचिवालय: प्रशासनिक शाखा जिसका नेतृत्व महासचिव करता है, जो संयुक्त राष्ट्र के मुख्य प्रवक्ता के रूप में कार्य करता है।",
+        "5. अंतर्राष्ट्रीय न्यायालय (ICJ): मुख्य न्यायिक अंग जो नीदरलैंड के हेग में स्थित है।",
+        "6. आर्थिक और सामाजिक परिषद (ECOSOC): यह संयुक्त राष्ट्र और उसकी विशिष्ट एजेंसियों के आर्थिक और सामाजिक कार्यों में तालमेल बिठाती है।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Discuss the demand for reforms in the UN Security Council (UNSC).",
+      "hi": "संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) में सुधारों की मांग की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Representative Structure: Many countries argue that the P5 (USA, Russia, UK, France, China) represents the 1945 world order, not the current global reality.",
+        "2. Expansion: There is a demand to increase both permanent and non-permanent seats to include emerging powers like India, Japan, Germany, and Brazil.",
+        "3. Veto Power: The exclusive 'veto power' of the P5 is criticized for being undemocratic and often paralyzing the Council's action.",
+        "4. Regional Representation: Critics point out the lack of permanent representation from Africa, Latin America, and the Muslim world.",
+        "5. Transparency: There are calls for making the decision-making process more transparent and accountable to the General Assembly.",
+        "6. Criteria for Membership: Debate exists on the criteria for new permanent members (e.g., population, GDP, contribution to UN missions)."
+      ],
+      "hi": [
+        "1. प्रतिनिधि ढांचा: कई देशों का तर्क है कि P5 (अमेरिका, रूस, यूके, फ्रांस, चीन) 1945 की विश्व व्यवस्था का प्रतिनिधित्व करते हैं, न कि वर्तमान वैश्विक वास्तविकता का।",
+        "2. विस्तार: भारत, जापान, जर्मनी और ब्राजील जैसी उभरती शक्तियों को शामिल करने के लिए स्थायी और अस्थायी दोनों सीटों को बढ़ाने की मांग है।",
+        "3. वीटो पावर: P5 की विशेष 'वीटो पावर' की आलोचना की जाती है क्योंकि यह अलोकतांत्रिक है और अक्सर परिषद की कार्रवाई को ठप कर देती है।",
+        "4. क्षेत्रीय प्रतिनिधित्व: आलोचक अफ्रीका, लैटिन अमेरिका और मुस्लिम दुनिया से स्थायी प्रतिनिधित्व की कमी की ओर इशारा करते हैं।",
+        "5. पारदर्शिता: निर्णय लेने की प्रक्रिया को महासभा के प्रति अधिक पारदर्शी और जवाबदेह बनाने की मांग की जा रही है।",
+        "6. सदस्यता के मानदंड: नए स्थायी सदस्यों के मानदंडों पर बहस जारी है (जैसे जनसंख्या, जीडीपी, यूएन मिशनों में योगदान)।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Mention the key functions of IMF, World Bank, and WTO.",
+      "hi": "आईएमएफ, विश्व बैंक और विश्व व्यापार संगठन (WTO) के मुख्य कार्यों का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "1. IMF (International Monetary Fund): Monitors the global financial system and provides short-term loans to countries facing balance of payment crises.",
+        "2. World Bank: Focuses on long-term human development and infrastructure projects by providing loans and grants to developing nations.",
+        "3. WTO (World Trade Organization): Sets the rules for global trade and acts as a forum for negotiating trade agreements and resolving disputes.",
+        "4. Common Goal: All three aim to promote global economic stability and integration, although they are often criticized for favoring Western interests.",
+        "5. Structural Adjustment: They often impose conditions (reforms) on borrowing countries to liberalize their economies.",
+        "6. Global Impact: Their decisions significantly affect the economic policies of nations across the world."
+      ],
+      "hi": [
+        "1. आईएमएफ (अंतर्राष्ट्रीय मुद्रा कोष): वैश्विक वित्तीय प्रणाली की निगरानी करता है और भुगतान संतुलन के संकट का सामना करने वाले देशों को अल्पकालिक ऋण प्रदान करता है।",
+        "2. विश्व बैंक: विकासशील देशों को ऋण और अनुदान प्रदान करके दीर्घकालिक मानव विकास और बुनियादी ढांचा परियोजनाओं पर ध्यान केंद्रित करता है।",
+        "3. विश्व व्यापार संगठन (WTO): वैश्विक व्यापार के नियम तय करता है और व्यापार समझौतों पर बातचीत करने और विवादों को सुलझाने के लिए एक मंच के रूप में कार्य करता है।",
+        "4. साझा लक्ष्य: तीनों का उद्देश्य वैश्विक आर्थिक स्थिरता और एकीकरण को बढ़ावा देना है, हालाँकि अक्सर पश्चिमी हितों का पक्ष लेने के लिए इनकी आलोचना की जाती है।",
+        "5. संरचनात्मक समायोजन: वे अक्सर ऋण लेने वाले देशों पर अपनी अर्थव्यवस्थाओं को उदार बनाने के लिए शर्तें (सुधार) थोपते हैं।",
+        "6. वैश्विक प्रभाव: उनके निर्णय दुनिया भर के राष्ट्रों की आर्थिक नीतियों को महत्वपूर्ण रूप से प्रभावित करते हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "What are the roles of NGOs like Amnesty International and Human Rights Watch?",
+      "hi": "एमनेस्टी इंटरनेशनल और ह्यूमन राइट्स वॉच जैसे एनजीओ (NGO) की क्या भूमिका है?"
+    },
+    "answer": {
+      "en": [
+        "1. Monitoring: They track and document human rights abuses across the world, regardless of the political system.",
+        "2. Reporting: They publish detailed annual reports that highlight violations like torture, arbitrary arrests, and suppression of free speech.",
+        "3. Advocacy: They lobby governments and international bodies to take action against human rights violators.",
+        "4. Public Awareness: They run global campaigns to mobilize public opinion and pressure authorities to protect rights.",
+        "5. Legal Aid: Sometimes they provide support or legal assistance to victims of state oppression.",
+        "6. Independent Voice: As non-governmental bodies, they offer a perspective independent of national interests."
+      ],
+      "hi": [
+        "1. निगरानी: वे राजनीतिक व्यवस्था की परवाह किए बिना दुनिया भर में मानवाधिकारों के हनन पर नज़र रखते हैं और उन्हें दस्तावेज़बद्ध करते हैं।",
+        "2. रिपोर्टिंग: वे विस्तृत वार्षिक रिपोर्ट प्रकाशित करते हैं जो यातना, मनमानी गिरफ्तारी और अभिव्यक्ति की आज़ादी के दमन जैसे उल्लंघनों को उजागर करती हैं।",
+        "3. वकालत (Advocacy): वे मानवाधिकारों का उल्लंघन करने वालों के खिलाफ कार्रवाई करने के लिए सरकारों और अंतर्राष्ट्रीय निकायों पर दबाव डालते हैं।",
+        "4. जन जागरूकता: वे जनमत को संगठित करने और अधिकारों की रक्षा के लिए अधिकारियों पर दबाव बनाने के लिए वैश्विक अभियान चलाते हैं।",
+        "5. कानूनी सहायता: कभी-कभी वे राज्य के उत्पीड़न के शिकार लोगों को सहायता या कानूनी मदद प्रदान करते हैं।",
+        "6. स्वतंत्र आवाज़: गैर-सरकारी निकायों के रूप में, वे राष्ट्रीय हितों से स्वतंत्र दृष्टिकोण प्रदान करते हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Discuss the relationship between the UN and the USA in the unipolar world.",
+      "hi": "एकध्रुवीय विश्व में संयुक्त राष्ट्र और अमेरिका के बीच संबंधों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Dominance: As the sole superpower, the USA has significant influence over the UN due to its military and economic power.",
+        "2. Financial Contribution: The USA is the largest financial contributor to the UN budget, giving it substantial leverage.",
+        "3. Veto Power: The USA frequently uses its veto power in the Security Council to protect its own or its allies' interests.",
+        "4. Location: The UN headquarters is located in New York, giving the USA a physical and psychological advantage.",
+        "5. Unilateralism: Sometimes the USA ignores the UN and acts unilaterally (e.g., the 2003 invasion of Iraq).",
+        "6. Interdependence: Despite tensions, the UN remains the only platform where the USA can seek global legitimacy for its actions."
+      ],
+      "hi": [
+        "1. दबदबा: एकमात्र महाशक्ति के रूप में, अमेरिका अपनी सैन्य और आर्थिक शक्ति के कारण संयुक्त राष्ट्र पर महत्वपूर्ण प्रभाव रखता है।",
+        "2. वित्तीय योगदान: अमेरिका संयुक्त राष्ट्र के बजट में सबसे बड़ा वित्तीय योगदानकर्ता है, जिससे उसे काफी लाभ मिलता है।",
+        "3. वीटो पावर: अमेरिका अक्सर अपने या अपने सहयोगियों के हितों की रक्षा के लिए सुरक्षा परिषद में अपनी वीटो पावर का उपयोग करता है।",
+        "4. स्थान: संयुक्त राष्ट्र का मुख्यालय न्यूयॉर्क में स्थित है, जो अमेरिका को भौतिक और मनोवैज्ञानिक लाभ देता है।",
+        "5. एकपक्षवाद: कभी-कभी अमेरिका संयुक्त राष्ट्र की अनदेखी करता है और एकपक्षीय कार्रवाई करता है (जैसे 2003 में इराक पर आक्रमण)।",
+        "6. परस्पर निर्भरता: तनाव के बावजूद, संयुक्त राष्ट्र ही एकमात्र ऐसा मंच है जहाँ अमेरिका अपने कार्यों के लिए वैश्विक वैधता मांग सकता है।"
+      ]
+    }
+  }
+]

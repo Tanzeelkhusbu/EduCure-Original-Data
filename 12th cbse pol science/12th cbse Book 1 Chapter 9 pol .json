@@ -1,0 +1,202 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Why did the Mughal emperors commission chronicles? Discuss their significance as historical sources.",
+      "hi": "मुगल सम्राटों ने इतिवृत्त (Chronicles) क्यों लिखवाए? ऐतिहासिक स्रोतों के रूप में उनके महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Projection of Power: Chronicles like the Akbarnama were intended to project a vision of an enlightened kingdom and the divine authority of the Mughal Emperor.",
+        "2. Record of Achievements: They served as official records of the emperor's reign, documenting battles, administrative reforms, and diplomatic relations.",
+        "3. Ideological Tool: These texts were used to spread the state's ideology, such as the concept of 'Sulh-i kul' (absolute peace) and religious tolerance.",
+        "4. History for Posterity: The emperors wanted to ensure that future generations would have a favorable and detailed account of their rule and ancestors.",
+        "5. Source of Administration: For modern historians, these chronicles provide invaluable details about the Mughal court, military structure, and land revenue systems.",
+        "6. Artistic Value: Beyond history, they are masterpieces of calligraphy and painting, showcasing the cultural heights of the Mughal era."
+      ],
+      "hi": [
+        "1. शक्ति का प्रदर्शन: अकबरनामा जैसे इतिवृत्तों का उद्देश्य एक प्रबुद्ध साम्राज्य और मुगल सम्राट के दैवीय अधिकार के दृष्टिकोण को प्रस्तुत करना था।",
+        "2. उपलब्धियों का रिकॉर्ड: ये सम्राट के शासनकाल के आधिकारिक रिकॉर्ड के रूप में कार्य करते थे, जिनमें युद्धों, प्रशासनिक सुधारों और राजनयिक संबंधों का दस्तावेजीकरण किया गया था।",
+        "3. वैचारिक उपकरण: इन ग्रंथों का उपयोग राज्य की विचारधारा फैलाने के लिए किया जाता था, जैसे 'सुलह-ए-कुल' (पूर्ण शांति) और धार्मिक सहिष्णुता की अवधारणा।",
+        "4. भावी पीढ़ी के लिए इतिहास: सम्राट यह सुनिश्चित करना चाहते थे कि आने वाली पीढ़ियों के पास उनके शासन और पूर्वजों का एक अनुकूल और विस्तृत विवरण मौजूद हो।",
+        "5. प्रशासन का स्रोत: आधुनिक इतिहासकारों के लिए, ये इतिवृत्त मुगल दरबार, सैन्य ढांचे और भू-राजस्व प्रणालियों के बारे में अमूल्य विवरण प्रदान करते हैं।",
+        "6. कलात्मक मूल्य: इतिहास से परे, ये सुलेख और चित्रकला के उत्कृष्ट नमूने हैं, जो मुगल काल की सांस्कृतिक ऊँचाइयों को प्रदर्शित करते हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Describe the process of manuscript production in the Mughal 'Kitabkhana'.",
+      "hi": "मुगल 'किताबखाना' में पांडुलिपि (Manuscript) निर्माण की प्रक्रिया का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. The Scriptorium: All Mughal manuscripts were handwritten and produced in the imperial Kitabkhana, which was a center for both storage and creation of books.",
+        "2. Division of Labor: The production was a collaborative process involving multiple specialists such as paper makers, calligraphers, painters, and bookbinders.",
+        "3. Paper Making: Skilled workers prepared the folios of paper and polished them to provide a smooth surface for writing and painting.",
+        "4. Calligraphy: Calligraphers like those using the 'Nastaliq' style (Akbar's favorite) copied the text. It was considered an art form requiring great skill.",
+        "5. Painting and Gilding: Painters created miniature illustrations to visualize the text, while gilders used gold leaf to make the pages look grand and royal.",
+        "6. Final Binding: Once completed, the bookbinders gathered the decorated folios and encased them within ornamental covers to preserve the manuscript."
+      ],
+      "hi": [
+        "1. लिपिघर: सभी मुगल पांडुलिपियाँ हस्तलिखित थीं और शाही 'किताबखाना' में तैयार की जाती थीं, जो पुस्तकों के भंडारण और निर्माण दोनों का केंद्र था।",
+        "2. श्रम विभाजन: निर्माण एक सहयोगात्मक प्रक्रिया थी जिसमें कागज़ बनाने वाले, सुलेखक, चित्रकार और जिल्दसाज़ जैसे कई विशेषज्ञ शामिल थे।",
+        "3. कागज़ निर्माण: कुशल मज़दूर कागज़ के पन्नों को तैयार करते थे और उन्हें चमकाते थे ताकि लिखने और चित्रकारी के लिए एक चिकनी सतह मिल सके।",
+        "4. सुलेख (Calligraphy): 'नस्तलीक' शैली (अकबर की पसंदीदा) का उपयोग करने वाले सुलेखक पाठ की नकल करते थे। इसे एक महान कला माना जाता था।",
+        "5. चित्रकारी और कोफ़्तगारी: चित्रकार पाठ को समझने के लिए लघु चित्र बनाते थे, जबकि कोफ़्तगार पन्नों को भव्य और शाही दिखाने के लिए सोने की पत्तियों का उपयोग करते थे।",
+        "6. अंतिम जिल्दसाजी: पूरा होने के बाद, जिल्दसाज़ सजाए गए पन्नों को इकट्ठा करते थे और पांडुलिपि को सुरक्षित रखने के लिए उन्हें अलंकृत कवर में बाँधते थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Why was Persian adopted as the leading language of the Mughal court?",
+      "hi": "मुगल दरबार की प्रमुख भाषा के रूप में फारसी को क्यों अपनाया गया?"
+    },
+    "answer": {
+      "en": [
+        "1. Cultural Status: Persian was seen as a language of elite culture, intellectual depth, and administrative efficiency in the Islamic world.",
+        "2. Political Strategy: Akbar consciously made Persian the leading language to unify his diverse administration and to project a grand imperial identity.",
+        "3. Inclusion of Iranians: Its adoption encouraged many talented Iranians to migrate to India and seek employment in the Mughal court.",
+        "4. Prestige: Mastering Persian became a mark of status; it provided power and prestige to the nobility, regardless of their ethnic background.",
+        "5. Translation Work: Major Sanskrit works like the Mahabharata (translated as Razmnama) and Ramayana were translated into Persian to make them accessible to the elite.",
+        "6. Development of Urdu: The constant interaction between Persian and local Indian languages like Hindavi eventually led to the birth of Urdu."
+      ],
+      "hi": [
+        "1. सांस्कृतिक स्थिति: फारसी को इस्लामी दुनिया में कुलीन संस्कृति, बौद्धिक गहराई और प्रशासनिक दक्षता की भाषा के रूप में देखा जाता था।",
+        "2. राजनीतिक रणनीति: अकबर ने अपने विविध प्रशासन को एकजुट करने और एक भव्य शाही पहचान बनाने के लिए सचेत रूप से फारसी को प्रमुख भाषा बनाया।",
+        "3. ईरानियों का समावेश: इसे अपनाने से कई प्रतिभाशाली ईरानियों को भारत आने और मुगल दरबार में नौकरी पाने के लिए प्रोत्साहन मिला।",
+        "4. प्रतिष्ठा: फारसी में महारत हासिल करना रुतबे की पहचान बन गया; इसने अभिजात वर्ग को, उनकी जातीय पृष्ठभूमि की परवाह किए बिना, शक्ति और सम्मान दिया।",
+        "5. अनुवाद कार्य: महाभारत (रज़्मनामा के रूप में अनुवादित) और रामायण जैसे प्रमुख संस्कृत ग्रंथों का फारसी में अनुवाद किया गया ताकि कुलीन वर्ग उन्हें पढ़ सके।",
+        "6. उर्दू का विकास: फारसी और हिंदवी जैसी स्थानीय भारतीय भाषाओं के बीच निरंतर संवाद के कारण अंततः उर्दू भाषा का जन्म हुआ।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Explain the Mughal concept of 'Sulh-i kul' and its implementation in administration.",
+      "hi": "मुगल अवधारणा 'सुलह-ए-कुल' की व्याख्या करें और प्रशासन में इसके कार्यान्वयन को स्पष्ट करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Absolute Peace: 'Sulh-i kul' means 'absolute peace'. It was a cornerstone of Mughal religious policy, emphasizing harmony among all communities.",
+        "2. Secular Approach: In this system, all religions and schools of thought had freedom of expression, provided they did not undermine the state or fight among themselves.",
+        "3. Role of the Emperor: The emperor was seen as the supreme arbiter who stood above all religious divisions to maintain social order.",
+        "4. Abolition of Discriminatory Taxes: To implement this ideal, Akbar abolished the pilgrimage tax in 1563 and the Jizya tax on non-Muslims in 1564.",
+        "5. Diverse Nobility: The administration included Rajputs, Iranians, and Indian Muslims, reflecting the inclusive nature of 'Sulh-i kul'.",
+        "6. Impact: This policy helped the Mughals gain the loyalty of their diverse subjects and provided stability to the vast empire for centuries."
+      ],
+      "hi": [
+        "1. पूर्ण शांति: 'सुलह-ए-कुल' का अर्थ है 'पूर्ण शांति'। यह मुगल धार्मिक नीति का आधार था, जो सभी समुदायों के बीच सद्भाव पर जोर देता था।",
+        "2. धर्मनिरपेक्ष दृष्टिकोण: इस व्यवस्था में, सभी धर्मों और विचारधाराओं को अभिव्यक्ति की स्वतंत्रता थी, बशर्ते वे राज्य को कमज़ोर न करें या आपस में न लड़ें।",
+        "3. सम्राट की भूमिका: सम्राट को एक सर्वोच्च मध्यस्थ के रूप में देखा जाता था जो सामाजिक व्यवस्था बनाए रखने के लिए सभी धार्मिक विभाजनों से ऊपर खड़ा था।",
+        "4. भेदभावपूर्ण करों की समाप्ति: इस आदर्श को लागू करने के लिए, अकबर ने 1563 में तीर्थयात्रा कर और 1564 में गैर-मुसलमानों पर लगने वाले जजिया कर को समाप्त कर दिया।",
+        "5. विविध अभिजात वर्ग: प्रशासन में राजपूत, ईरानी और भारतीय मुसलमान शामिल थे, जो 'सुलह-ए-कुल' की समावेशी प्रकृति को दर्शाता है।",
+        "6. प्रभाव: इस नीति ने मुगलों को अपनी विविध प्रजा की वफादारी हासिल करने में मदद की और सदियों तक विशाल साम्राज्य को स्थिरता प्रदान की।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Analyze the rituals and hierarchy of the Mughal Imperial Court.",
+      "hi": "मुगल शाही दरबार के अनुष्ठानों और पदानुक्रम का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. The Axis of Power: The emperor's throne (takht) was the physical center of the court, symbolizing the axis of the entire world.",
+        "2. Forms of Salutation: High-status rituals like 'Sijda' (prostration) and 'Zaminbos' (kissing the ground) were mandatory to show respect to the ruler.",
+        "3. Jharokha Darshan: Started by Akbar, the emperor appeared at a balcony at sunrise to meet the public, making the ruler more accessible and divine in people's eyes.",
+        "4. Diwan-i Aam and Khas: The Diwan-i Aam was for public petitions, while the Diwan-i Khas was for confidential meetings with top ministers and nobles.",
+        "5. Status Indicators: A person’s social standing was determined by their proximity to the throne; sitting closer to the emperor indicated higher rank.",
+        "6. Gifts and Titles: The exchange of gifts (Peshkash) and the granting of titles were crucial rituals that reinforced the bond between the king and his nobles."
+      ],
+      "hi": [
+        "1. सत्ता की धुरी: सम्राट का सिंहासन (तख्त) दरबार का भौतिक केंद्र था, जो पूरी दुनिया की धुरी का प्रतीक माना जाता था।",
+        "2. अभिवादन के तरीके: शासक के प्रति सम्मान दिखाने के लिए 'सिजदा' (दंडवत) और 'ज़मीनबोस' (ज़मीन चूमना) जैसे उच्च-स्तरीय अनुष्ठान अनिवार्य थे।",
+        "3. झरोखा दर्शन: अकबर द्वारा शुरू किया गया, सम्राट सूर्योदय के समय जनता से मिलने के लिए एक बालकनी पर आते थे, जिससे शासक लोगों की नज़र में अधिक सुलभ और दैवीय बन जाता था।",
+        "4. दीवान-ए-आम और खास: दीवान-ए-आम सार्वजनिक याचिकाओं के लिए था, जबकि दीवान-ए-खास शीर्ष मंत्रियों और अमीरों के साथ गोपनीय बैठकों के लिए था।",
+        "5. स्थिति के संकेतक: किसी व्यक्ति का सामाजिक स्तर सिंहासन से उसकी निकटता से निर्धारित होता था; सम्राट के करीब बैठने का अर्थ उच्च पद था।",
+        "6. उपहार और उपाधियाँ: उपहारों (पेशकश) का आदान-प्रदान और उपाधियाँ प्रदान करना महत्वपूर्ण अनुष्ठान थे जो राजा और उसके अमीरों के बीच के बंधन को मज़बूत करते थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Discuss the Mansabdari system as the administrative backbone of the Mughal Empire.",
+      "hi": "मुगल साम्राज्य की प्रशासनिक रीढ़ के रूप में मनसबदारी प्रणाली की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: Mansabdari was a unique military and civil administrative system where 'Mansab' denoted a rank or position in the official hierarchy.",
+        "2. Dual Rank: Each officer held a dual rank—'Zat', which determined their personal status and salary, and 'Sawar', which fixed the number of cavalrymen they had to maintain.",
+        "3. Diverse Nobility: The system integrated people from various ethnic backgrounds like Rajputs, Marathas, Turanis, and Iranians into a single service.",
+        "4. Military Duty: Mansabdars were required to bring their contingents for review and brand their horses (Dagh) to prevent fraud.",
+        "5. Mode of Payment: Most were paid through land grants called 'Jagirs', while some received cash (Naqd). They collected revenue from these lands as their salary.",
+        "6. Non-Hereditary: The positions were not hereditary; the emperor had the power to appoint, promote, or dismiss any Mansabdar based on performance."
+      ],
+      "hi": [
+        "1. परिभाषा: मनसबदारी एक अनूठी सैन्य और नागरिक प्रशासनिक प्रणाली थी जहाँ 'मनसब' आधिकारिक पदानुक्रम में एक रैंक या पद को दर्शाता था।",
+        "2. दोहरा पद: प्रत्येक अधिकारी के पास दोहरा पद होता था—'ज़ात', जो उनकी व्यक्तिगत स्थिति और वेतन निर्धारित करता था, और 'सवार', जो उनके द्वारा रखे जाने वाले घुड़सवारों की संख्या तय करता था।",
+        "3. विविध अभिजात वर्ग: इस प्रणाली ने राजपूतों, मराठों, तूरानियों और ईरानियों जैसे विभिन्न जातीय पृष्ठभूमि के लोगों को एक ही सेवा में एकीकृत किया।",
+        "4. सैन्य कर्तव्य: मनसबदारों को समीक्षा के लिए अपनी टुकड़ियाँ लानी पड़ती थीं और धोखाधड़ी रोकने के लिए अपने घोड़ों को दागना (दाग प्रथा) अनिवार्य था।",
+        "5. भुगतान का तरीका: अधिकांश को 'जागीर' नामक भूमि अनुदान के माध्यम से भुगतान किया जाता था, जबकि कुछ को नकद (नक्द) मिलता था। वे अपनी जागीरों से वेतन के रूप में राजस्व वसूलते थे।",
+        "6. गैर-वंशानुगत: ये पद वंशानुगत नहीं थे; सम्राट के पास प्रदर्शन के आधार पर किसी भी मनसबदार को नियुक्त करने, पदोन्नत करने या बर्खास्त करने की शक्ति थी।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Examine the social structure and political influence of the Mughal Harem (Imperial Household).",
+      "hi": "मुगल हरम (शाही परिवार) की सामाजिक संरचना और राजनीतिक प्रभाव का परीक्षण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: The term 'harem' refers to the domestic world of the Mughals, consisting of the emperor's wives, concubines, relatives, and female servants.",
+        "2. Internal Hierarchy: There was a clear distinction between 'Begums' (noble birth wives) and 'Aghas' (other wives) based on their background and dower (mahr).",
+        "3. Financial Power: Senior women like Nur Jahan and Jahanara controlled vast resources, held their own jagirs, and even participated in maritime trade.",
+        "4. Political Role: Women played crucial roles in resolving court conflicts and influencing royal successions through diplomacy and advice.",
+        "5. Gulbadan Begum: She authored the 'Humayun Nama', which provides a rare insider's view of the domestic life and tensions within the royal family.",
+        "6. Administration of Harem: The household was managed by female officers and eunuchs (Khwajasaras) who ensured its security and orderly functioning."
+      ],
+      "hi": [
+        "1. परिभाषा: 'हरम' शब्द मुगलों की घरेलू दुनिया को संदर्भित करता है, जिसमें सम्राट की पत्नियाँ, उप-पत्नियाँ, रिश्तेदार और महिला नौकर शामिल थे।",
+        "2. आंतरिक पदानुक्रम: उनकी पृष्ठभूमि और मेहर (दहेज) के आधार पर 'बेगम' (कुलीन जन्म वाली पत्नियाँ) और 'अगा' (अन्य पत्नियाँ) के बीच स्पष्ट अंतर था।",
+        "3. वित्तीय शक्ति: नूरजहाँ और जहाँआरा जैसी वरिष्ठ महिलाओं ने विशाल संसाधनों को नियंत्रित किया, उनकी अपनी जागीरें थीं और उन्होंने समुद्री व्यापार में भी भाग लिया।",
+        "4. राजनीतिक भूमिका: महिलाओं ने कूटनीति और सलाह के माध्यम से दरबारी संघर्षों को सुलझाने और शाही उत्तराधिकार को प्रभावित करने में महत्वपूर्ण भूमिका निभाई।",
+        "5. गुलबदन बेगम: उन्होंने 'हुमायूँनामा' लिखा, जो शाही परिवार के भीतर के घरेलू जीवन और तनावों की एक दुर्लभ अंदरूनी जानकारी प्रदान करता है।",
+        "6. हरम का प्रशासन: परिवार का प्रबंधन महिला अधिकारियों और हिजड़ों (ख्वाजासराओं) द्वारा किया जाता था जो इसकी सुरक्षा और सुचारू कामकाज सुनिश्चित करते थे।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Describe the provincial and local administration system under the Mughals.",
+      "hi": "मुगलों के अधीन प्रांतीय और स्थानीय प्रशासन व्यवस्था का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Division of Empire: The vast empire was divided into provinces called 'Subas', which were the primary units of administration.",
+        "2. Provincial Officers: Each Suba was headed by a 'Subadar' (governor) for law and order, and a 'Diwan' for financial and revenue matters.",
+        "3. Checks and Balances: The Subadar and Diwan worked independently but reported to the center, ensuring that no single officer became too powerful.",
+        "4. Sub-divisions: Subas were further divided into 'Sarkars' (districts) and then into 'Parganas' (sub-districts).",
+        "5. Local Administration: At the pargana level, officials like the 'Qanungo' (records keeper), 'Chaudhuri' (revenue collector), and 'Qazi' (judge) managed affairs.",
+        "6. Uniformity: The Mughals ensured a uniform administrative structure across most parts of the empire, facilitated by the use of Persian as the official language."
+      ],
+      "hi": [
+        "1. साम्राज्य का विभाजन: विशाल साम्राज्य को 'सूबों' नामक प्रांतों में विभाजित किया गया था, जो प्रशासन की प्राथमिक इकाइयाँ थे।",
+        "2. प्रांतीय अधिकारी: प्रत्येक सूबे का नेतृत्व कानून-व्यवस्था के लिए 'सूबेदार' (राज्यपाल) और वित्तीय व राजस्व मामलों के लिए 'दीवान' द्वारा किया जाता था।",
+        "3. नियंत्रण और संतुलन: सूबेदार और दीवान स्वतंत्र रूप से काम करते थे लेकिन केंद्र को रिपोर्ट करते थे, जिससे यह सुनिश्चित होता था कि कोई भी अधिकारी बहुत शक्तिशाली न हो जाए।",
+        "4. उप-विभाजन: सूबों को आगे 'सरकारों' (ज़िलों) और फिर 'परगना' (उप-ज़िलों) में विभाजित किया गया था।",
+        "5. स्थानीय प्रशासन: परगना स्तर पर 'कानूनगो' (रिकॉर्ड कीपर), 'चौधरी' (राजस्व वसूलने वाला) और 'काजी' (न्यायाधीश) जैसे अधिकारी मामलों का प्रबंधन करते थे।",
+        "6. एकरूपता: मुगलों ने साम्राज्य के अधिकांश हिस्सों में एक समान प्रशासनिक ढांचा सुनिश्चित किया, जिसमें फारसी के आधिकारिक भाषा के रूप में उपयोग ने सहायता की।"
+      ]
+    }
+  }
+]

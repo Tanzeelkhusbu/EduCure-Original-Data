@@ -1,0 +1,117 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "What is meant by 'Global Commons'? Give examples.",
+      "hi": "'साझी संपदा' (Global Commons) से क्या अभिप्राय है? उदाहरण दें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: Areas or resources that are not owned by any single nation but are shared by the entire international community.",
+        "2. Examples: The Earth's atmosphere, Antarctica, the ocean floor, and outer space.",
+        "3. Management: These are managed through international treaties like the Antarctic Treaty (1959) and the Montreal Protocol (1987).",
+        "4. Challenge: The main problem is the 'tragedy of the commons', where individual nations over-exploit resources for their own gain.",
+        "5. Pollution: Activities like carbon emissions and space debris threaten the health of these global resources."
+      ],
+      "hi": [
+        "1. परिभाषा: वे क्षेत्र या संसाधन जिन पर किसी एक देश का अधिकार नहीं होता, बल्कि संपूर्ण अंतर्राष्ट्रीय समुदाय का साझा अधिकार होता है।",
+        "2. उदाहरण: पृथ्वी का वायुमंडल, अंटार्कटिका, समुद्री सतह और बाहरी अंतरिक्ष।",
+        "3. प्रबंधन: इनका प्रबंधन अंटार्कटिक संधि (1959) और मॉन्ट्रियल प्रोटोकॉल (1987) जैसी अंतर्राष्ट्रीय संधियों के माध्यम से किया जाता है।",
+        "4. चुनौती: मुख्य समस्या 'साझी संपदा की त्रासदी' है, जहाँ व्यक्तिगत राष्ट्र अपने लाभ के लिए संसाधनों का अत्यधिक दोहन करते हैं।",
+        "5. प्रदूषण: कार्बन उत्सर्जन और अंतरिक्ष कचरे जैसी गतिविधियाँ इन वैश्विक संसाधनों के लिए खतरा पैदा करती हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Explain the concept of 'Common but Differentiated Responsibilities' (CBDR).",
+      "hi": "'साझी परंतु अलग-अलग ज़िम्मेदारियाँ' (CBDR) की अवधारणा की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Core Idea: All states are responsible for environmental protection, but their share of responsibility differs based on their contribution to pollution.",
+        "2. Developed Nations: As they have caused more historical pollution through industrialization, they should take more burden (funds/tech).",
+        "3. Developing Nations: Countries like India and China argue that their priority is poverty alleviation and economic growth, so they need more time.",
+        "4. Rio Declaration: This principle was formally accepted at the Earth Summit in Rio de Janeiro (1992).",
+        "5. Justice: The concept is based on environmental justice and the principle that the 'polluter pays'."
+      ],
+      "hi": [
+        "1. मूल विचार: पर्यावरण संरक्षण के लिए सभी राज्य ज़िम्मेदार हैं, लेकिन प्रदूषण में उनके योगदान के आधार पर उनकी ज़िम्मेदारी का हिस्सा अलग-अलग है।",
+        "2. विकसित राष्ट्र: चूंकि उन्होंने औद्योगीकरण के माध्यम से अधिक ऐतिहासिक प्रदूषण फैलाया है, इसलिए उन्हें अधिक वित्तीय और तकनीकी बोझ उठाना चाहिए।",
+        "3. विकासशील राष्ट्र: भारत और चीन जैसे देशों का तर्क है कि उनकी प्राथमिकता विकास है, इसलिए उन्हें उत्सर्जन कम करने के लिए रियायत मिलनी चाहिए।",
+        "4. रियो घोषणा: इस सिद्धांत को 1992 के 'पृथ्वी सम्मेलन' में औपचारिक रूप से स्वीकार किया गया था।",
+        "5. न्याय: यह अवधारणा 'प्रदूषण फैलाने वाला भुगतान करे' (polluter pays) के सिद्धांत पर आधारित है।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Discuss the significance of the 1992 Earth Summit (Rio Summit).",
+      "hi": "1992 के पृथ्वी सम्मेलन (रियो शिखर सम्मेलन) के महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Background: Officially known as the UN Conference on Environment and Development (UNCED), held in Brazil with over 170 countries.",
+        "2. Agenda 21: A comprehensive plan of action for sustainable development in the 21st century was adopted.",
+        "3. Focus Shift: It moved the global focus from just 'pollution' to 'sustainable development'—balancing growth and environment.",
+        "4. Key Conventions: Led to major agreements on climate change, biodiversity, and forestry (UNFCCC).",
+        "5. Awareness: It successfully made environment a mainstream political issue for world leaders."
+      ],
+      "hi": [
+        "1. पृष्ठभूमि: आधिकारिक तौर पर पर्यावरण और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCED) के रूप में जाना जाता है, जो ब्राजील में हुआ।",
+        "2. एजेंडा 21: 21वीं सदी में सतत विकास के लिए कार्रवाई की एक व्यापक योजना को अपनाया गया।",
+        "3. परिवर्तन: इसने वैश्विक ध्यान केवल 'प्रदूषण' से हटाकर 'सतत विकास' पर केंद्रित किया।",
+        "4. मुख्य सम्मेलन: जलवायु परिवर्तन, जैव विविधता और वानिकी (UNFCCC) पर प्रमुख समझौतों का मार्ग प्रशस्त किया।",
+        "5. जागरूकता: इसने पर्यावरण को विश्व नेताओं के लिए एक मुख्यधारा का राजनीतिक मुद्दा बना दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "What is the Kyoto Protocol? Mention its importance.",
+      "hi": "क्योटो प्रोटोकॉल क्या है? इसके महत्व का उल्लेख करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: An international agreement signed in Kyoto, Japan (1997) to reduce greenhouse gas emissions.",
+        "2. Target: It set legally binding targets for developed countries to cut down gases like Carbon dioxide.",
+        "3. Aim: To combat global warming by slowing down the rise in global temperatures.",
+        "4. India's Entry: India signed and ratified the Kyoto Protocol in August 2002.",
+        "5. Legacy: It laid the foundation for future climate deals like the Paris Agreement."
+      ],
+      "hi": [
+        "1. परिभाषा: ग्रीनहाउस गैस उत्सर्जन को कम करने के लिए जापान के क्योटो (1997) में हस्ताक्षरित एक अंतर्राष्ट्रीय समझौता।",
+        "2. लक्ष्य: इसने विकसित देशों के लिए कार्बन डाइऑक्साइड जैसी गैसों में कटौती करने के लिए कानूनी रूप से बाध्यकारी लक्ष्य तय किए।",
+        "3. उद्देश्य: ग्लोबल वार्मिंग का मुकाबला करना और वैश्विक तापमान में वृद्धि को धीमा करना।",
+        "4. भारत का प्रवेश: भारत ने अगस्त 2002 में क्योटो प्रोटोकॉल पर हस्ताक्षर किए।",
+        "5. विरासत: इसने पेरिस समझौते जैसे भविष्य के जलवायु समझौतों की नींव रखी।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Describe India's efforts on environmental issues.",
+      "hi": "पर्यावरणीय मुद्दों पर भारत के प्रयासों का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. National Action Plan: Launched the National Action Plan on Climate Change (NAPCC) with 8 national missions.",
+        "2. Renewable Energy: India has set ambitious goals for solar and wind energy (International Solar Alliance).",
+        "3. Policy Support: India strongly advocates for the principle of CBDR in global climate negotiations.",
+        "4. Forest Cover: Initiatives like 'Green India Mission' aim to increase the forest cover to absorb carbon.",
+        "5. Global Leader: India is now seen as a leading voice for the 'Global South' in climate matters."
+      ],
+      "hi": [
+        "1. राष्ट्रीय कार्य योजना: जलवायु परिवर्तन पर राष्ट्रीय कार्य योजना (NAPCC) शुरू की, जिसमें 8 मिशन शामिल हैं।",
+        "2. नवीकरणीय ऊर्जा: सौर और पवन ऊर्जा के लिए महत्वाकांक्षी लक्ष्य निर्धारित किए (जैसे अंतर्राष्ट्रीय सौर गठबंधन)।",
+        "3. नीतिगत समर्थन: भारत वैश्विक जलवायु वार्ता में 'साझी परंतु अलग-अलग ज़िम्मेदारियाँ' के सिद्धांत की वकालत करता है।",
+        "4. वन आवरण: 'ग्रीन इंडिया मिशन' जैसी पहलों का उद्देश्य कार्बन सोखने के लिए वन क्षेत्र को बढ़ाना है।",
+        "5. वैश्विक नेता: भारत अब जलवायु मामलों में 'ग्लोबल साउथ' की एक प्रमुख आवाज़ बन गया है।"
+      ]
+    }
+  }
+]
