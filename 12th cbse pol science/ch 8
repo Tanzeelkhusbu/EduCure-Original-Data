@@ -1,0 +1,191 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Analyze the five major developments that shaped Indian politics since 1989.",
+      "hi": "1989 के बाद से भारतीय राजनीति को आकार देने वाले पाँच मुख्य घटनाक्रमों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. End of the Congress System: The 1989 elections marked the end of Congress dominance, as no single party was able to secure a majority in the Lok Sabha thereafter.",
+        "2. Rise of the Mandal Issue: The implementation of the Mandal Commission report led to 27% reservation for OBCs, sparking massive protests and shifting politics toward caste identity.",
+        "3. New Economic Reforms: In 1991, India moved away from a state-controlled economy to Liberalization, Privatization, and Globalization (LPG), changing the country's economic direction.",
+        "4. Rise of Hindutva and Ayodhya Dispute: The Rath Yatra led by L.K. Advani and the demolition of Babri Masjid in 1992 brought religious identity to the center-stage of national politics.",
+        "5. Era of Coalitions: Since 1989, regional parties became 'kingmakers', and national governments were formed through alliances like the United Front, NDA, and UPA.",
+        "6. Assassination of Rajiv Gandhi: In 1991, the assassination of Rajiv Gandhi by the LTTE led to a leadership change in Congress and influenced the party's future political strategy.",
+        "7. Political Consensus: Despite ideological differences, a broad consensus emerged among all parties on issues like economic reforms and the rise of regional aspirations."
+      ],
+      "hi": [
+        "1. कांग्रेस प्रणाली का अंत: 1989 के चुनावों ने कांग्रेस के वर्चस्व के अंत को चिह्नित किया, क्योंकि इसके बाद कोई भी एकल पार्टी लोकसभा में बहुमत हासिल करने में सक्षम नहीं थी।",
+        "2. मंडल मुद्दे का उदय: मंडल आयोग की रिपोर्ट के कार्यान्वयन से ओबीसी के लिए 27% आरक्षण हुआ, जिससे व्यापक विरोध प्रदर्शन हुए और राजनीति जातिगत पहचान की ओर मुड़ गई।",
+        "3. नए आर्थिक सुधार: 1991 में, भारत राज्य-नियंत्रित अर्थव्यवस्था से हटकर उदारीकरण, निजीकरण और वैश्वीकरण (LPG) की ओर बढ़ा, जिससे देश की आर्थिक दिशा बदल गई।",
+        "4. हिंदुत्व का उदय और अयोध्या विवाद: एल.के. आडवाणी के नेतृत्व वाली रथ यात्रा और 1992 में बाबरी मस्जिद के विध्वंस ने धार्मिक पहचान को राष्ट्रीय राजनीति के केंद्र में ला दिया।",
+        "5. गठबंधन का युग: 1989 से क्षेत्रीय दल 'किंगमेकर' बन गए, और राष्ट्रीय सरकारों का गठन संयुक्त मोर्चा, एनडीए (NDA) और यूपीए (UPA) जैसे गठबंधनों के माध्यम से हुआ।",
+        "6. राजीव गांधी की हत्या: 1991 में लिट्टे (LTTE) द्वारा राजीव गांधी की हत्या से कांग्रेस में नेतृत्व परिवर्तन हुआ और पार्टी की भविष्य की राजनीतिक रणनीति प्रभावित हुई।",
+        "7. राजनीतिक आम सहमति: वैचारिक मतभेदों के बावजूद, आर्थिक सुधारों और क्षेत्रीय आकांक्षाओं के उदय जैसे मुद्दों पर सभी दलों के बीच एक व्यापक सहमति बनी।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "What was the 'Mandal Issue'? Discuss its impact on the political landscape of India.",
+      "hi": "'मंडल मुद्दा' क्या था? भारत के राजनीतिक परिदृश्य पर इसके प्रभाव की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Context: The Mandal Commission was set up in 1978 to identify socially and educationally backward classes and suggest ways to improve their condition.",
+        "2. Recommendation: The commission recommended 27% reservation for Other Backward Classes (OBCs) in central government jobs and educational institutions.",
+        "3. Implementation: In 1990, the V.P. Singh-led National Front government decided to implement these recommendations, leading to violent anti-reservation protests.",
+        "4. Identity Politics: It shifted the focus of Indian politics from class or ideology to caste-based identity, empowering middle and lower castes.",
+        "5. Rise of Regional Leaders: This period saw the emergence of powerful OBC leaders like Mulayam Singh Yadav and Lalu Prasad Yadav in North Indian politics.",
+        "6. Supreme Court's Role: In the Indra Sawhney case (1992), the court upheld the reservation but introduced the 'Creamy Layer' to exclude the wealthy among OBCs.",
+        "7. Long-term Impact: Reservation for OBCs became a settled political reality, and almost all national parties now seek the support of these communities."
+      ],
+      "hi": [
+        "1. संदर्भ: मंडल आयोग का गठन 1978 में सामाजिक और शैक्षिक रूप से पिछड़े वर्गों की पहचान करने और उनकी स्थिति सुधारने के उपाय सुझाने के लिए किया गया था।",
+        "2. सिफारिश: आयोग ने केंद्र सरकार की नौकरियों और शैक्षणिक संस्थानों में अन्य पिछड़ा वर्ग (OBC) के लिए 27% आरक्षण की सिफारिश की।",
+        "3. कार्यान्वयन: 1990 में, वी.पी. सिंह के नेतृत्व वाली राष्ट्रीय मोर्चा सरकार ने इन सिफारिशों को लागू करने का निर्णय लिया, जिससे हिंसक आरक्षण-विरोधी प्रदर्शन हुए।",
+        "4. पहचान की राजनीति: इसने भारतीय राजनीति के केंद्र को वर्ग या विचारधारा से हटाकर जाति-आधारित पहचान पर स्थानांतरित कर दिया, जिससे मध्यम और निचली जातियों को मज़बूती मिली।",
+        "5. क्षेत्रीय नेताओं का उदय: इस अवधि में उत्तर भारतीय राजनीति में मुलायम सिंह यादव और लालू प्रसाद यादव जैसे शक्तिशाली ओबीसी नेताओं का उदय हुआ।",
+        "6. सुप्रीम कोर्ट की भूमिका: इंदिरा साहनी मामले (1992) में, अदालत ने आरक्षण को बरकरार रखा लेकिन ओबीसी के बीच संपन्न लोगों को बाहर करने के लिए 'क्रीमी लेयर' की शुरुआत की।",
+        "7. दीर्घकालिक प्रभाव: ओबीसी के लिए आरक्षण एक स्थापित राजनीतिक वास्तविकता बन गया, और अब लगभग सभी राष्ट्रीय दल इन समुदायों का समर्थन चाहते हैं।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Explain the characteristics of the 'Era of Coalitions' in India from 1989 to 2014.",
+      "hi": "1989 से 2014 तक भारत में 'गठबंधन युग' की विशेषताओं की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Minority Governments: Many governments during this period lacked a single-party majority and relied on outside support from regional parties.",
+        "2. Rise of Regional Parties: Parties like DMK, TDP, RJD, and BSP became crucial players, representing regional aspirations at the national level.",
+        "3. Ideological Flexibility: National parties like BJP and Congress had to compromise on their core ideologies to keep their allies happy.",
+        "4. Consensus Building: Governance became a process of continuous negotiation and building consensus among various alliance partners.",
+        "5. Vulnerability: Coalition governments were often unstable and faced the threat of collapse if any minor ally withdrew support.",
+        "6. Multi-polar Competition: The political competition shifted from Congress vs. Others to competition between two large alliances—NDA and UPA.",
+        "7. Impact on Federalism: Regional leaders gained more say in national decision-making, strengthening the federal character of Indian democracy."
+      ],
+      "hi": [
+        "1. अल्पसंख्यक सरकारें: इस अवधि के दौरान कई सरकारों के पास एकल-पार्टी बहुमत की कमी थी और वे क्षेत्रीय दलों के बाहरी समर्थन पर निर्भर थीं।",
+        "2. क्षेत्रीय दलों का उदय: डीएमके, टीडीपी, राजद और बसपा जैसे दल राष्ट्रीय स्तर पर क्षेत्रीय आकांक्षाओं का प्रतिनिधित्व करने वाले महत्वपूर्ण खिलाड़ी बन गए।",
+        "3. वैचारिक लचीलापन: भाजपा और कांग्रेस जैसे राष्ट्रीय दलों को अपने सहयोगियों को खुश रखने के लिए अपनी मुख्य विचारधाराओं के साथ समझौता करना पड़ा।",
+        "4. आम सहमति बनाना: शासन विभिन्न गठबंधन सहयोगियों के बीच निरंतर बातचीत और आम सहमति बनाने की एक प्रक्रिया बन गया।",
+        "5. अस्थिरता का खतरा: गठबंधन सरकारें अक्सर अस्थिर होती थीं और यदि कोई छोटा सहयोगी भी समर्थन वापस ले लेता था, तो सरकार गिरने का खतरा बना रहता था।",
+        "6. बहुध्रुवीय प्रतिस्पर्धा: राजनीतिक प्रतिस्पर्धा 'कांग्रेस बनाम अन्य' से बदलकर दो बड़े गठबंधनों—एनडीए (NDA) और यूपीए (UPA) के बीच प्रतिस्पर्धा में बदल गई।",
+        "7. संघवाद पर प्रभाव: क्षेत्रीय नेताओं को राष्ट्रीय निर्णय लेने में अधिक आवाज़ मिली, जिससे भारतीय लोकतंत्र के संघीय स्वरूप को मज़बूती मिली।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Discuss the Ayodhya Dispute and its impact on the secular fabric of India.",
+      "hi": "अयोध्या विवाद और भारत के धर्मनिरपेक्ष ढांचे पर इसके प्रभाव की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. The Dispute: Centered around a structure known as the Babri Masjid, which many Hindus believed was built after destroying a temple of Lord Rama.",
+        "2. Mobilization: The VHP and BJP mobilized people across the country through the 'Ram Janmabhoomi' movement and the Rath Yatra in 1990.",
+        "3. Demolition: On 6 December 1992, the structure was demolished by Kar Sevaks, leading to widespread communal riots across India.",
+        "4. Judicial Battle: A long legal battle followed regarding the ownership of the land, involving archaeological evidence and religious sentiments.",
+        "5. Impact on Secularism: The event raised serious questions about the protection of minority rights and the secular nature of the Indian state.",
+        "6. Rise of BJP: This issue acted as a catalyst for the growth of the BJP, helping it emerge as a major national party by the late 1990s.",
+        "7. Supreme Court Judgment 2019: The final verdict gave the land for the construction of a Ram Temple and allotted an alternative site for a mosque."
+      ],
+      "hi": [
+        "1. विवाद: यह बाबरी मस्जिद के नाम से जानी जाने वाली संरचना के इर्द-गिर्द केंद्रित था, जिसके बारे में कई हिंदुओं का मानना था कि इसे भगवान राम के मंदिर को तोड़कर बनाया गया था।",
+        "2. लामबंदी: वीएचपी और भाजपा ने 1990 में 'राम जन्मभूमि' आंदोलन और रथ यात्रा के माध्यम से देश भर में लोगों को एकजुट किया।",
+        "3. विध्वंस: 6 दिसंबर 1992 को कारसेवकों द्वारा संरचना को ढहा दिया गया, जिससे पूरे भारत में व्यापक सांप्रदायिक दंगे हुए।",
+        "4. न्यायिक लड़ाई: पुरातात्विक साक्ष्यों और धार्मिक भावनाओं को शामिल करते हुए भूमि के स्वामित्व के संबंध में एक लंबी कानूनी लड़ाई चली।",
+        "5. धर्मनिरपेक्षता पर प्रभाव: इस घटना ने अल्पसंख्यक अधिकारों के संरक्षण और भारतीय राज्य के धर्मनिरपेक्ष स्वरूप पर गंभीर सवाल खड़े कर दिए।",
+        "6. भाजपा का उदय: इस मुद्दे ने भाजपा के विकास के लिए उत्प्रेरक का काम किया, जिससे उसे 1990 के दशक के अंत तक एक प्रमुख राष्ट्रीय दल के रूप में उभरने में मदद मिली।",
+        "7. सुप्रीम कोर्ट का फैसला 2019: अंतिम फैसले ने राम मंदिर के निर्माण के लिए भूमि दी और मस्जिद के लिए एक वैकल्पिक स्थल आवंटित किया।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Analyze the consensus that has emerged in Indian politics despite multi-party competition.",
+      "hi": "बहु-दलीय प्रतिस्पर्धा के बावजूद भारतीय राजनीति में उभर कर आई आम सहमति का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Economic Reforms: Most parties, regardless of their ideology, now support the continuation of the 1991 economic reforms and privatization.",
+        "2. Reservation Policy: There is a broad political consensus on maintaining and implementing reservations for OBCs and other backward sections.",
+        "3. Role of Regional Parties: All national parties have accepted that regional parties are essential partners in governance and sharing power.",
+        "4. Welfare Schemes: A consensus has emerged on providing large-scale social welfare schemes (like MNREGA, food security) to the poor.",
+        "5. Foreign Policy: Most parties agree on a pragmatic foreign policy that prioritizes India's national and economic interests.",
+        "6. Internal Security: A common approach exists regarding the need to combat terrorism and maintain the territorial integrity of the country.",
+        "7. Institutional Respect: Despite political bickering, there is a shared understanding of the importance of constitutional bodies like the Election Commission and Judiciary."
+      ],
+      "hi": [
+        "1. आर्थिक सुधार: अधिकांश दल, अपनी विचारधारा की परवाह किए बिना, अब 1991 के आर्थिक सुधारों और निजीकरण को जारी रखने का समर्थन करते हैं।",
+        "2. आरक्षण नीति: ओबीसी और अन्य पिछड़े वर्गों के लिए आरक्षण बनाए रखने और लागू करने पर एक व्यापक राजनीतिक सहमति है।",
+        "3. क्षेत्रीय दलों की भूमिका: सभी राष्ट्रीय दलों ने स्वीकार कर लिया है कि शासन और सत्ता साझा करने में क्षेत्रीय दल आवश्यक भागीदार हैं।",
+        "4. कल्याणकारी योजनाएँ: गरीबों को बड़े पैमाने पर सामाजिक कल्याण योजनाएँ (जैसे मनरेगा, खाद्य सुरक्षा) प्रदान करने पर सहमति बनी है।",
+        "5. विदेश नीति: अधिकांश दल एक व्यावहारिक विदेश नीति पर सहमत हैं जो भारत के राष्ट्रीय और आर्थिक हितों को प्राथमिकता देती है।",
+        "6. आंतरिक सुरक्षा: आतंकवाद का मुकाबला करने और देश की क्षेत्रीय अखंडता को बनाए रखने की आवश्यकता के संबंध में एक साझा दृष्टिकोण मौजूद है।",
+        "7. संस्थागत सम्मान: राजनीतिक खींचतान के बावजूद, चुनाव आयोग और न्यायपालिका जैसे संवैधानिक निकायों के महत्व पर एक साझा समझ है।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Describe the rise and fall of the United Front and National Front governments.",
+      "hi": "संयुक्त मोर्चा और राष्ट्रीय मोर्चा सरकारों के उत्थान और पतन का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. National Front (1989): Led by V.P. Singh, it was supported from outside by both the BJP and the Left to keep the Congress out of power.",
+        "2. Mandal Impact: V.P. Singh's decision to implement the Mandal report led to internal crisis and withdrawal of BJP's support.",
+        "3. United Front (1996): A coalition of regional parties and the Janta Dal, supported by Congress from outside to prevent BJP from forming government.",
+        "4. Leadership: It saw two Prime Ministers—H.D. Deve Gowda and I.K. Gujral—in a very short period of two years.",
+        "5. External Dependence: These governments were highly unstable as they depended on the whims of major parties like Congress or BJP providing outside support.",
+        "6. Policy Stance: Despite instability, they continued economic reforms and gave more representation to regional leaders.",
+        "7. Failure: They ultimately collapsed due to the withdrawal of support by their external partners, leading to fresh mid-term elections."
+      ],
+      "hi": [
+        "1. राष्ट्रीय मोर्चा (1989): वी.पी. सिंह के नेतृत्व में, इसे कांग्रेस को सत्ता से बाहर रखने के लिए भाजपा और वामपंथ दोनों द्वारा बाहर से समर्थन दिया गया था।",
+        "2. मंडल का प्रभाव: वी.पी. सिंह द्वारा मंडल रिपोर्ट लागू करने के निर्णय से आंतरिक संकट पैदा हुआ और भाजपा ने समर्थन वापस ले लिया।",
+        "3. संयुक्त मोर्चा (1996): क्षेत्रीय दलों और जनता दल का एक गठबंधन, जिसे भाजपा को सरकार बनाने से रोकने के लिए कांग्रेस ने बाहर से समर्थन दिया था।",
+        "4. नेतृत्व: इसने दो साल की बहुत कम अवधि में दो प्रधानमंत्रियों—एच.डी. देवेगौड़ा और आई.के. गुजराल को देखा।",
+        "5. बाहरी निर्भरता: ये सरकारें अत्यधिक अस्थिर थीं क्योंकि वे बाहर से समर्थन देने वाली कांग्रेस या भाजपा जैसी बड़ी पार्टियों की इच्छा पर निर्भर थीं।",
+        "6. नीतिगत रुख: अस्थिरता के बावजूद, उन्होंने आर्थिक सुधारों को जारी रखा और क्षेत्रीय नेताओं को अधिक प्रतिनिधित्व दिया।",
+        "7. विफलता: वे अंततः अपने बाहरी भागीदारों द्वारा समर्थन वापस लेने के कारण गिर गईं, जिससे नए मध्यावधि चुनाव हुए।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Analyze the impact of the 2004 General Elections and the formation of UPA.",
+      "hi": "2004 के आम चुनावों के प्रभाव और यूपीए (UPA) के गठन का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Unexpected Result: The BJP-led NDA lost power despite its 'India Shining' campaign, and Congress emerged as the single largest party.",
+        "2. Formation of UPA: The United Progressive Alliance (UPA) was formed with Congress and several regional allies like RJD, DMK, and NCP.",
+        "3. Support from Left: UPA-I was supported from outside by the Left parties, marking a unique political arrangement.",
+        "4. Dr. Manmohan Singh: For the first time, India had a technocrat Prime Minister who led the country for two consecutive terms (2004-2014).",
+        "5. Social Welfare Focus: The government shifted focus to rights-based legislation like the RTI Act and MGNREGA.",
+        "6. Economic Growth: This period saw high economic growth rates but was later marred by allegations of corruption and scams.",
+        "7. Strengthening Coalitions: It proved that a coalition government led by the Congress could also be stable and complete its full term."
+      ],
+      "hi": [
+        "1. अप्रत्याशित परिणाम: अपने 'इंडिया शाइनिंग' अभियान के बावजूद भाजपा के नेतृत्व वाला एनडीए (NDA) हार गया और कांग्रेस सबसे बड़ी पार्टी के रूप में उभरी।",
+        "2. यूपीए (UPA) का गठन: संयुक्त प्रगतिशील गठबंधन (UPA) का गठन कांग्रेस और राजद, द्रमुक और राकांपा जैसे कई क्षेत्रीय सहयोगियों के साथ किया गया था।",
+        "3. वामपंथ का समर्थन: यूपीए-I को वामपंथी दलों ने बाहर से समर्थन दिया, जो एक अनूठी राजनीतिक व्यवस्था थी।",
+        "4. डॉ. मनमोहन सिंह: पहली बार भारत में एक तकनीकी विशेषज्ञ प्रधानमंत्री थे जिन्होंने लगातार दो कार्यकालों (2004-2014) तक देश का नेतृत्व किया।",
+        "5. सामाजिक कल्याण पर ध्यान: सरकार ने अपना ध्यान सूचना के अधिकार (RTI) और मनरेगा (MGNREGA) जैसे अधिकार-आधारित कानूनों की ओर स्थानांतरित किया।",
+        "6. आर्थिक विकास: इस अवधि में उच्च आर्थिक विकास दर देखी गई, लेकिन बाद में भ्रष्टाचार और घोटालों के आरोपों ने इसे धूमिल कर दिया।",
+        "7. गठबंधनों को मज़बूत करना: इसने साबित कर दिया कि कांग्रेस के नेतृत्व वाली गठबंधन सरकार भी स्थिर हो सकती है और अपना पूरा कार्यकाल पूरा कर सकती है।"
+      ]
+    }
+  }
+]
