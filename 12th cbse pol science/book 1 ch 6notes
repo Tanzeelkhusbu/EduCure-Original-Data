@@ -1,0 +1,191 @@
+[
+  {
+    "topic_id": 1,
+    "title": {
+      "en": "1. Environmental Concerns in Global Politics",
+      "hi": "1. वैश्विक राजनीति में पर्यावरण संबंधी चिंताएँ"
+    },
+    "points": {
+      "en": [
+        "Agricultural Decline: Cultivable land is barely expanding globally, and a substantial portion of existing agricultural land is losing fertility.",
+        "Water Scarcity: Water bodies are facing severe depletion and pollution, causing millions of people to lack access to safe drinking water.",
+        "Deforestation: Natural forests are being cut down rapidly, which destabilizes the climate and leads to the loss of biodiversity.",
+        "Ozone Depletion: The decline in the total amount of ozone in the Earth's stratosphere poses a real danger to ecosystems and human health.",
+        "Coastal Pollution: Coastal pollution is increasing globally due to land-based activities, threatening marine life and human populations living near the sea.",
+        "Global Nature of Problems: These environmental problems do not respect national boundaries and cannot be solved by any single government.",
+        "International Cooperation: Because the issues are global, they require a collective response, making the environment a crucial issue in international politics."
+      ],
+      "hi": [
+        "कृषि में गिरावट: विश्व स्तर पर कृषि योग्य भूमि बमुश्किल बढ़ रही है, और मौजूदा कृषि भूमि का एक बड़ा हिस्सा अपनी उर्वरता खो रहा है।",
+        "जल संकट: जल निकायों में भारी कमी और प्रदूषण हो रहा है, जिससे करोड़ों लोगों को सुरक्षित पेयजल नहीं मिल पा रहा है।",
+        "वनों की कटाई: प्राकृतिक वनों को तेज़ी से काटा जा रहा है, जो जलवायु को अस्थिर करता है और जैव विविधता के नुकसान का कारण बनता है।",
+        "ओज़ोन परत का क्षरण: पृथ्वी के समताप मंडल (Stratosphere) में ओज़ोन की कुल मात्रा में गिरावट पारिस्थितिक तंत्र और मानव स्वास्थ्य के लिए एक वास्तविक खतरा है।",
+        "तटीय प्रदूषण: ज़मीनी गतिविधियों के कारण विश्व स्तर पर तटीय प्रदूषण बढ़ रहा है, जिससे समुद्री जीवन और समुद्र के पास रहने वाली मानव आबादी को खतरा है।",
+        "समस्याओं की वैश्विक प्रकृति: ये पर्यावरणीय समस्याएँ राष्ट्रीय सीमाओं को नहीं मानती हैं और किसी एक सरकार द्वारा हल नहीं की जा सकती हैं।",
+        "अंतर्राष्ट्रीय सहयोग: क्योंकि ये मुद्दे वैश्विक हैं, इनके लिए सामूहिक प्रतिक्रिया की आवश्यकता है, जिससे पर्यावरण अंतर्राष्ट्रीय राजनीति में एक महत्वपूर्ण मुद्दा बन गया है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 2,
+    "title": {
+      "en": "2. Global Commons and Their Protection",
+      "hi": "2. साझी संपदा (Global Commons) और उनकी रक्षा"
+    },
+    "points": {
+      "en": [
+        "Definition: Global commons refer to areas or resources that lie outside the sovereign jurisdiction of any single state and require common governance.",
+        "Examples: The Earth's atmosphere, Antarctica, the ocean floor, and outer space are considered global commons.",
+        "Management Challenge: Managing these areas is difficult due to the 'Tragedy of the Commons', where nations exploit shared resources for individual gain.",
+        "International Agreements: Treaties like the Antarctic Treaty (1959), Montreal Protocol (1987), and Antarctic Environmental Protocol (1991) were signed to protect them.",
+        "Ecological Degradation: Activities like excessive carbon emissions and space debris are continuously threatening the health of these global resources.",
+        "Lack of Consensus: Despite treaties, arriving at a consensus on managing these areas is tough because Northern and Southern nations have different priorities.",
+        "Need for Collective Effort: Protecting the global commons requires massive collective technological, financial, and political efforts from all nations."
+      ],
+      "hi": [
+        "परिभाषा: साझी संपदा (Global Commons) उन क्षेत्रों या संसाधनों को संदर्भित करती है जो किसी भी एक राज्य के संप्रभु अधिकार क्षेत्र से बाहर हैं और जिनके लिए साझा शासन की आवश्यकता होती है।",
+        "उदाहरण: पृथ्वी का वायुमंडल, अंटार्कटिका, समुद्री सतह और बाहरी अंतरिक्ष को वैश्विक साझी संपदा माना जाता है।",
+        "प्रबंधन की चुनौती: 'साझी संपदा की त्रासदी' (Tragedy of the Commons) के कारण इन क्षेत्रों का प्रबंधन करना मुश्किल है, जहाँ राष्ट्र व्यक्तिगत लाभ के लिए साझा संसाधनों का दोहन करते हैं।",
+        "अंतर्राष्ट्रीय समझौते: इनकी रक्षा के लिए अंटार्कटिक संधि (1959), मॉन्ट्रियल प्रोटोकॉल (1987) और अंटार्कटिक पर्यावरण प्रोटोकॉल (1991) जैसी संधियों पर हस्ताक्षर किए गए।",
+        "पारिस्थितिक गिरावट: अत्यधिक कार्बन उत्सर्जन और अंतरिक्ष कचरे जैसी गतिविधियाँ इन वैश्विक संसाधनों के स्वास्थ्य के लिए लगातार खतरा पैदा कर रही हैं।",
+        "आम सहमति का अभाव: संधियों के बावजूद, इन क्षेत्रों के प्रबंधन पर आम सहमति तक पहुँचना कठिन है क्योंकि उत्तरी और दक्षिणी देशों की प्राथमिकताएँ अलग-अलग हैं।",
+        "सामूहिक प्रयास की आवश्यकता: वैश्विक साझी संपदा की रक्षा के लिए सभी राष्ट्रों से बड़े पैमाने पर सामूहिक तकनीकी, वित्तीय और राजनीतिक प्रयासों की आवश्यकता है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 3,
+    "title": {
+      "en": "3. The Earth Summit (1992) and Agenda 21",
+      "hi": "3. पृथ्वी सम्मेलन (1992) और एजेंडा 21"
+    },
+    "points": {
+      "en": [
+        "UNCED: The United Nations Conference on Environment and Development (UNCED) was held in Rio de Janeiro, Brazil, in June 1992.",
+        "Massive Participation: It was attended by 170 states, thousands of NGOs, and many multinational corporations, making it a historic event.",
+        "Shift in Focus: The summit successfully shifted the global political focus towards the concept of 'Sustainable Development'.",
+        "North-South Divide: The summit highlighted that developed countries (North) were concerned about ozone depletion, while developing countries (South) were focused on poverty and development.",
+        "Agenda 21: The summit produced 'Agenda 21', a comprehensive blueprint of action to be taken globally to promote sustainable development.",
+        "Major Conventions: It led to important international conventions on climate change (UNFCCC), biodiversity, and forestry.",
+        "Criticism: Some critics argued that Agenda 21 was biased towards promoting economic growth at the cost of actual ecological conservation."
+      ],
+      "hi": [
+        "UNCED: पर्यावरण और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCED) जून 1992 में ब्राजील के रियो डी जेनेरियो में आयोजित किया गया था।",
+        "व्यापक भागीदारी: इसमें 170 राज्यों, हज़ारों गैर-सरकारी संगठनों और कई बहुराष्ट्रीय कंपनियों ने भाग लिया, जिससे यह एक ऐतिहासिक घटना बन गई।",
+        "फोकस में बदलाव: इस शिखर सम्मेलन ने वैश्विक राजनीतिक ध्यान को 'सतत विकास' (Sustainable Development) की अवधारणा की ओर सफलतापूर्वक मोड़ा।",
+        "उत्तर-दक्षिण विभाजन: सम्मेलन ने इस बात को उजागर किया कि विकसित देश (उत्तर) ओज़ोन क्षरण को लेकर चिंतित थे, जबकि विकासशील देश (दक्षिण) गरीबी और विकास पर केंद्रित थे।",
+        "एजेंडा 21: शिखर सम्मेलन ने 'एजेंडा 21' तैयार किया, जो सतत विकास को बढ़ावा देने के लिए विश्व स्तर पर की जाने वाली कार्रवाई की एक व्यापक रूपरेखा (Blueprint) है।",
+        "प्रमुख सम्मेलन: इसने जलवायु परिवर्तन (UNFCCC), जैव विविधता और वानिकी पर महत्वपूर्ण अंतर्राष्ट्रीय सम्मेलनों का मार्ग प्रशस्त किया।",
+        "आलोचना: कुछ आलोचकों का तर्क था कि 'एजेंडा 21' वास्तविक पारिस्थितिक संरक्षण की कीमत पर आर्थिक विकास को बढ़ावा देने की ओर झुका हुआ था।"
+      ]
+    }
+  },
+  {
+    "topic_id": 4,
+    "title": {
+      "en": "4. Common but Differentiated Responsibilities (CBDR)",
+      "hi": "4. साझी परंतु अलग-अलग ज़िम्मेदारियाँ (CBDR)"
+    },
+    "points": {
+      "en": [
+        "Core Principle: Accepted at the Rio Summit, it states that all nations are responsible for environmental protection, but their share of responsibility differs.",
+        "Historical Responsibility: Developed countries (Global North) must take greater responsibility because they have caused the most historical pollution during their industrialization.",
+        "Burden Sharing: Therefore, developed nations should bear more of the financial and technological burden of global environmental protection.",
+        "Developing Nations' Priority: Countries of the Global South are still industrializing; their primary goals are economic growth and poverty eradication.",
+        "Exemption: Developing nations like India and China were exempted from the immediate binding requirements of greenhouse gas emission cuts.",
+        "Environmental Justice: CBDR is based on the idea of environmental justice and the 'polluter pays' principle.",
+        "Negotiation Baseline: This concept became the foundational argument for developing nations in all subsequent international climate negotiations."
+      ],
+      "hi": [
+        "मूल सिद्धांत: रियो शिखर सम्मेलन में स्वीकार किए गए इस सिद्धांत में कहा गया है कि पर्यावरण संरक्षण के लिए सभी राष्ट्र ज़िम्मेदार हैं, लेकिन उनकी ज़िम्मेदारी का हिस्सा अलग-अलग है।",
+        "ऐतिहासिक ज़िम्मेदारी: विकसित देशों (ग्लोबल नॉर्थ) को अधिक ज़िम्मेदारी लेनी चाहिए क्योंकि उन्होंने अपने औद्योगीकरण के दौरान सबसे अधिक ऐतिहासिक प्रदूषण फैलाया है।",
+        "बोझ साझा करना: इसलिए, वैश्विक पर्यावरण संरक्षण का वित्तीय और तकनीकी बोझ विकसित राष्ट्रों को अधिक उठाना चाहिए।",
+        "विकासशील देशों की प्राथमिकता: ग्लोबल साउथ के देश अभी भी औद्योगीकरण कर रहे हैं; उनके प्राथमिक लक्ष्य आर्थिक विकास और गरीबी उन्मूलन हैं।",
+        "छूट: भारत और चीन जैसे विकासशील देशों को ग्रीनहाउस गैस उत्सर्जन में कटौती की तत्काल बाध्यकारी आवश्यकताओं से छूट दी गई थी।",
+        "पर्यावरणीय न्याय: CBDR पर्यावरणीय न्याय और 'प्रदूषण फैलाने वाला भुगतान करे' (polluter pays) के सिद्धांत पर आधारित है।",
+        "वार्ता का आधार: यह अवधारणा बाद की सभी अंतर्राष्ट्रीय जलवायु वार्ताओं में विकासशील देशों के लिए मूलभूत तर्क बन गई।"
+      ]
+    }
+  },
+  {
+    "topic_id": 5,
+    "title": {
+      "en": "5. The Kyoto Protocol (1997)",
+      "hi": "5. क्योटो प्रोटोकॉल (1997)"
+    },
+    "points": {
+      "en": [
+        "Definition: An international agreement signed in Kyoto, Japan, that committed state parties to reduce greenhouse gas emissions.",
+        "UNFCCC Basis: It was based on the principles of the United Nations Framework Convention on Climate Change (UNFCCC).",
+        "Binding Targets: It set legally binding emission reduction targets primarily for industrialized/developed countries.",
+        "Targeted Gases: The protocol focused on reducing emissions of Carbon dioxide, Methane, and Chlorofluorocarbons (CFCs), which cause global warming.",
+        "Exemption for Developing World: Developing countries like India and China were initially exempted as their historical and per capita emissions were very low.",
+        "India's Stance: India signed and ratified the Kyoto Protocol in August 2002, asserting that developed nations must fulfill their emission reduction commitments.",
+        "Legacy: Despite facing challenges, such as the withdrawal of the USA, it laid the essential groundwork for future climate deals like the Paris Agreement."
+      ],
+      "hi": [
+        "परिभाषा: जापान के क्योटो में हस्ताक्षरित एक अंतर्राष्ट्रीय समझौता जिसने सदस्य देशों को ग्रीनहाउस गैस उत्सर्जन कम करने के लिए प्रतिबद्ध किया।",
+        "UNFCCC का आधार: यह जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (UNFCCC) के सिद्धांतों पर आधारित था।",
+        "बाध्यकारी लक्ष्य: इसने मुख्य रूप से औद्योगिक/विकसित देशों के लिए कानूनी रूप से बाध्यकारी उत्सर्जन में कटौती के लक्ष्य निर्धारित किए।",
+        "लक्षित गैसें: प्रोटोकॉल ने कार्बन डाइऑक्साइड, मीथेन और क्लोरोफ्लोरोकार्बन (CFCs) के उत्सर्जन को कम करने पर ध्यान केंद्रित किया, जो ग्लोबल वार्मिंग का कारण बनते हैं।",
+        "विकासशील दुनिया के लिए छूट: भारत और चीन जैसे विकासशील देशों को शुरुआत में छूट दी गई थी क्योंकि उनका ऐतिहासिक और प्रति व्यक्ति उत्सर्जन बहुत कम था।",
+        "भारत का रुख: भारत ने अगस्त 2002 में क्योटो प्रोटोकॉल पर हस्ताक्षर किए और इसकी पुष्टि की, यह दावा करते हुए कि विकसित राष्ट्रों को अपनी उत्सर्जन कटौती प्रतिबद्धताओं को पूरा करना चाहिए।",
+        "विरासत: अमेरिका के पीछे हटने जैसी चुनौतियों का सामना करने के बावजूद, इसने पेरिस समझौते जैसे भविष्य के जलवायु समझौतों के लिए आवश्यक आधार तैयार किया।"
+      ]
+    }
+  },
+  {
+    "topic_id": 6,
+    "title": {
+      "en": "6. India's Stand on Environmental Issues",
+      "hi": "6. पर्यावरणीय मुद्दों पर भारत का रुख"
+    },
+    "points": {
+      "en": [
+        "Strong Support for CBDR: India firmly supports the principle of Common but Differentiated Responsibilities in all international forums.",
+        "Low Per Capita Emission: India argues that its per capita carbon emissions are still a tiny fraction of the global average and developed countries.",
+        "Need for Carbon Space: India maintains that it needs its fair share of 'carbon space' to grow its economy and pull millions out of poverty.",
+        "Domestic Action: In 2008, India launched the National Action Plan on Climate Change (NAPCC), comprising eight national missions for sustainable development.",
+        "Renewable Energy Push: India passed the Energy Conservation Act (2001) and has set highly ambitious targets for solar and wind energy production.",
+        "Demand for Transfer of Tech: India constantly pushes developed nations to provide the promised financial resources and clean technologies to the developing world.",
+        "Global Leader: India has emerged as a responsible leader for the 'Global South', taking initiatives like the International Solar Alliance (ISA)."
+      ],
+      "hi": [
+        "CBDR का पुरज़ोर समर्थन: भारत सभी अंतर्राष्ट्रीय मंचों पर 'साझी परंतु अलग-अलग ज़िम्मेदारियाँ' के सिद्धांत का दृढ़ता से समर्थन करता है।",
+        "कम प्रति व्यक्ति उत्सर्जन: भारत का तर्क है कि उसका प्रति व्यक्ति कार्बन उत्सर्जन अभी भी वैश्विक औसत और विकसित देशों का एक बहुत छोटा हिस्सा है।",
+        "कार्बन स्पेस की आवश्यकता: भारत का मानना है कि अपनी अर्थव्यवस्था को बढ़ाने और करोड़ों लोगों को गरीबी से निकालने के लिए उसे 'कार्बन स्पेस' के अपने उचित हिस्से की आवश्यकता है।",
+        "घरेलू कार्रवाई: 2008 में, भारत ने जलवायु परिवर्तन पर राष्ट्रीय कार्य योजना (NAPCC) शुरू की, जिसमें सतत विकास के लिए आठ राष्ट्रीय मिशन शामिल हैं।",
+        "नवीकरणीय ऊर्जा पर ज़ोर: भारत ने ऊर्जा संरक्षण अधिनियम (2001) पारित किया और सौर तथा पवन ऊर्जा उत्पादन के लिए अत्यधिक महत्वाकांक्षी लक्ष्य निर्धारित किए हैं।",
+        "तकनीक के हस्तांतरण की मांग: भारत लगातार विकसित राष्ट्रों पर विकासशील दुनिया को वादे के अनुसार वित्तीय संसाधन और स्वच्छ तकनीक प्रदान करने का दबाव डालता है।",
+        "वैश्विक नेता: भारत 'ग्लोबल साउथ' के लिए एक ज़िम्मेदार नेता के रूप में उभरा है, जिसने अंतर्राष्ट्रीय सौर गठबंधन (ISA) जैसी पहल की है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 7,
+    "title": {
+      "en": "7. Environmental Movements and Resource Geopolitics",
+      "hi": "7. पर्यावरण आंदोलन और संसाधन भू-राजनीति"
+    },
+    "points": {
+      "en": [
+        "Vibrant Responses: Environmental movements led by citizens, indigenous people, and NGOs are the most vibrant political responses against environmental degradation.",
+        "Forest Movements: Movements in the global south (like the Chipko movement in India) oppose commercial logging and fight for the rights of local communities.",
+        "Anti-Mining Campaigns: Protests against large-scale mining by Multinational Corporations (MNCs) have occurred in countries like the Philippines, Australia, and India.",
+        "Anti-Dam Movements: Movements against mega-dams (e.g., Narmada Bachao Andolan) highlight the ecological damage and mass displacement of indigenous people.",
+        "Geopolitics of Oil: Oil is the most crucial resource for the global economy, leading to intense geopolitical struggles and Western political interference in the Middle East.",
+        "Geopolitics of Water: Scarcity of freshwater has led to political conflicts and potential 'water wars' over shared rivers (e.g., Jordan, Euphrates, and Indus rivers).",
+        "Indigenous Rights: Globally, indigenous populations are fighting for political representation, cultural identity, and control over their traditional lands against state-sponsored development."
+      ],
+      "hi": [
+        "जीवंत प्रतिक्रियाएँ: नागरिकों, स्वदेशी लोगों और एनजीओ के नेतृत्व वाले पर्यावरण आंदोलन पर्यावरणीय गिरावट के खिलाफ सबसे जीवंत राजनीतिक प्रतिक्रियाएँ हैं।",
+        "वन आंदोलन: ग्लोबल साउथ में आंदोलन (जैसे भारत में चिपको आंदोलन) व्यावसायिक लकड़ी कटाई का विरोध करते हैं और स्थानीय समुदायों के अधिकारों के लिए लड़ते हैं।",
+        "खनन विरोधी अभियान: बहुराष्ट्रीय कंपनियों (MNCs) द्वारा बड़े पैमाने पर खनन के खिलाफ फिलीपींस, ऑस्ट्रेलिया और भारत जैसे देशों में विरोध प्रदर्शन हुए हैं।",
+        "बांध विरोधी आंदोलन: मेगा-बांधों के खिलाफ आंदोलन (जैसे नर्मदा बचाओ आंदोलन) पारिस्थितिक नुकसान और स्वदेशी लोगों के बड़े पैमाने पर विस्थापन को उजागर करते हैं।",
+        "तेल की भू-राजनीति: तेल वैश्विक अर्थव्यवस्था के लिए सबसे महत्वपूर्ण संसाधन है, जिससे मध्य पूर्व (Middle East) में तीव्र भू-राजनीतिक संघर्ष और पश्चिमी राजनीतिक हस्तक्षेप होता है।",
+        "जल की भू-राजनीति: मीठे पानी की कमी के कारण साझा नदियों (जैसे जॉर्डन, यूफ्रेट्स और सिंधु नदियों) पर राजनीतिक संघर्ष और संभावित 'जल युद्ध' (water wars) हुए हैं।",
+        "मूलवासी (स्वदेशी) अधिकार: विश्व स्तर पर, स्वदेशी आबादी राज्य-प्रायोजित विकास के खिलाफ राजनीतिक प्रतिनिधित्व, सांस्कृतिक पहचान और अपनी पारंपरिक भूमि पर नियंत्रण के लिए लड़ रही है।"
+      ]
+    }
+  }
+]
