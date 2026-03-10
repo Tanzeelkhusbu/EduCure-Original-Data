@@ -1,0 +1,252 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Discuss the challenges India faced regarding political succession after the death of Jawaharlal Nehru.",
+      "hi": "जवाहरलाल नेहरू की मृत्यु के बाद राजनीतिक उत्तराधिकार के संबंध में भारत ने किन चुनौतियों का सामना किया?"
+    },
+    "answer": {
+      "en": [
+        "1. Fear of Disunity: After Nehru's death in 1964, many doubted if India's democracy could survive without his charismatic leadership.",
+        "2. Smooth Succession: Contrary to fears, the transition was very smooth. Lal Bahadur Shastri was chosen unanimously as the next Prime Minister.",
+        "3. Short but Tough Tenure: Shastri faced massive challenges like the 1965 war with Pakistan and a severe food crisis.",
+        "4. Second Succession: After Shastri's sudden death in 1966, a fresh competition arose between Indira Gandhi and Morarji Desai.",
+        "5. Democratic Contest: For the first time, a secret ballot was used within the Congress party to choose the leader, where Indira Gandhi defeated Desai.",
+        "6. Maturity of Democracy: The successful resolution of two successions within two years proved that Indian democracy was mature and stable."
+      ],
+      "hi": [
+        "1. विखंडन का डर: 1964 में नेहरू की मृत्यु के बाद, कई लोगों को संदेह था कि उनके करिश्माई नेतृत्व के बिना भारत का लोकतंत्र जीवित रह पाएगा या नहीं।",
+        "2. सुचारू उत्तराधिकार: आशंकाओं के विपरीत, बदलाव बहुत सुचारू रहा। लाल बहादुर शास्त्री को सर्वसम्मति से अगला प्रधानमंत्री चुना गया।",
+        "3. छोटा लेकिन कठिन कार्यकाल: शास्त्री को पाकिस्तान के साथ 1965 के युद्ध और गंभीर खाद्य संकट जैसी बड़ी चुनौतियों का सामना करना पड़ा।",
+        "4. दूसरा उत्तराधिकार: 1966 में शास्त्री की अचानक मृत्यु के बाद, इंदिरा गांधी और मोरारजी देसाई के बीच एक नई प्रतियोगिता पैदा हुई।",
+        "5. लोकतांत्रिक मुकाबला: पहली बार, नेता चुनने के लिए कांग्रेस पार्टी के भीतर गुप्त मतदान का उपयोग किया गया, जहाँ इंदिरा गांधी ने देसाई को हराया।",
+        "6. लोकतंत्र की परिपक्वता: दो साल के भीतर दो उत्तराधिकारों के सफल समाधान ने साबित कर दिया कि भारतीय लोकतंत्र परिपक्व और स्थिर था।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Analyze the reasons why the 1967 General Elections are called a 'Political Earthquake'.",
+      "hi": "1967 के आम चुनावों को 'राजनीतिक भूकंप' क्यों कहा जाता है? विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Congress Loss of Dominance: For the first time, Congress failed to get a majority in several states and its majority in the Lok Sabha was reduced to a minimum.",
+        "2. Defeat of Big Leaders: Many stalwarts of the Congress party, known as the 'Syndicate', lost their own seats.",
+        "3. Non-Congressism: Opposition parties united under the slogan of 'Non-Congressism' given by Ram Manohar Lohia to defeat the common enemy.",
+        "4. Loss in States: Congress lost power in 9 states (including Punjab, UP, Bihar, and West Bengal), breaking its pan-India dominance.",
+        "5. Rise of Coalitions: It led to the formation of Samyukta Vidhayak Dal (SVD) governments in various states, though they were unstable.",
+        "6. Shift in Politics: This election signaled that the 'Congress System' was failing and the era of one-party dominance was coming to an end."
+      ],
+      "hi": [
+        "1. कांग्रेस के प्रभुत्व का ह्रास: पहली बार, कांग्रेस कई राज्यों में बहुमत हासिल करने में विफल रही और लोकसभा में उसका बहुमत न्यूनतम रह गया।",
+        "2. बड़े नेताओं की हार: 'सिंडिकेट' के रूप में जाने जाने वाले कांग्रेस पार्टी के कई दिग्गजों को अपनी सीटें गँवानी पड़ीं।",
+        "3. गैर-कांग्रेसवाद: विपक्षी दल साझा दुश्मन को हराने के लिए राम मनोहर लोहिया द्वारा दिए गए 'गैर-कांग्रेसवाद' के नारे के तहत एकजुट हुए।",
+        "4. राज्यों में सत्ता का नुकसान: कांग्रेस ने 9 राज्यों (पंजाब, यूपी, बिहार और पश्चिम बंगाल सहित) में सत्ता खो दी, जिससे उसका अखिल भारतीय दबदबा टूट गया।",
+        "5. गठबंधन का उदय: इसके कारण विभिन्न राज्यों में संयुक्त विधायक दल (SVD) सरकारों का गठन हुआ, हालाँकि वे अस्थिर थीं।",
+        "6. राजनीति में बदलाव: इस चुनाव ने संकेत दिया कि 'कांग्रेस प्रणाली' विफल हो रही थी और एक-दलीय प्रभुत्व का युग समाप्त हो रहा था।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "What was the 'Syndicate' within the Congress? Discuss its conflict with Indira Gandhi.",
+      "hi": "कांग्रेस के भीतर 'सिंडिकेट' क्या था? इंदिरा गांधी के साथ इसके संघर्ष की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: The 'Syndicate' was an informal group of powerful and influential leaders from within the Congress (like Kamraj, S.K. Patil, Nijalingappa).",
+        "2. Role in Succession: They played a key role in making Indira Gandhi the Prime Minister, thinking she would follow their advice.",
+        "3. Assertive Leadership: To the Syndicate's surprise, Indira Gandhi started asserting her independence and ignored their suggestions.",
+        "4. Ideological Shift: She shifted the party towards the left with socialist policies like bank nationalization, which the Syndicate conservatives disliked.",
+        "5. Presidential Election 1969: The conflict peaked when Indira supported V.V. Giri against the Syndicate's official candidate N. Sanjiva Reddy.",
+        "6. Result: The victory of V.V. Giri led to the formal split of Congress into Congress (O) led by the Syndicate and Congress (R) led by Indira."
+      ],
+      "hi": [
+        "1. परिभाषा: 'सिंडिकेट' कांग्रेस के भीतर शक्तिशाली और प्रभावशाली नेताओं (जैसे कामराज, एस.के. पाटिल, निजलिंगप्पा) का एक अनौपचारिक समूह था।",
+        "2. उत्तराधिकार में भूमिका: उन्होंने इंदिरा गांधी को यह सोचकर प्रधानमंत्री बनाने में मुख्य भूमिका निभाई कि वे उनकी सलाह का पालन करेंगी।",
+        "3. मुखर नेतृत्व: सिंडिकेट के आश्चर्य के लिए, इंदिरा गांधी ने अपनी स्वतंत्रता जताना शुरू कर दिया और उनके सुझावों की अनदेखी की।",
+        "4. वैचारिक बदलाव: उन्होंने बैंक राष्ट्रीयकरण जैसी समाजवादी नीतियों के साथ पार्टी को वामपंथ की ओर मोड़ा, जिसे सिंडिकेट के रूढ़िवादी पसंद नहीं करते थे।",
+        "5. 1969 का राष्ट्रपति चुनाव: संघर्ष तब चरम पर पहुँच गया जब इंदिरा ने सिंडिकेट के आधिकारिक उम्मीदवार एन. संजीव रेड्डी के खिलाफ वी.वी. गिरि का समर्थन किया।",
+        "6. परिणाम: वी.वी. गिरि की जीत के कारण कांग्रेस का औपचारिक विभाजन सिंडिकेट के नेतृत्व वाली कांग्रेस (O) और इंदिरा के नेतृत्व वाली कांग्रेस (R) में हो गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Explain the concept of 'Aaya Ram, Gaya Ram' and the issue of Defection in 1967.",
+      "hi": "1967 में 'आया राम, गया राम' की अवधारणा और 'दलबदल' के मुद्दे की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Origin: The phrase originated when Gaya Lal, an MLA in Haryana, changed his party three times in a single fortnight in 1967.",
+        "2. Meaning: Defection occurs when an elected representative leaves the party on whose symbol they were elected to join another party.",
+        "3. Impact on 1967: Frequent defections led to the collapse of several state governments and the formation of unstable coalitions.",
+        "4. Political Opportunism: It highlighted the greed for ministerial berths and the lack of ideological loyalty among politicians.",
+        "5. Threat to Democracy: Defection made the mandate of the voters meaningless as representatives switched sides for personal gain.",
+        "6. Anti-Defection Law: This instability eventually led to the 52nd Amendment in 1985 to curb the practice of defection."
+      ],
+      "hi": [
+        "1. उत्पत्ति: यह वाक्यांश तब उत्पन्न हुआ जब हरियाणा के एक विधायक गया लाल ने 1967 में एक ही पखवाड़े में तीन बार अपनी पार्टी बदली।",
+        "2. अर्थ: दलबदल तब होता है जब कोई निर्वाचित प्रतिनिधि उस पार्टी को छोड़ देता है जिसके प्रतीक पर वह निर्वाचित हुआ था और दूसरी पार्टी में शामिल हो जाता है।",
+        "3. 1967 पर प्रभाव: बार-बार होने वाले दलबदल के कारण कई राज्य सरकारें गिर गईं और अस्थिर गठबंधनों का गठन हुआ।",
+        "4. राजनीतिक अवसरवाद: इसने मंत्री पद के लालच और राजनेताओं के बीच वैचारिक निष्ठा की कमी को उजागर किया।",
+        "5. लोकतंत्र के लिए खतरा: दलबदल ने मतदाताओं के जनादेश को अर्थहीन बना दिया क्योंकि प्रतिनिधियों ने व्यक्तिगत लाभ के लिए पक्ष बदल लिए।",
+        "6. दलबदल विरोधी कानून: इस अस्थिरता के कारण अंततः दलबदल की प्रथा को रोकने के लिए 1985 में 52वाँ संविधान संशोधन किया गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Discuss the '10-Point Programme' and other socialist steps taken by Indira Gandhi.",
+      "hi": "इंदिरा गांधी द्वारा अपनाए गए '10-सूत्री कार्यक्रम' और अन्य समाजवादी कदमों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Shift to Left: To build her popular image and weaken the Syndicate, Indira Gandhi adopted a radical pro-poor and socialist agenda.",
+        "2. 10-Point Programme (1967): Included social control of banks, nationalization of general insurance, and land reforms.",
+        "3. Bank Nationalization (1969): She nationalized 14 major private banks, arguing that credit should be available to farmers and small businesses.",
+        "4. Abolition of Privy Purse: She ended the hereditary allowances and privileges given to former princely rulers, despite opposition from the judiciary.",
+        "5. Garibi Hatao: This slogan became the core of her 1971 election campaign, promising to eradicate poverty and redistribute wealth.",
+        "6. Political Benefit: These steps helped her portray the opposition as 'pro-rich' and herself as the 'protector of the poor', leading to a massive electoral victory."
+      ],
+      "hi": [
+        "1. वामपंथ की ओर झुकाव: अपनी लोकप्रिय छवि बनाने और सिंडिकेट को कमज़ोर करने के लिए, इंदिरा गांधी ने कट्टरपंथी गरीब-समर्थक और समाजवादी एजेंडा अपनाया।",
+        "2. 10-सूत्री कार्यक्रम (1967): इसमें बैंकों का सामाजिक नियंत्रण, सामान्य बीमा का राष्ट्रीयकरण और भूमि सुधार शामिल थे।",
+        "3. बैंकों का राष्ट्रीयकरण (1969): उन्होंने 14 प्रमुख निजी बैंकों का राष्ट्रीयकरण किया, यह तर्क देते हुए कि ऋण किसानों और छोटे व्यवसायों को उपलब्ध होना चाहिए।",
+        "4. प्रिवी पर्स की समाप्ति: उन्होंने न्यायपालिका के विरोध के बावजूद पूर्व रियासतों के शासकों को दिए जाने वाले वंशानुगत भत्तों और विशेषाधिकारों को समाप्त कर दिया।",
+        "5. गरीबी हटाओ: यह नारा उनके 1971 के चुनाव अभियान का केंद्र बन गया, जिसमें गरीबी मिटाने और धन के पुनर्वितरण का वादा किया गया था।",
+        "6. राजनीतिक लाभ: इन कदमों ने उन्हें विपक्ष को 'अमीर-समर्थक' और खुद को 'गरीबों का रक्षक' के रूप में चित्रित करने में मदद की, जिससे भारी चुनावी जीत मिली।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Analyze the reasons for the victory of Indira Gandhi in the 1971 General Elections.",
+      "hi": "1971 के आम चुनावों में इंदिरा गांधी की जीत के कारणों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Popular Slogan: The slogan 'Garibi Hatao' resonated deeply with the masses, while the opposition's slogan 'Indira Hatao' lacked a positive program.",
+        "2. Socialist Image: Steps like bank nationalization and abolition of privy purse established her as a champion of the poor and down-trodden.",
+        "3. Charismatic Leadership: She emerged as a strong, decisive leader who was not afraid to take bold risks against the old guard (Syndicate).",
+        "4. Support of Marginalized: She built a new social base consisting of Dalits, Adivasis, minorities, and women.",
+        "5. Weak Grand Alliance: The opposition 'Grand Alliance' was ideologically incoherent and had no clear common vision other than defeating Indira.",
+        "6. Restoration of Congress: The massive mandate (352 seats) restored the dominance of the Congress, but this time it was centered around a single leader."
+      ],
+      "hi": [
+        "1. लोकप्रिय नारा: 'गरीबी हटाओ' के नारे ने जनता के बीच गहरी पैठ बनाई, जबकि विपक्ष के नारे 'इंदिरा हटाओ' में किसी सकारात्मक कार्यक्रम की कमी थी।",
+        "2. समाजवादी छवि: बैंकों के राष्ट्रीयकरण और प्रिवी पर्स की समाप्ति जैसे कदमों ने उन्हें गरीबों और पिछड़ों के मसीहा के रूप में स्थापित किया।",
+        "3. करिश्माई नेतृत्व: वे एक मज़बूत, निर्णायक नेता के रूप में उभरीं जो पुराने नेताओं (सिंडिकेट) के खिलाफ साहसी जोखिम लेने से नहीं डरती थीं।",
+        "4. हाशिए के वर्गों का समर्थन: उन्होंने दलितों, आदिवासियों, अल्पसंख्यकों और महिलाओं को मिलाकर एक नया सामाजिक आधार तैयार किया।",
+        "5. कमज़ोर ग्रैंड अलायंस: विपक्षी 'ग्रैंड अलायंस' (महागठबंधन) वैचारिक रूप से बिखरा हुआ था और इंदिरा को हराने के अलावा उसका कोई साझा विजन नहीं था।",
+        "6. कांग्रेस की पुनर्स्थापना: भारी जनादेश (352 सीटें) ने कांग्रेस के प्रभुत्व को बहाल कर दिया, लेकिन इस बार यह एक ही नेता के इर्द-गिर्द केंद्रित था।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "How did the 1971 war with Pakistan affect Indira Gandhi's political career?",
+      "hi": "पाकिस्तान के साथ 1971 के युद्ध ने इंदिरा गांधी के राजनीतिक करियर को कैसे प्रभावित किया?"
+    },
+    "answer": {
+      "en": [
+        "1. National Hero: The decisive victory and the creation of Bangladesh made Indira Gandhi a national hero and enhanced her prestige globally.",
+        "2. Opposition Respect: Even opposition leaders like Atal Bihari Vajpayee praised her, some even calling her 'Durga'.",
+        "3. State Assembly Wins: The victory led to a landslide win for Congress in the 1972 state assembly elections across India.",
+        "4. Centralization of Power: It gave her the political capital to centralize power within the party and the government.",
+        "5. End of Dissent: The war victory silenced her critics within the party and the opposition for a considerable period.",
+        "6. Peak of Dominance: This period is considered the peak of Indira Gandhi's dominance and the complete 'Restoration' of the Congress system."
+      ],
+      "hi": [
+        "1. राष्ट्रीय नायक: निर्णायक जीत और बांग्लादेश के निर्माण ने इंदिरा गांधी को एक राष्ट्रीय नायक बना दिया और विश्व स्तर पर उनकी प्रतिष्ठा बढ़ा दी।",
+        "2. विपक्ष का सम्मान: यहाँ तक कि अटल बिहारी वाजपेयी जैसे विपक्षी नेताओं ने भी उनकी प्रशंसा की, कुछ ने तो उन्हें 'दुर्गा' तक कह दिया।",
+        "3. राज्य विधानसभाओं में जीत: युद्ध की जीत के कारण 1972 के राज्य विधानसभा चुनावों में पूरे भारत में कांग्रेस को शानदार जीत मिली।",
+        "4. सत्ता का केंद्रीकरण: इसने उन्हें पार्टी और सरकार के भीतर सत्ता को केंद्रित करने की राजनीतिक शक्ति प्रदान की।",
+        "5. असहमति का अंत: युद्ध की जीत ने पार्टी के भीतर और विपक्ष में उनके आलोचकों को काफी समय के लिए खामोश कर दिया।",
+        "6. प्रभुत्व का शिखर: इस अवधि को इंदिरा गांधी के प्रभुत्व का शिखर और कांग्रेस प्रणाली की पूर्ण 'पुनर्स्थापना' माना जाता है।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Explain the reasons for the split in the Congress Party in 1969.",
+      "hi": "1969 में कांग्रेस पार्टी के विभाजन के कारणों की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Power Struggle: A deep-seated conflict between the old guard (Syndicate) and Indira Gandhi over who should control the party.",
+        "2. Ideological Differences: Indira wanted a radical socialist path, while the Syndicate leaders were relatively conservative.",
+        "3. Ignored Advice: Indira Gandhi began making major policy decisions (like the 10-point programme) without consulting the senior leaders.",
+        "4. Dismissal of Morarji Desai: Indira Gandhi took the finance portfolio from Deputy PM Morarji Desai, leading to his resignation.",
+        "5. Presidential Election: Indira supported V.V. Giri as an independent against the party's official candidate Sanjiva Reddy and called for a 'conscience vote'.",
+        "6. Final Break: Following Giri's victory, the Congress President Nijalingappa expelled Indira Gandhi, leading to the formation of Congress (O) and Congress (R)."
+      ],
+      "hi": [
+        "1. सत्ता संघर्ष: पार्टी पर किसका नियंत्रण होना चाहिए, इस बात को लेकर पुराने नेताओं (सिंडिकेट) और इंदिरा गांधी के बीच गहरा संघर्ष।",
+        "2. वैचारिक मतभेद: इंदिरा एक कट्टरपंथी समाजवादी रास्ता चाहती थीं, जबकि सिंडिकेट नेता अपेक्षाकृत रूढ़िवादी थे।",
+        "3. सलाह की अनदेखी: इंदिरा गांधी ने वरिष्ठ नेताओं से परामर्श किए बिना प्रमुख नीतिगत निर्णय (जैसे 10-सूत्री कार्यक्रम) लेना शुरू कर दिया।",
+        "4. मोरारजी देसाई की बर्खास्तगी: इंदिरा गांधी ने उप-प्रधानमंत्री मोरारजी देसाई से वित्त विभाग वापस ले लिया, जिससे उन्होंने इस्तीफा दे दिया।",
+        "5. राष्ट्रपति चुनाव: इंदिरा ने पार्टी के आधिकारिक उम्मीदवार संजीव रेड्डी के खिलाफ स्वतंत्र उम्मीदवार वी.वी. गिरि का समर्थन किया और 'अंतरात्मा की आवाज़' पर वोट देने का आह्वान किया।",
+        "6. अंतिम विभाजन: गिरि की जीत के बाद, कांग्रेस अध्यक्ष निजलिंगप्पा ने इंदिरा गांधी को निष्कासित कर दिया, जिससे कांग्रेस (O) और कांग्रेस (R) का गठन हुआ।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "What was the 'Grand Alliance'? Why did it fail to defeat Indira Gandhi in 1971?",
+      "hi": "'ग्रैंड अलायंस' क्या था? यह 1971 में इंदिरा गांधी को हराने में विफल क्यों रहा?"
+    },
+    "answer": {
+      "en": [
+        "1. Composition: A coalition of non-Congress and non-Communist opposition parties like Congress (O), Jana Sangh, Swatantra Party, and Socialist parties.",
+        "2. Objective: Their single common goal was to defeat Indira Gandhi and remove her from power.",
+        "3. Negative Campaign: Their main slogan was 'Indira Hatao' (Remove Indira), which was seen as a negative campaign by the public.",
+        "4. Lack of Vision: They did not have a coherent alternative economic or social program for the country.",
+        "5. Organizational Weakness: These parties were ideologically very different from each other, making it difficult to coordinate on the ground.",
+        "6. Result: Indira’s 'Garibi Hatao' offered a positive future vision that the fragmented 'Grand Alliance' could not match, leading to their crushing defeat."
+      ],
+      "hi": [
+        "1. संरचना: कांग्रेस (O), जनसंघ, स्वतंत्र पार्टी और सोशलिस्ट पार्टियों जैसे गैर-कांग्रेसी और गैर-कम्युनिस्ट विपक्षी दलों का एक गठबंधन।",
+        "2. उद्देश्य: उनका एकमात्र साझा लक्ष्य इंदिरा गांधी को हराना और उन्हें सत्ता से हटाना था।",
+        "3. नकारात्मक अभियान: उनका मुख्य नारा 'इंदिरा हटाओ' था, जिसे जनता ने एक नकारात्मक अभियान के रूप में देखा।",
+        "4. विजन की कमी: उनके पास देश के लिए कोई सुसंगत वैकल्पिक आर्थिक या सामाजिक कार्यक्रम नहीं था।",
+        "5. संगठनात्मक कमज़ोरी: ये पार्टियाँ वैचारिक रूप से एक-दूसरे से बहुत अलग थीं, जिससे ज़मीनी स्तर पर तालमेल बिठाना मुश्किल था।",
+        "6. परिणाम: इंदिरा के 'गरीबी हटाओ' ने भविष्य का एक सकारात्मक दृष्टिकोण पेश किया, जिसकी तुलना बिखरा हुआ 'ग्रैंड अलायंस' नहीं कर सका, जिससे उनकी करारी हार हुई।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "How did the nature of the Congress change after its restoration under Indira Gandhi?",
+      "hi": "इंदिरा गांधी के नेतृत्व में पुनर्स्थापना के बाद कांग्रेस का स्वरूप कैसे बदल गया?"
+    },
+    "answer": {
+      "en": [
+        "1. Centered around Leader: The new Congress was entirely dependent on the personal popularity and charisma of Indira Gandhi.",
+        "2. Weakened Organization: The internal organizational structure and democratic processes within the party became weak.",
+        "3. Shift in Social Base: It no longer represented a 'broad coalition' of all groups but focused on specific marginalized sections like Dalits and minorities.",
+        "4. Intolerance of Dissent: Factions and internal debate, which were the strength of the old Congress, were no longer tolerated.",
+        "5. Centralization of Power: Power became highly centralized in the Prime Minister's Office (PMO) rather than the party organization.",
+        "6. Fragile Restoration: Although Congress won big, it lacked the organizational resilience of the past, making it more vulnerable to future shocks like the Emergency."
+      ],
+      "hi": [
+        "1. नेता के इर्द-गिर्द केंद्रित: नई कांग्रेस पूरी तरह से इंदिरा गांधी की व्यक्तिगत लोकप्रियता और करिश्मे पर निर्भर थी।",
+        "2. कमज़ोर संगठन: पार्टी के भीतर आंतरिक संगठनात्मक ढांचा और लोकतांत्रिक प्रक्रियाएँ कमज़ोर हो गईं।",
+        "3. सामाजिक आधार में बदलाव: अब यह सभी समूहों के 'व्यापक गठबंधन' का प्रतिनिधित्व नहीं करती थी, बल्कि दलितों और अल्पसंख्यकों जैसे विशिष्ट वर्गों पर केंद्रित थी।
+        "4. असहमति के प्रति असहिष्णुता: गुटबाजी और आंतरिक बहस, जो पुरानी कांग्रेस की ताकत थी, अब बर्दाश्त नहीं की जाती थी।",
+        "5. सत्ता का केंद्रीकरण: सत्ता पार्टी संगठन के बजाय प्रधानमंत्री कार्यालय (PMO) में अत्यधिक केंद्रित हो गई।",
+        "6. अस्थिर पुनर्स्थापना: हालाँकि कांग्रेस ने बड़ी जीत हासिल की, लेकिन इसमें अतीत की संगठनात्मक मज़बूती की कमी थी, जिससे यह आपातकाल जैसे भविष्य के झटकों के प्रति अधिक संवेदनशील हो गई।"
+      ]
+    }
+  }
+]
