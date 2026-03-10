@@ -1,0 +1,252 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Analyze the reasons that led to the imposition of Emergency in India on 25 June 1975.",
+      "hi": "25 जून 1975 को भारत में आपातकाल लागू करने के कारणों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Economic Crisis: High inflation due to the 1971 war, global oil crisis, and failed monsoons led to widespread public distress.",
+        "2. Gujarat and Bihar Movements: Students' protests against corruption and rising prices (Navnirman movement) created a massive anti-government wave.",
+        "3. JP Movement: Jayaprakash Narayan called for 'Total Revolution' and asked the military and police to disobey 'illegal' government orders.",
+        "4. Railway Strike of 1974: Led by George Fernandes, the strike paralyzed the country's transport system, adding to the state's anxiety.",
+        "5. Conflict with Judiciary: The government was in constant conflict with the Supreme Court over issues like fundamental rights and the Kesavananda Bharati case.",
+        "6. Allahabad High Court Judgment: On 12 June 1975, Justice Jagmohanlal Sinha declared Indira Gandhi's 1971 election invalid, which was the immediate trigger for the Emergency."
+      ],
+      "hi": [
+        "1. आर्थिक संकट: 1971 के युद्ध, वैश्विक तेल संकट और मानसून की विफलता के कारण उच्च मुद्रास्फीति (महंगाई) ने व्यापक जन असंतोष पैदा किया।",
+        "2. गुजरात और बिहार आंदोलन: भ्रष्टाचार और बढ़ती कीमतों के खिलाफ छात्रों के विरोध प्रदर्शन (नवनिर्माण आंदोलन) ने एक विशाल सरकार विरोधी लहर पैदा की।",
+        "3. जेपी आंदोलन: जयप्रकाश नारायण ने 'संपूर्ण क्रांति' का आह्वान किया और सेना व पुलिस से सरकार के 'अवैध' आदेशों को न मानने को कहा।",
+        "4. 1974 की रेलवे हड़ताल: जॉर्ज फर्नांडीस के नेतृत्व में हुई इस हड़ताल ने देश की परिवहन व्यवस्था को ठप कर दिया, जिससे सरकार की चिंता बढ़ गई।",
+        "5. न्यायपालिका के साथ संघर्ष: सरकार मौलिक अधिकारों और केशवानंद भारती मामले जैसे मुद्दों पर सुप्रीम कोर्ट के साथ लगातार संघर्ष में थी।",
+        "6. इलाहाबाद उच्च न्यायालय का निर्णय: 12 जून 1975 को न्यायमूर्ति जगमोहनलाल सिन्हा ने इंदिरा गांधी के 1971 के चुनाव को अवैध घोषित कर दिया, जो आपातकाल का तात्कालिक कारण बना।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Discuss the consequences of the Emergency on Indian democracy and civil liberties.",
+      "hi": "भारतीय लोकतंत्र और नागरिक स्वतंत्रता पर आपातकाल के परिणामों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Suspension of Fundamental Rights: The right to move court for the enforcement of fundamental rights, including Article 21, was suspended.",
+        "2. Press Censorship: The government imposed strict censorship; newspapers had to get prior approval for any news, leading to blank editorials as a mark of protest.",
+        "3. Arrests under MISA: Thousands of opposition leaders like JP, Vajpayee, and Advani were arrested under the Maintenance of Internal Security Act (MISA) without trial.",
+        "4. Ban on Organisations: Groups like the RSS and Jamaat-e-Islami were banned to curb political dissent.",
+        "5. Constitutional Amendments: The 42nd Amendment was passed, which made major changes to the Constitution, increasing the power of the Parliament and the PM.",
+        "6. Forced Sterilization: Programs like 'Nasbandi' (sterilization) were implemented aggressively, especially in North India, leading to fear and resentment among people."
+      ],
+      "hi": [
+        "1. मौलिक अधिकारों का निलंबन: अनुच्छेद 21 सहित मौलिक अधिकारों के प्रवर्तन के लिए अदालत जाने का अधिकार निलंबित कर दिया गया था।",
+        "2. प्रेस सेंसरशिप: सरकार ने सख्त सेंसरशिप लागू की; समाचार पत्रों को किसी भी खबर के लिए पूर्व स्वीकृति लेनी पड़ती थी, जिससे विरोध के रूप में खाली संपादकीय छपने लगे।",
+        "3. मीसा (MISA) के तहत गिरफ्तारियाँ: जेपी, वाजपेयी और आडवाणी जैसे हजारों विपक्षी नेताओं को बिना मुकदमे के 'आंतरिक सुरक्षा व्यवस्था अधिनियम' (MISA) के तहत गिरफ्तार किया गया।",
+        "4. संगठनों पर प्रतिबंध: राजनीतिक असंतोष को रोकने के लिए आरएसएस और जमात-ए-इस्लामी जैसे समूहों पर प्रतिबंध लगा दिया गया।",
+        "5. संवैधानिक संशोधन: 42वां संशोधन पारित किया गया, जिसने संविधान में बड़े बदलाव किए और संसद व प्रधानमंत्री की शक्ति बढ़ा दी।",
+        "6. जबरन नसबंदी: उत्तर भारत में 'नसबंदी' जैसे कार्यक्रमों को आक्रामक तरीके से लागू किया गया, जिससे लोगों में डर और नाराजगी पैदा हुई।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "What was the 'Total Revolution' movement led by Jayaprakash Narayan?",
+      "hi": "जयप्रकाश नारायण के नेतृत्व वाला 'संपूर्ण क्रांति' आंदोलन क्या था?"
+    },
+    "answer": {
+      "en": [
+        "1. Origin: JP was invited by students of Bihar in 1974 to lead their protest against corruption and unemployment.",
+        "2. Beyond Politics: He called for a 'Total Revolution' (Sampoorna Kranti) in the social, economic, political, and cultural spheres of life.",
+        "3. Non-Party Democracy: JP believed in a democracy that was not tied to political parties but based on the active participation of the people.",
+        "4. Dismissal of Governments: He demanded the resignation of the Congress governments in Bihar and at the Center, accusing them of being authoritarian.",
+        "5. Mass Support: The movement gained support from almost all opposition parties (Jana Sangh, Socialists, BLD), turning into a national challenge for Indira Gandhi.",
+        "6. Rally at Ramlila Maidan: In June 1975, JP held a historic rally in Delhi, calling for a nationwide civil disobedience movement."
+      ],
+      "hi": [
+        "1. उत्पत्ति: जेपी को 1974 में बिहार के छात्रों ने भ्रष्टाचार और बेरोजगारी के खिलाफ उनके विरोध का नेतृत्व करने के लिए आमंत्रित किया था।",
+        "2. राजनीति से परे: उन्होंने जीवन के सामाजिक, आर्थिक, राजनीतिक और सांस्कृतिक क्षेत्रों में 'संपूर्ण क्रांति' का आह्वान किया।",
+        "3. दलविहीन लोकतंत्र: जेपी एक ऐसे लोकतंत्र में विश्वास करते थे जो राजनीतिक दलों से बंधा न हो बल्कि लोगों की सक्रिय भागीदारी पर आधारित हो।",
+        "4. सरकारों की बर्खास्तगी: उन्होंने बिहार और केंद्र की कांग्रेस सरकारों के इस्तीफे की मांग की, उन पर सत्तावादी होने का आरोप लगाया।",
+        "5. जन समर्थन: आंदोलन को लगभग सभी विपक्षी दलों (जनसंघ, सोशलिस्ट, बीएलडी) का समर्थन मिला, जो इंदिरा गांधी के लिए एक राष्ट्रीय चुनौती बन गया।",
+        "6. रामलीला मैदान में रैली: जून 1975 में, जेपी ने दिल्ली में एक ऐतिहासिक रैली की, जिसमें देशव्यापी सविनय अवज्ञा आंदोलन का आह्वान किया गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Explain the significance of the 1977 General Elections and the rise of the Janata Party.",
+      "hi": "1977 के आम चुनावों के महत्व और जनता पार्टी के उदय की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. End of Dominance: For the first time since independence, the Congress party lost its majority in the Lok Sabha.",
+        "2. Formation of Janata Party: Opposition parties like Jana Sangh, Socialists, and Congress (O) merged to form the Janata Party to provide a united alternative.",
+        "3. Mandate against Emergency: The election was seen as a referendum on the Emergency, especially in North India where Congress was wiped out.",
+        "4. First Non-Congress PM: Morarji Desai became the first non-Congress Prime Minister of India.",
+        "5. Restoration of Democracy: The new government restored the freedom of the press and reversed many controversial amendments made during the Emergency.",
+        "6. Short-lived Experiment: Despite the massive mandate, the Janata Party collapsed in 1979 due to internal leadership conflicts and lack of a common ideology."
+      ],
+      "hi": [
+        "1. प्रभुत्व का अंत: स्वतंत्रता के बाद पहली बार कांग्रेस पार्टी लोकसभा में बहुमत खो बैठी।",
+        "2. जनता पार्टी का गठन: जनसंघ, सोशलिस्ट और कांग्रेस (O) जैसे विपक्षी दलों ने एकजुट विकल्प प्रदान करने के लिए जनता पार्टी बनाने का फैसला किया।",
+        "3. आपातकाल के खिलाफ जनादेश: चुनाव को आपातकाल पर एक जनमत संग्रह के रूप में देखा गया, विशेष रूप से उत्तर भारत में जहाँ कांग्रेस का सूपड़ा साफ हो गया था।",
+        "4. पहले गैर-कांग्रेसी पीएम: मोरारजी देसाई भारत के पहले गैर-कांग्रेसी प्रधानमंत्री बने।",
+        "5. लोकतंत्र की बहाली: नई सरकार ने प्रेस की स्वतंत्रता बहाल की और आपातकाल के दौरान किए गए कई विवादास्पद संशोधनों को पलट दिया।",
+        "6. अल्पकालिक प्रयोग: भारी जनादेश के बावजूद, आंतरिक नेतृत्व संघर्ष और साझा विचारधारा की कमी के कारण 1979 में जनता पार्टी बिखर गई।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Analyze the role of the Shah Commission and its findings.",
+      "hi": "शाह आयोग की भूमिका और उसके निष्कर्षों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Appointment: Appointed in May 1977 by the Janata Party government, headed by Justice J.C. Shah, to investigate the 'excesses' committed during the Emergency.",
+        "2. Scope: The commission looked into the illegal arrests, misuse of authority, and the circumstances surrounding the imposition of the Emergency.",
+        "3. Findings on Emergency: It concluded that the decision to impose Emergency was taken by Indira Gandhi alone, without consulting the Cabinet.",
+        "4. Media and Bureaucracy: The report highlighted how the bureaucracy and police were used as personal tools of the ruling party.",
+        "5. Forced Evictions: It documented the brutal demolition of slums in Delhi (Turkman Gate) and the forced sterilization programs.",
+        "6. Significance: Although no criminal action resulted immediately, the report remains a crucial historical document documenting the dark phase of Indian democracy."
+      ],
+      "hi": [
+        "1. नियुक्ति: आपातकाल के दौरान की गई 'ज्यादतियों' की जांच के लिए न्यायमूर्ति जे.सी. शाह की अध्यक्षता में जनता पार्टी सरकार द्वारा मई 1977 में नियुक्त किया गया।",
+        "2. दायरा: आयोग ने अवैध गिरफ्तारियों, सत्ता के दुरुपयोग और आपातकाल लगाने की परिस्थितियों की जांच की।",
+        "3. आपातकाल पर निष्कर्ष: इसने निष्कर्ष निकाला कि आपातकाल लगाने का निर्णय इंदिरा गांधी ने अकेले लिया था, कैबिनेट से परामर्श किए बिना।",
+        "4. मीडिया और नौकरशाही: रिपोर्ट में इस बात पर प्रकाश डाला गया कि कैसे नौकरशाही और पुलिस का इस्तेमाल सत्ताधारी दल के व्यक्तिगत औजारों के रूप में किया गया था।",
+        "5. जबरन बेदखली: इसने दिल्ली (तुर्कमान गेट) में झुग्गियों को बेरहमी से गिराने और जबरन नसबंदी कार्यक्रमों को दस्तावेज़बद्ध किया।",
+        "6. महत्व: हालांकि तुरंत कोई आपराधिक कार्रवाई नहीं हुई, लेकिन यह रिपोर्ट भारतीय लोकतंत्र के काले दौर को दर्ज करने वाला एक महत्वपूर्ण ऐतिहासिक दस्तावेज़ है।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Discuss the lessons learned from the Emergency period for Indian Democracy.",
+      "hi": "भारतीय लोकतंत्र के लिए आपातकाल की अवधि से सीखे गए पाठों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Resilience of Democracy: The 1977 elections proved that it is very difficult to suppress democracy in India permanently; voters can punish authoritarianism.",
+        "2. Constitutional Safeguards: It led to the 44th Amendment, which made it harder to impose Internal Emergency (only on grounds of 'armed rebellion').",
+        "3. Importance of Civil Liberties: People and the judiciary became more conscious of the importance of the Right to Life and Liberty.",
+        "4. Media Independence: The period highlighted the danger of a 'committed' or controlled press, leading to a more vigilant media culture.",
+        "5. Judiciary’s Role: The Supreme Court later admitted its failure in the ADM Jabalpur case and became more proactive in protecting rights (PIL movement).",
+        "6. Vigilant Citizenship: The Emergency made the common man more aware of their political rights and the dangers of a single-leader dominance."
+      ],
+      "hi": [
+        "1. लोकतंत्र का लचीलापन: 1977 के चुनावों ने साबित कर दिया कि भारत में लोकतंत्र को स्थायी रूप से दबाना बहुत कठिन है; मतदाता सत्तावाद को दंडित कर सकते हैं।",
+        "2. संवैधानिक सुरक्षा उपाय: इसके कारण 44वां संशोधन हुआ, जिसने आंतरिक आपातकाल लगाना कठिन बना दिया (अब केवल 'सशस्त्र विद्रोह' के आधार पर ही संभव है)।",
+        "3. नागरिक स्वतंत्रता का महत्व: लोग और न्यायपालिका जीवन और स्वतंत्रता के अधिकार के महत्व के प्रति अधिक जागरूक हो गए।",
+        "4. मीडिया की स्वतंत्रता: इस अवधि ने 'प्रतिबद्ध' या नियंत्रित प्रेस के खतरे को उजागर किया, जिससे अधिक सतर्क मीडिया संस्कृति का विकास हुआ।",
+        "5. न्यायपालिका की भूमिका: सुप्रीम कोर्ट ने बाद में एडीएम जबलपुर मामले में अपनी विफलता स्वीकार की और अधिकारों की रक्षा में अधिक सक्रिय हो गया (PIL आंदोलन)।",
+        "6. सतर्क नागरिकता: आपातकाल ने आम आदमी को अपने राजनीतिक अधिकारों और एकल-नेता के प्रभुत्व के खतरों के प्रति अधिक जागरूक बना दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Explain the controversial role of Sanjay Gandhi during the Emergency.",
+      "hi": "आपातकाल के दौरान संजय गांधी की विवादास्पद भूमिका की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Extra-Constitutional Authority: Sanjay Gandhi, Indira’s younger son, held no official government post but exercised immense power over the administration.",
+        "2. 5-Point Programme: He launched his own agenda including adult literacy, tree planting, and the abolition of dowry and caste system.",
+        "3. Forced Sterilization: He was the primary force behind the aggressive mass sterilization drive which caused widespread terror in North India.",
+        "4. Urban Clearance: He led the beautification drive of Delhi, which resulted in the brutal demolition of homes in Turkman Gate and Jama Masjid areas.",
+        "5. Control over Bureaucracy: Many senior officials reported directly to him, bypassing the official Cabinet hierarchy.",
+        "6. Political Liability: His actions were seen as a major reason for the crushing defeat of the Congress party in the 1977 elections."
+      ],
+      "hi": [
+        "1. अतिरिक्त-संवैधानिक शक्ति: इंदिरा के छोटे बेटे संजय गांधी के पास कोई आधिकारिक सरकारी पद नहीं था, लेकिन उन्होंने प्रशासन पर अत्यधिक शक्ति का प्रयोग किया।",
+        "2. 5-सूत्री कार्यक्रम: उन्होंने अपना एजेंडा शुरू किया जिसमें वयस्क साक्षरता, वृक्षारोपण, और दहेज व जाति प्रथा का उन्मूलन शामिल था।",
+        "3. जबरन नसबंदी: वे आक्रामक सामूहिक नसबंदी अभियान के पीछे मुख्य शक्ति थे, जिससे उत्तर भारत में व्यापक आतंक फैल गया था।",
+        "4. शहरी सफाई: उन्होंने दिल्ली के सौंदर्यीकरण अभियान का नेतृत्व किया, जिसके परिणामस्वरूप तुर्कमान गेट और जामा मस्जिद क्षेत्रों में घरों को बेरहमी से गिराया गया।",
+        "5. नौकरशाही पर नियंत्रण: कई वरिष्ठ अधिकारी आधिकारिक कैबिनेट पदानुक्रम को दरकिनार करते हुए सीधे उन्हें रिपोर्ट करते थे।",
+        "6. राजनीतिक बोझ: उनके कार्यों को 1977 के चुनावों में कांग्रेस पार्टी की करारी हार का एक प्रमुख कारण माना गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Analyze the reasons for the failure of the Janata Party government (1977-1979).",
+      "hi": "जनता पार्टी सरकार (1977-1979) की विफलता के कारणों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Lack of Ideological Unity: The party was a mix of diverse ideologies (Socialists, Jana Sangh, Congress O) which had nothing in common except their hatred for Indira.",
+        "2. Leadership Conflict: There was a constant struggle for the PM's post between Morarji Desai, Charan Singh, and Jagjivan Ram.",
+        "3. Dual Membership Issue: Conflict over Jana Sangh members' continued association with the RSS led to internal splits.",
+        "4. No Positive Agenda: The government was so focused on investigating the Emergency excesses that it failed to provide a clear economic vision.",
+        "5. Resignation of Morarji Desai: Internal bickering led to the loss of majority, and Morarji Desai had to resign in July 1979.",
+        "6. Failed Coalition: The government that came with a massive mandate lasted only 18 months, leading to fresh elections and the return of Indira Gandhi."
+      ],
+      "hi": [
+        "1. वैचारिक एकता की कमी: पार्टी विविध विचारधाराओं (सोशलिस्ट, जनसंघ, कांग्रेस ओ) का मिश्रण थी, जिसमें इंदिरा के विरोध के अलावा कुछ भी साझा नहीं था।",
+        "2. नेतृत्व संघर्ष: मोरारजी देसाई, चरण सिंह और जगजीवन राम के बीच प्रधानमंत्री पद के लिए निरंतर संघर्ष बना रहा।",
+        "3. दोहरी सदस्यता का मुद्दा: जनसंघ के सदस्यों के आरएसएस के साथ निरंतर जुड़ाव को लेकर विवाद हुआ जिससे आंतरिक फूट पड़ी।",
+        "4. सकारात्मक एजेंडे का अभाव: सरकार आपातकाल की ज्यादतियों की जांच में इतनी व्यस्त थी कि वह स्पष्ट आर्थिक विजन देने में विफल रही।",
+        "5. मोरारजी देसाई का इस्तीफा: आंतरिक कलह के कारण बहुमत खो गया और मोरारजी देसाई को जुलाई 1979 में इस्तीफा देना पड़ा।",
+        "6. विफल गठबंधन: भारी जनादेश के साथ आई सरकार केवल 18 महीने ही चल सकी, जिससे नए चुनाव हुए और इंदिरा गांधी की वापसी हुई।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Describe the conflict between the Judiciary and the Executive during the 1970s.",
+      "hi": "1970 के दशक के दौरान न्यायपालिका और कार्यपालिका के बीच संघर्ष का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Right to Property: The conflict started when the Supreme Court struck down laws related to bank nationalization and privy purse abolition.",
+        "2. Fundamental Rights: In the Golaknath case, the court ruled that Parliament cannot amend fundamental rights.",
+        "3. Kesavananda Bharati Case (1973): The landmark judgment established the 'Basic Structure Doctrine', limiting Parliament's power to amend the Constitution.",
+        "4. Supersession of Judges: In retaliation, the government ignored the seniority principle and appointed A.N. Ray as Chief Justice, bypassing three senior judges.",
+        "5. ADM Jabalpur Case: During the Emergency, the court initially surrendered by ruling that citizens cannot seek Habeas Corpus if their rights are suspended.",
+        "6. Legitimacy Issue: The executive accused the judiciary of being an 'obstacle' to social reform, while the court tried to protect the Constitution from authoritarianism."
+      ],
+      "hi": [
+        "1. संपत्ति का अधिकार: संघर्ष तब शुरू हुआ जब सुप्रीम कोर्ट ने बैंक राष्ट्रीयकरण और प्रिवी पर्स उन्मूलन से संबंधित कानूनों को रद्द कर दिया।",
+        "2. मौलिक अधिकार: गोलकनाथ मामले में, अदालत ने फैसला सुनाया कि संसद मौलिक अधिकारों में संशोधन नहीं कर सकती।",
+        "3. केशवानंद भारती मामला (1973): ऐतिहासिक फैसले ने 'मूल संरचना सिद्धांत' (Basic Structure Doctrine) स्थापित किया, जिससे संसद की संशोधन शक्ति सीमित हो गई।",
+        "4. न्यायाधीशों की वरिष्ठता की अनदेखी: प्रतिशोध में, सरकार ने वरिष्ठता के सिद्धांत की अनदेखी की और तीन वरिष्ठ न्यायाधीशों को दरकिनार कर ए.एन. रे को मुख्य न्यायाधीश नियुक्त किया।",
+        "5. एडीएम जबलपुर मामला: आपातकाल के दौरान, अदालत ने शुरू में यह फैसला सुनाकर घुटने टेक दिए कि अधिकार निलंबित होने पर नागरिक बंदी प्रत्यक्षीकरण (Habeas Corpus) नहीं मांग सकते।",
+        "6. वैधता का मुद्दा: कार्यपालिका ने न्यायपालिका पर सामाजिक सुधार में 'बाधा' होने का आरोप लगाया, जबकि अदालत ने संविधान को सत्तावाद से बचाने की कोशिश की।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Discuss the '20-Point Programme' launched during the Emergency.",
+      "hi": "आपातकाल के दौरान शुरू किए गए '20-सूत्री कार्यक्रम' की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Launch: Announced by Indira Gandhi shortly after the Emergency began to show that the period was for 'discipline' and 'development'.",
+        "2. Economic Focus: Included land reforms, liquidation of rural debts, and increase in agricultural wages.",
+        "3. Discipline in Offices: It emphasized punctuality and efficiency in government offices, which was initially welcomed by the middle class.",
+        "4. Price Control: The government took strict measures to control the prices of essential commodities to win back public support.",
+        "5. Working Class: Promised better facilities for workers and students, including cheaper stationary and food in hostels.",
+        "6. Failure in Implementation: While the intentions were good, the program was overshadowed by the atmosphere of fear, arrests, and forced family planning."
+      ],
+      "hi": [
+        "1. शुरुआत: आपातकाल शुरू होने के तुरंत बाद इंदिरा गांधी द्वारा यह दिखाने के लिए घोषित किया गया कि यह अवधि 'अनुशासन' और 'विकास' के लिए है।",
+        "2. आर्थिक फोकस: इसमें भूमि सुधार, ग्रामीण ऋणों का निपटारा और कृषि मजदूरी में वृद्धि शामिल थी।",
+        "3. कार्यालयों में अनुशासन: इसने सरकारी कार्यालयों में समय की पाबंदी और दक्षता पर जोर दिया, जिसका शुरुआत में मध्यम वर्ग ने स्वागत किया।",
+        "4. मूल्य नियंत्रण: सरकार ने जनता का समर्थन वापस पाने के लिए आवश्यक वस्तुओं की कीमतों को नियंत्रित करने के लिए सख्त कदम उठाए।",
+        "5. श्रमिक वर्ग: श्रमिकों और छात्रों के लिए बेहतर सुविधाओं का वादा किया गया, जिसमें हॉस्टलों में सस्ता भोजन और स्टेशनरी शामिल थी।",
+        "6. कार्यान्वयन में विफलता: हालांकि इरादे अच्छे थे, लेकिन डर के माहौल, गिरफ्तारियों और जबरन परिवार नियोजन के कारण यह कार्यक्रम धूमिल हो गया।"
+      ]
+    }
+  }
+]
