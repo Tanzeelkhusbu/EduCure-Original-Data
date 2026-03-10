@@ -1,0 +1,191 @@
+[
+  {
+    "topic_id": 1,
+    "title": {
+      "en": "1. Concept and Meaning of Globalization",
+      "hi": "1. वैश्वीकरण की अवधारणा और अर्थ"
+    },
+    "points": {
+      "en": [
+        "Core Meaning: Globalization broadly refers to the rapid integration and interconnectedness of countries through the free flow of various elements across the globe.",
+        "Four Flows: It is based on the continuous flow of ideas, capital, commodities, and people across international boundaries.",
+        "Multidimensional Process: It is a complex, multidimensional phenomenon having political, economic, and cultural manifestations, and is not limited to just trade.",
+        "Interconnectedness: Globalization has created a sense of global interconnectedness, where an event in one part of the world heavily impacts other parts.",
+        "Uneven Impact: The impact of globalization is highly uneven; it affects different countries and different sections of society within a country very differently.",
+        "Historical Context: While flows existed in ancient history (e.g., Silk Route), the scale, speed, and depth of contemporary globalization are unprecedented.",
+        "Not Always Positive: Globalization is a neutral process; it has generated both immense wealth and deep inequalities, leading to debates about its actual benefits."
+      ],
+      "hi": [
+        "मूल अर्थ: वैश्वीकरण व्यापक रूप से दुनिया भर में विभिन्न तत्वों के मुक्त प्रवाह के माध्यम से देशों के तेज़ी से एकीकरण और परस्पर जुड़ाव को संदर्भित करता है।",
+        "चार प्रवाह: यह अंतरराष्ट्रीय सीमाओं के पार विचारों, पूँजी, वस्तुओं और लोगों (श्रम) के निरंतर प्रवाह पर आधारित है।",
+        "बहुआयामी प्रक्रिया: यह एक जटिल, बहुआयामी घटना है जिसके राजनीतिक, आर्थिक और सांस्कृतिक प्रभाव हैं, और यह केवल व्यापार तक सीमित नहीं है।",
+        "परस्पर जुड़ाव: वैश्वीकरण ने वैश्विक परस्पर जुड़ाव की भावना पैदा की है, जहाँ दुनिया के एक हिस्से में होने वाली घटना दूसरे हिस्सों को बहुत प्रभावित करती है।",
+        "असमान प्रभाव: वैश्वीकरण का प्रभाव अत्यधिक असमान है; यह विभिन्न देशों और एक देश के भीतर समाज के विभिन्न वर्गों को बहुत अलग तरीके से प्रभावित करता है।",
+        "ऐतिहासिक संदर्भ: यद्यपि प्राचीन इतिहास में भी प्रवाह मौजूद थे (जैसे सिल्क रूट), समकालीन वैश्वीकरण का पैमाना, गति और गहराई अभूतपूर्व है।",
+        "हमेशा सकारात्मक नहीं: वैश्वीकरण एक तटस्थ प्रक्रिया है; इसने अपार धन और गहरी असमानताएँ दोनों पैदा की हैं, जिससे इसके वास्तविक लाभों के बारे में बहस छिड़ गई है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 2,
+    "title": {
+      "en": "2. Causes of Globalization",
+      "hi": "2. वैश्वीकरण के कारण"
+    },
+    "points": {
+      "en": [
+        "Role of Technology: The most crucial element driving contemporary globalization is the massive advancement in technology.",
+        "Communication Revolution: Inventions like the telegraph, telephone, microchip, and the internet have revolutionized communication across the globe.",
+        "Printing and Publishing: Historically, the invention of the printing press laid the foundation for the rapid spread of ideas and nationalism.",
+        "Transport Innovations: Improvements in aviation and shipping (containerization) have made the physical movement of goods and people faster and cheaper.",
+        "Global Awareness: Technology has created a shared global consciousness where people recognize that they are part of a global community.",
+        "Interdependence: Natural disasters like the Tsunami or health crises like COVID-19 have proved that global interdependence is a permanent reality.",
+        "Economic Policies: The deliberate removal of trade barriers and adoption of liberal policies by governments have aggressively pushed the globalization agenda."
+      ],
+      "hi": [
+        "प्रौद्योगिकी की भूमिका: समकालीन वैश्वीकरण को चलाने वाला सबसे महत्वपूर्ण तत्व प्रौद्योगिकी (Technology) में हुई भारी प्रगति है।",
+        "संचार क्रांति: टेलीग्राफ, टेलीफोन, माइक्रोचिप और इंटरनेट जैसे आविष्कारों ने दुनिया भर में संचार में क्रांति ला दी है।",
+        "मुद्रण और प्रकाशन: ऐतिहासिक रूप से, प्रिंटिंग प्रेस के आविष्कार ने विचारों और राष्ट्रवाद के तेज़ी से प्रसार की नींव रखी थी।",
+        "परिवहन नवाचार: विमानन (Aviation) और शिपिंग (कंटेनरीकरण) में सुधार ने माल और लोगों की भौतिक आवाजाही को तेज़ और सस्ता बना दिया है।",
+        "वैश्विक जागरूकता: प्रौद्योगिकी ने एक साझा वैश्विक चेतना पैदा की है जहाँ लोग पहचानते हैं कि वे एक वैश्विक समुदाय का हिस्सा हैं।",
+        "परस्पर निर्भरता: सुनामी जैसी प्राकृतिक आपदाओं या कोविड-19 जैसे स्वास्थ्य संकटों ने साबित कर दिया है कि वैश्विक परस्पर निर्भरता एक स्थायी वास्तविकता है।",
+        "आर्थिक नीतियां: व्यापार बाधाओं को जानबूझकर हटाने और सरकारों द्वारा उदार नीतियों को अपनाने ने वैश्वीकरण के एजेंडे को आक्रामक रूप से आगे बढ़ाया है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 3,
+    "title": {
+      "en": "3. Political Consequences of Globalization",
+      "hi": "3. वैश्वीकरण के राजनीतिक परिणाम"
+    },
+    "points": {
+      "en": [
+        "Erosion of State Capacity: Globalization has led to a reduction in the ability of governments to do what they want, as markets increasingly dictate economic and social policies.",
+        "Minimalist State: The traditional 'Welfare State' is stepping back and transforming into a 'Minimalist State' that only performs core functions like maintaining law and order.",
+        "Influence of MNCs: Multinational Corporations (MNCs) have gained immense power and often influence the political decisions and policies of sovereign governments.",
+        "Primacy of Market: The market has replaced the state as the prime determinant of economic and social priorities.",
+        "State Remains Relevant: Despite these challenges, the state continues to be the primary actor in global politics, and national loyalties remain strong.",
+        "Core Functions Intact: States have not given up their essential functions like national security, defense, and foreign policy to international bodies.",
+        "Enhanced Capacity: Interestingly, globalization has also enhanced state capacity by providing governments with advanced technology to collect information and govern citizens better."
+      ],
+      "hi": [
+        "राज्य की क्षमता में कमी: वैश्वीकरण के कारण सरकारों की अपनी मनमर्ज़ी करने की क्षमता कम हो गई है, क्योंकि बाज़ार तेजी से आर्थिक और सामाजिक नीतियां तय कर रहे हैं।",
+        "न्यूनतम हस्तक्षेपकारी राज्य: पारंपरिक 'कल्याणकारी राज्य' पीछे हट रहा है और 'न्यूनतम हस्तक्षेपकारी राज्य' (Minimalist State) में बदल रहा है जो केवल कानून-व्यवस्था बनाए रखने जैसे मुख्य कार्य करता है।",
+        "बहुराष्ट्रीय कंपनियों का प्रभाव: बहुराष्ट्रीय कंपनियों (MNCs) ने अपार शक्ति प्राप्त कर ली है और अक्सर संप्रभु सरकारों के राजनीतिक निर्णयों और नीतियों को प्रभावित करती हैं।",
+        "बाज़ार की प्रधानता: बाज़ार ने आर्थिक और सामाजिक प्राथमिकताओं के मुख्य निर्धारक के रूप में राज्य की जगह ले ली है।",
+        "राज्य की प्रासंगिकता बरकरार: इन चुनौतियों के बावजूद, वैश्विक राजनीति में राज्य प्राथमिक अभिनेता (Actor) बना हुआ है, और राष्ट्रीय वफादारी मज़बूत बनी हुई है।",
+        "मुख्य कार्य बरकरार: राज्यों ने राष्ट्रीय सुरक्षा, रक्षा और विदेश नीति जैसे अपने आवश्यक कार्यों को अंतर्राष्ट्रीय निकायों को नहीं सौंपा है।",
+        "क्षमता में वृद्धि: दिलचस्प बात यह है कि वैश्वीकरण ने सरकारों को जानकारी इकट्ठा करने और नागरिकों पर बेहतर शासन करने के लिए उन्नत तकनीक प्रदान करके राज्य की क्षमता को बढ़ाया भी है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 4,
+    "title": {
+      "en": "4. Economic Consequences",
+      "hi": "4. आर्थिक परिणाम"
+    },
+    "points": {
+      "en": [
+        "Role of Institutions: Institutions like the IMF and WTO play a major role in determining global economic policies, often forcing developing nations to open their markets.",
+        "Increased Trade: There has been a massive increase in international trade, giving consumers a wider variety of goods at competitive prices.",
+        "Capital Flow: Massive amounts of capital flow across the globe quickly, seeking the highest profits, which boosts investment but also causes financial instability.",
+        "Unequal People Flow: While developed countries demand the free flow of capital and goods, they restrict the movement of labor (people) using strict visa policies.",
+        "Economic Growth: Supporters argue that greater trade integration leads to higher economic growth, efficiency, and well-being for a larger section of the population.",
+        "Rise in Inequality: Critics argue that economic globalization benefits only a small elite, ruining local businesses and increasing the gap between the rich and the poor.",
+        "Social Safety Nets: Due to the withdrawal of state welfare, critics demand 'social safety nets' to protect the poor and marginalized from the harsh impacts of globalization."
+      ],
+      "hi": [
+        "संस्थाओं की भूमिका: IMF और WTO जैसी संस्थाएँ वैश्विक आर्थिक नीतियों को निर्धारित करने में प्रमुख भूमिका निभाती हैं, अक्सर विकासशील देशों को अपने बाज़ार खोलने के लिए मजबूर करती हैं।",
+        "व्यापार में वृद्धि: अंतर्राष्ट्रीय व्यापार में भारी वृद्धि हुई है, जिससे उपभोक्ताओं को प्रतिस्पर्धी कीमतों पर वस्तुओं की एक विस्तृत विविधता मिल रही है।",
+        "पूँजी प्रवाह: दुनिया भर में भारी मात्रा में पूँजी उच्चतम मुनाफे की तलाश में तेज़ी से प्रवाहित होती है, जो निवेश को बढ़ाती है लेकिन वित्तीय अस्थिरता भी पैदा करती है।",
+        "लोगों का असमान प्रवाह: जहाँ विकसित देश पूँजी और माल के मुक्त प्रवाह की मांग करते हैं, वहीं वे सख्त वीज़ा नीतियों का उपयोग करके श्रम (लोगों) की आवाजाही को प्रतिबंधित करते हैं।",
+        "आर्थिक विकास: समर्थकों का तर्क है कि अधिक व्यापार एकीकरण से उच्च आर्थिक विकास, दक्षता और आबादी के एक बड़े हिस्से की भलाई होती है।",
+        "असमानता में वृद्धि: आलोचकों का तर्क है कि आर्थिक वैश्वीकरण केवल एक छोटे अभिजात वर्ग (अमीरों) को लाभ पहुँचाता है, स्थानीय व्यवसायों को बर्बाद करता है और अमीर व गरीब के बीच की खाई को बढ़ाता है।",
+        "सामाजिक सुरक्षा जाल: राज्य के कल्याणकारी कार्यों के पीछे हटने के कारण, आलोचक गरीबों को वैश्वीकरण के कठोर प्रभावों से बचाने के लिए 'सामाजिक सुरक्षा जाल' (Social Safety Nets) की मांग करते हैं।"
+      ]
+    }
+  },
+  {
+    "topic_id": 5,
+    "title": {
+      "en": "5. Cultural Consequences",
+      "hi": "5. सांस्कृतिक परिणाम"
+    },
+    "points": {
+      "en": [
+        "Impact on Daily Life: Globalization strongly affects what we eat, drink, wear, and think, directly influencing our cultural preferences.",
+        "Cultural Homogenization: The fear that globalization is leading to the rise of a uniform global culture, erasing the distinctiveness of traditional cultures.",
+        "Western Dominance: This global culture is often just the imposition of Western (specifically American) culture, known as the 'McDonaldization' of society.",
+        "Loss of Heritage: Critics argue that homogenization is dangerous because it leads to the shrinking of the rich cultural heritage of the entire globe.",
+        "Cultural Heterogenization: Alternatively, globalization also leads to cultures mixing together to create new, unique forms (e.g., Masala Dosa burger or wearing jeans with Khadi).",
+        "Enrichment of Culture: Proponents argue that cultures are not static; external influences simply enlarge our choices without totally destroying traditional practices.",
+        "Resilience of Local Cultures: Local cultures are resilient and often adapt foreign influences to suit their own tastes, making themselves more diverse."
+      ],
+      "hi": [
+        "दैनिक जीवन पर प्रभाव: वैश्वीकरण इस बात को दृढ़ता से प्रभावित करता है कि हम क्या खाते हैं, पीते हैं, पहनते हैं और सोचते हैं, जो सीधे हमारी सांस्कृतिक प्राथमिकताओं को प्रभावित करता है।",
+        "सांस्कृतिक समरूपता (Homogenization): यह डर कि वैश्वीकरण एक समान वैश्विक संस्कृति के उदय की ओर ले जा रहा है, जिससे पारंपरिक संस्कृतियों की विशिष्टता मिट रही है।",
+        "पश्चिमी प्रभुत्व: यह वैश्विक संस्कृति अक्सर पश्चिमी (विशेष रूप से अमेरिकी) संस्कृति का थोपा जाना है, जिसे समाज का 'मैकडॉनल्डाइजेशन' (McDonaldization) कहा जाता है।",
+        "विरासत का नुकसान: आलोचकों का तर्क है कि समरूपता खतरनाक है क्योंकि यह पूरी दुनिया की समृद्ध सांस्कृतिक विरासत को सिकोड़ देती है।",
+        "सांस्कृतिक विभिन्नता (Heterogenization): इसके विपरीत, वैश्वीकरण संस्कृतियों के मिश्रण से नए, अनूठे रूपों को भी जन्म देता है (जैसे मसाला डोसा बर्गर या खादी के साथ जींस पहनना)।",
+        "संस्कृति की समृद्धि: समर्थकों का तर्क है कि संस्कृतियाँ स्थिर नहीं हैं; बाहरी प्रभाव हमारी पारंपरिक प्रथाओं को पूरी तरह नष्ट किए बिना केवल हमारे विकल्पों को बढ़ाते हैं।",
+        "स्थानीय संस्कृतियों का लचीलापन: स्थानीय संस्कृतियाँ लचीली होती हैं और अक्सर विदेशी प्रभावों को अपने स्वाद के अनुकूल ढाल लेती हैं, जिससे वे अधिक विविध बन जाती हैं।"
+      ]
+    }
+  },
+  {
+    "topic_id": 6,
+    "title": {
+      "en": "6. India and Globalization",
+      "hi": "6. भारत और वैश्वीकरण"
+    },
+    "points": {
+      "en": [
+        "Colonial Past: During British rule, India was a prominent exporter of primary goods and raw materials and an importer of finished goods.",
+        "Post-Independence Isolation: To protect domestic producers, India adopted a protectionist policy post-1947, restricting imports and relying on self-sufficiency.",
+        "The 1991 Crisis: Facing a severe balance of payments crisis and mounting debt, India was forced to change its economic strategy.",
+        "LPG Reforms: In 1991, India introduced structural reforms encompassing Liberalization, Privatization, and Globalization (LPG) to open up its economy.",
+        "Economic Growth: The reforms led to a significant increase in foreign investment, export growth, and the rise of India as a global IT and services hub.",
+        "Uneven Benefits: While the middle class expanded and urban centers flourished, the benefits of globalization did not adequately reach the rural poor and farmers.",
+        "Global Soft Power: Globalization also facilitated the export of Indian culture, such as Yoga, Bollywood, and cuisine, creating strong cultural influence worldwide."
+      ],
+      "hi": [
+        "औपनिवेशिक अतीत: ब्रिटिश शासन के दौरान, भारत प्राथमिक वस्तुओं और कच्चे माल का एक प्रमुख निर्यातक तथा तैयार माल का आयातक था।",
+        "आज़ादी के बाद का अलगाव: घरेलू उत्पादकों को बचाने के लिए, भारत ने 1947 के बाद संरक्षणवादी नीति अपनाई, आयात को प्रतिबंधित किया और आत्मनिर्भरता पर ज़ोर दिया।",
+        "1991 का संकट: भुगतान संतुलन के गंभीर संकट और बढ़ते कर्ज का सामना करते हुए, भारत को अपनी आर्थिक रणनीति बदलने के लिए मजबूर होना पड़ा।",
+        "LPG सुधार: 1991 में, भारत ने अपनी अर्थव्यवस्था को खोलने के लिए उदारीकरण, निजीकरण और वैश्वीकरण (LPG) को शामिल करते हुए संरचनात्मक सुधार शुरू किए।",
+        "आर्थिक विकास: इन सुधारों से विदेशी निवेश, निर्यात वृद्धि और वैश्विक IT व सेवा केंद्र के रूप में भारत का उदय हुआ।",
+        "असमान लाभ: जहाँ मध्यम वर्ग का विस्तार हुआ और शहरी केंद्र फले-फूले, वहीं वैश्वीकरण के लाभ ग्रामीण गरीबों और किसानों तक पर्याप्त रूप से नहीं पहुँच पाए।",
+        "वैश्विक सॉफ्ट पावर: वैश्वीकरण ने योग, बॉलीवुड और भारतीय व्यंजनों जैसी भारतीय संस्कृति के निर्यात को भी सुविधाजनक बनाया, जिससे दुनिया भर में मज़बूत सांस्कृतिक प्रभाव पैदा हुआ।"
+      ]
+    }
+  },
+  {
+    "topic_id": 7,
+    "title": {
+      "en": "7. Resistance to Globalization",
+      "hi": "7. वैश्वीकरण का प्रतिरोध (विरोध)"
+    },
+    "points": {
+      "en": [
+        "Widespread Protests: Globalization has faced strong resistance globally because it has created massive inequalities and marginalized vulnerable populations.",
+        "Left-Wing Resistance: Leftist groups protest against economic globalization, arguing that it represents a new form of global capitalism that exploits workers and poor nations.",
+        "Right-Wing Resistance: Rightist groups oppose it due to the political erosion of state sovereignty and the cultural threat to traditional values and local identities.",
+        "World Social Forum (WSF): The WSF is a major global platform bringing together human rights activists, environmentalists, labor, and youth to oppose neo-liberal globalization.",
+        "Another World is Possible: The WSF operates under this slogan, advocating for a globalization that is fair and focuses on social justice rather than corporate profit.",
+        "Resistance in India: Trade unions, farmers' groups, and patent-activists (e.g., against neem/basmati patenting by MNCs) actively protest the WTO regime in India.",
+        "Cultural Protests in India: Political right-wing groups in India often protest against cultural influences like Valentine's Day celebrations or the Westernization of youth clothing."
+      ],
+      "hi": [
+        "व्यापक विरोध: वैश्वीकरण को विश्व स्तर पर कड़े प्रतिरोध का सामना करना पड़ा है क्योंकि इसने भारी असमानताएँ पैदा की हैं और कमज़ोर आबादी को हाशिए पर धकेल दिया है।",
+        "वामपंथी प्रतिरोध: वामपंथी समूह आर्थिक वैश्वीकरण का विरोध करते हैं, उनका तर्क है कि यह वैश्विक पूँजीवाद का एक नया रूप है जो श्रमिकों और गरीब राष्ट्रों का शोषण करता है।",
+        "दक्षिणपंथी प्रतिरोध: दक्षिणपंथी समूह राज्य की संप्रभुता के राजनीतिक क्षरण और पारंपरिक मूल्यों व स्थानीय पहचान के लिए सांस्कृतिक खतरे के कारण इसका विरोध करते हैं।",
+        "वर्ल्ड सोशल फोरम (WSF): WSF एक प्रमुख वैश्विक मंच है जो नव-उदारवादी वैश्वीकरण का विरोध करने के लिए मानवाधिकार कार्यकर्ताओं, पर्यावरणविदों, मज़दूरों और युवाओं को एक साथ लाता है।",
+        "एक और दुनिया संभव है (Another World is Possible): WSF इस नारे के तहत काम करता है, और एक ऐसे वैश्वीकरण की वकालत करता है जो निष्पक्ष हो और कॉर्पोरेट लाभ के बजाय सामाजिक न्याय पर केंद्रित हो।",
+        "भारत में प्रतिरोध: ट्रेड यूनियन, किसान समूह और पेटेंट-कार्यकर्ता (जैसे बहुराष्ट्रीय कंपनियों द्वारा नीम/बासमती के पेटेंट के खिलाफ) भारत में WTO शासन का सक्रिय रूप से विरोध करते हैं।",
+        "भारत में सांस्कृतिक विरोध: भारत में राजनीतिक दक्षिणपंथी समूह अक्सर वैलेंटाइन डे समारोह या युवाओं के कपड़ों के पश्चिमीकरण जैसे सांस्कृतिक प्रभावों के खिलाफ विरोध प्रदर्शन करते हैं।"
+      ]
+    }
+  }
+]
