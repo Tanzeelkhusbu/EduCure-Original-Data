@@ -1,0 +1,252 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "What were the two main models of development available to India at the time of independence? Which one did India choose and why?",
+      "hi": "आज़ादी के समय भारत के पास विकास के दो मुख्य मॉडल कौन से थे? भारत ने किसे चुना और क्यों?"
+    },
+    "answer": {
+      "en": [
+        "1. Liberal-Capitalist Model: Followed by the USA and much of Europe, it emphasized private property, free markets, and minimal government intervention.",
+        "2. Socialist Model: Followed by the USSR, it involved state ownership of all resources and centralized planning for the welfare of the poor.",
+        "3. India's Choice: India did not fully adopt either; instead, it chose a 'Mixed Economy' model that combined elements of both.",
+        "4. Reason for Choice: Leaders like Nehru believed that state intervention was necessary for large-scale social welfare and to pull the country out of poverty.",
+        "5. Private Sector Role: While key industries were under the state, the private sector was allowed to grow in areas like agriculture, trade, and small industries.",
+        "6. Balanced Growth: The goal was to ensure rapid economic growth while maintaining social justice and reducing inequality."
+      ],
+      "hi": [
+        "1. उदारवादी-पूँजीवादी मॉडल: अमेरिका और अधिकांश यूरोप द्वारा अपनाया गया, यह निजी संपत्ति, मुक्त बाज़ार और न्यूनतम सरकारी हस्तक्षेप पर ज़ोर देता था।",
+        "2. समाजवादी मॉडल: सोवियत संघ द्वारा अपनाया गया, इसमें सभी संसाधनों पर राज्य का स्वामित्व और गरीबों के कल्याण के लिए केंद्रीकृत योजना शामिल थी।",
+        "3. भारत का चुनाव: भारत ने किसी को भी पूरी तरह से नहीं अपनाया; इसके बजाय, 'मिश्रित अर्थव्यवस्था' (Mixed Economy) मॉडल को चुना जिसमें दोनों के तत्व शामिल थे।",
+        "4. चुनाव का कारण: नेहरू जैसे नेताओं का मानना था कि बड़े पैमाने पर जन कल्याण और देश को गरीबी से निकालने के लिए राज्य का हस्तक्षेप आवश्यक था।",
+        "5. निजी क्षेत्र की भूमिका: जहाँ मुख्य उद्योग राज्य के अधीन थे, वहीं निजी क्षेत्र को कृषि, व्यापार और लघु उद्योगों जैसे क्षेत्रों में फलने-फूलने की अनुमति दी गई थी।",
+        "6. संतुलित विकास: लक्ष्य सामाजिक न्याय बनाए रखते हुए और असमानता को कम करते हुए तेज़ी से आर्थिक विकास सुनिश्चित करना था।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "Analyze the role and objectives of the Planning Commission of India.",
+      "hi": "भारत के योजना आयोग की भूमिका और उद्देश्यों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Establishment: Formed in March 1950 through a government resolution, with the Prime Minister as its ex-officio Chairperson.",
+        "2. Advisory Role: It acted as an advisory body to the government, helping to design Five-Year Plans (FYPs).",
+        "3. Resource Assessment: Its primary task was to assess the country's physical, capital, and human resources for effective use.",
+        "4. Balanced Planning: It aimed to ensure balanced growth across all regions and sections of society through planned investment.",
+        "5. National Priorities: The commission identified the most urgent needs of the nation, such as food security, industrialization, or education.",
+        "6. Shift to NITI Aayog: In 2015, it was replaced by NITI Aayog to bring a more 'bottom-up' approach and cooperative federalism to planning."
+      ],
+      "hi": [
+        "1. स्थापना: मार्च 1950 में एक सरकारी प्रस्ताव के माध्यम से गठित, जिसमें प्रधानमंत्री इसके पदेन अध्यक्ष होते थे।",
+        "2. सलाहकार भूमिका: इसने सरकार के लिए एक सलाहकार निकाय के रूप में कार्य किया, जो पंचवर्षीय योजनाओं (FYPs) को तैयार करने में मदद करता था।",
+        "3. संसाधनों का आकलन: इसका प्राथमिक कार्य प्रभावी उपयोग के लिए देश के भौतिक, पूँजीगत और मानवीय संसाधनों का आकलन करना था।",
+        "4. संतुलित योजना: इसका उद्देश्य नियोजित निवेश के माध्यम से समाज के सभी क्षेत्रों और वर्गों में संतुलित विकास सुनिश्चित करना था।",
+        "5. राष्ट्रीय प्राथमिकताएँ: आयोग ने राष्ट्र की सबसे तात्कालिक ज़रूरतों की पहचान की, जैसे खाद्य सुरक्षा, औद्योगीकरण या शिक्षा।",
+        "6. नीति आयोग में बदलाव: 2015 में, योजना बनाने में अधिक 'नीचे से ऊपर' (bottom-up) दृष्टिकोण और सहकारी संघवाद लाने के लिए इसे नीति आयोग द्वारा प्रतिस्थापित किया गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Discuss the 'Agriculture vs Industry' controversy during the first two Five Year Plans.",
+      "hi": "पहली दो पंचवर्षीय योजनाओं के दौरान 'कृषि बनाम उद्योग' विवाद की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. First Five Year Plan (1951-56): It focused heavily on agriculture, irrigation, and power projects (e.g., Bhakra Nangal Dam) to solve the immediate food crisis.",
+        "2. Second Five Year Plan (1956-61): Known as the Mahalanobis Plan, it shifted focus to rapid industrialization and heavy industries (steel, energy).",
+        "3. The Controversy: Critics like Chaudhary Charan Singh argued that neglecting agriculture would lead to rural poverty and food shortages.",
+        "4. Pro-Industry View: Supporters argued that without heavy industries, India could never become self-reliant or a global power.",
+        "5. Capital Intensive: The shift to industry required massive investment, which many felt should have gone into land reforms and rural development.",
+        "6. Long-term Impact: This debate highlighted the difficulty of balancing resources in a poor country where both food and technology were urgent needs."
+      ],
+      "hi": [
+        "1. पहली पंचवर्षीय योजना (1951-56): इसने तात्कालिक खाद्य संकट को हल करने के लिए कृषि, सिंचाई और बिजली परियोजनाओं (जैसे भाखड़ा नांगल बाँध) पर भारी ध्यान दिया।",
+        "2. दूसरी पंचवर्षीय योजना (1956-61): महालनोबिस योजना के रूप में जानी जाने वाली इस योजना ने अपना ध्यान तेज़ी से औद्योगीकरण और भारी उद्योगों (इस्पात, ऊर्जा) की ओर स्थानांतरित कर दिया।",
+        "3. विवाद: चौधरी चरण सिंह जैसे आलोचकों ने तर्क दिया कि कृषि की अनदेखी करने से ग्रामीण गरीबी और खाद्यान्न की कमी होगी।",
+        "4. उद्योग-समर्थक विचार: समर्थकों का तर्क था कि भारी उद्योगों के बिना, भारत कभी भी आत्मनिर्भर या वैश्विक शक्ति नहीं बन सकता।",
+        "5. पूँजी गहन (Capital Intensive): उद्योग की ओर बदलाव के लिए भारी निवेश की आवश्यकता थी, जिसे कई लोगों ने महसूस किया कि इसे भूमि सुधार और ग्रामीण विकास में जाना चाहिए था।",
+        "6. दीर्घकालिक प्रभाव: इस बहस ने एक गरीब देश में संसाधनों को संतुलित करने की कठिनाई को उजागर किया जहाँ भोजन और तकनीक दोनों ही तात्कालिक ज़रूरतें थीं।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Explain the significance and impact of the Green Revolution in India.",
+      "hi": "भारत में हरित क्रांति के महत्व और प्रभाव की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: A period in the late 1960s marked by a massive increase in food grain production through High-Yielding Variety (HYV) seeds, fertilizers, and irrigation.",
+        "2. Shift in Strategy: The government abandoned the 'slow' land reforms and instead focused on providing resources to farmers who already had land and irrigation.",
+        "3. Food Self-sufficiency: India, which was earlier dependent on food imports (like US PL-480), became self-sufficient and started building buffer stocks.",
+        "4. Regional Imbalance: The benefits were concentrated in a few states like Punjab, Haryana, and Western UP, while others remained backward.",
+        "5. Social Inequality: It widened the gap between big landlords and small peasants, as only rich farmers could afford expensive inputs like tractors and chemical fertilizers.",
+        "6. Political Rise: It led to the rise of middle-peasant castes as powerful political forces in North India."
+      ],
+      "hi": [
+        "1. परिभाषा: 1960 के दशक के अंत की वह अवधि जब उच्च उपज वाले (HYV) बीजों, उर्वरकों और सिंचाई के माध्यम से खाद्यान्न उत्पादन में भारी वृद्धि हुई।",
+        "2. रणनीति में बदलाव: सरकार ने 'धीमे' भूमि सुधारों को छोड़ दिया और इसके बजाय उन किसानों को संसाधन प्रदान करने पर ध्यान केंद्रित किया जिनके पास पहले से ही भूमि और सिंचाई थी।",
+        "3. खाद्य आत्मनिर्भरता: भारत, जो पहले खाद्य आयात (जैसे अमेरिकी PL-480) पर निर्भर था, आत्मनिर्भर बन गया और बफर स्टॉक बनाना शुरू कर दिया।",
+        "4. क्षेत्रीय असंतुलन: लाभ पंजाब, हरियाणा और पश्चिमी यूपी जैसे कुछ राज्यों में ही केंद्रित रहे, जबकि अन्य पिछड़े रहे।",
+        "5. सामाजिक असमानता: इसने बड़े ज़मींदारों और छोटे किसानों के बीच की खाई को बढ़ा दिया, क्योंकि केवल अमीर किसान ही ट्रैक्टर और रासायनिक उर्वरकों जैसे महंगे इनपुट खरीद सकते थे।",
+        "6. राजनीतिक उदय: इसके कारण उत्तर भारत में मध्यम-किसान जातियों का शक्तिशाली राजनीतिक ताकतों के रूप में उदय हुआ।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Analyze the challenges and successes of Land Reforms in independent India.",
+      "hi": "स्वतंत्र भारत में भूमि सुधारों की चुनौतियों और सफलताओं का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Abolition of Zamindari: The most successful reform was the abolition of the legal system of Zamindari, which removed intermediaries between the state and peasants.",
+        "2. Land Ceiling: Laws were passed to limit the maximum amount of land a person could own, aiming to redistribute surplus land to the landless.",
+        "3. Tenancy Reforms: These aimed to provide security of tenure to the tillers (tenants) and regulate the rent they paid.",
+        "4. Implementation Failure: While Zamindari was abolished, land ceiling laws were often bypassed by landlords through 'benami' transfers in the name of relatives.",
+        "5. Political Resistance: Large landowners held significant political power, which made the implementation of radical land reforms very difficult for the state.",
+        "6. Consolidation of Holdings: Success was seen in the consolidation of small, scattered plots into larger, more manageable units of land."
+      ],
+      "hi": [
+        "1. ज़मींदारी प्रथा का उन्मूलन: सबसे सफल सुधार ज़मींदारी की कानूनी व्यवस्था का उन्मूलन था, जिसने राज्य और किसानों के बीच के बिचौलियों को हटा दिया।",
+        "2. भूमि की चकबंदी (Land Ceiling): एक व्यक्ति के पास अधिकतम भूमि की सीमा तय करने के लिए कानून पारित किए गए, जिसका लक्ष्य भूमिहीनों को अधिशेष भूमि वितरित करना था।",
+        "3. काश्तकारी सुधार: इनका उद्देश्य जोतने वालों (काश्तकारों) को कार्यकाल की सुरक्षा प्रदान करना और उनके द्वारा भुगतान किए जाने वाले किराए को विनियमित करना था।",
+        "4. कार्यान्वयन की विफलता: जबकि ज़मींदारी खत्म कर दी गई थी, ज़मींदारों ने अक्सर रिश्तेदारों के नाम पर 'बेनामी' हस्तांतरण के माध्यम से भूमि सीमा कानूनों को तोड़ दिया।",
+        "5. राजनीतिक प्रतिरोध: बड़े भूस्वामियों के पास महत्वपूर्ण राजनीतिक शक्ति थी, जिससे राज्य के लिए क्रांतिकारी भूमि सुधारों को लागू करना बहुत कठिन हो गया।",
+        "6. जोतों की चकबंदी: छोटे, बिखरे हुए भूखंडों को बड़े और अधिक प्रबंधनीय इकाइयों में समेकित करने में सफलता देखी गई।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "What was the 'Milkman of India' and the White Revolution? Explain its significance.",
+      "hi": "'मिल्कमैन ऑफ इंडिया' और श्वेत क्रांति क्या थी? इसके महत्व की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. The Hero: Verghese Kurien is known as the 'Milkman of India' for his pioneering work with the Amul cooperative in Gujarat.",
+        "2. Operation Flood: Launched in 1970, it was a rural development program that organized milk producers into a nationwide milk grid.",
+        "3. Objectives: It aimed to increase milk production, provide fair prices to producers, and ensure supply to consumers in cities.",
+        "4. Empowerment: It was not just a dairy program but a path for rural development and the empowerment of millions of small farmers and women.",
+        "5. Global Leader: Due to this revolution, India became the world's largest producer of milk.",
+        "6. Cooperative Model: It proved that the cooperative model could be highly successful in a democratic and diverse country like India."
+      ],
+      "hi": [
+        "1. नायक: वर्गीज़ कुरियन को गुजरात में अमूल सहकारी संस्था के साथ उनके अग्रणी कार्य के लिए 'मिल्कमैन ऑफ इंडिया' के रूप में जाना जाता है।",
+        "2. ऑपरेशन फ्लड: 1970 में शुरू किया गया, यह एक ग्रामीण विकास कार्यक्रम था जिसने दुग्ध उत्पादकों को राष्ट्रव्यापी दुग्ध ग्रिड में संगठित किया।",
+        "3. उद्देश्य: इसका लक्ष्य दूध उत्पादन बढ़ाना, उत्पादकों को उचित मूल्य प्रदान करना और शहरों में उपभोक्ताओं को आपूर्ति सुनिश्चित करना था।",
+        "4. सशक्तिकरण: यह केवल एक डेयरी कार्यक्रम नहीं था, बल्कि ग्रामीण विकास और करोड़ों छोटे किसानों व महिलाओं के सशक्तिकरण का मार्ग था।",
+        "5. वैश्विक नेता: इस क्रांति के कारण भारत दुनिया का सबसे बड़ा दूध उत्पादक देश बन गया।",
+        "6. सहकारी मॉडल: इसने साबित कर दिया कि भारत जैसे लोकतांत्रिक और विविधतापूर्ण देश में सहकारी मॉडल अत्यधिक सफल हो सकता है।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Describe the food crisis in Bihar in the 1960s and the policy of 'Zoning'.",
+      "hi": "1960 के दशक में बिहार के खाद्य संकट और 'ज़ोनिंग' की नीति का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Crisis: In the mid-1960s, Bihar faced a severe drought leading to an acute shortage of food grains and rising death rates.",
+        "2. Scope: Food production dropped dramatically, and in many districts, people were on the verge of starvation.",
+        "3. Zoning Policy: The central government introduced 'zoning', which prohibited the trade of food grains across state boundaries.",
+        "4. Negative Impact: This meant that surplus states could not send food to crisis-hit states like Bihar, worsening the situation.",
+        "5. Dependency: India had to rely on food aid from the USA (PL-480), which came with political strings and humiliated the nation.",
+        "6. Lesson Learned: This crisis forced the Indian government to prioritize food security and eventually led to the Green Revolution."
+      ],
+      "hi": [
+        "1. संकट: 1960 के दशक के मध्य में, बिहार को भीषण सूखे का सामना करना पड़ा, जिससे खाद्यान्न की भारी कमी हुई और मृत्यु दर बढ़ने लगी।",
+        "2. दायरा: खाद्य उत्पादन में भारी गिरावट आई और कई ज़िलों में लोग भुखमरी की कगार पर पहुँच गए।",
+        "3. ज़ोनिंग नीति: केंद्र सरकार ने 'ज़ोनिंग' की शुरुआत की, जिसने राज्यों की सीमाओं के पार खाद्यान्न के व्यापार को प्रतिबंधित कर दिया।",
+        "4. नकारात्मक प्रभाव: इसका मतलब था कि सरप्लस राज्य बिहार जैसे संकटग्रस्त राज्यों को भोजन नहीं भेज सकते थे, जिससे स्थिति और खराब हो गई।",
+        "5. निर्भरता: भारत को अमेरिका से खाद्य सहायता (PL-480) पर निर्भर रहना पड़ा, जो राजनीतिक शर्तों के साथ आई और राष्ट्र को अपमानित किया।",
+        "6. सीखा गया सबक: इस संकट ने भारत सरकार को खाद्य सुरक्षा को प्राथमिकता देने के लिए मजबूर किया और अंततः हरित क्रांति का मार्ग प्रशस्त किया।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Explain the concept of 'Mixed Economy' as adopted in India.",
+      "hi": "भारत में अपनाई गई 'मिश्रित अर्थव्यवस्था' की अवधारणा की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Balanced Approach: It combined the elements of both the Capitalist (USA) and Socialist (USSR) models of development.",
+        "2. State Ownership: Heavy industries, infrastructure, and defense were controlled by the government (Public Sector).",
+        "3. Private Sector: Agriculture, small-scale industries, and consumer goods were left in the hands of private individuals.",
+        "4. Regulation: The government regulated the private sector through licenses and permits to ensure it worked for the public good.",
+        "5. Criticism from Left: Socialists felt the state didn't do enough for the poor and gave too much space to the private sector.",
+        "6. Criticism from Right: Pro-capitalists felt that excessive state control (License Raj) stifled innovation and slowed down growth."
+      ],
+      "hi": [
+        "1. संतुलित दृष्टिकोण: इसने विकास के पूँजीवादी (USA) और समाजवादी (USSR) दोनों मॉडलों के तत्वों को मिलाया।",
+        "2. राज्य का स्वामित्व: भारी उद्योग, बुनियादी ढांचा और रक्षा सरकार (सार्वजनिक क्षेत्र) द्वारा नियंत्रित थे।",
+        "3. निजी क्षेत्र: कृषि, लघु उद्योग और उपभोक्ता वस्तुओं को निजी व्यक्तियों के हाथों में छोड़ दिया गया था।",
+        "4. विनियमन: सरकार ने यह सुनिश्चित करने के लिए कि निजी क्षेत्र जन कल्याण के लिए काम करे, लाइसेंस और परमिट के माध्यम से इसे विनियमित किया।",
+        "5. वामपंथ की आलोचना: समाजवादियों को लगा कि राज्य ने गरीबों के लिए पर्याप्त काम नहीं किया और निजी क्षेत्र को बहुत अधिक स्थान दिया।",
+        "6. दक्षिणपंथ की आलोचना: पूँजीवाद-समर्थकों को लगा कि अत्यधिक राज्य नियंत्रण (लाइसेंस राज) ने नवाचार को दबा दिया और विकास को धीमा कर दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Analyze the main features and goals of the Second Five Year Plan.",
+      "hi": "दूसरी पंचवर्षीय योजना की मुख्य विशेषताओं और लक्ष्यों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Focus: Its primary objective was rapid industrialization, specifically the development of heavy and basic industries.",
+        "2. Architect: Drafted by a team of economists and planners led by P.C. Mahalanobis.",
+        "3. Import Substitution: The government imposed high tariffs on imports to protect the newly established domestic industries.",
+        "4. State Role: It envisioned a massive expansion of the public sector to lead the industrial growth of the nation.",
+        "5. Energy and Infrastructure: Huge investments were made in railways, electricity, and communication to support industries.",
+        "6. Critical Shortcoming: Neglect of agriculture during this plan contributed to the food shortages and inflation in later years."
+      ],
+      "hi": [
+        "1. फोकस: इसका प्राथमिक उद्देश्य तेज़ी से औद्योगीकरण, विशेष रूप से भारी और बुनियादी उद्योगों का विकास था।",
+        "2. वास्तुकार: इसे पी.सी. महालनोबिस के नेतृत्व में अर्थशास्त्रियों और योजनाकारों की एक टीम द्वारा तैयार किया गया था।",
+        "3. आयात प्रतिस्थापन: सरकार ने नव-स्थापित घरेलू उद्योगों की रक्षा के लिए आयात पर उच्च शुल्क लगाया।",
+        "4. राज्य की भूमिका: इसने राष्ट्र के औद्योगिक विकास का नेतृत्व करने के लिए सार्वजनिक क्षेत्र के भारी विस्तार की कल्पना की।",
+        "5. ऊर्जा और बुनियादी ढांचा: उद्योगों को सहायता देने के लिए रेलवे, बिजली और संचार में भारी निवेश किया गया।",
+        "6. मुख्य कमी: इस योजना के दौरान कृषि की अनदेखी ने बाद के वर्षों में खाद्यान्न की कमी और मुद्रास्फीति में योगदान दिया।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "What were the major challenges of planning in a democratic country like India?",
+      "hi": "भारत जैसे लोकतांत्रिक देश में योजना बनाने की मुख्य चुनौतियाँ क्या थीं?"
+    },
+    "answer": {
+      "en": [
+        "1. Diverse Interests: Balancing the needs of different regions, languages, and social groups within a single national plan.",
+        "2. Slow Process: Democratic debates and consensus-building often made the planning and implementation process slow.",
+        "3. Financial Constraints: Lack of capital forced India to choose between agriculture and industry, often neglecting one.",
+        "4. Bureaucratic Hurdles: Implementing plans through a complex administrative system often led to corruption and delays.",
+        "5. Political Pressure: Governments often had to take popular short-term decisions instead of long-term strategic investments.",
+        "6. Federal Structure: State governments sometimes had different priorities than the center, making coordination difficult."
+      ],
+      "hi": [
+        "1. विविध हित: एक ही राष्ट्रीय योजना के भीतर विभिन्न क्षेत्रों, भाषाओं और सामाजिक समूहों की ज़रूरतों को संतुलित करना।",
+        "2. धीमी प्रक्रिया: लोकतांत्रिक बहस और आम सहमति बनाने की प्रक्रिया ने अक्सर योजना और कार्यान्वयन की प्रक्रिया को धीमा कर दिया।",
+        "3. वित्तीय बाधाएँ: पूँजी की कमी ने भारत को कृषि और उद्योग के बीच चुनाव करने के लिए मजबूर किया, जिससे अक्सर एक की अनदेखी हुई।",
+        "4. नौकरशाही की बाधाएँ: एक जटिल प्रशासनिक प्रणाली के माध्यम से योजनाओं को लागू करने से अक्सर भ्रष्टाचार और देरी हुई।",
+        "5. राजनीतिक दबाव: सरकारों को अक्सर दीर्घकालिक रणनीतिक निवेश के बजाय लोकप्रिय अल्पकालिक निर्णय लेने पड़ते थे।",
+        "6. संघीय ढांचा: राज्य सरकारों की प्राथमिकताएँ कभी-कभी केंद्र से अलग होती थीं, जिससे समन्वय करना कठिन हो जाता था।"
+      ]
+    }
+  }
+]
