@@ -1,0 +1,252 @@
+[
+  {
+    "q_id": 1,
+    "question": {
+      "en": "Analyze the three major objectives of Nehru’s foreign policy.",
+      "hi": "नेहरू की विदेश नीति के तीन मुख्य उद्देश्यों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. To Preserve Sovereignty: The foremost objective was to protect India’s hard-earned independence and ensure that no foreign power could dictate India's internal or external affairs.",
+        "2. To Protect Territorial Integrity: Nehru aimed to safeguard India's borders and integrate the remaining territories like Goa and Pondicherry into the Indian Union.",
+        "3. To Promote Rapid Economic Development: India needed technology and capital from both the Western and Eastern blocs; hence, a neutral stance was essential for national growth.",
+        "4. Non-Alignment as a Tool: These objectives were achieved through the policy of Non-Alignment, staying away from military alliances like NATO or Warsaw Pact.",
+        "5. Global Peace: Nehru believed that as a newly independent nation, India could only develop in a peaceful world, making international peace a core goal.",
+        "6. Anti-Colonialism: India actively supported the decolonization of Asian and African countries, linking its own security with global freedom."
+      ],
+      "hi": [
+        "1. संप्रभुता को बनाए रखना: सबसे प्रमुख उद्देश्य भारत की कठिन परिश्रम से प्राप्त स्वतंत्रता की रक्षा करना और यह सुनिश्चित करना था कि कोई भी विदेशी शक्ति भारत के आंतरिक या बाहरी मामलों में हस्तक्षेप न कर सके।",
+        "2. क्षेत्रीय अखंडता की रक्षा: नेहरू का लक्ष्य भारत की सीमाओं की रक्षा करना और गोवा व पांडिचेरी जैसे शेष क्षेत्रों को भारतीय संघ में एकीकृत करना था।",
+        "3. तेज़ी से आर्थिक विकास को बढ़ावा देना: भारत को पश्चिमी और पूर्वी दोनों गुटों से तकनीक और पूँजी की आवश्यकता थी; इसलिए, राष्ट्रीय विकास के लिए तटस्थ रुख आवश्यक था।",
+        "4. साधन के रूप में गुटनिरपेक्षता: इन उद्देश्यों को नाटो (NATO) या वारसॉ पैक्ट जैसे सैन्य गठबंधनों से दूर रहकर गुटनिरपेक्षता की नीति के माध्यम से प्राप्त किया गया था।",
+        "5. वैश्विक शांति: नेहरू का मानना था कि एक नए स्वतंत्र राष्ट्र के रूप में भारत केवल एक शांतिपूर्ण दुनिया में ही विकास कर सकता है, जिससे अंतर्राष्ट्रीय शांति एक मुख्य लक्ष्य बन गई।",
+        "6. उपनिवेशवाद विरोधी: भारत ने एशियाई और अफ्रीकी देशों के वि-उपनिवेशीकरण का सक्रिय रूप से समर्थन किया और अपनी सुरक्षा को वैश्विक स्वतंत्रता के साथ जोड़ा।"
+      ]
+    }
+  },
+  {
+    "q_id": 2,
+    "question": {
+      "en": "What is the policy of Non-Alignment (NAM)? Discuss its significance for India.",
+      "hi": "गुटनिरपेक्षता (NAM) की नीति क्या है? भारत के लिए इसके महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Definition: Non-Alignment meant staying independent from the two power blocs led by the USA and the USSR during the Cold War era.",
+        "2. Independent Decision Making: It allowed India to take international decisions and stances based on its own interests rather than following a superpower.",
+        "3. Balancing Act: India could seek aid and cooperation from both blocs. For example, getting military help from the USSR and food aid from the USA.",
+        "4. Moral Leadership: NAM gave India a unique position to act as a mediator between the two warring blocs, promoting global de-escalation.",
+        "5. Strengthening Third World: It provided a platform for newly independent countries of Asia and Africa to unite and avoid becoming 'satellite states'.",
+        "6. Strategic Autonomy: By not joining military alliances, India avoided being dragged into the conflicts of the superpowers, focusing instead on its own poverty and development."
+      ],
+      "hi": [
+        "1. परिभाषा: गुटनिरपेक्षता का अर्थ शीतयुद्ध के दौर में अमेरिका और सोवियत संघ के नेतृत्व वाले दो शक्ति गुटों से स्वतंत्र रहना था।",
+        "2. स्वतंत्र निर्णय लेना: इसने भारत को किसी महाशक्ति के पीछे चलने के बजाय अपने हितों के आधार पर अंतर्राष्ट्रीय निर्णय और रुख अपनाने की अनुमति दी।",
+        "3. संतुलनकारी भूमिका: भारत दोनों गुटों से सहायता और सहयोग प्राप्त कर सकता था। उदाहरण के लिए, सोवियत संघ से सैन्य मदद और अमेरिका से खाद्य सहायता प्राप्त करना।",
+        "4. नैतिक नेतृत्व: गुटनिरपेक्षता ने भारत को दो युद्धरत गुटों के बीच एक मध्यस्थ के रूप में कार्य करने और वैश्विक तनाव कम करने की एक अनूठी स्थिति दी।",
+        "5. तीसरी दुनिया को मज़बूत करना: इसने एशिया और अफ्रीका के नए स्वतंत्र देशों को एकजुट होने और 'पिछलग्गू राज्य' बनने से बचने के लिए एक मंच प्रदान किया।",
+        "6. रणनीतिक स्वायत्तता: सैन्य गठबंधनों में शामिल न होकर, भारत ने महाशक्तियों के संघर्षों में घसीटे जाने से खुद को बचाया और अपना पूरा ध्यान अपनी गरीबी और विकास पर केंद्रित किया।"
+      ]
+    }
+  },
+  {
+    "q_id": 3,
+    "question": {
+      "en": "Explain the five principles of 'Panchsheel' and their context in India-China relations.",
+      "hi": "'पंचशील' के पाँच सिद्धांतों की व्याख्या करें और भारत-चीन संबंधों में उनके संदर्भ को स्पष्ट करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Origin: Signed in April 1954 between Indian PM Nehru and Chinese Premier Zhou Enlai, it laid the foundation for peaceful coexistence.",
+        "2. Mutual Respect: Both nations agreed to respect each other's territorial integrity and sovereignty.",
+        "3. Non-Aggression: A commitment that neither country would attack the other.",
+        "4. Non-Interference: Mutual agreement to not interfere in each other's internal affairs.",
+        "5. Equality and Mutual Benefit: Working together for common interests with a sense of equality.",
+        "6. Violation: Despite the 'Hindi-Chini Bhai-Bhai' slogan, the principles were violated when China occupied Tibet and later attacked India in 1962."
+      ],
+      "hi": [
+        "1. उत्पत्ति: अप्रैल 1954 में भारतीय प्रधानमंत्री नेहरू और चीनी प्रीमियर चाऊ एनलाई के बीच हस्ताक्षरित, इसने शांतिपूर्ण सह-अस्तित्व की नींव रखी।",
+        "2. आपसी सम्मान: दोनों देश एक-दूसरे की क्षेत्रीय अखंडता और संप्रभुता का सम्मान करने के लिए सहमत हुए।",
+        "3. अनाक्रमण (Non-Aggression): एक प्रतिबद्धता कि कोई भी देश दूसरे पर हमला नहीं करेगा।",
+        "4. अहस्तक्षेप: एक-दूसरे के आंतरिक मामलों में हस्तक्षेप न करने का आपसी समझौता।",
+        "5. समानता और आपसी लाभ: समानता की भावना के साथ सामान्य हितों के लिए मिलकर काम करना।",
+        "6. उल्लंघन: 'हिंदी-चीनी भाई-भाई' के नारे के बावजूद, इन सिद्धांतों का उल्लंघन तब हुआ जब चीन ने तिब्बत पर कब्ज़ा कर लिया और बाद में 1962 में भारत पर हमला किया।"
+      ]
+    }
+  },
+  {
+    "q_id": 4,
+    "question": {
+      "en": "Analyze the causes and consequences of the 1962 Sino-Indian War.",
+      "hi": "1962 के भारत-चीन युद्ध के कारणों और परिणामों का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Causes - Border Dispute: Controversy over the Mc Mahon Line and China's claim on Aksai Chin (Ladakh) and NEFA (Arunachal Pradesh).",
+        "2. Causes - Tibet Crisis: China's crackdown in Tibet and India granting asylum to the Dalai Lama in 1959 angered the Chinese leadership.",
+        "3. Consequences - National Humiliation: The defeat severely damaged India's international image and Nehru's prestige as a world leader.",
+        "4. Consequences - Shift in Defense: India realized its military weakness, leading to a massive increase in defense spending and modernization of the army.",
+        "5. Consequences - Political Unrest: It led to the resignation of Defense Minister V.K. Krishna Menon and the first no-confidence motion against Nehru's government.",
+        "6. Consequences - Rift in CPI: The war caused a split in the Communist Party of India (CPI) into pro-China (CPI-M) and pro-Soviet factions."
+      ],
+      "hi": [
+        "1. कारण - सीमा विवाद: मैकमोहन रेखा को लेकर विवाद और अक्साई चिन (लद्दाख) व नेफा (अरुणाचल प्रदेश) पर चीन का दावा।",
+        "2. कारण - तिब्बत संकट: तिब्बत में चीन का दमन और 1959 में भारत द्वारा दलाई लामा को शरण देने से चीनी नेतृत्व नाराज़ हो गया।",
+        "3. परिणाम - राष्ट्रीय अपमान: हार ने भारत की अंतर्राष्ट्रीय छवि और एक विश्व नेता के रूप में नेहरू की प्रतिष्ठा को गंभीर नुकसान पहुँचाया।",
+        "4. परिणाम - रक्षा में बदलाव: भारत को अपनी सैन्य कमज़ोरी का अहसास हुआ, जिससे रक्षा खर्च में भारी वृद्धि और सेना का आधुनिकीकरण शुरू हुआ।",
+        "5. परिणाम - राजनीतिक अशांति: इसके कारण रक्षा मंत्री वी.के. कृष्ण मेनन को इस्तीफा देना पड़ा और नेहरू सरकार के खिलाफ पहला अविश्वास प्रस्ताव लाया गया।",
+        "6. परिणाम - CPI में फूट: युद्ध के कारण भारतीय कम्युनिस्ट पार्टी (CPI) में चीन-समर्थक (CPI-M) और सोवियत-समर्थक गुटों में विभाजन हो गया।"
+      ]
+    }
+  },
+  {
+    "q_id": 5,
+    "question": {
+      "en": "Discuss the 1965 India-Pakistan war and the significance of the Tashkent Agreement.",
+      "hi": "1965 के भारत-पाकिस्तान युद्ध और ताशकंद समझौते के महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Context: Pakistan launched 'Operation Ablaze' and later 'Operation Grand Slam' to capture Kashmir, assuming India was weak after the 1962 defeat.",
+        "2. Indian Response: PM Lal Bahadur Shastri gave a firm reply, ordering the army to cross the border towards Lahore to relieve pressure on Kashmir.",
+        "3. Outcome: The war ended in a stalemate with a UN-mandated ceasefire, but India held a strategic advantage by capturing Haji Pir pass.",
+        "4. Tashkent Agreement (1966): Signed between Shastri and Ayub Khan in the USSR, both agreed to return to pre-war positions and not use force.",
+        "5. Tragedy: PM Shastri died mysteriously in Tashkent hours after signing the agreement, leading to a leadership crisis in India.",
+        "6. Slogan: The war popularized the slogan 'Jai Jawan, Jai Kisan', highlighting the importance of both soldiers and food security."
+      ],
+      "hi": [
+        "1. संदर्भ: पाकिस्तान ने कश्मीर पर कब्ज़ा करने के लिए 'ऑपरेशन एबलेज़' और बाद में 'ऑपरेशन ग्रैंड स्लैम' शुरू किया, यह मानकर कि 1962 की हार के बाद भारत कमज़ोर था।",
+        "2. भारतीय प्रतिक्रिया: प्रधानमंत्री लाल बहादुर शास्त्री ने मज़बूत जवाब दिया और कश्मीर पर दबाव कम करने के लिए सेना को लाहौर की ओर सीमा पार करने का आदेश दिया।",
+        "3. परिणाम: युद्ध संयुक्त राष्ट्र के युद्धविराम के साथ समाप्त हुआ, लेकिन भारत ने हाजी पीर दर्रे पर कब्ज़ा करके रणनीतिक बढ़त हासिल कर ली थी।",
+        "4. ताशकंद समझौता (1966): सोवियत संघ में शास्त्री और अयूब खान के बीच हस्ताक्षरित, दोनों युद्ध-पूर्व स्थितियों पर लौटने और बल प्रयोग न करने पर सहमत हुए।",
+        "5. त्रासदी: समझौते पर हस्ताक्षर करने के कुछ ही घंटों बाद ताशकंद में प्रधानमंत्री शास्त्री की रहस्यमय तरीके से मृत्यु हो गई, जिससे भारत में नेतृत्व का संकट पैदा हो गया।",
+        "6. नारा: इस युद्ध ने 'जय जवान, जय किसान' के नारे को लोकप्रिय बनाया, जिसने सैनिकों और खाद्य सुरक्षा दोनों के महत्व को रेखांकित किया।"
+      ]
+    }
+  },
+  {
+    "q_id": 6,
+    "question": {
+      "en": "Explain the causes of the 1971 Bangladesh War and the terms of the Shimla Agreement.",
+      "hi": "1971 के बांग्लादेश युद्ध के कारणों और शिमला समझौते की शर्तों की व्याख्या करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Internal Crisis in Pakistan: East Pakistan (now Bangladesh) protested against the dominance and cultural imposition of West Pakistan.",
+        "2. Refugee Influx: The brutal crackdown by the Pakistan army led to 10 million refugees fleeing to India, creating an economic and social crisis.",
+        "3. War: In December 1971, a full-scale war broke out. India defeated Pakistan in just 13 days, leading to the surrender of 93,000 Pakistani soldiers.",
+        "4. Birth of a Nation: The war resulted in the liberation of East Pakistan and the creation of the independent nation of Bangladesh.",
+        "5. Shimla Agreement (1972): Signed between Indira Gandhi and Zulfiqar Ali Bhutto. They agreed to resolve all issues, including Kashmir, bilaterally.",
+        "6. LoC: The ceasefire line in Kashmir was renamed as the 'Line of Control' (LoC), which remains the de-facto border today."
+      ],
+      "hi": [
+        "1. पाकिस्तान में आंतरिक संकट: पूर्वी पाकिस्तान (अब बांग्लादेश) ने पश्चिमी पाकिस्तान के दबदबे और सांस्कृतिक थोपे जाने का विरोध किया।",
+        "2. शरणार्थियों का आगमन: पाकिस्तान सेना के क्रूर दमन के कारण 1 करोड़ शरणार्थी भारत भाग आए, जिससे आर्थिक और सामाजिक संकट पैदा हो गया।",
+        "3. युद्ध: दिसंबर 1971 में पूर्ण युद्ध छिड़ गया। भारत ने मात्र 13 दिनों में पाकिस्तान को हरा दिया, जिससे 93,000 पाकिस्तानी सैनिकों ने आत्मसमर्पण किया।",
+        "4. राष्ट्र का जन्म: युद्ध के परिणामस्वरूप पूर्वी पाकिस्तान आज़ाद हुआ और बांग्लादेश नामक स्वतंत्र राष्ट्र का उदय हुआ।",
+        "5. शिमला समझौता (1972): इंदिरा गांधी और ज़ुल्फ़िकार अली भुट्टो के बीच हस्ताक्षरित। वे कश्मीर सहित सभी मुद्दों को द्विपक्षीय रूप से सुलझाने पर सहमत हुए।",
+        "6. LoC: कश्मीर में युद्धविराम रेखा का नाम बदलकर 'नियंत्रण रेखा' (Line of Control) कर दिया गया, जो आज भी वास्तविक सीमा बनी हुई है।"
+      ]
+    }
+  },
+  {
+    "q_id": 7,
+    "question": {
+      "en": "Describe the evolution and key features of India's Nuclear Policy.",
+      "hi": "भारत की परमाणु नीति के विकास और मुख्य विशेषताओं का वर्णन करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Peaceful Beginnings: Nehru and scientist Homi J. Bhabha started the nuclear program for peaceful purposes like generating electricity.",
+        "2. First Test (1974): India conducted its first nuclear explosion at Pokhran, calling it a 'Peaceful Nuclear Explosion' (PNE).",
+        "3. Resistance to NPT: India refused to sign the Nuclear Non-Proliferation Treaty (NPT) and CTBT, calling them discriminatory as they allowed only P5 to keep nukes.",
+        "4. Pokhran-II (1998): Under PM Vajpayee, India conducted a series of tests, declaring itself a full-fledged nuclear weapons state.",
+        "5. No First Use (NFU): A core pillar of India's policy is that it will never be the first to use nuclear weapons in a conflict.",
+        "6. Credible Minimum Deterrent: India aims to maintain just enough nuclear capability to deter any nuclear attack from its enemies."
+      ],
+      "hi": [
+        "1. शांतिपूर्ण शुरुआत: नेहरू और वैज्ञानिक होमी जे. भाभा ने बिजली पैदा करने जैसे शांतिपूर्ण उद्देश्यों के लिए परमाणु कार्यक्रम शुरू किया।",
+        "2. पहला परीक्षण (1974): भारत ने पोखरण में अपना पहला परमाणु विस्फोट किया, जिसे 'शांतिपूर्ण परमाणु विस्फोट' (PNE) कहा गया।",
+        "3. NPT का विरोध: भारत ने परमाणु अप्रसार संधि (NPT) और CTBT पर हस्ताक्षर करने से इनकार कर दिया, उन्हें भेदभावपूर्ण बताया क्योंकि वे केवल P5 को परमाणु हथियार रखने की अनुमति देते थे।",
+        "4. पोखरण-II (1998): प्रधानमंत्री वाजपेयी के नेतृत्व में भारत ने परीक्षणों की एक श्रृंखला आयोजित की और खुद को एक पूर्ण परमाणु हथियार संपन्न राज्य घोषित किया।",
+        "5. नो फर्स्ट यूज़ (NFU): भारत की नीति का एक मुख्य स्तंभ यह है कि वह किसी भी संघर्ष में कभी भी परमाणु हथियारों का पहले उपयोग नहीं करेगा।",
+        "6. विश्वसनीय न्यूनतम निवारक (Credible Minimum Deterrent): भारत का लक्ष्य अपने दुश्मनों के किसी भी परमाणु हमले को रोकने के लिए पर्याप्त परमाणु क्षमता बनाए रखना है।"
+      ]
+    }
+  },
+  {
+    "q_id": 8,
+    "question": {
+      "en": "Discuss the significance of the Bandung Conference (1955) and Afro-Asian unity.",
+      "hi": "बांडुंग सम्मेलन (1955) और अफ्रो-एशियाई एकता के महत्व की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Historic Meet: Held in Indonesia, it was the first large-scale meeting of Asian and African states, most of which were newly independent.",
+        "2. India's Leadership: Nehru played a pivotal role in organizing the meet, representing India as a leader of the decolonized world.",
+        "3. Solidarity: The conference emphasized the need for unity among developing nations against colonialism and imperialism.",
+        "4. Foundation of NAM: It laid the groundwork for the establishment of the Non-Aligned Movement (NAM), which was formally launched in Belgrade in 1961.",
+        "5. Peaceful Coexistence: The principles of Panchsheel were expanded into the 'Ten Principles of Bandung'.",
+        "6. Economic Cooperation: It advocated for mutual economic and cultural cooperation among the member nations to reduce dependence on former colonial masters."
+      ],
+      "hi": [
+        "1. ऐतिहासिक मिलन: इंडोनेशिया में आयोजित, यह एशियाई और अफ्रीकी राज्यों की पहली बड़े पैमाने पर बैठक थी, जिनमें से अधिकांश नए स्वतंत्र देश थे।",
+        "2. भारत का नेतृत्व: नेहरू ने बैठक आयोजित करने में महत्वपूर्ण भूमिका निभाई, भारत का प्रतिनिधित्व वि-उपनिवेशीकरण वाली दुनिया के नेता के रूप में किया।",
+        "3. एकजुटता: सम्मेलन ने उपनिवेशवाद और साम्राज्यवाद के खिलाफ विकासशील राष्ट्रों के बीच एकता की आवश्यकता पर ज़ोर दिया।",
+        "4. NAM की नींव: इसने गुटनिरपेक्ष आंदोलन (NAM) की स्थापना के लिए आधार तैयार किया, जिसे औपचारिक रूप से 1961 में बेलग्रेड में लॉन्च किया गया था।",
+        "5. शांतिपूर्ण सह-अस्तित्व: पंचशील के सिद्धांतों को 'बांडुंग के दस सिद्धांतों' में विस्तारित किया गया।",
+        "6. आर्थिक सहयोग: इसने पूर्व औपनिवेशिक आकाओं पर निर्भरता कम करने के लिए सदस्य राष्ट्रों के बीच आपसी आर्थिक और सांस्कृतिक सहयोग की वकालत की।"
+      ]
+    }
+  },
+  {
+    "q_id": 9,
+    "question": {
+      "en": "Analyze the impact of the Cold War on India's external relations.",
+      "hi": "भारत के बाहरी संबंधों पर शीतयुद्ध के प्रभाव का विश्लेषण करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Bipolar World: The global division between the USA and USSR forced India to carve out its own path through Non-Alignment.",
+        "2. Strained Ties with USA: India's neutral stance was often seen as 'pro-Soviet' by the USA, especially during the 1971 war when the US supported Pakistan.",
+        "3. Close Bonds with USSR: Despite non-alignment, India and USSR signed a 20-year Treaty of Peace and Friendship in 1971, which provided India with vital military and diplomatic support.",
+        "4. Strategic Autonomy: The Cold War allowed India to seek economic aid from both sides, though it required careful diplomatic balancing.",
+        "5. Regional Conflicts: Cold War politics often spilled into South Asia, with the USA arming Pakistan, forcing India to spend more on its own defense.",
+        "6. Institutional Role: India used international platforms like the UN and NAM to criticize the bloc politics and nuclear arms race of the superpowers."
+      ],
+      "hi": [
+        "1. द्विध्रुवीय विश्व: अमेरिका और सोवियत संघ के बीच वैश्विक विभाजन ने भारत को गुटनिरपेक्षता के माध्यम से अपना रास्ता बनाने के लिए मजबूर किया।",
+        "2. अमेरिका के साथ तनावपूर्ण संबंध: भारत के तटस्थ रुख को अक्सर अमेरिका द्वारा 'सोवियत-समर्थक' के रूप में देखा गया, विशेष रूप से 1971 के युद्ध के दौरान जब अमेरिका ने पाकिस्तान का समर्थन किया।",
+        "3. सोवियत संघ के साथ घनिष्ठ संबंध: गुटनिरपेक्षता के बावजूद, भारत और सोवियत संघ ने 1971 में 20 वर्षीय शांति और मैत्री संधि पर हस्ताक्षर किए, जिसने भारत को महत्वपूर्ण सैन्य और राजनयिक समर्थन दिया।",
+        "4. रणनीतिक स्वायत्तता: शीतयुद्ध ने भारत को दोनों पक्षों से आर्थिक सहायता मांगने की अनुमति दी, हालांकि इसके लिए सावधानीपूर्वक राजनयिक संतुलन की आवश्यकता थी।",
+        "5. क्षेत्रीय संघर्ष: शीतयुद्ध की राजनीति अक्सर दक्षिण एशिया में फैल जाती थी, अमेरिका ने पाकिस्तान को हथियार दिए, जिससे भारत को अपनी रक्षा पर अधिक खर्च करने के लिए मजबूर होना पड़ा।",
+        "6. संस्थागत भूमिका: भारत ने महाशक्तियों की गुटीय राजनीति और परमाणु हथियारों की होड़ की आलोचना करने के लिए संयुक्त राष्ट्र और NAM जैसे अंतर्राष्ट्रीय मंचों का उपयोग किया।"
+      ]
+    }
+  },
+  {
+    "q_id": 10,
+    "question": {
+      "en": "Discuss the major shifts in India's foreign policy in the post-Cold War era.",
+      "hi": "शीतयुद्ध के बाद के दौर में भारत की विदेश नीति में आए प्रमुख बदलावों की चर्चा करें।"
+    },
+    "answer": {
+      "en": [
+        "1. Economic Shift: Following the 1991 reforms, foreign policy became more aligned with economic interests and globalization (Look East Policy).",
+        "2. Ties with USA: After the collapse of the USSR, India started building a strategic partnership with the USA, leading to the 2008 Civil Nuclear Deal.",
+        "3. Pragmatic Relations with Russia: While the special bond remained, the relationship became more commercial and focused on defense hardware.",
+        "4. Israel Policy: India formally established diplomatic ties with Israel in 1992, balancing its support for the Palestinian cause with security needs.",
+        "5. Regional Focus: Increased focus on neighborly relations (Gujral Doctrine) and active participation in regional groupings like BRICS and G20.",
+        "6. Rise as a Global Player: India shifted from being a 'norm-follower' to a 'norm-shaper' in global issues like climate change and terrorism."
+      ],
+      "hi": [
+        "1. आर्थिक बदलाव: 1991 के सुधारों के बाद, विदेश नीति आर्थिक हितों और वैश्वीकरण (लुक ईस्ट पॉलिसी) के साथ अधिक जुड़ गई।",
+        "2. अमेरिका के साथ संबंध: सोवियत संघ के पतन के बाद, भारत ने अमेरिका के साथ रणनीतिक साझेदारी बनाना शुरू किया, जिससे 2008 का नागरिक परमाणु समझौता हुआ।",
+        "3. रूस के साथ व्यावहारिक संबंध: हालाँकि विशेष बंधन बना रहा, लेकिन संबंध अधिक व्यावसायिक और रक्षा साजो-सामान पर केंद्रित हो गए।",
+        "4. इज़राइल नीति: भारत ने 1992 में इज़राइल के साथ औपचारिक रूप से राजनयिक संबंध स्थापित किए, अपनी सुरक्षा ज़रूरतों के साथ फिलिस्तीनी मुद्दे के समर्थन को संतुलित किया।",
+        "5. क्षेत्रीय फोकस: पड़ोसी संबंधों (गुजराल सिद्धांत) पर ध्यान बढ़ाया और ब्रिक्स (BRICS) व G20 जैसे क्षेत्रीय समूहों में सक्रिय भागीदारी शुरू की।",
+        "6. वैश्विक खिलाड़ी के रूप में उदय: जलवायु परिवर्तन और आतंकवाद जैसे वैश्विक मुद्दों में भारत 'नियमों का पालन करने वाले' से 'नियम बनाने वाले' के रूप में बदल गया है।"
+      ]
+    }
+  }
+]
