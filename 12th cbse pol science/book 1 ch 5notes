@@ -1,0 +1,191 @@
+[
+  {
+    "topic_id": 1,
+    "title": {
+      "en": "1. Meaning of Security and Traditional Notion (External)",
+      "hi": "1. सुरक्षा का अर्थ और पारंपरिक धारणा (बाहरी)"
+    },
+    "points": {
+      "en": [
+        "Core Meaning: At its most basic level, security implies freedom from threats, specifically those that endanger the core values of a person or a country.",
+        "Traditional Security: This view primarily focuses on the danger of military threats from another country.",
+        "Source of Threat: The source of danger is external, representing a military attack that threatens a nation's sovereignty, independence, and territorial integrity.",
+        "Choices for Government: Facing a war, a government has three choices: surrender, prevent the war (deterrence), or defend itself when attacked.",
+        "Balance of Power: Countries try to build up their military and economic strength to ensure no neighboring country becomes too powerful to threaten them.",
+        "Alliance Building: States form coalitions or alliances (like NATO) to coordinate their actions to deter or defend against a common enemy.",
+        "State as the Referent: In the traditional notion, the 'State' (country) is the main focus of security, and military strength is the primary tool."
+      ],
+      "hi": [
+        "मूल अर्थ: अपने सबसे बुनियादी स्तर पर, सुरक्षा का अर्थ है खतरों से आज़ादी, विशेष रूप से उन खतरों से जो किसी व्यक्ति या देश के मूल मूल्यों को खतरे में डालते हैं।",
+        "पारंपरिक सुरक्षा: यह दृष्टिकोण मुख्य रूप से किसी अन्य देश से सैन्य खतरों के खतरे पर केंद्रित है।",
+        "खतरे का स्रोत: खतरे का स्रोत बाहरी होता है, जो एक सैन्य हमले का प्रतिनिधित्व करता है जो राष्ट्र की संप्रभुता, स्वतंत्रता और क्षेत्रीय अखंडता को खतरे में डालता है।",
+        "सरकार के पास विकल्प: युद्ध का सामना करते हुए, सरकार के पास तीन विकल्प होते हैं: आत्मसमर्पण करना, युद्ध को रोकना (अपरोध/Deterrence), या हमला होने पर अपनी रक्षा करना।",
+        "शक्ति संतुलन: देश अपनी सैन्य और आर्थिक ताकत बढ़ाने की कोशिश करते हैं ताकि यह सुनिश्चित हो सके कि कोई भी पड़ोसी देश उन्हें डराने के लिए बहुत शक्तिशाली न हो जाए।",
+        "गठबंधन बनाना: राज्य एक साझा दुश्मन को रोकने या उससे बचाव के लिए अपने कार्यों का समन्वय करने के लिए गठबंधन (जैसे नाटो) बनाते हैं।",
+        "राज्य केंद्र में: पारंपरिक धारणा में, 'राज्य' (देश) सुरक्षा का मुख्य केंद्र है, और सैन्य ताकत इसका प्राथमिक उपकरण है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 2,
+    "title": {
+      "en": "2. Traditional Notion (Internal Security)",
+      "hi": "2. पारंपरिक धारणा (आंतरिक सुरक्षा)"
+    },
+    "points": {
+      "en": [
+        "Ignored by the West: After WWII, powerful Western countries mostly ignored internal security as they had stable borders and united populations.",
+        "Third World Challenges: Newly independent countries of Asia and Africa faced immense internal threats along with external dangers.",
+        "Separatist Movements: Many of these new nations faced threats from within, as various communities demanded separate, independent nations.",
+        "Civil Wars: The threat of civil war became much more common for these countries than the threat of an inter-state war.",
+        "Dual Threat: These nations faced a complex dual threat: fear of attacks from neighboring countries and armed conflicts from within their own borders.",
+        "Proxy Wars: Often, internal conflicts were fueled or funded by hostile neighboring countries, making internal security an international issue.",
+        "Crucial for Survival: Internal security is vital because a nation cannot be secure from external threats if it is burning from within due to civil unrest."
+      ],
+      "hi": [
+        "पश्चिम द्वारा अनदेखी: द्वितीय विश्व युद्ध के बाद, शक्तिशाली पश्चिमी देशों ने मुख्य रूप से आंतरिक सुरक्षा की अनदेखी की क्योंकि उनकी सीमाएँ स्थिर थीं और आबादी एकजुट थी।",
+        "तीसरी दुनिया की चुनौतियाँ: एशिया और अफ्रीका के नए स्वतंत्र देशों को बाहरी खतरों के साथ-साथ भारी आंतरिक खतरों का भी सामना करना पड़ा।",
+        "अलगाववादी आंदोलन: इनमें से कई नए राष्ट्रों को भीतर से खतरों का सामना करना पड़ा, क्योंकि विभिन्न समुदायों ने अलग, स्वतंत्र राष्ट्रों की मांग की।",
+        "गृहयुद्ध: इन देशों के लिए अंतर-राज्यीय युद्ध के खतरे की तुलना में गृहयुद्ध का खतरा कहीं अधिक आम हो गया।",
+        "दोहरा खतरा: इन राष्ट्रों को एक जटिल दोहरे खतरे का सामना करना पड़ा: पड़ोसी देशों से हमलों का डर और अपनी ही सीमाओं के भीतर सशस्त्र संघर्ष।",
+        "छद्म युद्ध (Proxy Wars): अक्सर, आंतरिक संघर्षों को शत्रु पड़ोसी देशों द्वारा बढ़ावा दिया जाता था या वित्तपोषित किया जाता था, जिससे आंतरिक सुरक्षा एक अंतर्राष्ट्रीय मुद्दा बन गई।",
+        "अस्तित्व के लिए महत्वपूर्ण: आंतरिक सुरक्षा महत्वपूर्ण है क्योंकि यदि कोई राष्ट्र नागरिक अशांति के कारण भीतर से जल रहा है, तो वह बाहरी खतरों से सुरक्षित नहीं रह सकता है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 3,
+    "title": {
+      "en": "3. Traditional Security and Cooperation",
+      "hi": "3. पारंपरिक सुरक्षा और सहयोग"
+    },
+    "points": {
+      "en": [
+        "Need for Limits: Even traditional security recognizes that violence must be limited. Wars should only be fought for self-defense or to protect people from genocide.",
+        "Rules of War: International norms dictate that armies must avoid killing or hurting non-combatants (civilians) and unarmed soldiers.",
+        "Disarmament: It asks countries to give up certain types of dangerous weapons entirely, like the Biological Weapons Convention (1972) and Chemical Weapons Convention (1992).",
+        "Arms Control: It regulates the acquisition or development of weapons. Examples include the Anti-Ballistic Missile (ABM) Treaty and SALT agreements.",
+        "NPT (1968): The Non-Proliferation Treaty sought to limit the spread of nuclear weapons but was criticized for allowing only five countries to keep them.",
+        "Confidence Building Measures (CBMs): A process where rival countries share military information and plans with each other to build trust.",
+        "Avoiding Misunderstandings: CBMs ensure that countries do not go to war due to a misunderstanding or a miscalculation of each other's intentions."
+      ],
+      "hi": [
+        "सीमाओं की आवश्यकता: पारंपरिक सुरक्षा भी मानती है कि हिंसा सीमित होनी चाहिए। युद्ध केवल आत्मरक्षा के लिए या लोगों को नरसंहार से बचाने के लिए लड़े जाने चाहिए।",
+        "युद्ध के नियम: अंतर्राष्ट्रीय मानदंड यह तय करते हैं कि सेनाओं को गैर-लड़ाकों (नागरिकों) और निहत्थे सैनिकों को मारने या चोट पहुँचाने से बचना चाहिए।",
+        "निरस्त्रीकरण (Disarmament): यह देशों से कुछ प्रकार के खतरनाक हथियारों को पूरी तरह से छोड़ने के लिए कहता है, जैसे जैविक हथियार संधि (1972) और रासायनिक हथियार संधि (1992)।",
+        "अस्त्र-नियंत्रण (Arms Control): यह हथियारों के अधिग्रहण या विकास को नियंत्रित करता है। उदाहरणों में एंटी-बैलिस्टिक मिसाइल (ABM) संधि और साल्ट (SALT) समझौते शामिल हैं।",
+        "NPT (1968): परमाणु अप्रसार संधि ने परमाणु हथियारों के प्रसार को सीमित करने की मांग की, लेकिन केवल पांच देशों को उन्हें रखने की अनुमति देने के लिए इसकी आलोचना की गई।",
+        "विश्वास बहाली के उपाय (CBMs): एक ऐसी प्रक्रिया जहाँ प्रतिद्वंद्वी देश विश्वास बनाने के लिए एक-दूसरे के साथ सैन्य जानकारी और योजनाएँ साझा करते हैं।",
+        "गलतफहमी से बचना: CBMs यह सुनिश्चित करते हैं कि देश एक-दूसरे के इरादों की गलतफहमी या गलत आकलन के कारण युद्ध में न जाएँ।"
+      ]
+    }
+  },
+  {
+    "topic_id": 4,
+    "title": {
+      "en": "4. Non-Traditional Notions of Security",
+      "hi": "4. सुरक्षा की अपारंपरिक धारणाएँ"
+    },
+    "points": {
+      "en": [
+        "Beyond the State: Non-traditional views expand the concept of security beyond military threats and the state, focusing on individuals and humankind.",
+        "Human Security: It argues that protecting citizens from starvation, disease, and natural disasters is as important as protecting the state from foreign attacks.",
+        "Freedom from Want and Fear: The core philosophy of human security is to ensure that people live free from poverty (want) and violence (fear).",
+        "Global Security: Emerged in the 1990s in response to threats like global warming, international terrorism, and health epidemics.",
+        "Interconnected World: In a globalized world, threats are no longer confined within national borders; an epidemic in one country can quickly spread worldwide.",
+        "Collective Survival: No single nation, no matter how powerful, can resolve global security threats like climate change on its own.",
+        "Shift in Focus: It requires a shift from military defense to international cooperation, diplomacy, and sustainable development."
+      ],
+      "hi": [
+        "राज्य से परे: अपारंपरिक विचार सुरक्षा की अवधारणा को सैन्य खतरों और राज्य से आगे बढ़ाते हैं, और व्यक्तियों व मानव जाति पर ध्यान केंद्रित करते हैं।",
+        "मानव सुरक्षा: इसका तर्क है कि नागरिकों को भुखमरी, बीमारी और प्राकृतिक आपदाओं से बचाना उतना ही महत्वपूर्ण है जितना कि राज्य को विदेशी हमलों से बचाना।",
+        "अभाव और भय से मुक्ति: मानव सुरक्षा का मूल दर्शन यह सुनिश्चित करना है कि लोग गरीबी (अभाव) और हिंसा (भय) से मुक्त होकर जीवन जिएँ।",
+        "वैश्विक सुरक्षा: ग्लोबल वार्मिंग, अंतर्राष्ट्रीय आतंकवाद और स्वास्थ्य महामारियों जैसे खतरों के जवाब में 1990 के दशक में यह अवधारणा उभरी।",
+        "परस्पर जुड़ी दुनिया: वैश्वीकृत दुनिया में, खतरे अब राष्ट्रीय सीमाओं के भीतर सीमित नहीं हैं; एक देश की महामारी तेज़ी से दुनिया भर में फैल सकती है।",
+        "सामूहिक अस्तित्व: कोई भी एक राष्ट्र, चाहे वह कितना भी शक्तिशाली क्यों न हो, जलवायु परिवर्तन जैसे वैश्विक सुरक्षा खतरों को अकेले हल नहीं कर सकता है।",
+        "फोकस में बदलाव: इसके लिए सैन्य रक्षा से हटकर अंतर्राष्ट्रीय सहयोग, कूटनीति और सतत विकास (Sustainable Development) की ओर जाने की आवश्यकता है।"
+      ]
+    }
+  },
+  {
+    "topic_id": 5,
+    "title": {
+      "en": "5. New Sources of Threats",
+      "hi": "5. खतरे के नए स्रोत"
+    },
+    "points": {
+      "en": [
+        "Terrorism: Political violence that deliberately targets civilians to create panic and pressure governments into giving in to demands.",
+        "Human Rights Violations: Includes political rights (freedom of speech), economic/social rights, and rights of minorities. Their violation causes major global concern.",
+        "Global Poverty: The growing gap between the rich (North) and the poor (South) fuels armed conflicts, unrest, and mass migrations.",
+        "Migration and Refugees: Millions flee their homes due to war, persecution, or natural disasters, creating immense pressure on host countries.",
+        "Refugees vs Migrants: Refugees are forced to leave their country due to war, while migrants voluntarily leave for a better economic life.",
+        "Health Epidemics: Diseases like HIV-AIDS, Bird Flu, SARS, and COVID-19 cross borders rapidly, threatening the survival of millions globally.",
+        "Environmental Degradation: Climate change, rising sea levels, and depletion of the ozone layer pose long-term existential threats to humanity."
+      ],
+      "hi": [
+        "आतंकवाद: राजनीतिक हिंसा जो जानबूझकर नागरिकों को निशाना बनाती है ताकि दहशत पैदा की जा सके और सरकारों पर मांगों को मानने का दबाव डाला जा सके।",
+        "मानवाधिकार उल्लंघन: इसमें राजनीतिक अधिकार (अभिव्यक्ति की स्वतंत्रता), आर्थिक/सामाजिक अधिकार और अल्पसंख्यकों के अधिकार शामिल हैं। इनका उल्लंघन वैश्विक चिंता का कारण बनता है।",
+        "वैश्विक गरीबी: अमीरों (उत्तर) और गरीबों (दक्षिण) के बीच बढ़ती खाई सशस्त्र संघर्षों, अशांति और बड़े पैमाने पर प्रवास को बढ़ावा देती है।",
+        "प्रवास और शरणार्थी: युद्ध, उत्पीड़न या प्राकृतिक आपदाओं के कारण लाखों लोग अपने घर छोड़ देते हैं, जिससे मेज़बान देशों पर भारी दबाव पड़ता है।",
+        "शरणार्थी बनाम प्रवासी: शरणार्थी युद्ध के कारण अपना देश छोड़ने के लिए मजबूर होते हैं, जबकि प्रवासी बेहतर आर्थिक जीवन के लिए स्वेच्छा से जाते हैं।",
+        "स्वास्थ्य महामारियाँ: एचआईवी-एड्स, बर्ड फ्लू, सार्स और कोविड-19 जैसी बीमारियां तेज़ी से सीमा पार कर जाती हैं, जिससे विश्व स्तर पर करोड़ों लोगों का अस्तित्व खतरे में पड़ जाता है।",
+        "पर्यावरणीय गिरावट: जलवायु परिवर्तन, समुद्र के बढ़ते स्तर और ओज़ोन परत का क्षरण मानवता के लिए दीर्घकालिक अस्तित्व का खतरा पैदा करते हैं।"
+      ]
+    }
+  },
+  {
+    "topic_id": 6,
+    "title": {
+      "en": "6. Cooperative Security",
+      "hi": "6. सहयोगात्मक सुरक्षा"
+    },
+    "points": {
+      "en": [
+        "Need for Cooperation: Military force is largely useless against non-traditional threats like poverty, epidemics, and environmental degradation.",
+        "Collective Action: Dealing with these new threats requires cooperation at bilateral, regional, continental, and global levels.",
+        "Diverse Actors: Cooperative security involves not just states, but international organizations (UN, WHO), NGOs (Amnesty, Red Cross), and businesses.",
+        "Poverty Eradication: Global efforts are required to lift developing nations out of poverty, as poverty is a major root cause of insecurity.",
+        "Health Cooperation: Sharing medical data, vaccines, and resources is essential to combat global pandemics effectively.",
+        "Force as a Last Resort: In cooperative security, military force is used only collectively and as a last resort (e.g., fighting a global terrorist network).",
+        "Consensus Building: It requires building a global consensus, which is often difficult because countries have different priorities and resources."
+      ],
+      "hi": [
+        "सहयोग की आवश्यकता: गरीबी, महामारियों और पर्यावरणीय गिरावट जैसे अपारंपरिक खतरों के खिलाफ सैन्य बल काफी हद तक बेकार है।",
+        "सामूहिक कार्रवाई: इन नए खतरों से निपटने के लिए द्विपक्षीय, क्षेत्रीय, महाद्वीपीय और वैश्विक स्तर पर सहयोग की आवश्यकता है।",
+        "विविध भागीदार: सहयोगात्मक सुरक्षा में केवल राज्य ही नहीं, बल्कि अंतर्राष्ट्रीय संगठन (UN, WHO), गैर-सरकारी संगठन (Amnesty, Red Cross) और व्यवसाय भी शामिल होते हैं।",
+        "गरीबी उन्मूलन: विकासशील देशों को गरीबी से बाहर निकालने के लिए वैश्विक प्रयासों की आवश्यकता है, क्योंकि गरीबी असुरक्षा का एक प्रमुख मूल कारण है।",
+        "स्वास्थ्य सहयोग: वैश्विक महामारियों से प्रभावी ढंग से निपटने के लिए चिकित्सा डेटा, टीके (Vaccines) और संसाधन साझा करना आवश्यक है।",
+        "बल का प्रयोग अंतिम विकल्प: सहयोगात्मक सुरक्षा में, सैन्य बल का उपयोग केवल सामूहिक रूप से और अंतिम उपाय के रूप में किया जाता है (जैसे वैश्विक आतंकवादी नेटवर्क से लड़ना)।",
+        "आम सहमति बनाना: इसके लिए वैश्विक आम सहमति बनाने की आवश्यकता होती है, जो अक्सर कठिन होती है क्योंकि देशों की प्राथमिकताएँ और संसाधन अलग-अलग होते हैं।"
+      ]
+    }
+  },
+  {
+    "topic_id": 7,
+    "title": {
+      "en": "7. India's Security Strategy",
+      "hi": "7. भारत की सुरक्षा रणनीति"
+    },
+    "points": {
+      "en": [
+        "Complex Threat Environment: India faces a mix of traditional threats from neighbors (Pakistan, China) and non-traditional threats (poverty, terrorism).",
+        "First Component (Military Strength): Strengthening military capabilities is crucial. India has faced conflicts with neighbors and conducted nuclear tests (1998) to establish deterrence.",
+        "Second Component (International Norms): Strengthening international institutions. India actively supports the UN, Non-Aligned Movement (NAM), and global disarmament.",
+        "Third Component (Internal Security): Managing internal challenges. India has faced various separatist movements in regions like Kashmir, Punjab, and the North-East.",
+        "Fourth Component (Economic Development): Developing the economy to lift citizens out of poverty and reduce vast economic inequalities.",
+        "Democratic Accommodation: India uses its democratic framework to provide a platform for dissatisfied groups, allowing them to share political power peacefully.",
+        "Strategic Autonomy: India maintains an independent foreign policy, engaging with multiple global powers without compromising its national security interests."
+      ],
+      "hi": [
+        "जटिल खतरे का माहौल: भारत को पड़ोसियों (पाकिस्तान, चीन) से पारंपरिक खतरों और अपारंपरिक खतरों (गरीबी, आतंकवाद) के मिश्रण का सामना करना पड़ता है।",
+        "पहला घटक (सैन्य ताकत): सैन्य क्षमताओं को मज़बूत करना महत्वपूर्ण है। भारत ने पड़ोसियों के साथ संघर्ष का सामना किया है और अपरोध (Deterrence) स्थापित करने के लिए परमाणु परीक्षण (1998) किए हैं।",
+        "दूसरा घटक (अंतर्राष्ट्रीय मानदंड): अंतर्राष्ट्रीय संस्थाओं को मज़बूत करना। भारत संयुक्त राष्ट्र, गुटनिरपेक्ष आंदोलन (NAM) और वैश्विक निरस्त्रीकरण का सक्रिय रूप से समर्थन करता है।",
+        "तीसरा घटक (आंतरिक सुरक्षा): आंतरिक चुनौतियों का प्रबंधन करना। भारत ने कश्मीर, पंजाब और पूर्वोत्तर जैसे क्षेत्रों में विभिन्न अलगाववादी आंदोलनों का सामना किया है।",
+        "चौथा घटक (आर्थिक विकास): नागरिकों को गरीबी से बाहर निकालने और विशाल आर्थिक असमानताओं को कम करने के लिए अर्थव्यवस्था का विकास करना।",
+        "लोकतांत्रिक समायोजन: भारत असंतुष्ट समूहों को एक मंच प्रदान करने के लिए अपने लोकतांत्रिक ढांचे का उपयोग करता है, जिससे उन्हें शांतिपूर्ण ढंग से राजनीतिक सत्ता साझा करने की अनुमति मिलती है।",
+        "रणनीतिक स्वायत्तता: भारत एक स्वतंत्र विदेश नीति बनाए रखता है, और अपने राष्ट्रीय सुरक्षा हितों से समझौता किए बिना कई वैश्विक शक्तियों के साथ संबंध रखता है।"
+      ]
+    }
+  }
+]
