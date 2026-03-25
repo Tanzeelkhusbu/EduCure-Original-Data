@@ -1,0 +1,24 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 3,
+  "chapter_title_en": "Contemporary South Asia",
+  "chapter_title_hi": "समकालीन दक्षिण एशिया",
+  "topics": [
+    {
+      "topic_id": "3.1",
+      "heading_en": "**What is South Asia?**",
+      "heading_hi": "**दक्षिण एशिया क्या है?**",
+      "points_en": [
+        "South Asia includes India, Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka, and Maldives.",
+        "Despite diversity, it forms one geopolitical region.",
+        "Different political systems exist across countries."
+      ],
+      "points_hi": [
+        "दक्षिण एशिया में भारत, पाकिस्तान, बांग्लादेश, नेपाल, भूटान, श्रीलंका और मालदीव शामिल हैं।",
+        "विविधता के बावजूद यह एक भू-राजनीतिक क्षेत्र है।",
+        "यहाँ अलग-अलग राजनीतिक प्रणालियाँ हैं।"
+      ]
+    }
+  ]
+}

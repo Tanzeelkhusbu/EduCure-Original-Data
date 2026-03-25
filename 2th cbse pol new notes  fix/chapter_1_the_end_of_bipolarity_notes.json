@@ -1,0 +1,26 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 1,
+  "chapter_title_en": "The End of Bipolarity",
+  "chapter_title_hi": "द्विध्रुवीयता का अंत",
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "heading_en": "**The Soviet System**",
+      "heading_hi": "**सोवियत व्यवस्था**",
+      "points_en": [
+        "The Soviet Union was based on socialist ideology, where the state controlled all means of production.",
+        "It ensured basic needs like health, education, housing, and employment for all citizens.",
+        "There was no private property and political competition was absent (one-party system).",
+        "Though powerful, the system lacked democracy and individual freedoms."
+      ],
+      "points_hi": [
+        "सोवियत संघ समाजवादी विचारधारा पर आधारित था, जहाँ उत्पादन के सभी साधनों पर राज्य का नियंत्रण था।",
+        "इसने सभी नागरिकों को स्वास्थ्य, शिक्षा, आवास और रोजगार जैसी बुनियादी सुविधाएँ प्रदान कीं।",
+        "निजी संपत्ति नहीं थी और राजनीतिक प्रतिस्पर्धा का अभाव था (एक-दलीय प्रणाली)।",
+        "हालाँकि शक्तिशाली था, लेकिन इसमें लोकतंत्र और व्यक्तिगत स्वतंत्रता की कमी थी।"
+      ]
+    }
+  ]
+}

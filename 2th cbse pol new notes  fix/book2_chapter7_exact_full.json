@@ -1,0 +1,26 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 7,
+  "chapter_title_en": "Regional Aspirations",
+  "chapter_title_hi": "क्षेत्रीय आकांक्षाएँ",
+  "topics": [
+    {
+      "topic_id": "7.1",
+      "heading_en": "**Region and the Nation**",
+      "heading_hi": "**क्षेत्र और राष्ट्र**",
+      "points_en": [
+        "In a democracy, regional aspirations are not seen as anti-national; rather, expressing regional issues is a normal part of democratic politics.",
+        "The Indian approach to diversity is different from many European countries. India adopted a democratic approach to accommodate diversity.",
+        "Indian nationalism sought to balance unity and diversity.",
+        "Tensions arise when regional aspirations take the form of armed rebellion."
+      ],
+      "points_hi": [
+        "लोकतंत्र में क्षेत्रीय आकांक्षाएँ राष्ट्र-विरोधी नहीं मानी जाती।",
+        "भारत ने विविधता को लोकतांत्रिक तरीके से स्वीकार किया।",
+        "भारतीय राष्ट्रवाद ने एकता और विविधता को संतुलित किया।",
+        "सशस्त्र विद्रोह होने पर तनाव बढ़ता है।"
+      ]
+    }
+  ]
+}

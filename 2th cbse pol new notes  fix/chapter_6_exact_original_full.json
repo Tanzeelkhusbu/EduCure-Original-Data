@@ -1,0 +1,128 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 6,
+  "chapter_title_en": "Environment and Natural Resources",
+  "chapter_title_hi": "पर्यावरण और प्राकृतिक संसाधन",
+  "topics": [
+    {
+      "topic_id": "6.1",
+      "heading_en": "**Environmental Concerns in Global Politics**",
+      "heading_hi": "**वैश्विक राजनीति में पर्यावरण की चिंताएं**",
+      "points_en": [
+        "Environmental degradation is now a serious political issue. Cultivable land is barely expanding, and a substantial portion is losing fertility.",
+        "Water bodies have suffered extensive depletion and pollution, leading to a global scarcity of safe water.",
+        "Rapid decline in the total amount of ozone in the Earth's stratosphere poses a real danger to ecosystems and human health.",
+        "Deforestation and the loss of biodiversity are occurring at an alarming rate due to human activities."
+      ],
+      "points_hi": [
+        "पर्यावरण का क्षरण अब एक गंभीर राजनीतिक मुद्दा है। कृषि योग्य भूमि का विस्तार बमुश्किल हो रहा है, और इसका एक बड़ा हिस्सा अपनी उर्वरता खो रहा है।",
+        "जल स्रोतों में भारी कमी और प्रदूषण हुआ है, जिससे सुरक्षित पेयजल की वैश्विक कमी हो गई है।",
+        "पृथ्वी के समताप मंडल (Stratosphere) में ओजोन की कुल मात्रा में तेजी से आ रही गिरावट पारिस्थितिक तंत्र और मानव स्वास्थ्य के लिए एक वास्तविक खतरा है।",
+        "मानवीय गतिविधियों के कारण वनों की कटाई और जैव विविधता का नुकसान खतरनाक दर से हो रहा है।"
+      ]
+    },
+    {
+      "topic_id": "6.2",
+      "heading_en": "**The Earth Summit (Rio Summit) 1992**",
+      "heading_hi": "**पृथ्वी सम्मेलन (रियो सम्मेलन) 1992**",
+      "points_en": [
+        "The United Nations Conference on Environment and Development (UNCED) was held in Rio de Janeiro, Brazil, in 1992.",
+        "It brought environmental issues to the center stage of global politics, attended by 170 states and thousands of NGOs.",
+        "It produced conventions dealing with climate change, biodiversity, and forestry.",
+        "The summit recommended a list of sustainable development practices known as 'Agenda 21'."
+      ],
+      "points_hi": [
+        "1992 में ब्राजील के रियो डी जेनेरियो में पर्यावरण और विकास पर संयुक्त राष्ट्र सम्मेलन (UNCED) आयोजित किया गया था।",
+        "इसने पर्यावरण के मुद्दों को वैश्विक राजनीति के केंद्र में ला दिया, जिसमें 170 देशों और हजारों एनजीओ (NGOs) ने भाग लिया।",
+        "इस सम्मेलन में जलवायु परिवर्तन, जैव विविधता और वानिकी से निपटने के लिए संधियाँ (Conventions) तैयार की गईं।",
+        "सम्मेलन ने सतत विकास (Sustainable Development) के तौर-तरीकों की एक सूची की सिफारिश की जिसे 'एजेंडा 21' (Agenda 21) के रूप में जाना जाता है।"
+      ]
+    },
+    {
+      "topic_id": "6.3",
+      "heading_en": "**The Global Commons**",
+      "heading_hi": "**साझी संपदा (ग्लोबल कॉमन्स)**",
+      "points_en": [
+        "Global Commons are areas or regions of the world located outside the sovereign jurisdiction of any one state, requiring common governance.",
+        "Examples include the Earth's atmosphere, Antarctica, the ocean floor, and outer space.",
+        "Agreements like the Antarctic Treaty (1959), Montreal Protocol (1987), and Antarctic Environmental Protocol (1991) were signed to protect them.",
+        "Protecting these areas is difficult because getting all countries to agree on a common approach is extremely challenging."
+      ],
+      "points_hi": [
+        "ग्लोबल कॉमन्स दुनिया के वे क्षेत्र या हिस्से हैं जो किसी भी एक देश के संप्रभु अधिकार क्षेत्र से बाहर स्थित हैं, और जिनके लिए साझा शासन की आवश्यकता होती है।",
+        "इसके उदाहरणों में पृथ्वी का वायुमंडल, अंटार्कटिका, समुद्र की सतह (Ocean floor) और बाहरी अंतरिक्ष शामिल हैं।",
+        "इनकी रक्षा के लिए अंटार्कटिक संधि (1959), मॉन्ट्रियल प्रोटोकॉल (1987) और अंटार्कटिक पर्यावरण प्रोटोकॉल (1991) जैसे समझौतों पर हस्ताक्षर किए गए।",
+        "इन क्षेत्रों की रक्षा करना कठिन है क्योंकि सभी देशों को एक साझा दृष्टिकोण पर सहमत करना बेहद चुनौतीपूर्ण काम है।"
+      ]
+    },
+    {
+      "topic_id": "6.4",
+      "heading_en": "**Common but Differentiated Responsibilities**",
+      "heading_hi": "**साझी परंतु अलग-अलग जिम्मेदारियाँ**",
+      "points_en": [
+        "The 'Global North' (developed countries) wants everyone to be equally responsible for ecological conservation.",
+        "The 'Global South' (developing countries) argues that developed countries caused most of the pollution during their industrialization.",
+        "Therefore, developed nations should take more responsibility for cleaning up the environment and fixing the damage.",
+        "The 1997 Kyoto Protocol is based on this principle, setting binding targets for greenhouse gas emissions primarily for developed nations, exempting developing nations like India and China."
+      ],
+      "points_hi": [
+        "'ग्लोबल नॉर्थ' (विकसित देश) चाहता है कि पारिस्थितिक संरक्षण के लिए सभी देश समान रूप से जिम्मेदार हों।",
+        "'ग्लोबल साउथ' (विकासशील देशों) का तर्क है कि औद्योगिकीकरण के दौरान विकसित देशों ने ही सबसे अधिक प्रदूषण फैलाया है।",
+        "इसलिए, विकसित देशों को पर्यावरण को साफ करने और नुकसान की भरपाई करने के लिए अधिक जिम्मेदारी लेनी चाहिए।",
+        "1997 का क्योटो प्रोटोकॉल इसी सिद्धांत पर आधारित है, जो मुख्य रूप से विकसित देशों के लिए ग्रीनहाउस गैस उत्सर्जन के बाध्यकारी लक्ष्य निर्धारित करता है, जबकि भारत और चीन जैसे विकासशील देशों को इससे छूट देता है।"
+      ]
+    },
+    {
+      "topic_id": "6.5",
+      "heading_en": "**India's Stand on Environmental Issues**",
+      "heading_hi": "**पर्यावरण के मुद्दों पर भारत का रुख**",
+      "points_en": [
+        "India signed and ratified the 1997 Kyoto Protocol in August 2002.",
+        "India strongly points out that the per capita emission rates of developing countries are a tiny fraction of those in the developed world.",
+        "Therefore, developing nations should not be subjected to the same binding emission targets.",
+        "Domestically, India has implemented the National Auto-fuel Policy, the Energy Conservation Act (2001), and the Electricity Act (2003) to promote clean energy."
+      ],
+      "points_hi": [
+        "भारत ने अगस्त 2002 में 1997 के क्योटो प्रोटोकॉल पर हस्ताक्षर किए और उसका अनुमोदन (Ratify) किया।",
+        "भारत दृढ़ता से इस बात पर जोर देता है कि विकासशील देशों की प्रति व्यक्ति उत्सर्जन दरें विकसित दुनिया की तुलना में नाममात्र की हैं।",
+        "इसलिए, विकासशील देशों को समान बाध्यकारी उत्सर्जन लक्ष्यों के अधीन नहीं किया जाना चाहिए।",
+        "घरेलू स्तर पर, भारत ने स्वच्छ ऊर्जा को बढ़ावा देने के लिए राष्ट्रीय ऑटो-ईंधन नीति, ऊर्जा संरक्षण अधिनियम (2001) और बिजली अधिनियम (2003) लागू किए हैं।"
+      ]
+    },
+    {
+      "topic_id": "6.6",
+      "heading_en": "**Resource Geopolitics: Oil and Water**",
+      "heading_hi": "**संसाधन भू-राजनीति: तेल और पानी**",
+      "points_en": [
+        "Resource geopolitics is all about 'who gets what, when, where and how' regarding global resources.",
+        "Oil (Petroleum) is the most vital resource in global strategy. Control over oil fields in the Gulf region has led to major political and military conflicts.",
+        "Water is another crucial resource. Disputes over sharing river waters have frequently led to military conflicts between neighboring countries.",
+        "For example, violent clashes have occurred between Israel, Syria, and Jordan over the sharing of the Jordan River waters."
+      ],
+      "points_hi": [
+        "संसाधन भू-राजनीति पूरी तरह से इस बारे में है कि वैश्विक संसाधनों के मामले में 'किसे, क्या, कब, कहाँ और कैसे मिलता है'।",
+        "तेल (पेट्रोलियम) वैश्विक रणनीति में सबसे महत्वपूर्ण संसाधन है। खाड़ी क्षेत्र में तेल क्षेत्रों पर नियंत्रण के कारण बड़े राजनीतिक और सैन्य संघर्ष हुए हैं।",
+        "पानी एक अन्य महत्वपूर्ण संसाधन है। नदी के पानी के बंटवारे को लेकर होने वाले विवादों ने अक्सर पड़ोसी देशों के बीच सैन्य संघर्षों को जन्म दिया है।",
+        "उदाहरण के लिए, जॉर्डन नदी के पानी के बंटवारे को लेकर इज़राइल, सीरिया और जॉर्डन के बीच हिंसक झड़पें हुई हैं।"
+      ]
+    },
+    {
+      "topic_id": "6.7",
+      "heading_en": "**Indigenous Peoples and their Rights**",
+      "heading_hi": "**मूलवासी (Indigenous Peoples) और उनके अधिकार**",
+      "points_en": [
+        "Indigenous people are descendants of those who inhabited a territory when people of a different culture or ethnic origin arrived and overcame them.",
+        "Globally, there are roughly 300 million indigenous people who live entirely according to their own traditions and cultures.",
+        "Their major demand is the right to live freely while protecting their distinct identity and exercising control over their land and natural resources.",
+        "In India, indigenous people are generally referred to as 'Adivasis' or Scheduled Tribes, and they struggle against displacement caused by development projects."
+      ],
+      "points_hi": [
+        "मूलवासी उन लोगों के वंशज हैं जो किसी क्षेत्र में उस समय निवास करते थे जब एक अलग संस्कृति या जातीय मूल के लोग वहां आए और उन पर विजय प्राप्त की।",
+        "विश्व स्तर पर, लगभग 30 करोड़ मूलवासी हैं जो पूरी तरह से अपनी परंपराओं और संस्कृतियों के अनुसार रहते हैं।",
+        "उनकी प्रमुख मांग अपनी विशिष्ट पहचान की रक्षा करते हुए स्वतंत्र रूप से जीने और अपनी भूमि तथा प्राकृतिक संसाधनों पर नियंत्रण रखने का अधिकार है।",
+        "भारत में, मूलवासियों को आम तौर पर 'आदिवासी' (Adivasis) या अनुसूचित जनजाति कहा जाता है, और वे विकास परियोजनाओं के कारण होने वाले विस्थापन के खिलाफ संघर्ष करते हैं।"
+      ]
+    }
+  ]
+}

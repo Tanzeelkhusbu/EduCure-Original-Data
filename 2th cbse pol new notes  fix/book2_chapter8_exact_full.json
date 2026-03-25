@@ -1,0 +1,96 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 8,
+  "chapter_title_en": "Recent Developments in Indian Politics",
+  "chapter_title_hi": "भारतीय राजनीति: नए बदलाव",
+  "topics": [
+    {
+      "topic_id": "8.1",
+      "heading_en": "**Context of the 1990s: Five Major Developments**",
+      "heading_hi": "**1990 के दशक का संदर्भ: पाँच प्रमुख बदलाव**",
+      "points_en": [
+        "First: The defeat of the Congress party in the 1989 elections marked the end of the 'Congress system'.",
+        "Second: The Mandal issue rose with implementation of Mandal Commission (1990).",
+        "Third: The New Economic Policy (1991) changed India's economy.",
+        "Fourth: Babri Masjid demolition (1992) triggered debates on secularism.",
+        "Fifth: Rajiv Gandhi assassination (1991) changed Congress leadership."
+      ],
+      "points_hi": [
+        "1989 में कांग्रेस की हार।",
+        "मंडल आयोग लागू हुआ।",
+        "1991 आर्थिक नीति।",
+        "1992 बाबरी मस्जिद विवाद।",
+        "राजीव गांधी की हत्या।"
+      ]
+    },
+    {
+      "topic_id": "8.2",
+      "heading_en": "**Era of Coalitions**",
+      "heading_hi": "**गठबंधन का युग**",
+      "points_en": [
+        "No single party got majority after 1989.",
+        "Coalition governments started.",
+        "National Front and United Front emerged.",
+        "Later NDA and UPA became stable alliances."
+      ],
+      "points_hi": [
+        "1989 के बाद बहुमत नहीं मिला।",
+        "गठबंधन सरकार शुरू हुई।",
+        "नेशनल फ्रंट और यूनाइटेड फ्रंट आए।",
+        "NDA और UPA बने।"
+      ]
+    },
+    {
+      "topic_id": "8.3",
+      "heading_en": "**Mandal Commission and OBC Politics**",
+      "heading_hi": "**मंडल आयोग और ओबीसी राजनीति**",
+      "points_en": [
+        "Mandal Commission studied OBC conditions.",
+        "27% reservation recommended.",
+        "V.P. Singh implemented it in 1990.",
+        "Led to protests and rise of BSP."
+      ],
+      "points_hi": [
+        "मंडल आयोग बना।",
+        "27% आरक्षण दिया गया।",
+        "वी.पी. सिंह ने लागू किया।",
+        "BSP का उदय हुआ।"
+      ]
+    },
+    {
+      "topic_id": "8.4",
+      "heading_en": "**Communalism, Secularism, and Democracy**",
+      "heading_hi": "**सांप्रदायिकता, धर्मनिरपेक्षता और लोकतंत्र**",
+      "points_en": [
+        "Shah Bano case created debate.",
+        "Ayodhya issue intensified politics.",
+        "Babri Masjid demolition caused riots.",
+        "2002 Gujarat violence raised concerns."
+      ],
+      "points_hi": [
+        "शाहबानो केस विवाद।",
+        "अयोध्या मुद्दा।",
+        "बाबरी मस्जिद ढहाई गई।",
+        "2002 गुजरात हिंसा।"
+      ]
+    },
+    {
+      "topic_id": "8.5",
+      "heading_en": "**Emergence of a New Consensus**",
+      "heading_hi": "**एक नई सहमति का उदय**",
+      "points_en": [
+        "Agreement on economic policies.",
+        "Acceptance of OBC reservations.",
+        "Role of regional parties accepted.",
+        "Pragmatic alliances increased."
+      ],
+      "points_hi": [
+        "आर्थिक नीतियों पर सहमति।",
+        "OBC आरक्षण स्वीकार।",
+        "क्षेत्रीय दलों की भूमिका।",
+        "व्यावहारिक गठबंधन।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 7,
+  "chapter_title_en": "Globalisation",
+  "chapter_title_hi": "वैश्वीकरण",
+  "topics": [
+    {
+      "topic_id": "7.1",
+      "heading_en": "**What is Globalisation?**",
+      "heading_hi": "**वैश्वीकरण क्या है?**",
+      "points_en": [
+        "Globalisation simply means the 'flow' of various things across different parts of the world.",
+        "These flows include the flow of ideas, capital (money), commodities (goods), and people moving in search of better livelihoods.",
+        "It is a multidimensional concept having political, economic, and cultural manifestations.",
+        "It implies increasing interconnectedness and interdependence of the world."
+      ],
+      "points_hi": [
+        "वैश्वीकरण का सीधा सा अर्थ है दुनिया के विभिन्न हिस्सों में विभिन्न चीजों का 'प्रवाह' (Flow)।",
+        "इन प्रवाहों में विचारों, पूंजी (पैसा), वस्तुओं (सामान) और बेहतर आजीविका की तलाश में लोगों का एक स्थान से दूसरे स्थान पर जाना शामिल है।",
+        "यह एक बहुआयामी अवधारणा है जिसके राजनीतिक, आर्थिक और सांस्कृतिक प्रभाव होते हैं।",
+        "इसका तात्पर्य दुनिया के देशों के बीच बढ़ती हुई परस्पर निर्भरता और जुड़ाव से है।"
+      ]
+    },
+    {
+      "topic_id": "7.2",
+      "heading_en": "**Causes of Globalisation**",
+      "heading_hi": "**वैश्वीकरण के कारण**",
+      "points_en": [
+        "While globalisation is not caused by any single factor, technology remains a critical and primary element.",
+        "The invention of the telegraph, telephone, microchip, and the internet has revolutionized communication.",
+        "Advanced transportation has made the movement of goods and people faster and cheaper across borders.",
+        "The ability of ideas, capital, and commodities to move globally is made possible by these technological advancements."
+      ],
+      "points_hi": [
+        "यद्यपि वैश्वीकरण किसी एक कारक के कारण नहीं होता है, फिर भी प्रौद्योगिकी इसका एक महत्वपूर्ण तत्व है।",
+        "टेलीग्राफ, टेलीफोन, माइक्रोचिप और इंटरनेट ने संचार में क्रांति ला दी है।",
+        "उन्नत परिवहन ने सीमाओं के पार आवाजाही को तेज और सस्ता बना दिया है।",
+        "इन तकनीकी प्रगतियों के कारण वैश्विक प्रवाह संभव हुआ है।"
+      ]
+    },
+    {
+      "topic_id": "7.3",
+      "heading_en": "**Political Consequences**",
+      "heading_hi": "**राजनीतिक परिणाम**",
+      "points_en": [
+        "Globalisation results in a minimalist state.",
+        "Welfare state declines.",
+        "MNCs gain power.",
+        "State capacity also increases due to technology."
+      ],
+      "points_hi": [
+        "राज्य की भूमिका कम होती है।",
+        "कल्याणकारी राज्य घटता है।",
+        "MNCs की शक्ति बढ़ती है।",
+        "तकनीक से राज्य मजबूत भी होता है।"
+      ]
+    },
+    {
+      "topic_id": "7.4",
+      "heading_en": "**Economic Consequences**",
+      "heading_hi": "**आर्थिक परिणाम**",
+      "points_en": [
+        "Increased economic flows.",
+        "IMF and WTO influence policies.",
+        "Trade and FDI increase.",
+        "Inequality increases."
+      ],
+      "points_hi": [
+        "आर्थिक प्रवाह बढ़ता है।",
+        "IMF और WTO प्रभाव डालते हैं।",
+        "व्यापार बढ़ता है।",
+        "असमानता बढ़ती है।"
+      ]
+    },
+    {
+      "topic_id": "7.5",
+      "heading_en": "**Cultural Consequences**",
+      "heading_hi": "**सांस्कृतिक परिणाम**",
+      "points_en": [
+        "Cultural homogenization.",
+        "Western dominance.",
+        "Cultural mixing.",
+        "New hybrid cultures."
+      ],
+      "points_hi": [
+        "सांस्कृतिक समानता।",
+        "पश्चिमी प्रभाव।",
+        "संस्कृति का मिश्रण।",
+        "नई संस्कृतियाँ बनती हैं।"
+      ]
+    },
+    {
+      "topic_id": "7.6",
+      "heading_en": "**India and Globalisation**",
+      "heading_hi": "**भारत और वैश्वीकरण**",
+      "points_en": [
+        "India adopted reforms in 1991.",
+        "Opened economy.",
+        "Growth increased.",
+        "Benefits not equally shared."
+      ],
+      "points_hi": [
+        "1991 में सुधार हुए।",
+        "अर्थव्यवस्था खुली।",
+        "विकास बढ़ा।",
+        "लाभ समान नहीं।"
+      ]
+    },
+    {
+      "topic_id": "7.7",
+      "heading_en": "**Resistance to Globalisation**",
+      "heading_hi": "**वैश्वीकरण का प्रतिरोध**",
+      "points_en": [
+        "Left-wing criticism.",
+        "Right-wing concerns.",
+        "WSF opposes.",
+        "Protests in India."
+      ],
+      "points_hi": [
+        "वामपंथी विरोध।",
+        "दक्षिणपंथी चिंता।",
+        "WSF विरोध करता है।",
+        "भारत में विरोध।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 4,
+  "chapter_title_en": "India's External Relations",
+  "chapter_title_hi": "भारत के विदेश संबंध",
+  "topics": [
+    {
+      "topic_id": "4.1",
+      "heading_en": "**The International Context and Nehru's Role**",
+      "heading_hi": "**अंतर्राष्ट्रीय संदर्भ और नेहरू की भूमिका**",
+      "points_en": [
+        "India gained independence in a very challenging international context, just after the devastation of the Second World War.",
+        "The world was polarized into two massive camps led by the US and the USSR (the Cold War era).",
+        "Prime Minister Jawaharlal Nehru was also the Foreign Minister.",
+        "The three major objectives of Nehru's foreign policy were preserving sovereignty, protecting territorial integrity, and promoting economic development."
+      ],
+      "points_hi": [
+        "भारत ने द्वितीय विश्व युद्ध के बाद स्वतंत्रता प्राप्त की।",
+        "दुनिया दो गुटों में बंटी थी।",
+        "नेहरू विदेश मंत्री भी थे।",
+        "उनकी विदेश नीति के तीन उद्देश्य थे।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 5,
+  "chapter_title_en": "Security in the Contemporary World",
+  "chapter_title_hi": "समकालीन विश्व में सुरक्षा",
+  "topics": [
+    {
+      "topic_id": "5.1",
+      "heading_en": "**What is Security?**",
+      "heading_hi": "**सुरक्षा क्या है?**",
+      "points_en": [
+        "At its most basic level, security means freedom from threats.",
+        "However, every type of threat is not a security threat. Only those things that threaten the 'core values' of a country or individuals are considered security issues.",
+        "If a threat could endanger the very existence or independence of a country, it is a matter of security.",
+        "Security studies are broadly classified into two categories: Traditional and Non-Traditional notions."
+      ],
+      "points_hi": [
+        "अपने सबसे बुनियादी स्तर पर, सुरक्षा का अर्थ है खतरों से आज़ादी।",
+        "हालाँकि, हर प्रकार का खतरा सुरक्षा के लिए खतरा नहीं होता। केवल वे चीजें जो किसी देश या व्यक्तियों के 'मूल मूल्यों' (Core Values) को खतरे में डालती हैं, सुरक्षा के मुद्दे माने जाते हैं।",
+        "यदि कोई खतरा किसी देश के अस्तित्व या स्वतंत्रता को खतरे में डाल सकता है, तो यह सुरक्षा का मामला है।",
+        "सुरक्षा अध्ययनों को मोटे तौर पर दो श्रेणियों में बांटा गया है: पारंपरिक (Traditional) और गैर-पारंपरिक (Non-Traditional) धारणाएं।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 6,
+  "chapter_title_en": "The Crisis of Democratic Order",
+  "chapter_title_hi": "लोकतांत्रिक व्यवस्था का संकट",
+  "topics": [
+    {
+      "topic_id": "6.1",
+      "heading_en": "**Background: Economic Context and Student Movements**",
+      "heading_hi": "**पृष्ठभूमि: आर्थिक संदर्भ और छात्र आंदोलन**",
+      "points_en": [
+        "In the early 1970s, India faced a severe economic crisis due to the Bangladesh war, millions of refugees, and the US stopping all aid.",
+        "Prices of essential commodities increased rapidly (inflation), leading to high unemployment and immense hardship for the common people.",
+        "In January 1974, students in Gujarat started an agitation against rising prices, food scarcity, and corruption, leading to the imposition of President's rule.",
+        "In March 1974, students in Bihar launched a similar movement and invited Jayaprakash Narayan to lead it.",
+        "JP demanded the dismissal of the Congress government and called for a 'Total Revolution'."
+      ],
+      "points_hi": [
+        "1970 के दशक में भारत को आर्थिक संकट का सामना करना पड़ा।",
+        "कीमतें बढ़ीं और बेरोजगारी बढ़ी।",
+        "गुजरात में छात्र आंदोलन हुआ।",
+        "बिहार में आंदोलन हुआ और जेपी को बुलाया गया।",
+        "जेपी ने 'संपूर्ण क्रांति' का आह्वान किया।"
+      ]
+    }
+  ]
+}

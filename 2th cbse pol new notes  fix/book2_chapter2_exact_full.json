@@ -1,0 +1,94 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 2,
+  "chapter_title_en": "Era of One-Party Dominance",
+  "chapter_title_hi": "एक दल के प्रभुत्व का दौर",
+  "topics": [
+    {
+      "topic_id": "2.1",
+      "heading_en": "**Challenge of Building Democracy**",
+      "heading_hi": "**लोकतंत्र स्थापित करने की चुनौती**",
+      "points_en": [
+        "India's leaders decided to take the difficult path of democracy despite the country's poverty, illiteracy, and diversity.",
+        "The Election Commission of India was set up in January 1950, with Sukumar Sen as the first Chief Election Commissioner.",
+        "Holding the first general election was a massive task: preparing electoral rolls, training over 3 lakh polling staff, and managing 17 crore eligible voters.",
+        "When the elections were finally held in 1951-52, the massive participation of voters proved that democracy could be practiced anywhere in the world."
+      ],
+      "points_hi": [
+        "भारत के नेताओं ने देश की गरीबी, निरक्षरता और विविधता के बावजूद लोकतंत्र का कठिन रास्ता चुनने का फैसला किया।",
+        "जनवरी 1950 में भारत के चुनाव आयोग की स्थापना की गई, जिसके पहले मुख्य चुनाव आयुक्त सुकुमार सेन थे।",
+        "पहला आम चुनाव कराना एक विशाल कार्य था: मतदाता सूची तैयार करना, 3 लाख से अधिक मतदान कर्मियों को प्रशिक्षित करना और 17 करोड़ पात्र मतदाताओं का प्रबंधन करना।",
+        "जब 1951-52 में चुनाव हुए, तो मतदाताओं की भारी भागीदारी ने यह साबित कर दिया कि लोकतंत्र दुनिया में कहीं भी सफलतापूर्वक अपनाया जा सकता है।"
+      ]
+    },
+    {
+      "topic_id": "2.2",
+      "heading_en": "**Congress Dominance in the First Three General Elections**",
+      "heading_hi": "**पहले तीन आम चुनावों में कांग्रेस का प्रभुत्व**",
+      "points_en": [
+        "The Indian National Congress won a massive victory in the first general election (1952), winning 364 of the 489 Lok Sabha seats.",
+        "The Communist Party of India (CPI) came next but with only 16 seats.",
+        "This dominance continued in the second (1957) and third (1962) general elections, with Congress maintaining a three-fourths majority.",
+        "Jawaharlal Nehru became the first Prime Minister, leading the party to these massive electoral victories."
+      ],
+      "points_hi": [
+        "भारतीय राष्ट्रीय कांग्रेस ने पहले आम चुनाव (1952) में भारी जीत हासिल की, और लोकसभा की 489 में से 364 सीटें जीतीं।",
+        "भारतीय कम्युनिस्ट पार्टी (CPI) दूसरे स्थान पर रही, लेकिन उसे केवल 16 सीटें ही मिलीं।",
+        "यह प्रभुत्व दूसरे (1957) और तीसरे (1962) आम चुनावों में भी जारी रहा, जहाँ कांग्रेस ने तीन-चौथाई बहुमत बनाए रखा।",
+        "जवाहरलाल नेहरू पहले प्रधानमंत्री बने और उन्होंने ही पार्टी को इन विशाल चुनावी जीतों की ओर नेतृत्व प्रदान किया।"
+      ]
+    },
+    {
+      "topic_id": "2.3",
+      "heading_en": "**Nature of Congress Dominance**",
+      "heading_hi": "**कांग्रेस के प्रभुत्व की प्रकृति**",
+      "points_en": [
+        "India's one-party dominance was fundamentally different from one-party systems in countries like China, Cuba, or Syria.",
+        "It was also different from Mexico's PRI.",
+        "In India, Congress dominated under democratic conditions.",
+        "The legacy of the freedom struggle gave Congress advantage."
+      ],
+      "points_hi": [
+        "भारत में एक पार्टी का प्रभुत्व अन्य देशों से अलग था।",
+        "यह मैक्सिको से भी अलग था।",
+        "भारत में लोकतंत्र के तहत प्रभुत्व था।",
+        "स्वतंत्रता संग्राम की विरासत से लाभ मिला।"
+      ]
+    },
+    {
+      "topic_id": "2.4",
+      "heading_en": "**Congress as a Social and Ideological Coalition**",
+      "heading_hi": "**एक सामाजिक और वैचारिक गठबंधन के रूप में कांग्रेस**",
+      "points_en": [
+        "Congress was a rainbow coalition.",
+        "Included diverse groups.",
+        "Internal conflicts managed.",
+        "This was its strength."
+      ],
+      "points_hi": [
+        "कांग्रेस एक इंद्रधनुषी गठबंधन थी।",
+        "विविध समूह शामिल थे।",
+        "आंतरिक विवाद संभाले गए।",
+        "यही ताकत थी।"
+      ]
+    },
+    {
+      "topic_id": "2.5",
+      "heading_en": "**Emergence of Opposition Parties**",
+      "heading_hi": "**विपक्षी दलों का उद्भव**",
+      "points_en": [
+        "Opposition existed.",
+        "Socialist Party criticized Congress.",
+        "Jana Sangh formed.",
+        "Swatantra Party formed."
+      ],
+      "points_hi": [
+        "विपक्ष मौजूद था।",
+        "सोशलिस्ट पार्टी ने आलोचना की।",
+        "जनसंघ बना।",
+        "स्वतंत्र पार्टी बनी।"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 5,
+  "chapter_title_en": "Challenges to and Restoration of the Congress System",
+  "chapter_title_hi": "कांग्रेस प्रणाली: चुनौतियाँ और पुनर्स्थापना",
+  "topics": [
+    {
+      "topic_id": "5.1",
+      "heading_en": "**Political Succession after Nehru**",
+      "heading_hi": "**नेहरू के बाद राजनीतिक उत्तराधिकार**",
+      "points_en": [
+        "Jawaharlal Nehru passed away in May 1964, raising the question of leadership.",
+        "K. Kamaraj managed transition and Lal Bahadur Shastri became PM.",
+        "Shastri faced food crisis and 1965 war and gave slogan 'Jai Jawan Jai Kisan'.",
+        "After his death, Indira Gandhi defeated Morarji Desai."
+      ],
+      "points_hi": [
+        "नेहरू की मृत्यु 1964 में हुई।",
+        "कामराज ने नेतृत्व संभाला।",
+        "शास्त्री ने 'जय जवान जय किसान' दिया।",
+        "इंदिरा गांधी ने देसाई को हराया।"
+      ]
+    }
+  ]
+}

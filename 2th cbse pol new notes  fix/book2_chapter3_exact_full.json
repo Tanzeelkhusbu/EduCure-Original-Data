@@ -1,0 +1,24 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 3,
+  "chapter_title_en": "Politics of Planned Development",
+  "chapter_title_hi": "नियोजित विकास की राजनीति",
+  "topics": [
+    {
+      "topic_id": "3.1",
+      "heading_en": "**Ideas of Development**",
+      "heading_hi": "**विकास की धारणाएँ**",
+      "points_en": [
+        "In the early years after independence, 'development' was widely understood as becoming more modern and industrialized.",
+        "There was a consensus that government must play a key role in planning and eradicating poverty.",
+        "Development involved adopting capitalism, liberalism, and rationality."
+      ],
+      "points_hi": [
+        "आजादी के बाद विकास का अर्थ आधुनिक और औद्योगिक बनना था।",
+        "सरकार की भूमिका महत्वपूर्ण मानी गई।",
+        "पूंजीवाद और उदारवाद अपनाना शामिल था।"
+      ]
+    }
+  ]
+}

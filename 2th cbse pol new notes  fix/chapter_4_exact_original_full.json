@@ -1,0 +1,134 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 4,
+  "chapter_title_en": "International Organizations",
+  "chapter_title_hi": "अंतर्राष्ट्रीय संगठन",
+  "topics": [
+    {
+      "topic_id": "4.1",
+      "heading_en": "**Why do we need International Organizations?**",
+      "heading_hi": "**हमें अंतर्राष्ट्रीय संगठनों की आवश्यकता क्यों है?**",
+      "points_en": [
+        "International organizations are not super-states with authority over their members, but they are created by and respond to states.",
+        "They help with matters of war and peace, and assist countries in cooperating to make better living conditions.",
+        "They are essential for dealing with 'transnational' issues that no single country can solve alone, like global warming or pandemics.",
+        "They provide a mechanism, rules, and a common platform for nations to resolve their differences peacefully without going to war."
+      ],
+      "points_hi": [
+        "अंतर्राष्ट्रीय संगठन कोई 'सुपर-स्टेट' (महा-राज्य) नहीं हैं जिनका अपने सदस्यों पर अधिकार हो, बल्कि इनका निर्माण राज्यों द्वारा होता है और ये उनके प्रति जवाबदेह होते हैं।",
+        "ये युद्ध और शांति के मामलों में मदद करते हैं, और जीवन स्तर को बेहतर बनाने के लिए देशों को सहयोग करने में सहायता करते हैं।",
+        "ग्लोबल वार्मिंग या महामारी जैसे 'अंतर्राष्ट्रीय' (Transnational) मुद्दों से निपटने के लिए ये आवश्यक हैं जिन्हें कोई एक देश अकेले नहीं सुलझा सकता।",
+        "ये राष्ट्रों को युद्ध में जाए बिना शांतिपूर्ण ढंग से अपने मतभेद सुलझाने के लिए एक तंत्र, नियम और साझा मंच प्रदान करते हैं।"
+      ]
+    },
+    {
+      "topic_id": "4.2",
+      "heading_en": "**Evolution of the United Nations (UN)**",
+      "heading_hi": "**संयुक्त राष्ट्र (UN) का विकास**",
+      "points_en": [
+        "The League of Nations was formed after the First World War but failed to prevent the Second World War.",
+        "The United Nations (UN) was founded as its successor on 24 October 1945, right after WWII, by 51 founding states.",
+        "Its primary objective is to prevent international conflict and to facilitate cooperation among states.",
+        "It aims to stop conflicts from escalating into war and, if war breaks out, to limit the extent of hostilities."
+      ],
+      "points_hi": [
+        "प्रथम विश्व युद्ध के बाद 'लीग ऑफ नेशंस' (League of Nations) का गठन हुआ था, लेकिन यह द्वितीय विश्व युद्ध को रोकने में विफल रहा।",
+        "इसके उत्तराधिकारी के रूप में 24 अक्टूबर 1945 को (द्वितीय विश्व युद्ध के ठीक बाद) 51 संस्थापक देशों द्वारा संयुक्त राष्ट्र (UN) की स्थापना की गई।",
+        "इसका प्राथमिक उद्देश्य अंतर्राष्ट्रीय संघर्ष को रोकना और राज्यों के बीच सहयोग को सुविधाजनक बनाना है।",
+        "इसका लक्ष्य विवादों को युद्ध में बदलने से रोकना है और यदि युद्ध छिड़ जाए तो शत्रुता के दायरे को सीमित करना है।"
+      ]
+    },
+    {
+      "topic_id": "4.3",
+      "heading_en": "**Structure of the UN Security Council**",
+      "heading_hi": "**संयुक्त राष्ट्र सुरक्षा परिषद की संरचना**",
+      "points_en": [
+        "The UN Security Council (UNSC) is the most powerful organ, consisting of 15 members.",
+        "There are 5 permanent members: United States, Russia, United Kingdom, France, and China.",
+        "The permanent members were selected because they were the victors of WWII and the greatest powers at that time.",
+        "Permanent members have the 'Veto Power'—a negative vote that can stall any UNSC resolution.",
+        "There are 10 non-permanent members who are elected by the General Assembly for two-year terms and do not have veto power."
+      ],
+      "points_hi": [
+        "संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) सबसे शक्तिशाली अंग है, जिसमें 15 सदस्य होते हैं।",
+        "इसमें 5 स्थायी सदस्य हैं: संयुक्त राज्य अमेरिका, रूस, यूनाइटेड किंगडम, फ्रांस और चीन।",
+        "इन स्थायी सदस्यों को इसलिए चुना गया था क्योंकि वे द्वितीय विश्व युद्ध के विजेता थे और उस समय की सबसे बड़ी शक्तियां थे।",
+        "स्थायी सदस्यों के पास 'वीटो पावर' (Veto Power) यानी 'निषेधाधिकार' होता है—एक नकारात्मक वोट जो सुरक्षा परिषद के किसी भी प्रस्ताव को रोक सकता है।",
+        "इसमें 10 अस्थायी सदस्य होते हैं जिन्हें आम सभा द्वारा दो साल के कार्यकाल के लिए चुना जाता है और उनके पास वीटो पावर नहीं होती।"
+      ]
+    },
+    {
+      "topic_id": "4.4",
+      "heading_en": "**Reform of the UN after the Cold War**",
+      "heading_hi": "**शीतयुद्ध के बाद संयुक्त राष्ट्र में सुधार**",
+      "points_en": [
+        "After the Cold War, demands arose for two types of reforms: restructuring of the organization and a review of the issues it handles.",
+        "The main demand is to increase the number of both permanent and non-permanent members in the Security Council.",
+        "Countries from Asia, Africa, and South America argue that they should be better represented in the UNSC to reflect contemporary global realities.",
+        "Some countries want the UN to play a greater role in peace and security, while others want it to focus on development, health, and education."
+      ],
+      "points_hi": [
+        "शीतयुद्ध के बाद, दो प्रकार के सुधारों की मांग उठी: संगठन की संरचना में बदलाव और इसके अधिकार क्षेत्र में आने वाले मुद्दों की समीक्षा।",
+        "मुख्य मांग सुरक्षा परिषद में स्थायी और अस्थायी दोनों सदस्यों की संख्या बढ़ाने की है।",
+        "एशिया, अफ्रीका और दक्षिण अमेरिका के देशों का तर्क है कि समकालीन वैश्विक वास्तविकताओं को दर्शाने के लिए UNSC में उनका बेहतर प्रतिनिधित्व होना चाहिए।",
+        "कुछ देश चाहते हैं कि संयुक्त राष्ट्र शांति और सुरक्षा में बड़ी भूमिका निभाए, जबकि अन्य चाहते हैं कि यह विकास, स्वास्थ्य और शिक्षा पर ध्यान केंद्रित करे।"
+      ]
+    },
+    {
+      "topic_id": "4.5",
+      "heading_en": "**India and the UN Reforms**",
+      "heading_hi": "**भारत और संयुक्त राष्ट्र के सुधार**",
+      "points_en": [
+        "India strongly supports the restructuring of the UN and believes that an expanded Security Council will enjoy greater support in the world.",
+        "India argues that it rightfuly deserves a permanent seat in the UNSC based on several criteria.",
+        "India is the world's most populous country, the largest democracy, and has a rapidly growing major economy.",
+        "India has also been a major and consistent contributor to UN Peacekeeping efforts across the globe."
+      ],
+      "points_hi": [
+        "भारत संयुक्त राष्ट्र के पुनर्गठन का दृढ़ता से समर्थन करता है और उसका मानना है कि विस्तारित सुरक्षा परिषद को दुनिया में अधिक समर्थन मिलेगा।",
+        "भारत का तर्क है कि वह कई मानदंडों के आधार पर UNSC में स्थायी सीट का हकदार है।",
+        "भारत दुनिया का सबसे अधिक आबादी वाला देश है, सबसे बड़ा लोकतंत्र है, और एक तेजी से बढ़ती हुई प्रमुख अर्थव्यवस्था है।",
+        "भारत दुनिया भर में संयुक्त राष्ट्र के शांति अभियानों (UN Peacekeeping) में एक प्रमुख और निरंतर योगदानकर्ता भी रहा है।"
+      ]
+    },
+    {
+      "topic_id": "4.6",
+      "heading_en": "**The UN in a Unipolar World**",
+      "heading_hi": "**एक-ध्रुवीय विश्व में संयुक्त राष्ट्र**",
+      "points_en": [
+        "After the collapse of the USSR, the US became the only superpower, making it difficult for the UN to balance US dominance.",
+        "The US is the single largest contributor to the UN's budget, giving it unmatched financial power and influence.",
+        "The UN is physically located within US territory (New York), and many UN bureaucrats are US citizens.",
+        "With its veto power, the US can stop any move that it finds annoying or damaging to its interests.",
+        "Despite this, the UN is the only forum where US attitudes and policies can be checked and modified to some extent by the rest of the world."
+      ],
+      "points_hi": [
+        "सोवियत संघ के पतन के बाद, अमेरिका एकमात्र महाशक्ति बन गया, जिससे संयुक्त राष्ट्र के लिए अमेरिकी प्रभुत्व को संतुलित करना मुश्किल हो गया।",
+        "अमेरिका संयुक्त राष्ट्र के बजट में सबसे बड़ा योगदानकर्ता है, जो उसे बेजोड़ वित्तीय शक्ति और प्रभाव देता है।",
+        "संयुक्त राष्ट्र भौतिक रूप से अमेरिकी क्षेत्र (न्यूयॉर्क) में स्थित है, और संयुक्त राष्ट्र के कई नौकरशाह अमेरिकी नागरिक हैं।",
+        "अपनी वीटो पावर के साथ, अमेरिका किसी भी ऐसे कदम को रोक सकता है जो उसे अपने हितों के लिए कष्टदायक या हानिकारक लगता है।",
+        "इसके बावजूद, संयुक्त राष्ट्र एकमात्र ऐसा मंच है जहां बाकी दुनिया द्वारा कुछ हद तक अमेरिकी दृष्टिकोण और नीतियों पर लगाम लगाई जा सकती है और उनमें बदलाव किया जा सकता है।"
+      ]
+    },
+    {
+      "topic_id": "4.7",
+      "heading_en": "**Other Important International Organizations**",
+      "heading_hi": "**अन्य महत्वपूर्ण अंतर्राष्ट्रीय संगठन**",
+      "points_en": [
+        "IMF (International Monetary Fund): Oversees global financial institutions and regulations. It provides loans to countries facing economic crises.",
+        "World Bank: Works for human development, agriculture, infrastructure, and environmental protection, mostly in developing countries.",
+        "WTO (World Trade Organization): Sets the rules for global trade. It succeeded the General Agreement on Tariffs and Trade (GATT).",
+        "Amnesty International: An NGO that campaigns for the protection of human rights all over the world.",
+        "Human Rights Watch: Another international NGO involved in research and advocacy on human rights, drawing global media attention to abuses."
+      ],
+      "points_hi": [
+        "IMF (अंतर्राष्ट्रीय मुद्रा कोष): वैश्विक वित्तीय संस्थानों और नियमों की देखरेख करता है। यह आर्थिक संकट का सामना कर रहे देशों को ऋण प्रदान करता है।",
+        "विश्व बैंक (World Bank): ज्यादातर विकासशील देशों में मानव विकास, कृषि, बुनियादी ढांचे और पर्यावरण संरक्षण के लिए काम करता है।",
+        "WTO (विश्व व्यापार संगठन): वैश्विक व्यापार के लिए नियम निर्धारित करता है। इसने 'गैट' (GATT) की जगह ली थी।",
+        "एमनेस्टी इंटरनेशनल (Amnesty International): एक स्वयंसेवी संगठन (NGO) जो दुनिया भर में मानवाधिकारों की रक्षा के लिए अभियान चलाता है।",
+        "ह्यूमन राइट्स वॉच (Human Rights Watch): मानवाधिकारों पर शोध और वकालत करने वाला एक अन्य अंतर्राष्ट्रीय NGO, जो दुनिया भर के मीडिया का ध्यान मानवाधिकार उल्लंघनों की ओर खींचता है।"
+      ]
+    }
+  ]
+}

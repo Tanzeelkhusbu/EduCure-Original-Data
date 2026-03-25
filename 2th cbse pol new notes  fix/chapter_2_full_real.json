@@ -1,0 +1,28 @@
+{
+  "book_name_en": "Contemporary World Politics",
+  "book_name_hi": "समकालीन विश्व राजनीति",
+  "chapter_number": 2,
+  "chapter_title_en": "Contemporary Centres of Power",
+  "chapter_title_hi": "सत्ता के समकालीन केंद्र",
+  "topics": [
+    {
+      "topic_id": "2.1",
+      "heading_en": "**The European Union (EU)**",
+      "heading_hi": "**यूरोपीय संघ (EU)**",
+      "points_en": [
+        "After the collapse of the Soviet bloc, the European Union was established in 1992 through the Maastricht Treaty.",
+        "Over time, the EU has evolved from merely an economic union into a highly political organization that acts like a nation-state.",
+        "It has its own flag, anthem, founding date, and a common currency known as the 'Euro'.",
+        "The EU exercises massive economic, political, diplomatic, and military influence on a global scale.",
+        "However, member states sometimes have their own distinct foreign and defense policies that are often at odds with each other."
+      ],
+      "points_hi": [
+        "सोवियत गुट के पतन के बाद, 1992 में मास्ट्रिच संधि के माध्यम से यूरोपीय संघ की स्थापना की गई थी।",
+        "समय के साथ, यूरोपीय संघ केवल एक आर्थिक संघ से विकसित होकर एक अत्यधिक राजनीतिक संगठन बन गया है।",
+        "इसका अपना झंडा, राष्ट्रगान और 'यूरो' नामक एक साझी मुद्रा है।",
+        "यह वैश्विक स्तर पर विशाल प्रभाव रखता है।",
+        "हालाँकि, सदस्य देशों की अपनी अलग नीतियां भी होती हैं।"
+      ]
+    }
+  ]
+}

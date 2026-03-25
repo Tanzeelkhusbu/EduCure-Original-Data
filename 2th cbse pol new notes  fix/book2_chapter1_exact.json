@@ -1,0 +1,62 @@
+{
+  "book_name_en": "Politics in India since Independence",
+  "book_name_hi": "स्वतंत्र भारत में राजनीति",
+  "chapter_number": 1,
+  "chapter_title_en": "Challenges of Nation-Building",
+  "chapter_title_hi": "राष्ट्र-निर्माण की चुनौतियाँ",
+  "topics": [
+    {
+      "topic_id": "1.1",
+      "heading_en": "**The Three Challenges at Independence**",
+      "heading_hi": "**आजादी के समय तीन मुख्य चुनौतियाँ**",
+      "points_en": [
+        "First Challenge: To shape a nation that was united, yet accommodating of the vast diversity in our society.",
+        "Second Challenge: To establish democracy. The Constitution granted fundamental rights and the right to vote to every citizen.",
+        "Third Challenge: To ensure the development and well-being of the entire society and not only of some sections.",
+        "The Constitution laid down the Directive Principles of State Policy to achieve welfare goals and eradicate poverty."
+      ],
+      "points_hi": [
+        "पहली चुनौती: एक ऐसे राष्ट्र को आकार देना जो एकजुट हो, लेकिन हमारे समाज की विशाल विविधता को भी अपने में समेटे हुए हो।",
+        "दूसरी चुनौती: लोकतंत्र की स्थापना करना। संविधान ने प्रत्येक नागरिक को मौलिक अधिकार और मतदान का अधिकार प्रदान किया।",
+        "तीसरी चुनौती: केवल कुछ वर्गों का नहीं, बल्कि संपूर्ण समाज का विकास और भलाई सुनिश्चित करना।",
+        "संविधान ने कल्याणकारी लक्ष्यों को प्राप्त करने और गरीबी मिटाने के लिए 'राज्य के नीति निर्देशक सिद्धांतों' को निर्धारित किया।"
+      ]
+    },
+    {
+      "topic_id": "1.2",
+      "heading_en": "**Partition: Displacement and Rehabilitation**",
+      "heading_hi": "**विभाजन: विस्थापन और पुनर्वास**",
+      "points_en": [
+        "The partition of India was based on the 'Two-Nation Theory' advanced by the Muslim League.",
+        "The drawing of the border led to the largest, most abrupt, and tragic transfer of population in human history.",
+        "Minorities on both sides of the border became easy targets of attack.",
+        "People were forced to abandon their homes and move across borders facing brutality.",
+        "Women suffered terribly; many were abducted and forced into marriage."
+      ],
+      "points_hi": [
+        "भारत का विभाजन 'द्वि-राष्ट्र सिद्धांत' पर आधारित था।",
+        "सीमा रेखा खींचने से मानव इतिहास का सबसे बड़ा स्थानांतरण हुआ।",
+        "दोनों ओर अल्पसंख्यक हमलों का शिकार बने।",
+        "लोगों को घर छोड़ने पड़े और हिंसा झेलनी पड़ी।",
+        "महिलाओं को अत्यधिक कष्ट सहना पड़ा।"
+      ]
+    },
+    {
+      "topic_id": "1.3",
+      "heading_en": "**Integration of Princely States**",
+      "heading_hi": "**रजवाड़ों का विलय**",
+      "points_en": [
+        "There were 565 princely states.",
+        "Sardar Patel played key role.",
+        "Instrument of Accession was signed.",
+        "States joined India."
+      ],
+      "points_hi": [
+        "565 रियासतें थीं।",
+        "सरदार पटेल की भूमिका महत्वपूर्ण थी।",
+        "विलय पत्र पर हस्ताक्षर हुए।",
+        "रियासतें भारत में शामिल हुईं।"
+      ]
+    }
+  ]
+}
